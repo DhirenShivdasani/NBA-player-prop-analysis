@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>NBA Prop Bet Analyzer</title>
+</head>
+<body>
+    <a href="{{ url_for('over_under_stats') }}">Over/Under Stats</a>
+
+    <h1>NBA Prop Bet Analyzer</h1>
+    <form method="post">
+        <label for="player_name">Player Name:</label>
+        <input type="text" id="player_name" name="player_name" required><br><br>
+
+        <label for="team">Team:</label>
+        <select id="team" name="team" onchange="updateTeamPlayers()">
+            <option value="">Select Team</option>
+            {% for team in teams %}
+                <option value="{{ team }}">{{ team }}</option>
+            {% endfor %}
+        </select><br><br>
+
+        <label for="opponent">Opponent:</label>
+        <select id="opponent" name="opponent">
+            <option value="">Select Opponent</option>
+            {% for team in teams %}
+                <option value="{{ team }}">{{ team }}</option>
+            {% endfor %}
+        </select><br><br>
+
+        <label for="value">Value:</label>
+        <input type="number" id="value" name="value" step="0.1" required><br><br>
+
+        <label for="prop_type">Prop Type:</label>
+        <select id="prop_type" name="prop_type">
+            <option value="PTS">Points</option>
+            <option value="AST">Assists</option>
+            <option value="REB">Rebounds</option>
+            <option value="PTS+REBS+ASTS">PTS+REBS+ASTS</option>
+            <option value="PTS+REBS">PTS+REBS</option>
+            <option value="PTS+ASTS">PTS+ASTS</option>
+            <option value="REBS+ASTS">REBS+ASTS</option>
+            <!-- Add other prop types as needed -->
+        </select><br><br>
+
+        <div id="injured_players_container">
+            <!-- Injured players checkboxes will be inserted here -->
+        </div>
+
+        <input type="submit" value="Analyze Prop Bet">
+    </form>
+
+    <script>
+        var teamRosters = {{ team_rosters | tojson | safe }};
+    
+        function updateTeamPlayers() {
+            var team = document.getElementById('team').value;
+            var container = document.getElementById('injured_players_container');
+            container.innerHTML = ''; // Clear current checkboxes
+    
+            if (teamRosters[team]) {
+                teamRosters[team].forEach(function(player) {
+                    container.innerHTML += '<input type="checkbox" id="injured_' + player + '" name="injured_players" value="' + player + '"> <label for="injured_' + player + '">' + player + '</label><br>';
+                });
+            }
+        }
+    </script>
+</body>
+</html>

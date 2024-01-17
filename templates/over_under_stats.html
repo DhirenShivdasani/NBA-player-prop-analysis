@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Over/Under Stats</title>
+</head>
+<body>
+    <h1>Over/Under Stats</h1>
+    <form action="/over_under_stats" method="get">
+        <label for="sort_by">Sort By:</label>
+        <select name="sort_by" id="sort_by" onchange="this.form.submit()">
+            <option value="Under %" {% if sort_by == 'Under %' %}selected{% endif %}>Under %</option>
+            <option value="Over %" {% if sort_by == 'Over %' %}selected{% endif %}>Over %</option>
+            <option value="Exact %" {% if sort_by == 'Exact %' %}selected{% endif %}>Exact %</option>
+        </select>
+    </form>
+    <table>
+        <tr>
+            <th>Player Name</th>
+            <th>Value</th>
+            <th>Prop</th>
+            <th>Under %</th>
+            <th>Over %</th>
+            <th>Exact %
+        </tr>
+        {% for index, row in stats.iterrows() %}
+        <tr>
+            <td>{{ row['PlayerName'] }}</td>
+            <td>{{ row['Value'] }}</td>
+            <td>{{ row['Prop'] }}</td>
+            <td>{{ row['Under %'] | round(2) }}</td>
+            <td>{{ row['Over %'] | round(2) }}</td>
+            <td>{{ row['Exact %'] | round(2) }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+</html>

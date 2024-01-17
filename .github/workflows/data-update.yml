@@ -18,11 +18,11 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt  # If you have a requirements.txt
     - name: Run data.py
-      run: python /Users/dhirenshivdasani/Desktop/code/NBA Prediction Model/data.py
+      run: python data.py
     - name: Run stats.py
-      run: python /Users/dhirenshivdasani/Desktop/code/NBA Prediction Model/stats.py
+      run: python stats.py
     - name: Run injury_stats.py
-      run: python /Users/dhirenshivdasani/Desktop/code/NBA Prediction Model/injury_stats.py
+      run: python injury_stats.py
     - name: Commit and push if there are changes
       run: |
         git config --global user.email "dhiren3102@gmail.com"

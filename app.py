@@ -257,7 +257,7 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
             'Average Performance (Home)': f"{average_home.round(0)}",
             'Average Performance (Away)': f"{average_away.round(0)}",
             'Average Performance Against Opponent': average_against_opponent,
-            'Average Performance With Teammates Out': int(player_performance_with_teammates_out),
+            'Average Performance With Teammates Out': player_performance_with_teammates_out,
             'Impact on Performance': impact_on_performance
         },
         'Comparative Analysis': {

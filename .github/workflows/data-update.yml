@@ -27,5 +27,5 @@ jobs:
         git config --global user.email "dhiren3102@gmail.com"
         git config --global user.name "DhirenShivdasani"
         git add .
-        git commit -m "Automated data update" || exit 0  # The 'exit 0' is important to not fail if there's nothing to commit
-        git push
+        git commit -m "Automated data update" || exit 0
+        git push --force https://${{ secrets.NBA_Player_Prop }}@github.com/DhirenShivdasani/NBA-player-prop-analysis.git

@@ -25,7 +25,7 @@ options.add_argument(f"user-data-dir={profile_path}")
 # Enable automatic location permission
 # options.add_experimental_option("prefs", {"profile.default_content_setting_values.geolocation": 1})
 
-driver = uc.Chrome(options =options)
+driver = uc.Chrome()
 
 
 time.sleep(3)

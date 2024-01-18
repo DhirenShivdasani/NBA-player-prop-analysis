@@ -315,15 +315,15 @@ if view == "Player Prop Analysis":
         default=[player for player in out_players if player in team_players]
     )
 
-
-    opponent = st.sidebar.selectbox("Select Opponent", options=sorted(dataframe['Team'].unique()))
+    teams = sorted(dataframe['Team'].dropna().unique())
+    opponent = st.sidebar.selectbox("Select Opponent", options=teams)
 
     # Select the filter type for performance analysis
     filter_type = st.sidebar.radio("Filter Type", ["Overall Last 10 Games", "Games Against Specific Opponent"])
 
     st.title(f"Analysis Results for {player_name}")
     # Filter the dataframe for the selected player and prop
-    dataframe['GAME_DATE'] = pd.to_datetime(dataframe['GAME_DATE'])
+    dataframe['GAME_DATE'] = pd.to_datetime(dataframe['GAME_DATE'], format='mixed',  errors='coerce')
     player_data = dataframe[(dataframe['PlayerName'] == player_name) & (dataframe['Prop']== selected_prop)]
 
 
@@ -377,9 +377,11 @@ if view == "Player Prop Analysis":
         ax.set_title(f"{player_name}'s Last 10 Games {selected_prop} Performance")
         ax.legend()
 
-        # Adding the prop line as a horizontal line
         for bar, performance in zip(bars, performances):
-            ax.text(bar.get_x() + bar.get_width() / 2, bar.get_height(), round(performance, 1), ha='center', color='black', weight='bold')
+            bar_height = bar.get_height()
+            if np.isfinite(bar_height):
+                ax.text(bar.get_x() + bar.get_width() / 2, bar_height, 
+                        round(performance, 1), ha='center', color='black', weight='bold')
 
         st.pyplot(fig)
 

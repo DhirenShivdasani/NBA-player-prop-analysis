@@ -181,7 +181,12 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
             player_stat = pd.read_csv('player_stats/points_data.csv')
             PER= pd.read_csv('player_stats/nba-efficiency_data.csv')
             TSP = pd.read_csv('player_stats/ts-percentage_data.csv')
-            player_stat_given = player_stat[player_stat['Player'] == player_name]['Rank'].values[0]
+            
+            if player_name in player_stat['Player'].values:
+                player_stat_given = player_stat[player_stat['Player'] == player_name]['Rank'].values[0]
+            else:
+                print(f'{player_name} rank not available')
+                player_stat_given = None
 
 
             if player_name in PER['Player'].values:

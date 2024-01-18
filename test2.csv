@@ -1,249 +1,41 @@
 ,Name,Team,Value,Prop
-0,Brandon Ingram,NOP - F,18.0,Points
-1,LaMelo Ball,CHA - G,24.0,Points
-2,CJ McCollum,NOP - G,17.5,Points
-3,Miles Bridges,CHA - F,20.0,Points
-4,Nick Richards,CHA - C,8.0,Points
-5,Jonas Valanciunas,NOP - C,13.5,Points
-6,Terry Rozier,CHA - G,21.5,Points
-7,Zion Williamson,NOP - F,22.5,Points
-8,Larry Nance Jr.,NOP - F,6.5,Points
-9,Trey Murphy III,NOP - G-F,11.5,Points
-10,Anthony Davis,LAL - F-C,27.5,Points
-11,Luka Doncic,DAL - F-G,32.5,Points
-12,LeBron James,LAL - F,25.5,Points
-13,Derrick Jones Jr.,DAL - F,9.5,Points
-14,Taurean Prince,LAL - F,9.5,Points
-15,Dereck Lively II,DAL - C,7.5,Points
-16,Austin Reaves,LAL - G,15.5,Points
-17,Kyrie Irving,DAL - G,28.5,Points
-18,D'Angelo Russell,LAL - G,16.5,Points
-19,Rui Hachimura,LAL - F,10.5,Points
-20,Anfernee Simons,POR - G,24.5,Points
-21,Mikal Bridges,BKN - F,24.5,Points
-22,Nicolas Claxton,BKN - C,13.0,Points
-23,Spencer Dinwiddie,BKN - G,11.0,Points
-24,Dorian Finney-Smith,BKN - F,8.5,Points
-25,Cameron Johnson,BKN - F,13.5,Points
-26,Cam Thomas,BKN - G,18.5,Points
-27,Royce O'Neale,BKN - F,6.0,Points
-28,Dennis Smith Jr.,BKN - G,8.0,Points
-29,LaMelo Ball,CHA - G,5.5,Rebounds
-30,CJ McCollum,NOP - G,4.0,Rebounds
-31,Miles Bridges,CHA - F,6.0,Rebounds
-32,Nick Richards,CHA - C,7.5,Rebounds
-33,Jonas Valanciunas,NOP - C,9.0,Rebounds
-34,Zion Williamson,NOP - F,6.0,Rebounds
-35,Larry Nance Jr.,NOP - F,5.5,Rebounds
-36,Anthony Davis,LAL - F-C,13.0,Rebounds
-37,Luka Doncic,DAL - F-G,8.0,Rebounds
-38,LeBron James,LAL - F,7.5,Rebounds
-39,Derrick Jones Jr.,DAL - F,4.0,Rebounds
-40,Dereck Lively II,DAL - C,7.5,Rebounds
-41,Austin Reaves,LAL - G,4.0,Rebounds
-42,Kyrie Irving,DAL - G,5.0,Rebounds
-43,Anfernee Simons,POR - G,3.5,Rebounds
-44,Mikal Bridges,BKN - F,5.5,Rebounds
-45,Nicolas Claxton,BKN - C,12.5,Rebounds
-46,Dorian Finney-Smith,BKN - F,4.5,Rebounds
-47,Cameron Johnson,BKN - F,4.5,Rebounds
-48,Royce O'Neale,BKN - F,4.0,Rebounds
-49,Dennis Smith Jr.,BKN - G,3.5,Rebounds
-50,Brandon Ingram,NOP - F,28.5,Pts+Rebs+Asts
-51,LaMelo Ball,CHA - G,36.5,Pts+Rebs+Asts
-52,CJ McCollum,NOP - G,26.5,Pts+Rebs+Asts
-53,Miles Bridges,CHA - F,29.5,Pts+Rebs+Asts
-54,Nick Richards,CHA - C,16.0,Pts+Rebs+Asts
-55,Jonas Valanciunas,NOP - C,25.0,Pts+Rebs+Asts
-56,Terry Rozier,CHA - G,30.5,Pts+Rebs+Asts
-57,Zion Williamson,NOP - F,33.5,Pts+Rebs+Asts
-58,Trey Murphy III,NOP - G-F,17.5,Pts+Rebs+Asts
-59,Anthony Davis,LAL - F-C,44.5,Pts+Rebs+Asts
-60,Luka Doncic,DAL - F-G,50.5,Pts+Rebs+Asts
-61,LeBron James,LAL - F,41.5,Pts+Rebs+Asts
-62,Derrick Jones Jr.,DAL - F,14.5,Pts+Rebs+Asts
-63,Dereck Lively II,DAL - C,16.5,Pts+Rebs+Asts
-64,Austin Reaves,LAL - G,25.0,Pts+Rebs+Asts
-65,Kyrie Irving,DAL - G,38.5,Pts+Rebs+Asts
-66,D'Angelo Russell,LAL - G,26.0,Pts+Rebs+Asts
-67,Anfernee Simons,POR - G,34.5,Pts+Rebs+Asts
-68,Mikal Bridges,BKN - F,34.0,Pts+Rebs+Asts
-69,Nicolas Claxton,BKN - C,27.5,Pts+Rebs+Asts
-70,Spencer Dinwiddie,BKN - G,19.5,Pts+Rebs+Asts
-71,Cameron Johnson,BKN - F,21.5,Pts+Rebs+Asts
-72,Cam Thomas,BKN - G,23.5,Pts+Rebs+Asts
-73,Dennis Smith Jr.,BKN - G,17.5,Pts+Rebs+Asts
-74,Brandon Ingram,NOP - F,5.5,Assists
-75,LaMelo Ball,CHA - G,7.0,Assists
-76,Miles Bridges,CHA - F,2.5,Assists
-77,Zion Williamson,NOP - F,4.5,Assists
-78,Anthony Davis,LAL - F-C,3.5,Assists
-79,Luka Doncic,DAL - F-G,9.0,Assists
-80,LeBron James,LAL - F,8.0,Assists
-81,Austin Reaves,LAL - G,5.5,Assists
-82,Kyrie Irving,DAL - G,5.0,Assists
-83,D'Angelo Russell,LAL - G,6.0,Assists
-84,Anfernee Simons,POR - G,5.0,Assists
-85,Spencer Dinwiddie,BKN - G,5.0,Assists
-86,Dennis Smith Jr.,BKN - G,5.0,Assists
-87,Brandon Ingram,NOP - F,34.5,Fantasy Score
-88,LaMelo Ball,CHA - G,41.5,Fantasy Score
-89,CJ McCollum,NOP - G,32.0,Fantasy Score
-90,Miles Bridges,CHA - F,32.5,Fantasy Score
-91,Herbert Jones,NOP - G-F,19.5,Fantasy Score
-92,Nick Richards,CHA - C,22.0,Fantasy Score
-93,Jonas Valanciunas,NOP - C,29.0,Fantasy Score
-94,Terry Rozier,CHA - G,33.0,Fantasy Score
-95,Zion Williamson,NOP - F,37.0,Fantasy Score
-96,Anthony Davis,LAL - F-C,55.5,Fantasy Score
-97,Luka Doncic,DAL - F-G,57.5,Fantasy Score
-98,LeBron James,LAL - F,49.0,Fantasy Score
-99,Mikal Bridges,BKN - F,38.0,Fantasy Score
-100,Nicolas Claxton,BKN - C,39.0,Fantasy Score
-101,Spencer Dinwiddie,BKN - G,24.5,Fantasy Score
-102,Dorian Finney-Smith,BKN - F,19.5,Fantasy Score
-103,Cameron Johnson,BKN - F,24.5,Fantasy Score
-104,Jonas Valanciunas,NOP - C,7.0,Defensive Rebounds
-105,Anthony Davis,LAL - F-C,9.5,Defensive Rebounds
-106,Brandon Ingram,NOP - F,0.5,Offensive Rebounds
-107,CJ McCollum,NOP - G,0.5,Offensive Rebounds
-108,Jonas Valanciunas,NOP - C,2.5,Offensive Rebounds
-109,Zion Williamson,NOP - F,1.5,Offensive Rebounds
-110,Luka Doncic,DAL - F-G,0.5,Offensive Rebounds
-111,Nicolas Claxton,BKN - C,3.5,Offensive Rebounds
-112,LaMelo Ball,CHA - G,9.0,3-PT Attempted
-113,CJ McCollum,NOP - G,8.0,3-PT Attempted
-114,Miles Bridges,CHA - F,6.5,3-PT Attempted
-115,Terry Rozier,CHA - G,8.0,3-PT Attempted
-116,Luka Doncic,DAL - F-G,10.5,3-PT Attempted
-117,LeBron James,LAL - F,5.0,3-PT Attempted
-118,Mikal Bridges,BKN - F,6.0,3-PT Attempted
-119,Cameron Johnson,BKN - F,6.5,3-PT Attempted
-120,Brandon Ingram + LaMelo Ball,NOP/CHA - F,42.5,Points (Combo)
-121,LeBron James + Kyrie Irving,LAL/DAL - F/G,55.5,Points (Combo)
-122,Anthony Davis + Luka Doncic,LAL/DAL - C/G,60.5,Points (Combo)
-123,Anfernee Simons + Mikal Bridges,POR/BKN - G/F,49.5,Points (Combo)
-124,CJ McCollum + LaMelo Ball,NOP/CHA - G,11.5,Assists (Combo)
-125,LeBron James + Luka Doncic,LAL/DAL - F/G,17.0,Assists (Combo)
-126,Jonas Valanciunas + Nick Richards,NOP/CHA - C,16.5,Rebounds (Combo)
-127,Anthony Davis + Luka Doncic,LAL/DAL - C/G,21.5,Rebounds (Combo)
-128,CJ McCollum + LaMelo Ball,NOP/CHA - G,6.5,3-PT Made (Combo)
-129,LeBron James + Luka Doncic,LAL/DAL - F/G,5.5,3-PT Made (Combo)
-130,Anfernee Simons + Spencer Dinwiddie,POR/BKN - G,5.0,3-PT Made (Combo)
-131,Brandon Ingram,NOP - F,3.5,Free Throws Made
-132,LaMelo Ball,CHA - G,3.0,Free Throws Made
-133,Miles Bridges,CHA - F,2.5,Free Throws Made
-134,Terry Rozier,CHA - G,3.0,Free Throws Made
-135,Zion Williamson,NOP - F,4.5,Free Throws Made
-136,Anthony Davis,LAL - F-C,6.0,Free Throws Made
-137,Luka Doncic,DAL - F-G,6.5,Free Throws Made
-138,LeBron James,LAL - F,4.5,Free Throws Made
-139,Mikal Bridges,BKN - F,4.5,Free Throws Made
-140,Nicolas Claxton,BKN - C,1.5,Free Throws Made
-141,Spencer Dinwiddie,BKN - G,2.5,Free Throws Made
-142,Brandon Ingram,NOP - F,13.5,FG Attempted
-143,LaMelo Ball,CHA - G,19.0,FG Attempted
-144,CJ McCollum,NOP - G,15.0,FG Attempted
-145,Miles Bridges,CHA - F,16.0,FG Attempted
-146,Terry Rozier,CHA - G,17.0,FG Attempted
-147,Zion Williamson,NOP - F,14.0,FG Attempted
-148,Anthony Davis,LAL - F-C,18.0,FG Attempted
-149,Luka Doncic,DAL - F-G,23.5,FG Attempted
-150,LeBron James,LAL - F,18.5,FG Attempted
-151,Mikal Bridges,BKN - F,19.0,FG Attempted
-152,Brandon Ingram,NOP - F,32.5,Minutes Played
-153,Brandon Ingram,NOP - F,22.5,Pts+Rebs
-154,LaMelo Ball,CHA - G,29.5,Pts+Rebs
-155,CJ McCollum,NOP - G,22.5,Pts+Rebs
-156,Miles Bridges,CHA - F,26.5,Pts+Rebs
-157,Herbert Jones,NOP - G-F,12.0,Pts+Rebs
-158,Terry Rozier,CHA - G,24.5,Pts+Rebs
-159,Zion Williamson,NOP - F,28.5,Pts+Rebs
-160,Anthony Davis,LAL - F-C,40.5,Pts+Rebs
-161,Luka Doncic,DAL - F-G,40.5,Pts+Rebs
-162,LeBron James,LAL - F,33.5,Pts+Rebs
-163,Taurean Prince,LAL - F,12.5,Pts+Rebs
-164,Dereck Lively II,DAL - C,15.0,Pts+Rebs
-165,Austin Reaves,LAL - G,19.5,Pts+Rebs
-166,Kyrie Irving,DAL - G,33.5,Pts+Rebs
-167,D'Angelo Russell,LAL - G,19.5,Pts+Rebs
-168,Rui Hachimura,LAL - F,13.5,Pts+Rebs
-169,Anfernee Simons,POR - G,28.5,Pts+Rebs
-170,Mikal Bridges,BKN - F,30.5,Pts+Rebs
-171,Nicolas Claxton,BKN - C,26.0,Pts+Rebs
-172,Spencer Dinwiddie,BKN - G,14.5,Pts+Rebs
-173,Dorian Finney-Smith,BKN - F,13.5,Pts+Rebs
-174,Cameron Johnson,BKN - F,18.5,Pts+Rebs
-175,Cam Thomas,BKN - G,21.5,Pts+Rebs
-176,Royce O'Neale,BKN - F,10.5,Pts+Rebs
-177,Dennis Smith Jr.,BKN - G,11.5,Pts+Rebs
-178,Brandon Ingram,NOP - F,0.5,Dunks
-179,Zion Williamson,NOP - F,1.5,Dunks
-180,Anthony Davis,LAL - F-C,2.5,Dunks
-181,Brandon Ingram,NOP - F,24.0,Pts+Asts
-182,LaMelo Ball,CHA - G,31.0,Pts+Asts
-183,CJ McCollum,NOP - G,22.5,Pts+Asts
-184,Miles Bridges,CHA - F,23.0,Pts+Asts
-185,Herbert Jones,NOP - G-F,11.0,Pts+Asts
-186,Jonas Valanciunas,NOP - C,15.5,Pts+Asts
-187,Terry Rozier,CHA - G,27.5,Pts+Asts
-188,Zion Williamson,NOP - F,26.5,Pts+Asts
-189,Trey Murphy III,NOP - G-F,13.5,Pts+Asts
-190,Anthony Davis,LAL - F-C,31.5,Pts+Asts
-191,LeBron James,LAL - F,34.5,Pts+Asts
-192,Taurean Prince,LAL - F,11.5,Pts+Asts
-193,Austin Reaves,LAL - G,21.0,Pts+Asts
-194,Kyrie Irving,DAL - G,33.5,Pts+Asts
-195,D'Angelo Russell,LAL - G,22.5,Pts+Asts
-196,Rui Hachimura,LAL - F,11.5,Pts+Asts
-197,Anfernee Simons,POR - G,30.5,Pts+Asts
-198,Mikal Bridges,BKN - F,27.5,Pts+Asts
-199,Nicolas Claxton,BKN - C,15.5,Pts+Asts
-200,Spencer Dinwiddie,BKN - G,16.5,Pts+Asts
-201,Cameron Johnson,BKN - F,16.5,Pts+Asts
-202,Cam Thomas,BKN - G,20.5,Pts+Asts
-203,Dennis Smith Jr.,BKN - G,13.5,Pts+Asts
-204,Trey Murphy III,NOP - G-F,2.5,3-PT Made
-205,D'Angelo Russell,LAL - G,2.5,3-PT Made
-206,Anfernee Simons,POR - G,3.5,3-PT Made
-207,Spencer Dinwiddie,BKN - G,1.5,3-PT Made
-208,Dorian Finney-Smith,BKN - F,1.5,3-PT Made
-209,Cameron Johnson,BKN - F,2.5,3-PT Made
-210,Cam Thomas,BKN - G,1.5,3-PT Made
-211,Brandon Ingram,NOP - F,0.5,Blocked Shots
-212,Jonas Valanciunas,NOP - C,0.5,Steals
-213,Cam Thomas,BKN - G,0.5,Steals
-214,Brandon Ingram,NOP - F,10.0,Rebs+Asts
-215,LaMelo Ball,CHA - G,13.0,Rebs+Asts
-216,CJ McCollum,NOP - G,8.5,Rebs+Asts
-217,Miles Bridges,CHA - F,9.0,Rebs+Asts
-218,Jonas Valanciunas,NOP - C,11.0,Rebs+Asts
-219,Terry Rozier,CHA - G,8.5,Rebs+Asts
-220,Zion Williamson,NOP - F,10.5,Rebs+Asts
-221,Larry Nance Jr.,NOP - F,7.5,Rebs+Asts
-222,Anthony Davis,LAL - F-C,17.0,Rebs+Asts
-223,Luka Doncic,DAL - F-G,17.5,Rebs+Asts
-224,LeBron James,LAL - F,15.5,Rebs+Asts
-225,Dereck Lively II,DAL - C,8.5,Rebs+Asts
-226,Austin Reaves,LAL - G,9.5,Rebs+Asts
-227,D'Angelo Russell,LAL - G,9.0,Rebs+Asts
-228,Anfernee Simons,POR - G,9.0,Rebs+Asts
-229,Mikal Bridges,BKN - F,9.0,Rebs+Asts
-230,Nicolas Claxton,BKN - C,14.5,Rebs+Asts
-231,Spencer Dinwiddie,BKN - G,8.0,Rebs+Asts
-232,Dennis Smith Jr.,BKN - G,9.0,Rebs+Asts
-233,Brandon Ingram,NOP - F,1.5,Blks+Stls
-234,CJ McCollum,NOP - G,1.5,Blks+Stls
-235,Miles Bridges,CHA - F,1.5,Blks+Stls
-236,Herbert Jones,NOP - G-F,1.5,Blks+Stls
-237,Jonas Valanciunas,NOP - C,1.5,Blks+Stls
-238,Larry Nance Jr.,NOP - F,1.5,Blks+Stls
-239,Mikal Bridges,BKN - F,1.5,Blks+Stls
-240,LaMelo Ball,CHA - G,3.5,Turnovers
-241,CJ McCollum,NOP - G,1.5,Turnovers
-242,Zion Williamson,NOP - F,2.5,Turnovers
-243,Taurean Prince,LAL - F,0.5,Turnovers
-244,Austin Reaves,LAL - G,1.5,Turnovers
-245,Rui Hachimura,LAL - F,0.5,Turnovers
-246,Mikal Bridges,BKN - F,2.5,Turnovers
-247,Cam Thomas,BKN - G,1.5,Turnovers
+0,Chet Holmgren,OKC - C-F,17.5,Points
+1,Collin Sexton,UTA - G,19.5,Points
+2,Jalen Williams,OKC - G-F,19.5,Points
+3,John Collins,UTA - F-C,12.5,Points
+4,Josh Giddey,OKC - G,10.5,Points
+5,Lauri Markkanen,UTA - F-C,24.5,Points
+6,Luguentz Dort,OKC - G,11.5,Points
+7,Shai Gilgeous-Alexander,OKC - G,31.5,Points
+8,De'Aaron Fox,SAC - G,28.5,Points
+9,Domantas Sabonis,SAC - C,21.5,Points
+10,Harrison Barnes,SAC - F,9.5,Points
+11,Keegan Murray,SAC - F,17.5,Points
+12,Kevin Huerter,SAC - G-F,10.5,Points
+13,Domantas Sabonis,SAC - C,12.5,Rebounds
+14,Keegan Murray,SAC - F,5.5,Rebounds
+15,Kevin Huerter,SAC - G-F,3.5,Rebounds
+16,De'Aaron Fox,SAC - G,38.5,Pts+Rebs+Asts
+17,Domantas Sabonis,SAC - C,43.5,Pts+Rebs+Asts
+18,Keegan Murray,SAC - F,25.5,Pts+Rebs+Asts
+19,Kevin Huerter,SAC - G-F,17.5,Pts+Rebs+Asts
+20,De'Aaron Fox,SAC - G,5.5,Assists
+21,Kevin Huerter,SAC - G-F,2.5,Assists
+22,De'Aaron Fox,SAC - G,32.5,Pts+Rebs
+23,Domantas Sabonis,SAC - C,34.5,Pts+Rebs
+24,Harrison Barnes,SAC - F,13.0,Pts+Rebs
+25,Keegan Murray,SAC - F,23.5,Pts+Rebs
+26,Kevin Huerter,SAC - G-F,14.5,Pts+Rebs
+27,De'Aaron Fox,SAC - G,34.5,Pts+Asts
+28,Domantas Sabonis,SAC - C,30.5,Pts+Asts
+29,Harrison Barnes,SAC - F,11.5,Pts+Asts
+30,Keegan Murray,SAC - F,19.5,Pts+Asts
+31,Kevin Huerter,SAC - G-F,13.5,Pts+Asts
+32,De'Aaron Fox,SAC - G,2.5,3-PT Made
+33,Keegan Murray,SAC - F,0.5,Blocked Shots
+34,De'Aaron Fox,SAC - G,1.5,Steals
+35,De'Aaron Fox,SAC - G,9.5,Rebs+Asts
+36,Domantas Sabonis,SAC - C,22.5,Rebs+Asts
+37,Keegan Murray,SAC - F,7.5,Rebs+Asts
+38,Harrison Barnes,SAC - F,0.5,Turnovers
+39,Kevin Huerter,SAC - G-F,0.5,Turnovers

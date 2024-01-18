@@ -28,4 +28,4 @@ jobs:
         git config --global user.name "DhirenShivdasani"
         git add .
         git commit -m "Automated data update" || exit 0
-        git push --force https://${{ secrets.NBA_Player_Prop }}@github.com/DhirenShivdasani/NBA-player-prop-analysis.git
+        git push --force https://${{ secrets.NBA_PLAYER_PROP }}@github.com/DhirenShivdasani/NBA-player-prop-analysis.git

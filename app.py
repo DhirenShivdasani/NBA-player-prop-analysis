@@ -156,8 +156,9 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
             opponent_data = pd.read_csv('team_stats/opponent-total-rebounds-per-game_data.csv')
             opponent_stat_given = opponent_data[opponent_data['Team'] == opponent]['Rank'].values[0]
             player_stat = pd.read_csv('player_stats/rebounds_data.csv')
-            if player_name in player_stat['Player'].values:
-                player_stat_given = player_stat[player_stat['Player'] == player_name]['Rank'].values[0]
+            filtered_player_stats = player_stat[player_stat['Player'] == player_name]['Rank']
+            if not filtered_player_stats.empty:
+                player_stat_given = filtered_player_stats.values[0]
             else:
                 print(f'{player_name} rank not available')
                 player_stat_given = None
@@ -167,8 +168,9 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
             team_data = pd.read_csv('team_stats/assists-per-game_data.csv')
             team_stat_given = team_data[team_data['Team'] == team]['Rank'].values[0]
             player_stat = pd.read_csv('player_stats/assists_data.csv')
-            if player_name in player_stat['Player'].values:
-                player_stat_given = player_stat[player_stat['Player'] == player_name]['Rank'].values[0]
+            filtered_player_stats = player_stat[player_stat['Player'] == player_name]['Rank']
+            if not filtered_player_stats.empty:
+                player_stat_given = filtered_player_stats.values[0]
             else:
                 print(f'{player_name} rank not available')
                 player_stat_given = None
@@ -182,8 +184,9 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
             PER= pd.read_csv('player_stats/nba-efficiency_data.csv')
             TSP = pd.read_csv('player_stats/ts-percentage_data.csv')
             
-            if player_name in player_stat['Player'].values:
-                player_stat_given = player_stat[player_stat['Player'] == player_name]['Rank'].values[0]
+            filtered_player_stats = player_stat[player_stat['Player'] == player_name]['Rank']
+            if not filtered_player_stats.empty:
+                player_stat_given = filtered_player_stats.values[0]
             else:
                 print(f'{player_name} rank not available')
                 player_stat_given = None
@@ -203,8 +206,9 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
             team_stat_given = team_data[team_data['Team'] == team]['Rank'].values[0]
             player_stat = pd.read_csv('player_stats/points-plus-rebounds-plus-assists_data.csv')
 
-            if player_name in player_stat['Player'].values:
-                player_stat_given = player_stat[player_stat['Player'] == player_name]['Rank'].values[0]
+            filtered_player_stats = player_stat[player_stat['Player'] == player_name]['Rank']
+            if not filtered_player_stats.empty:
+                player_stat_given = filtered_player_stats.values[0]
             else:
                 print(f'{player_name} rank not available')
                 player_stat_given = None
@@ -216,8 +220,9 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
             team_stat_given = team_data[team_data['Team'] == team]['Rank'].values[0]
             player_stat = pd.read_csv('player_stats/points-plus-rebounds_data.csv')
 
-            if player_name in player_stat['Player'].values:
-                player_stat_given = player_stat[player_stat['Player'] == player_name]['Rank'].values[0]
+            filtered_player_stats = player_stat[player_stat['Player'] == player_name]['Rank']
+            if not filtered_player_stats.empty:
+                player_stat_given = filtered_player_stats.values[0]
             else:
                 print(f'{player_name} rank not available')
                 player_stat_given = None
@@ -228,8 +233,9 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
             team_stat_given = team_data[team_data['Team'] == team]['Rank'].values[0]
             player_stat = pd.read_csv('player_stats/points-plus-assists_data.csv')
 
-            if player_name in player_stat['Player'].values:
-                player_stat_given = player_stat[player_stat['Player'] == player_name]['Rank'].values[0]
+            filtered_player_stats = player_stat[player_stat['Player'] == player_name]['Rank']
+            if not filtered_player_stats.empty:
+                player_stat_given = filtered_player_stats.values[0]
             else:
                 print(f'{player_name} rank not available')
                 player_stat_given = None
@@ -241,8 +247,9 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
             team_stat_given = team_data[team_data['Team'] == team]['Rank'].values[0]
             player_stat = pd.read_csv('player_stats/rebounds-plus-assist_data.csv')
 
-            if player_name in player_stat['Player'].values:
-                player_stat_given = player_stat[player_stat['Player'] == player_name]['Rank'].values[0]
+            filtered_player_stats = player_stat[player_stat['Player'] == player_name]['Rank']
+            if not filtered_player_stats.empty:
+                player_stat_given = filtered_player_stats.values[0]
             else:
                 print(f'{player_name} rank not available')
                 player_stat_given = None

@@ -18,27 +18,41 @@ chrome_options.add_argument("--disable-notifications")
 chrome_options.add_experimental_option("prefs", {
     "profile.default_content_setting_values.geolocation": 1, # 1:Allow, 2:Block
 })
-chrome_options.add_argument("--headless")
+# chrome_options.add_argument("--headless")
 
 chrome_options.page_load_strategy = 'eager'  # Waits for the DOMContentLoaded event
 driver = uc.Chrome(options=chrome_options)
-time.sleep(3)
+time.sleep(10)
 
 driver.get("https://app.prizepicks.com/")
 time.sleep(5)
 
-driver.find_element(By.XPATH, "/html/body/div[3]/div[3]/div/div/div[3]/button").click()
-
+wait = WebDriverWait(driver, 15)  # Wait for up to 10 seconds
+try:
+    element = wait.until(EC.element_to_be_clickable((By.XPATH, '/html/body/div[3]/div[3]/div/div/div[3]/button')))
+    element.click()
+except Exception as e:
+    print(f"Error: {e}")
 
 
 
 ppPlayers = []
 
 # CHANGE MLB TO ANY SPORT THAT YOU LIKE!!!!! IF THE SPORT IS NOT OFFERED ON PP THEN THE PROGRAM WILL RUN AN ERROR AND EXIT.
-driver.find_element(By.XPATH, "//div[@class='name'][normalize-space()='NBA']").click()
+
+wait = WebDriverWait(driver, 10)  # Wait for up to 10 seconds
+try:
+    element = wait.until(EC.element_to_be_clickable((By.XPATH, "//div[@class='name'][normalize-space()='NBA']")))
+    element.click()
+except Exception as e:
+    print(f"Error: {e}")
+
 time.sleep(5)
 
-stat_container = WebDriverWait(driver, 1).until(EC.visibility_of_element_located((By.CLASS_NAME, "stat-container")))
+
+stat_container = WebDriverWait(driver, 2).until(
+    EC.visibility_of_element_located((By.CLASS_NAME, "stat-container"))
+)
 
 categories = driver.find_element(By.CSS_SELECTOR, ".stat-container").text.split('\n')
 

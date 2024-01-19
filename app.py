@@ -386,10 +386,14 @@ day_to_day_players = injury_data[injury_data['Details'].str.contains('Day To Day
 
 players_with_props = dataframe[dataframe['Prop'].isin(["Points", "Rebounds", 'Assists', "Pts+Rebs+Asts", "Pts+Rebs", "Pts+Asts", "Rebs+Asts"])]
 
+
+
+# Initialize session state
+if 'reset_injured_players' not in st.session_state:
+    st.session_state['reset_injured_players'] = False
 # Sidebar for user inputs
 st.sidebar.header("User Input Parameters")
 view = st.sidebar.radio("View", ["Player Prop Analysis", "Over/Under Stats"])
-
 
 
 if view == "Player Prop Analysis":
@@ -398,11 +402,26 @@ if view == "Player Prop Analysis":
     team = dataframe[dataframe['PlayerName'] == player_name]['Team'].values[0].upper()
     value = st.sidebar.number_input("Value", min_value=0.0, format="%.1f")
     team_players = sorted(dataframe[dataframe['Team'] == team]['PlayerName'].unique())
+    default_injured_players = [player for player in out_players if player in team_players]
+
+    multiselect_key = 'injured_players'
+
+    # Check if we need to reset the multiselect
+    if st.session_state['reset_injured_players']:
+        st.session_state[multiselect_key] = default_injured_players
+        st.session_state['reset_injured_players'] = False
+
     injured_players = st.sidebar.multiselect(
         "Select Injured Players", 
         options=[f"{player}{' - DTD' if player in day_to_day_players else ''}" for player in team_players],
-        default=[player for player in out_players if player in team_players]
+        default=st.session_state.get(multiselect_key, default_injured_players),
+        key=multiselect_key
     )
+
+    if st.sidebar.button('Reset Injured Players'):
+        st.session_state['reset_injured_players'] = True
+        # Rerun the script to reset the multiselect
+        st.experimental_rerun()
 
     teams = sorted(dataframe['Team'].dropna().unique())
     opponent = st.sidebar.selectbox("Select Opponent", options=teams)
@@ -417,11 +436,13 @@ if view == "Player Prop Analysis":
     opponent_team = lambda row: row['Away'] if row['Home'] == row['Team'] else row['Home']
     player_data['Opponent_Total'] = player_data.apply(lambda row: get_matchup_total_for_game(dataframe, row['Game_ID'], opponent_team(row)), axis=1)
     player_data['Matchup_Score'] = player_data.apply(lambda row: f"{row['Team_Total']}-{row['Opponent_Total']}", axis=1)
-    player_data.set_index(['GAME_DATE', 'MATCHUP', 'Matchup_Score'], inplace=True)
+    player_data.set_index(['GAME_DATE', 'MATCHUP', 'Matchup_Score', 'MIN'], inplace=True)
 
     # Check if the team or opponent has any injured players
     team_has_injured = has_injured_players(injury_data, team)
     opponent_has_injured = opponent and has_injured_players(injury_data, opponent)
+
+    
 
     # Display expanders for injured players
     show_injured_players_expander(injury_data, team)
@@ -438,7 +459,7 @@ if view == "Player Prop Analysis":
 
     if filter_type == "Overall Last 10 Games":
         with st.spinner('Loading data...'):
-            time.sleep(1)
+            time.sleep(.5)
         st.title(f"Analysis Results for {player_name}")
 
 
@@ -508,7 +529,7 @@ if view == "Player Prop Analysis":
             # Display last 10 games
             with st.spinner('Loading data...'):
                 time.sleep(1)
-            player_data_filtered = player_data_filtered.sort_values('GAME_DATE').head(10)
+            player_data_filtered = player_data_filtered.head(10)
             st.subheader("Game Logs with Absent/Injured Players")
             st.write('Note: You can add or remove injured players from the multiselect tool')
             st.dataframe(player_data_filtered.drop(['Value', 'Prop', 'Game_ID','PlayerName', 'VIDEO_AVAILABLE', 'SEASON_ID', 'Player_ID', 'OREB', 'DREB', 'Team', 'Home', 'Away', 'STL', 'BLK', 'TOV', 'Team_Total', 'Opponent_Total', 'PTS_Team_Total'], axis =1).head(10))

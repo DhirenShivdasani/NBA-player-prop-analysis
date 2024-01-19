@@ -4,14 +4,21 @@ import pandas as pd
 import time
 import requests
 
-def fetch_player_gamelog(player_id, season, retries=3, delay=5):
+def fetch_player_gamelog(player_id, season, retries=3, delay=5, timeout=60):
+    session = requests.Session()  # Use a session for connection pooling
     for attempt in range(retries):
         try:
-            return playergamelog.PlayerGameLog(player_id=player_id, season=season)
+            response = session.get(
+                url=playergamelog.PlayerGameLog(player_id=player_id, season=season).get_url(),
+                timeout=timeout
+            )
+            response.raise_for_status()  # This will raise an error for HTTP error codes
+            return playergamelog.PlayerGameLog(data=response.json())
         except requests.exceptions.RequestException as e:
             print(f"Request failed: {e}, retrying ({attempt + 1}/{retries})...")
             time.sleep(delay)
     raise RuntimeError(f"Failed to fetch data after {retries} retries.")
+
 
 nba_players = players.get_active_players()
 all_players_gamelog = pd.DataFrame()

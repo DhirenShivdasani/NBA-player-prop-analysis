@@ -12,29 +12,21 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 
 
-options = Options()
-# options.headless = True
-options.add_argument("--no-sandbox")
-options.add_argument("--disable-dev-shm-usage")
+chrome_options = uc.ChromeOptions()
+chrome_options.add_experimental_option("prefs", {"profile.managed_default_content_settings.images": 2})
+chrome_options.add_argument("--disable-notifications")
+chrome_options.add_experimental_option("prefs", {
+    "profile.default_content_setting_values.geolocation": 1, # 1:Allow, 2:Block
+})
+chrome_options.add_argument("--headless")
 
-profile_path = '~/Library/Application Support/Google/Chrome/Default'
-# options.add_experimental_option("prefs", {"profile.default_content_setting_values.geolocation": 1})
-
-options.add_argument(f"user-data-dir={profile_path}")
-
-# Enable automatic location permission
-# options.add_experimental_option("prefs", {"profile.default_content_setting_values.geolocation": 1})
-
-driver = uc.Chrome()
-
-
+chrome_options.page_load_strategy = 'eager'  # Waits for the DOMContentLoaded event
+driver = uc.Chrome(options=chrome_options)
 time.sleep(3)
 
 driver.get("https://app.prizepicks.com/")
-time.sleep(3)
-
-# WebDriverWait(driver, 15).until(EC.presence_of_all_elements_located((By.CLASS_NAME, "close")))
 time.sleep(5)
+
 driver.find_element(By.XPATH, "/html/body/div[3]/div[3]/div/div/div[3]/button").click()
 
 

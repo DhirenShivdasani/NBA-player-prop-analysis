@@ -387,10 +387,6 @@ day_to_day_players = injury_data[injury_data['Details'].str.contains('Day To Day
 players_with_props = dataframe[dataframe['Prop'].isin(["Points", "Rebounds", 'Assists', "Pts+Rebs+Asts", "Pts+Rebs", "Pts+Asts", "Rebs+Asts"])]
 
 
-
-# Initialize session state
-if 'reset_injured_players' not in st.session_state:
-    st.session_state['reset_injured_players'] = False
 # Sidebar for user inputs
 st.sidebar.header("User Input Parameters")
 view = st.sidebar.radio("View", ["Player Prop Analysis", "Over/Under Stats"])
@@ -404,24 +400,12 @@ if view == "Player Prop Analysis":
     team_players = sorted(dataframe[dataframe['Team'] == team]['PlayerName'].unique())
     default_injured_players = [player for player in out_players if player in team_players]
 
-    multiselect_key = 'injured_players'
-
-    # Check if we need to reset the multiselect
-    if st.session_state['reset_injured_players']:
-        st.session_state[multiselect_key] = default_injured_players
-        st.session_state['reset_injured_players'] = False
-
     injured_players = st.sidebar.multiselect(
         "Select Injured Players", 
         options=[f"{player}{' - DTD' if player in day_to_day_players else ''}" for player in team_players],
-        default=st.session_state.get(multiselect_key, default_injured_players),
-        key=multiselect_key
+        default=default_injured_players
     )
 
-    if st.sidebar.button('Reset Injured Players'):
-        st.session_state['reset_injured_players'] = True
-        # Rerun the script to reset the multiselect
-        st.experimental_rerun()
 
     teams = sorted(dataframe['Team'].dropna().unique())
     opponent = st.sidebar.selectbox("Select Opponent", options=teams)

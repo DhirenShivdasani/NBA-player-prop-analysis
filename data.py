@@ -1,56 +1,57 @@
 from nba_api.stats.endpoints import playergamelog
 from nba_api.stats.static import players
 import pandas as pd
-import time
-import requests
-
-def fetch_player_gamelog(player_id, season, retries=3, delay=5, timeout=60):
-    session = requests.Session()  # Use a session for connection pooling
-    for attempt in range(retries):
-        try:
-            response = session.get(
-                url=playergamelog.PlayerGameLog(player_id=player_id, season=season).get_url(),
-                timeout=timeout
-            )
-            response.raise_for_status()  # This will raise an error for HTTP error codes
-            return playergamelog.PlayerGameLog(data=response.json())
-        except requests.exceptions.RequestException as e:
-            print(f"Request failed: {e}, retrying ({attempt + 1}/{retries})...")
-            time.sleep(delay)
-    raise RuntimeError(f"Failed to fetch data after {retries} retries.")
+import subprocess
 
 
-nba_players = players.get_active_players()
-all_players_gamelog = pd.DataFrame()
+def git_operation():
+    # Change directory to your repo
+    repo_path = '/Users/dhirenshivdasani/Desktop/code/NBA Prediction Model'
+    subprocess.run(['git', '-C', repo_path, 'pull'])
+    subprocess.run(['git', '-C', repo_path, 'add', '.'])
+    subprocess.run(['git', '-C', repo_path, 'commit', '-m', 'Automated data update'])
+    subprocess.run(['git', '-C', repo_path, 'push'])
 
-for player in nba_players:
-    player_id = player['id']
-    player_name = player['full_name']
-    
-    for season in ['2023-24']:
-        try:
-            # Fetch the game log with retry mechanism
-            gamelog_response = fetch_player_gamelog(player_id, season)
-            gamelog_df = gamelog_response.get_data_frames()[0]
+try:
+    nba_players = players.get_active_players()
+    all_players_gamelog = pd.DataFrame()
+
+    for player in nba_players:
+        player_id = player['id']
+        player_name = player['full_name']
+        
+        for season in ['2023-24']:
+            # Fetch the game log for the player for each season
+            gamelog = playergamelog.PlayerGameLog(player_id=player_id, season=season)
+
+            # Extract the data frame
+            gamelog_df = gamelog.get_data_frames()[0]
             
+            # Skip if gamelog_df is empty or all NA
             if gamelog_df.empty or gamelog_df.isna().all().all():
                 continue
 
+            # Add a column for the player's name (optional)
             gamelog_df['PlayerName'] = player_name
+
+            # Append this player's game log to the overall DataFrame
             all_players_gamelog = pd.concat([all_players_gamelog, gamelog_df], ignore_index=True)
 
-        except RuntimeError as e:
-            print(f"Error fetching data for player {player_name}: {e}")
+    print(all_players_gamelog)
 
-# Additional processing
-all_players_gamelog['Team'] = all_players_gamelog['MATCHUP'].str[:3]
+    all_players_gamelog['Team'] = all_players_gamelog['MATCHUP'].str[:3]
 
-for idx, val in all_players_gamelog['MATCHUP'].items():
-    if '@' in val:
-        all_players_gamelog.at[idx, 'Home'] = val[-3:]
-        all_players_gamelog.at[idx, 'Away'] = val[:3]
-    else:
-        all_players_gamelog.at[idx, 'Home'] = val[:3]
-        all_players_gamelog.at[idx, 'Away'] = val[-3:]
 
-all_players_gamelog.to_csv('all_data.csv', index=False)
+    for idx, val in all_players_gamelog['MATCHUP'].items():
+        if '@' in val:
+            all_players_gamelog.at[idx, 'Home'] = val[-3:]
+            all_players_gamelog.at[idx, 'Away'] = val[:3]
+        else:
+            all_players_gamelog.at[idx, 'Home'] = val[:3]
+            all_players_gamelog.at[idx, 'Away'] = val[-3:]
+
+
+    all_players_gamelog.to_csv('all_data.csv', index=False)
+    git_operation()
+except Exception as e:
+    print(f"Error: {e}")

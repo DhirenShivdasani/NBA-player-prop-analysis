@@ -3,10 +3,13 @@ import matplotlib.pyplot as plt
 import streamlit as st
 import datetime as dt
 import numpy as np
+import time
 
 
 def load_data():
     data = pd.read_csv('all_data.csv')
+    team_scores = data.groupby(['Game_ID', 'Team'])['PTS'].sum().reset_index()
+    data= pd.merge(data, team_scores, on=['Game_ID', 'Team'], suffixes=('', '_Team_Total'))
     test2_df = pd.read_csv('test2.csv')
     test2_df = test2_df.rename(columns = {'Name':'PlayerName'})
     test2_df.drop(['Unnamed: 0','Team'], axis =1, inplace = True)
@@ -19,7 +22,6 @@ def load_data():
     merged_data['Pts+Asts'] = merged_data['PTS'] + merged_data['AST']
     merged_data['Rebs+Asts'] = merged_data['REB'] + merged_data['AST']
     merged_data= merged_data.rename(columns = {'PTS':'Points', 'REB': 'Rebounds', 'AST': 'Assists'})
-    # merged_data = merged_data[merged_data['Prop'].isin(relevant_props)]
     merged_data.to_csv('merged_data.csv', index = False)
 
     dataframe = pd.read_csv('merged_data.csv')
@@ -136,7 +138,7 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
         average_home = player_data[player_data['Home'] == team][prop_type_adjusted].mean()
         average_away = player_data[player_data['Away'] == team][prop_type_adjusted].mean()
         average_against_opponent = historical_performance_against_opponent.mean()
-        average_against_opponent = f"{round(average_against_opponent, 2)}%" if not np.isnan(average_against_opponent) else 'N/A'
+        average_against_opponent = f"{round(average_against_opponent, 2)}" if not np.isnan(average_against_opponent) else 'N/A'
 
         impact_on_performance = None
         if player_performance_with_teammates_out is not None and average_overall is not None:
@@ -269,7 +271,7 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
             'Average Performance (Home)': f"{average_home.round(0)}",
             'Average Performance (Away)': f"{average_away.round(0)}",
             'Average Performance Against Opponent': average_against_opponent,
-            'Average Performance With Teammates Out': player_performance_with_teammates_out,
+            'Average Performance With Teammates Out': f"{round(player_performance_with_teammates_out, 0)}" if player_performance_with_teammates_out is not None else 'N/A',
             'Impact on Performance': impact_on_performance
         },
         'Comparative Analysis': {
@@ -292,7 +294,87 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
         return results
     else:
         return f"Prop type '{prop_type_adjusted}' not found in data."
+    
+def get_injured_players_from_team(injury_data, team):
+        return injury_data[(injury_data['Team'] == team) & 
+                       (injury_data['Details'].str.contains('Out|Day To Day'))]
 
+
+def get_matchup_total_for_game(dataframe, game_id, team):
+    # Get the total points for the specified team and game
+        total_points = dataframe[(dataframe['Game_ID'] == game_id) & (dataframe['Team'] == team)]['PTS_Team_Total']
+        if not total_points.empty:
+            return total_points.iloc[0]  # Return the first item if total_points is not empty
+        else:
+            return None
+
+# Function to get game logs where selected injured players were absent   
+def get_game_logs_with_absent_players(player_data, injured_players, dataframe):
+    absent_players_game_logs = pd.DataFrame()
+    for player in injured_players:
+        # Filter out games where the injured player did not play
+        absent_player_games = player_data[player_data['Game_ID'].apply(lambda game_id: check_player_absence(game_id, player, dataframe))]
+        absent_players_game_logs = pd.concat([absent_players_game_logs, absent_player_games])
+    return absent_players_game_logs.drop_duplicates()
+
+def check_player_absence(game_id, player_name, dataframe):
+    return dataframe[(dataframe['Game_ID'] == game_id) & (dataframe['PlayerName'] == player_name)].empty
+
+       
+def show_injured_players_expander(injury_data, team_name):
+    with st.sidebar.expander(f"Injured Players from {team_name}"):
+        injured_players = injury_data[(injury_data['Team'] == team_name) &
+                                      (injury_data['Details'].str.contains('Out|Day To Day'))]
+        if not injured_players.empty:
+            st.table(injured_players[['Player', 'Details']])
+        else:
+            st.write("No injured players reported.")
+
+
+def plot_performance_bar_chart(game_dates, performances, selected_prop, value, player_name):
+    """
+    Plot a performance bar chart.
+
+    :param game_dates: List of game dates.
+    :param performances: List of player's performance metrics.
+    :param selected_prop: Selected property type (e.g., "Points").
+    :param value: Value to compare performance against.
+    :param player_name: Name of the player.
+    """
+    # Filter out non-numeric or NaN values from performances
+    valid_data = [(date, performance) for date, performance in zip(game_dates, performances) if pd.notna(performance)]
+    if not valid_data:
+        st.error("No valid data available to plot.")
+        return
+
+    valid_game_dates, valid_performances = zip(*valid_data)
+
+    fig, ax = plt.subplots()
+    bars = ax.bar(valid_game_dates, valid_performances, color=['green' if x >= value else 'red' for x in valid_performances])
+    ax.axhline(y=value, color='blue', linestyle='--', label=f'Prop Line: {value}')
+    ax.set_xticks(valid_game_dates)
+    ax.set_xticklabels(valid_game_dates, rotation=45)
+    ax.set_ylabel(selected_prop)
+    ax.set_title(f"{player_name}'s Performance in {selected_prop}")
+    ax.legend()
+
+    for bar, performance in zip(bars, valid_performances):
+        ax.text(bar.get_x() + bar.get_width() / 2, bar.get_height(), 
+                f'{performance:.1f}', ha='center', va='bottom')
+
+    st.pyplot(fig)
+
+def has_injured_players(injury_data, team):
+    return not injury_data[(injury_data['Team'] == team) & 
+                           (injury_data['Details'].str.contains('Out|Day To Day'))].empty
+
+
+# Function to get game IDs where selected injured players were absent
+def get_games_with_selected_absent_players(dataframe, selected_players, team):
+    absent_games = set()
+    for player in selected_players:
+        absent_games.update(get_player_absences(dataframe, player, team))
+    return absent_games
 
 dataframe = load_data()
 injury_data = pd.read_csv('injury_data.csv')
@@ -325,72 +407,144 @@ if view == "Player Prop Analysis":
     teams = sorted(dataframe['Team'].dropna().unique())
     opponent = st.sidebar.selectbox("Select Opponent", options=teams)
 
-    # Select the filter type for performance analysis
-    filter_type = st.sidebar.radio("Filter Type", ["Overall Last 10 Games", "Games Against Specific Opponent"])
-
-    st.title(f"Analysis Results for {player_name}")
     # Filter the dataframe for the selected player and prop
-    dataframe['GAME_DATE'] = pd.to_datetime(dataframe['GAME_DATE'], format='mixed',  errors='coerce')
-    player_data = dataframe[(dataframe['PlayerName'] == player_name) & (dataframe['Prop']== selected_prop)]
+    dataframe['GAME_DATE'] = pd.to_datetime(dataframe['GAME_DATE'], errors='coerce')
+    dataframe.sort_values(by='GAME_DATE', ascending=False, inplace=True)
+    dataframe['GAME_DATE'] = dataframe['GAME_DATE'].apply(lambda x: x.strftime('%m-%d-%y') if not pd.isnull(x) else x)
+
+    player_data = dataframe[(dataframe['PlayerName'] == player_name) & (dataframe['Prop'] == selected_prop)]
+    player_data['Team_Total'] = player_data.apply(lambda row: get_matchup_total_for_game(dataframe, row['Game_ID'], row['Team']), axis=1)
+    opponent_team = lambda row: row['Away'] if row['Home'] == row['Team'] else row['Home']
+    player_data['Opponent_Total'] = player_data.apply(lambda row: get_matchup_total_for_game(dataframe, row['Game_ID'], opponent_team(row)), axis=1)
+    player_data['Matchup_Score'] = player_data.apply(lambda row: f"{row['Team_Total']}-{row['Opponent_Total']}", axis=1)
+    player_data.set_index(['GAME_DATE', 'MATCHUP', 'Matchup_Score'], inplace=True)
+
+    # Check if the team or opponent has any injured players
+    team_has_injured = has_injured_players(injury_data, team)
+    opponent_has_injured = opponent and has_injured_players(injury_data, opponent)
+
+    # Display expanders for injured players
+    show_injured_players_expander(injury_data, team)
+    if opponent:
+        show_injured_players_expander(injury_data, opponent)
+
+    
+    filter_type_options = ["Overall Last 10 Games", "Games Against Specific Opponent", "Games with Absent/Injured Players"]
+
+    # Allow user to select the filter type
+    filter_type = st.sidebar.radio("Filter Type", filter_type_options)
+
+   
+
+    if filter_type == "Overall Last 10 Games":
+        with st.spinner('Loading data...'):
+            time.sleep(1)
+        st.title(f"Analysis Results for {player_name}")
+
+
+        st.subheader('Game Logs (Last 10)')
+
+        st.dataframe(player_data.drop(['Value', 'Prop', 'Game_ID','PlayerName', 'VIDEO_AVAILABLE', 'SEASON_ID', 'Player_ID', 'OREB', 'DREB', 'Team', 'Home', 'Away', 'STL', 'BLK', 'TOV', 'Team_Total', 'Opponent_Total', 'PTS_Team_Total'], axis =1).head(10))
 
 
 
-    st.subheader('Game Logs (Last 10)')
-    st.dataframe(player_data.drop(['Value', 'Prop', 'Game_ID','PlayerName', 'VIDEO_AVAILABLE', 'SEASON_ID', 'Player_ID', 'OREB', 'DREB', 'Team', 'Home', 'Away', 'STL', 'BLK', 'TOV'], axis =1).head(10))
+        # Analyze the prop bet when the user clicks the button
+        results = analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_players, value, selected_prop)
+        if isinstance(results, str):
+            st.error(results)
+        else:
+            # Using an expander to organize the display
+            with st.expander("View Detailed Analysis"):
+                for category, details in results.items():
+                    st.markdown(f"**{category}:**")
+
+                    # Create two columns for layout
+                    col1, col2 = st.columns(2)
+
+                    # Iterate over the items in each category
+                    for i, (key, val) in enumerate(details.items()):
+                        with col1 if i % 2 == 0 else col2:
+                            percentage_keys = ["Field Goal %", "3PT Field Goal %", "Free Throw %", 
+                                        "Win Percentage (Home)", "Win Percentage (Away)"]
+                            # Check if value is a float and if the key indicates a percentage
+                            if isinstance(val, float) and key in percentage_keys:
+                                formatted_val = f"{val:.2f}%"
+                            else:
+                                formatted_val = val
+                            st.markdown(f"**{key.replace('_', ' ').title()}:** {formatted_val}")
+
+                    # Add spacing between categories
+                    st.write("---")
 
 
-    # Analyze the prop bet when the user clicks the button
-    results = analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_players, value, selected_prop)
-    if isinstance(results, str):
-        st.error(results)
-    else:
-        # Using an expander to organize the display
-        with st.expander("View Detailed Analysis"):
-            for category, details in results.items():
-                st.markdown(f"**{category}:**")
+        player_data = player_data.head(10)
 
-                # Create two columns for layout
-                col1, col2 = st.columns(2)
+        # Display bar graph for performances
+        game_dates = player_data.index.get_level_values('GAME_DATE').tolist()
+        performances = player_data[selected_prop].tolist()
+        game_dates.reverse()
+        performances.reverse()
 
-                # Iterate over the items in each category
-                for i, (key, val) in enumerate(details.items()):
-                    with col1 if i % 2 == 0 else col2:
-                        formatted_val = f"{val:.2f}%" if isinstance(val, float) else val
-                        st.markdown(f"**{key.replace('_', ' ').title()}:** {formatted_val}")
+        plot_performance_bar_chart(game_dates, performances, selected_prop, value, player_name)
 
-                # Add spacing between categories
-                st.write("---")
+
+
+    if filter_type == "Games with Absent/Injured Players":
+
+        absent_games = set()
+        for injured_player in injured_players:
+            absent_games.update(get_player_absences(dataframe, injured_player, team))
+        player_data = player_data[player_data['Game_ID'].isin(absent_games)]
+        selected_absent_games = get_games_with_selected_absent_players(dataframe, injured_players, team)
+        player_data_filtered = player_data[player_data['Game_ID'].isin(selected_absent_games)]
+
+        injured_players_list = ', '.join(injured_players)
+
+        if player_data_filtered.empty:
+            st.info("Select Injured/Absent Players")
+            if injured_players_list:
+                st.error(f"No game logs found for games without: {injured_players_list}.")
+        else:
+            # Display last 10 games
+            with st.spinner('Loading data...'):
+                time.sleep(1)
+            player_data_filtered = player_data_filtered.sort_values('GAME_DATE').head(10)
+            st.subheader("Game Logs with Absent/Injured Players")
+            st.write('Note: You can add or remove injured players from the multiselect tool')
+            st.dataframe(player_data_filtered.drop(['Value', 'Prop', 'Game_ID','PlayerName', 'VIDEO_AVAILABLE', 'SEASON_ID', 'Player_ID', 'OREB', 'DREB', 'Team', 'Home', 'Away', 'STL', 'BLK', 'TOV', 'Team_Total', 'Opponent_Total', 'PTS_Team_Total'], axis =1).head(10))
+
+            # Display bar graph for performances
+            game_dates = player_data_filtered.index.get_level_values('GAME_DATE').tolist()
+            performances = player_data_filtered[selected_prop].tolist()
+            game_dates.reverse()
+            performances.reverse()
+            plot_performance_bar_chart(game_dates, performances, selected_prop, value, player_name)
+
+
     # Filter for the specific opponent if selected
     if opponent and filter_type == "Games Against Specific Opponent":
+
         player_data = player_data[(player_data['Home'] == opponent) | (player_data['Away'] == opponent)]
 
-    # Sort the data by game date and select the last 10 games
-    player_data = player_data.sort_values('GAME_DATE').tail(10)
+        if player_data.empty:
+            st.info(f'No game logs against {opponent}')
+        else:
+            with st.spinner('Loading data...'):
+                time.sleep(2)
+        # Sort the data by game date and select the last 10 games
+            player_data = player_data.head(10)
+            st.subheader(f"Game Logs against {opponent}")
+            st.dataframe(player_data.drop(['Value', 'Prop', 'Game_ID','PlayerName', 'VIDEO_AVAILABLE', 'SEASON_ID', 'Player_ID', 'OREB', 'DREB', 'Team', 'Home', 'Away', 'STL', 'BLK', 'TOV', 'Team_Total', 'Opponent_Total', 'PTS_Team_Total'], axis =1).head(10))
 
-    if player_data.empty:
-        st.error("No data found for the selected criteria.")
-    else:
-        # Extract necessary data for the plot
-        game_dates = player_data['GAME_DATE'].dt.strftime('%m-%d-%y').tolist()
-        performances = player_data[selected_prop].tolist()
 
-        # Create a bar chart
-        fig, ax = plt.subplots()
-        bars = ax.bar(game_dates, performances, color=['green' if x >= value else 'red' for x in performances])
-        ax.axhline(y=value, color='blue', linestyle='--', label=f'Prop Line: {value}')
-        ax.set_xticks(game_dates)
-        ax.set_xticklabels(game_dates, rotation=45)
-        ax.set_ylabel(selected_prop)
-        ax.set_title(f"{player_name}'s Last 10 Games {selected_prop} Performance")
-        ax.legend()
+            # Extract necessary data for the plot
+            game_dates = player_data.index.get_level_values('GAME_DATE').tolist()
+            performances = player_data[selected_prop].tolist()
+            game_dates.reverse()
+            performances.reverse()
 
-        for bar, performance in zip(bars, performances):
-            bar_height = bar.get_height()
-            if np.isfinite(bar_height):
-                ax.text(bar.get_x() + bar.get_width() / 2, bar_height, 
-                        round(performance, 1), ha='center', color='black', weight='bold')
+            plot_performance_bar_chart(game_dates, performances, selected_prop, value, player_name)
 
-        st.pyplot(fig)
 
 elif view == "Over/Under Stats":
     # Over/Under Stats Section
@@ -398,3 +552,4 @@ elif view == "Over/Under Stats":
     sort_by = st.selectbox("Sort By", ["Under %", "Over %", "Exact %"])
     over_under_stats = calculate_over_under_stats(dataframe, sort_by)
     st.dataframe(over_under_stats)
+

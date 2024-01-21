@@ -442,59 +442,51 @@ if view == "Player Prop Analysis":
    
 
     if filter_type == "Overall Last 10 Games":
-        with st.spinner('Loading data...'):
-            time.sleep(.5)
         st.title(f"Analysis Results for {player_name}")
 
+        home_away_filter = st.radio("Select Home/Away Games", ["Both", "Home", "Away"])
+
+        # Filter data based on Home/Away selection
+        if home_away_filter == "Home":
+            player_data = player_data[player_data['Home'] == team]
+        elif home_away_filter == "Away":
+            player_data = player_data[player_data['Away'] == team]
+        else:
+            player_data = player_data
+
+        # Select the last 10 games based on the filtered data
+        last_10_games = player_data.head(10)
+
+        with st.spinner('Loading data...'):
+            time.sleep(0.5)
 
         st.subheader('Game Logs (Last 10)')
+        st.dataframe(last_10_games.drop(['Value', 'Prop', 'Game_ID', 'PlayerName', 'VIDEO_AVAILABLE', 'SEASON_ID', 'Player_ID', 'OREB', 'DREB', 'Team', 'Home', 'Away', 'STL', 'BLK', 'TOV', 'Team_Total', 'Opponent_Total', 'PTS_Team_Total'], axis=1))
 
-        st.dataframe(player_data.drop(['Value', 'Prop', 'Game_ID','PlayerName', 'VIDEO_AVAILABLE', 'SEASON_ID', 'Player_ID', 'OREB', 'DREB', 'Team', 'Home', 'Away', 'STL', 'BLK', 'TOV', 'Team_Total', 'Opponent_Total', 'PTS_Team_Total'], axis =1).head(10))
-
-
-
-        # Analyze the prop bet when the user clicks the button
+        # Analyze the prop bet and display results
         results = analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_players, value, selected_prop)
         if isinstance(results, str):
             st.error(results)
         else:
-            # Using an expander to organize the display
             with st.expander("View Detailed Analysis"):
                 for category, details in results.items():
                     st.markdown(f"**{category}:**")
-
-                    # Create two columns for layout
                     col1, col2 = st.columns(2)
-
-                    # Iterate over the items in each category
                     for i, (key, val) in enumerate(details.items()):
                         with col1 if i % 2 == 0 else col2:
-                            percentage_keys = ["Field Goal %", "3PT Field Goal %", "Free Throw %", 
-                                        "Win Percentage (Home)", "Win Percentage (Away)"]
-                            # Check if value is a float and if the key indicates a percentage
-                            if isinstance(val, float) and key in percentage_keys:
-                                formatted_val = f"{val:.2f}%"
-                            else:
-                                formatted_val = val
+                            formatted_val = f"{val:.2f}%" if isinstance(val, float) and key in percentage_keys else val
                             st.markdown(f"**{key.replace('_', ' ').title()}:** {formatted_val}")
 
-                    # Add spacing between categories
-                    st.write("---")
 
-
-        player_data = player_data.head(10)
-
-        # Display bar graph for performances
-        game_dates = player_data.index.get_level_values('GAME_DATE').tolist()
-        performances = player_data[selected_prop].tolist()
+        # Plot the performance bar chart
+        game_dates = last_10_games.index.get_level_values('GAME_DATE').tolist()
+        performances = last_10_games[selected_prop].tolist()
         game_dates.reverse()
         performances.reverse()
-
         plot_performance_bar_chart(game_dates, performances, selected_prop, value, player_name)
 
-
-
     if filter_type == "Games with Absent/Injured Players":
+
 
         absent_games = set()
         for injured_player in injured_players:

@@ -40,7 +40,7 @@ city_to_abbreviation = {
 
 
 def get_injury_data():
-    url = 'https://www.basketball-reference.com/friv/injuries.cgi'
+    url = 'https://www.basketball-reference.com/friv/injuries.fcgi'
     response = requests.get(url)
 
     # Initialize injury_data as an empty list

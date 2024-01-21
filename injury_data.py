@@ -40,42 +40,30 @@ city_to_abbreviation = {
 
 
 def get_injury_data():
-
-    # URL of the Basketball Reference injury page
     url = 'https://www.basketball-reference.com/friv/injuries.cgi'
-
-    # Send a GET request to the webpage
     response = requests.get(url)
 
-    # Check if the request was successful
+    # Initialize injury_data as an empty list
+    injury_data = []
+
     if response.status_code == 200:
         soup = BeautifulSoup(response.content, 'html.parser')
-
-        # Find the injury table
         injury_table = soup.find('table', {'id': 'injuries'})
 
         headers = ['Player', 'Team', 'Update', 'Details']
         rows = injury_table.find_all('tr')
 
-        # List to hold all injury data
-        injury_data = []
-
-        # Loop through all rows in the table and extract data
         for row in rows[1:]:  # Skip the header row
-            player = row.find('th').text.strip()  # Extract the player name
+            player = row.find('th').text.strip()
             cols = row.find_all('td')
             if cols:
-                cols = [player] + [element.text.strip() for element in cols]  # Prepend player name to the list
+                cols = [player] + [element.text.strip() for element in cols]
                 injury_data.append(cols)
 
-    # Create a DataFrame
+    # Create a DataFrame from the injury data
     injury_df = pd.DataFrame(injury_data, columns=headers)
-
-    # Save to CSV
     injury_csv_path = 'injury_data.csv'
     injury_df['Team'] = injury_df['Team'].replace(city_to_abbreviation)
-
-
-    injury_df.to_csv(injury_csv_path, index = False)
+    injury_df.to_csv(injury_csv_path, index=False)
 
 get_injury_data()

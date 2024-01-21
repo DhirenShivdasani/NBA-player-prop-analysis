@@ -46,11 +46,13 @@ def get_injury_data():
     # Initialize injury_data as an empty list
     injury_data = []
 
+    # Define headers outside the if block
+    headers = ['Player', 'Team', 'Update', 'Details']
+
     if response.status_code == 200:
         soup = BeautifulSoup(response.content, 'html.parser')
         injury_table = soup.find('table', {'id': 'injuries'})
-
-        headers = ['Player', 'Team', 'Update', 'Details']
+        
         rows = injury_table.find_all('tr')
 
         for row in rows[1:]:  # Skip the header row

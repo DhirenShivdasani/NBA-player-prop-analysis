@@ -4,6 +4,7 @@ import streamlit as st
 import datetime as dt
 import numpy as np
 import time
+import json
 
 
 def load_data():
@@ -376,8 +377,117 @@ def get_games_with_selected_absent_players(dataframe, selected_players, team):
         absent_games.update(get_player_absences(dataframe, player, team))
     return absent_games
 
+# ranking_types = ['PRA_Rank', 'PR_Rank', 'PA_Rank', 'RA_Rank', 'Points_Rank', 'Rebounds_Rank', 'Assists_Rank','PRA_Defense_Rank', 'PR_Defense_Rank', 'PA_Defense_Rank', 'RA_Defense_Rank', 'Points_Defense_Rank', 'Rebounds_Defense_Rank', 'Assists_Defense_Rank']
+
+
+def get_matchup_rankings(data, game_id, team):
+    game_row = data[data['Game_ID'] == game_id]
+    if not game_row.empty:
+        home_team = game_row.iloc[0]['Home']
+        away_team = game_row.iloc[0]['Away']
+
+        # Assuming your dataframe has columns like 'PRA_Rank', 'PR_Rank', etc. for rankings
+        rankings = ['PRA_Rank', 'PR_Rank', 'PA_Rank', 'RA_Rank', 'Points_Rank', 'Rebounds_Rank', 'Assists_Rank','PRA_Defense_Rank', 'PR_Defense_Rank', 'PA_Defense_Rank', 'RA_Defense_Rank', 'Points_Defense_Rank', 'Rebounds_Defense_Rank', 'Assists_Defense_Rank']
+        team_rankings = {}
+        opponent_team = home_team if team != home_team else away_team
+
+        for rank in rankings:
+            team_rank = game_row[game_row['Team'] == team].iloc[0][rank]
+            opponent_rank = game_row[game_row['Team'] == opponent_team].iloc[0][rank]
+            team_rankings[f'{team}_{rank}'] = team_rank
+            team_rankings[f'{opponent_team}_{rank}'] = opponent_rank
+
+        return team_rankings
+    else:
+        return {rank: None for rank in rankings}  # Return None if no game found
+
+    
+prop_key_mapping = {
+    "Pts+Rebs": ("PR_Rank", "PR_Defense_Rank"),
+    "Pts+Asts": ("PA_Rank", "PA_Defense_Rank"),
+    "Pts+Rebs+Asts": ("PRA_Rank", "PRA_Defense_Rank"),
+    "Rebs+Asts": ("RA_Rank", "RA_Defense_Rank"),
+    'Points': ('Points_Rank', 'Points_Defense_Rank'),
+    'Rebounds': ('Rebounds_Rank', 'Rebounds_Defense_Rank'),
+    'Assists': ('Assists_Rank', 'Assists_Defense_Rank')
+    # Add other mappings as needed
+}
+
+# Function to Extract Rankings
+def extract_rankings_for_prop(matchup_data, prop_keys):
+    team_prefix = list(matchup_data.keys())[0].split('_')[0]  # Extract the team prefix
+    opponent_prefix = [key.split('_')[0] for key in matchup_data.keys() if key.split('_')[0] != team_prefix][0]
+
+    team_offensive_rank_key = f"{team_prefix}_{prop_keys[0]}"
+    opponent_defensive_rank_key = f"{opponent_prefix}_{prop_keys[1]}"
+
+    team_offensive_rank = matchup_data.get(team_offensive_rank_key)
+    opponent_defensive_rank = matchup_data.get(opponent_defensive_rank_key)
+
+    return team_offensive_rank, opponent_defensive_rank
+
+
+
+
+
 dataframe = load_data()
 injury_data = pd.read_csv('injury_data.csv')
+
+opra = pd.read_csv('team_stats/opponent-points-plus-rebounds-plus-assists-per-gam_data.csv')
+opra.rename(columns={'Rank': 'PRA_Defense_Rank'}, inplace=True)
+opra = opra[['Team','PRA_Defense_Rank']]
+pra = pd.read_csv('team_stats/points-plus-rebounds-plus-assists-per-game_data.csv')
+pra.rename(columns={'Rank': 'PRA_Rank'}, inplace=True)
+pra = pra[['Team','PRA_Rank']]
+
+opr = pd.read_csv('team_stats/opponent-points-plus-rebounds-per-game_data.csv')
+opr.rename(columns={'Rank': 'PR_Defense_Rank'}, inplace=True)
+opr = opr[['Team','PR_Defense_Rank']]
+pr = pd.read_csv('team_stats/points-plus-rebounds-per-game_data.csv')
+pr.rename(columns={'Rank': 'PR_Rank'}, inplace=True)
+pr = pr[['Team','PR_Rank']]
+
+
+opa = pd.read_csv('team_stats/opponent-points-plus-assists-per-game_data.csv')
+opa.rename(columns={'Rank': 'PA_Defense_Rank'}, inplace=True)
+opa = opa[['Team','PA_Defense_Rank']]
+pa = pd.read_csv('team_stats/points-plus-assists-per-game_data.csv')
+pa.rename(columns={'Rank': 'PA_Rank'}, inplace=True)
+pa = pa[['Team','PA_Rank']]
+
+
+ora = pd.read_csv('team_stats/opponent-rebounds-plus-assists-per-game_data.csv')
+ora.rename(columns={'Rank': 'RA_Defense_Rank'}, inplace=True)
+ora = ora[['Team','RA_Defense_Rank']]
+ra = pd.read_csv('team_stats/rebounds-plus-assists-per-game_data.csv')
+ra.rename(columns={'Rank': 'RA_Rank'}, inplace=True)
+ra = ra[['Team','RA_Rank']]
+
+
+op = pd.read_csv('team_stats/opponent-points-per-game_data.csv')
+op.rename(columns={'Rank': 'Points_Defense_Rank'}, inplace=True)
+op = op[['Team','Points_Defense_Rank']]
+pts = pd.read_csv('team_stats/points-per-game_data.csv')
+pts.rename(columns={'Rank': 'Points_Rank'}, inplace=True)
+pts = pts[['Team','Points_Rank']]
+
+
+oreb = pd.read_csv('team_stats/opponent-total-rebounds-per-game_data.csv')
+oreb.rename(columns={'Rank': 'Rebounds_Defense_Rank'}, inplace=True)
+oreb = oreb[['Team','Rebounds_Defense_Rank']]
+reb = pd.read_csv('team_stats/total-rebounds-per-game_data.csv')
+reb.rename(columns={'Rank': 'Rebounds_Rank'}, inplace=True)
+reb = reb[['Team','Rebounds_Rank']]
+
+
+oa = pd.read_csv('team_stats/opponent-assists-per-game_data.csv')
+oa.rename(columns={'Rank': 'Assists_Defense_Rank'}, inplace=True)
+oa = oa[['Team','Assists_Defense_Rank']]
+ast = pd.read_csv('team_stats/assists-per-game_data.csv')
+ast.rename(columns={'Rank': 'Assists_Rank'}, inplace=True)
+ast = ast[['Team','Assists_Rank']]
+
+dataframe = dataframe.merge(opra, on='Team').merge(pra, on='Team').merge(pa, on='Team').merge(opr, on='Team').merge(pr, on='Team').merge(opa, on='Team').merge(ora, on='Team').merge(ra, on='Team').merge(op, on='Team').merge(pts, on='Team').merge(oreb, on='Team').merge(reb, on='Team').merge(oa, on='Team').merge(ast, on='Team')
 
 # Parse injury data to find out players who are 'Out' and 'Day to Day'
 out_players = injury_data[injury_data['Details'].str.contains('Out')]['Player'].tolist()
@@ -416,10 +526,24 @@ if view == "Player Prop Analysis":
     dataframe['GAME_DATE'] = dataframe['GAME_DATE'].apply(lambda x: x.strftime('%m-%d-%y') if not pd.isnull(x) else x)
 
     player_data = dataframe[(dataframe['PlayerName'] == player_name) & (dataframe['Prop'] == selected_prop)]
+    # Assuming 'player_data' is filtered for a specific player and prop type
+    player_data['Matchup_Rankings'] = player_data.apply(lambda row: get_matchup_rankings(dataframe, row['Game_ID'], row['Team']), axis=1)
     player_data['Team_Total'] = player_data.apply(lambda row: get_matchup_total_for_game(dataframe, row['Game_ID'], row['Team']), axis=1)
     opponent_team = lambda row: row['Away'] if row['Home'] == row['Team'] else row['Home']
     player_data['Opponent_Total'] = player_data.apply(lambda row: get_matchup_total_for_game(dataframe, row['Game_ID'], opponent_team(row)), axis=1)
     player_data['Matchup_Score'] = player_data.apply(lambda row: f"{row['Team_Total']}-{row['Opponent_Total']}", axis=1)
+
+    prop_keys = prop_key_mapping[selected_prop]
+
+    for index, row in player_data.iterrows():
+        matchup_data = row['Matchup_Rankings']
+
+        # Extract the team's offensive rank and the opponent's defensive rank
+        team_rank, opponent_rank = extract_rankings_for_prop(matchup_data, prop_keys)
+
+
+        player_data.at[index, f'Opponent_{selected_prop}_Defense_Rank'] = opponent_rank
+
     player_data.set_index(['GAME_DATE', 'MATCHUP', 'Matchup_Score', 'MIN'], inplace=True)
 
     # Check if the team or opponent has any injured players
@@ -461,7 +585,11 @@ if view == "Player Prop Analysis":
             time.sleep(0.5)
 
         st.subheader('Game Logs (Last 10)')
-        st.dataframe(last_10_games.drop(['Value', 'Prop', 'Game_ID', 'PlayerName', 'VIDEO_AVAILABLE', 'SEASON_ID', 'Player_ID', 'OREB', 'DREB', 'Team', 'Home', 'Away', 'STL', 'BLK', 'TOV', 'Team_Total', 'Opponent_Total', 'PTS_Team_Total'], axis=1))
+        st.dataframe(last_10_games.drop(['Value', 'Prop', 'Game_ID','PlayerName', 'VIDEO_AVAILABLE', 'SEASON_ID', 'Player_ID', 'OREB', 'DREB', 'Team', 'Home', 'Away', 'STL', 'BLK', 'TOV', 'Team_Total', 'Opponent_Total', 'PTS_Team_Total', 'PRA_Defense_Rank', 'PRA_Rank',
+                'PA_Rank', 'PR_Defense_Rank', 'PR_Rank', 'PA_Defense_Rank',
+                'RA_Defense_Rank', 'RA_Rank', 'Points_Defense_Rank', 'Points_Rank',
+                'Rebounds_Defense_Rank', 'Rebounds_Rank', 'Assists_Defense_Rank',
+                'Assists_Rank', 'Matchup_Rankings'], axis=1))
 
         # Analyze the prop bet and display results
         results = analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_players, value, selected_prop)
@@ -508,8 +636,11 @@ if view == "Player Prop Analysis":
             player_data_filtered = player_data_filtered.head(10)
             st.subheader("Game Logs with Absent/Injured Players")
             st.write('Note: You can add or remove injured players from the multiselect tool')
-            st.dataframe(player_data_filtered.drop(['Value', 'Prop', 'Game_ID','PlayerName', 'VIDEO_AVAILABLE', 'SEASON_ID', 'Player_ID', 'OREB', 'DREB', 'Team', 'Home', 'Away', 'STL', 'BLK', 'TOV', 'Team_Total', 'Opponent_Total', 'PTS_Team_Total'], axis =1).head(10))
-
+            st.dataframe(player_data_filtered.drop(['Value', 'Prop', 'Game_ID','PlayerName', 'VIDEO_AVAILABLE', 'SEASON_ID', 'Player_ID', 'OREB', 'DREB', 'Team', 'Home', 'Away', 'STL', 'BLK', 'TOV', 'Team_Total', 'Opponent_Total', 'PTS_Team_Total', 'PRA_Defense_Rank', 'PRA_Rank',
+                'PA_Rank', 'PR_Defense_Rank', 'PR_Rank', 'PA_Defense_Rank',
+                'RA_Defense_Rank', 'RA_Rank', 'Points_Defense_Rank', 'Points_Rank',
+                'Rebounds_Defense_Rank', 'Rebounds_Rank', 'Assists_Defense_Rank',
+                'Assists_Rank', 'Matchup_Rankings'], axis =1).head(10))
             # Display bar graph for performances
             game_dates = player_data_filtered.index.get_level_values('GAME_DATE').tolist()
             performances = player_data_filtered[selected_prop].tolist()
@@ -531,7 +662,11 @@ if view == "Player Prop Analysis":
         # Sort the data by game date and select the last 10 games
             player_data = player_data.head(10)
             st.subheader(f"Game Logs against {opponent}")
-            st.dataframe(player_data.drop(['Value', 'Prop', 'Game_ID','PlayerName', 'VIDEO_AVAILABLE', 'SEASON_ID', 'Player_ID', 'OREB', 'DREB', 'Team', 'Home', 'Away', 'STL', 'BLK', 'TOV', 'Team_Total', 'Opponent_Total', 'PTS_Team_Total'], axis =1).head(10))
+            st.dataframe(player_data.drop(['Value', 'Prop', 'Game_ID','PlayerName', 'VIDEO_AVAILABLE', 'SEASON_ID', 'Player_ID', 'OREB', 'DREB', 'Team', 'Home', 'Away', 'STL', 'BLK', 'TOV', 'Team_Total', 'Opponent_Total', 'PTS_Team_Total', 'PRA_Defense_Rank', 'PRA_Rank',
+       'PA_Rank', 'PR_Defense_Rank', 'PR_Rank', 'PA_Defense_Rank',
+       'RA_Defense_Rank', 'RA_Rank', 'Points_Defense_Rank', 'Points_Rank',
+       'Rebounds_Defense_Rank', 'Rebounds_Rank', 'Assists_Defense_Rank',
+       'Assists_Rank', 'Matchup_Rankings'], axis =1).head(10))
 
 
             # Extract necessary data for the plot

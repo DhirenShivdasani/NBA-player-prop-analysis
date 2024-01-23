@@ -82,6 +82,7 @@ for url in team_urls:
     # Now 'data' list contains all the data from the table
     # You can print it, save it to a file, or do further processing
     df = pd.DataFrame(data, columns=["Rank", "Team", "2023", "Last 3", "Last 1", 'Home', 'Away', '2022'])
+
     df_title = url.split('/')[-1]
     df['Team'] = df['Team'].replace(city_to_abbreviation)
     df.to_csv(f'team_stats/{df_title}_data.csv', index = False)
@@ -135,51 +136,3 @@ for url in player_urls:
 
 
 
-
-
-
-
-
-
-# points_data = pd.read_csv('points_data.csv')
-# assists_data = pd.read_csv('assists_data.csv')
-# rebounds_data = pd.read_csv('rebounds_data.csv')
-# minutes_played_data = pd.read_csv('minutes-played_data.csv')
-# opponent_assists_per_game = pd.read_csv('opponent-assists-per-game_data.csv')
-# opponent_points_per_game = pd.read_csv('opponent-points-per-game_data.csv')
-# opponent_total_rebounds_per_game = pd.read_csv('opponent-total-rebounds-per-game_data.csv')
-# total_rebounds_per_game = pd.read_csv('total-rebounds-per-game_data.csv')
-# points_per_game = pd.read_csv('points-per-game_data.csv')
-# assists_per_game = pd.read_csv('assists-per-game_data.csv')
-
-# def extract_city_name(team_name):
-#     return team_name.split()[0]  # Adjust this logic if needed
-
-# # Apply the function to the 'Team' column
-# points_data['Team'] = points_data['Team'].apply(extract_city_name)
-# assists_data['Team'] = assists_data['Team'].apply(extract_city_name)
-# rebounds_data['Team'] = rebounds_data['Team'].apply(extract_city_name)
-
-
-# # Merging player-specific statistics
-# # Assuming that 'Player' and 'Team' columns are present in all these datasets
-# merged_player_stats = pd.merge(points_data, assists_data, on=['Player', 'Team'], how='left', suffixes=('_pts', '_ast'))
-# merged_player_stats = pd.merge(merged_player_stats, rebounds_data, on=['Player', 'Team'], how='left')
-# merged_player_stats = pd.merge(merged_player_stats, minutes_played_data, on=['Player', 'Team'], how='left')
-
-# # Merging team and opponent statistics
-# # Assuming that 'Team' is a common column in these datasets
-# team_stats = pd.merge(points_per_game, assists_per_game, on='Team', how='left', suffixes=('_team_pts', '_team_ast'))
-# team_stats = pd.merge(team_stats, total_rebounds_per_game, on='Team', how='left')
-
-# opponent_stats = pd.merge(opponent_points_per_game, opponent_assists_per_game, on='Team', how='left', suffixes=('_opp_pts', '_opp_ast'))
-# opponent_stats = pd.merge(opponent_stats, opponent_total_rebounds_per_game, on='Team', how='left')
-
-# merged_data = pd.merge(merged_player_stats, team_stats, on='Team', how='left')
-
-# # Handling duplicate columns by adding suffixes
-# # Assuming opponent_stats is already created
-# merged_data = pd.merge(merged_data, opponent_stats, on='Team', how='left', suffixes=('', '_opp'))
-
-# # Display the first few rows of the merged data
-# merged_data.to_csv('merged_df_1.csv', index = False)

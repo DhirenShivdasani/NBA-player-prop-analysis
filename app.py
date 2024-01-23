@@ -88,52 +88,46 @@ def get_player_absences(dataframe, player_name, team):
 
     return player_absences
 
+def analyze_individual_injury_impact(player_data, injured_player, prop_type):
+    # Evaluate the impact of an individual injured player
+    injured_player_games = player_data[player_data['Game_ID'].isin(player_data[player_data['PlayerName'] == injured_player]['Game_ID'].unique())]
+    avg_performance_with_injured_player = injured_player_games[prop_type].mean()
+    return avg_performance_with_injured_player
 
 def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_players, value, prop_type_adjusted):
     """
     Analyzes a player's prop bet considering various factors including home vs. away performance, 
     opponent's stats, and the impact of multiple teammates' absences.
     """
-    # Filter data for the specified player and team
     player_data = dataframe[(dataframe['PlayerName'] == player_name)]
-
-    # Check if there is enough data for analysis
     if player_data.empty:
         return f"No data available for player {player_name}."
-
-    # Adjust prop_type to match column names in the dataframe
 
     all_injured_players_out_dates = set()
     for injured_player in injured_players:
         injured_player_out_dates = set(dataframe[(dataframe['PlayerName'] == injured_player)]['Game_ID'].unique())
         all_injured_players_out_dates.update(injured_player_out_dates)
 
-    # Convert the set to a list for filtering
     unique_injured_players_out_dates = list(all_injured_players_out_dates)
-
     home_games = player_data[player_data['Home'] == team]
     away_games = player_data[player_data['Away'] == team]
 
     win_percentage_home = home_games['WL'].value_counts(normalize=True).get('W', 0) * 100
     win_percentage_away = away_games['WL'].value_counts(normalize=True).get('W', 0) * 100
 
-
     historical_performance_against_opponent = player_data[(player_data['Away'] == opponent) | (player_data['Home'] == opponent)][prop_type_adjusted]
-
-    player_avg_minutes =  player_data['MIN'].mean()
+    player_avg_minutes = player_data['MIN'].mean()
     player_avg_minutes_with_teammates_out = player_data[player_data['Game_ID'].isin(unique_injured_players_out_dates)]['MIN'].mean()
 
-    
-
-    # Calculate player's performance with teammates out
     player_performance_with_teammates_out = player_data[player_data['Game_ID'].isin(unique_injured_players_out_dates)][prop_type_adjusted].mean()
     player_performance_with_teammates_out = float(player_performance_with_teammates_out) if not np.isnan(player_performance_with_teammates_out) else None
 
-  
-    
-    # Analysis based on the prop type
+    injured_players_impact = {}
+    for injured_player in injured_players:
+        avg_performance_with_injured_player = analyze_individual_injury_impact(dataframe, injured_player, prop_type_adjusted)
+        injured_players_impact[injured_player] = avg_performance_with_injured_player
+
     if prop_type_adjusted in player_data.columns:
-        # average_with_teammates_out = player_performance_with_teammates_out.mean()
         average_overall = player_data[prop_type_adjusted].mean()
         std_dev = player_data[prop_type_adjusted].std()
         average_home = player_data[player_data['Home'] == team][prop_type_adjusted].mean()
@@ -141,156 +135,34 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
         average_against_opponent = historical_performance_against_opponent.mean()
         average_against_opponent = f"{round(average_against_opponent, 2)}" if not np.isnan(average_against_opponent) else 'N/A'
 
-        impact_on_performance = None
-        if player_performance_with_teammates_out is not None and average_overall is not None:
-            impact_on_performance = player_performance_with_teammates_out - average_overall
-            impact_on_performance = f"{round(impact_on_performance, 1)}" if not np.isnan(impact_on_performance) else 'N/A'
-
-
-        # Opponent stats analysis
-        opponent_stat_given = None
-        team_stat_given = None
-        player_stat_given = None
-        PER_given = None
-
-        if prop_type_adjusted == 'Rebounds':
-            team_data = pd.read_csv('team_stats/total-rebounds-per-game_data.csv')
-            team_stat_given = team_data[team_data['Team'] == team]['Rank'].values[0]
-            opponent_data = pd.read_csv('team_stats/opponent-total-rebounds-per-game_data.csv')
-            opponent_stat_given = opponent_data[opponent_data['Team'] == opponent]['Rank'].values[0]
-            player_stat = pd.read_csv('player_stats/rebounds_data.csv')
-            filtered_player_stats = player_stat[player_stat['Player'] == player_name]['Rank']
-            if not filtered_player_stats.empty:
-                player_stat_given = filtered_player_stats.values[0]
-            else:
-                print(f'{player_name} rank not available')
-                player_stat_given = None
-        elif prop_type_adjusted == 'Assists':
-            opponent_data = pd.read_csv('team_stats/opponent-assists-per-game_data.csv')
-            opponent_stat_given = opponent_data[opponent_data['Team'] == opponent]['Rank'].values[0]
-            team_data = pd.read_csv('team_stats/assists-per-game_data.csv')
-            team_stat_given = team_data[team_data['Team'] == team]['Rank'].values[0]
-            player_stat = pd.read_csv('player_stats/assists_data.csv')
-            filtered_player_stats = player_stat[player_stat['Player'] == player_name]['Rank']
-            if not filtered_player_stats.empty:
-                player_stat_given = filtered_player_stats.values[0]
-            else:
-                print(f'{player_name} rank not available')
-                player_stat_given = None
-
-        elif prop_type_adjusted == 'Points':
-            opponent_data = pd.read_csv('team_stats/opponent-points-per-game_data.csv')
-            opponent_stat_given = opponent_data[opponent_data['Team'] == opponent]['Rank'].values[0]
-            team_data = pd.read_csv('team_stats/points-per-game_data.csv')
-            team_stat_given = team_data[team_data['Team'] == team]['Rank'].values[0]
-            player_stat = pd.read_csv('player_stats/points_data.csv')
-            PER= pd.read_csv('player_stats/nba-efficiency_data.csv')
-            TSP = pd.read_csv('player_stats/ts-percentage_data.csv')
-            
-            filtered_player_stats = player_stat[player_stat['Player'] == player_name]['Rank']
-            if not filtered_player_stats.empty:
-                player_stat_given = filtered_player_stats.values[0]
-            else:
-                print(f'{player_name} rank not available')
-                player_stat_given = None
-
-
-            if player_name in PER['Player'].values:
-                PER_given = PER[PER['Player'] == player_name]['Value'].values[0]
-            else:
-                print(f'{player_name} rank not available')
-                player_stat_given = None
-                PER_given = None
-                
-        elif prop_type_adjusted == 'Pts+Rebs+Asts':
-            opponent_data = pd.read_csv('team_stats/opponent-points-plus-rebounds-plus-assists-per-gam_data.csv')
-            opponent_stat_given = opponent_data[opponent_data['Team'] == opponent]['Rank'].values[0]
-            team_data = pd.read_csv('team_stats/points-plus-rebounds-plus-assists-per-game_data.csv')
-            team_stat_given = team_data[team_data['Team'] == team]['Rank'].values[0]
-            player_stat = pd.read_csv('player_stats/points-plus-rebounds-plus-assists_data.csv')
-
-            filtered_player_stats = player_stat[player_stat['Player'] == player_name]['Rank']
-            if not filtered_player_stats.empty:
-                player_stat_given = filtered_player_stats.values[0]
-            else:
-                print(f'{player_name} rank not available')
-                player_stat_given = None
-                
-        elif prop_type_adjusted == 'Pts+Rebs':
-            opponent_data = pd.read_csv('team_stats/opponent-points-plus-rebounds-per-game_data.csv')
-            opponent_stat_given = opponent_data[opponent_data['Team'] == opponent]['Rank'].values[0]
-            team_data = pd.read_csv('team_stats/points-plus-rebounds-per-game_data.csv')
-            team_stat_given = team_data[team_data['Team'] == team]['Rank'].values[0]
-            player_stat = pd.read_csv('player_stats/points-plus-rebounds_data.csv')
-
-            filtered_player_stats = player_stat[player_stat['Player'] == player_name]['Rank']
-            if not filtered_player_stats.empty:
-                player_stat_given = filtered_player_stats.values[0]
-            else:
-                print(f'{player_name} rank not available')
-                player_stat_given = None
-        elif prop_type_adjusted == 'Pts+Asts':
-            opponent_data = pd.read_csv('team_stats/opponent-points-plus-assists-per-game_data.csv')
-            opponent_stat_given = opponent_data[opponent_data['Team'] == opponent]['Rank'].values[0]
-            team_data = pd.read_csv('team_stats/points-plus-assists-per-game_data.csv')
-            team_stat_given = team_data[team_data['Team'] == team]['Rank'].values[0]
-            player_stat = pd.read_csv('player_stats/points-plus-assists_data.csv')
-
-            filtered_player_stats = player_stat[player_stat['Player'] == player_name]['Rank']
-            if not filtered_player_stats.empty:
-                player_stat_given = filtered_player_stats.values[0]
-            else:
-                print(f'{player_name} rank not available')
-                player_stat_given = None
-
-        elif prop_type_adjusted == 'Rebs+Asts':
-            opponent_data = pd.read_csv('team_stats/opponent-rebounds-plus-assists-per-game_data.csv')
-            opponent_stat_given = opponent_data[opponent_data['Team'] == opponent]['Rank'].values[0]
-            team_data = pd.read_csv('team_stats/rebounds-plus-assists-per-game_data.csv')
-            team_stat_given = team_data[team_data['Team'] == team]['Rank'].values[0]
-            player_stat = pd.read_csv('player_stats/rebounds-plus-assist_data.csv')
-
-            filtered_player_stats = player_stat[player_stat['Player'] == player_name]['Rank']
-            if not filtered_player_stats.empty:
-                player_stat_given = filtered_player_stats.values[0]
-            else:
-                print(f'{player_name} rank not available')
-                player_stat_given = None
-        
+        impact_on_performance = player_performance_with_teammates_out - average_overall if player_performance_with_teammates_out is not None and average_overall is not None else None
+        impact_on_performance = f"{round(impact_on_performance, 1)}" if impact_on_performance is not None else 'N/A'
 
         # Final results including all factors
         results = {
-        'General Player Statistics': {
-            'Minutes Per Game': f"{player_avg_minutes.round(1)}",
-            'Field Goal %': f"{(player_data['FG_PCT'].mean()*100).round(0)}%",
-            '3PT Field Goal %': f"{(player_data['FG3_PCT'].mean()*100).round(0)}%",
-            'Free Throw %': f"{(player_data['FT_PCT'].mean()*100).round(0)}%",
-            'Standard Deviation': f"{round(std_dev, 0) if std_dev is not None else 'N/A'}"
-        },
-        'Performance Analysis': {
-            'Average Performance (Overall)': f"{average_overall.round(0)}",
-            'Average Performance (Home)': f"{average_home.round(0)}",
-            'Average Performance (Away)': f"{average_away.round(0)}",
-            'Average Performance Against Opponent': average_against_opponent,
-            'Average Performance With Teammates Out': f"{round(player_performance_with_teammates_out, 0)}" if player_performance_with_teammates_out is not None else 'N/A',
-            'Impact on Performance': impact_on_performance
-        },
-        'Comparative Analysis': {
-            'Above Average Performance (Overall)': average_overall > value if average_overall is not None else 'N/A',
-            'Above Average Performance With Teammates Out': player_performance_with_teammates_out > value if player_performance_with_teammates_out is not None else 'N/A',
-            'Win Percentage (Home)': f"{win_percentage_home:.2f}%",
-            'Win Percentage (Away)': f"{win_percentage_away:.2f}%"
-        },
-        'Rankings and Ratings': {
-            f'{player_name} Rank (Overall)': f"{player_stat_given}" if player_stat_given is not None else 'N/A',
-            f'{player_name} Efficiency Rating %': f"{PER_given}" if PER_given is not None else 'N/A',
-            f'{team.upper()} {prop_type_adjusted} Rank': f"{team_stat_given}" if team_stat_given is not None else 'N/A',
-            f'{opponent} {prop_type_adjusted} Defense Rank': f"{opponent_stat_given}" if opponent_stat_given is not None else 'N/A'
+            'General Player Statistics': {
+                'Minutes Per Game': f"{player_avg_minutes.round(1)}",
+                'Field Goal %': f"{(player_data['FG_PCT'].mean()*100).round(0)}%",
+                '3PT Field Goal %': f"{(player_data['FG3_PCT'].mean()*100).round(0)}%",
+                'Free Throw %': f"{(player_data['FT_PCT'].mean()*100).round(0)}%",
+                'Standard Deviation': f"{round(std_dev, 0) if std_dev is not None else 'N/A'}"
+            },
+            'Performance Analysis': {
+                'Average Performance (Overall)': f"{average_overall.round(0)}",
+                'Average Performance (Home)': f"{average_home.round(0)}",
+                'Average Performance (Away)': f"{average_away.round(0)}",
+                'Average Performance Against Opponent': average_against_opponent,
+                'Average Performance With Teammates Out': f"{round(player_performance_with_teammates_out, 0)}" if player_performance_with_teammates_out is not None else 'N/A',
+                'Impact on Performance': impact_on_performance
+            },
+            'Comparative Analysis': {
+                'Above Average Performance (Overall)': 'Yes' if average_overall > value else 'No',
+                'Above Average Performance With Teammates Out': 'Yes' if player_performance_with_teammates_out and player_performance_with_teammates_out > value else 'No',
+                'Win Percentage (Home)': f"{win_percentage_home:.2f}%",
+                'Win Percentage (Away)': f"{win_percentage_away:.2f}%"
+            },
+            'Injured Player Impact': {injured_player: f"{impact:.2f}" for injured_player, impact in injured_players_impact.items()}
         }
-
-
-    }
-
 
         return results
     else:
@@ -427,8 +299,34 @@ def extract_rankings_for_prop(matchup_data, prop_keys):
     return team_offensive_rank, opponent_defensive_rank
 
 
+def evaluate_prop_bet(player_data, prop_name, prop_value, team_ranking, opponent_def_ranking, injured_players):
+    last_n_games = 10  # Analyze the last 5 games
 
+   # Player's average performance for the prop
+    avg_prop_performance = player_data.head(last_n_games)[prop_name].mean()
 
+    # Player's performance against this specific opponent
+    avg_performance_against_opponent = player_data[(player_data['Away'] == opponent) | (player_data['Home'] == opponent)][prop_name].mean()
+
+    # Injury impact
+    injury_impact = "neutral"
+    if any(player in injured_players for player in player_data['PlayerName']):
+        injury_impact = "potential increase in opportunity"
+
+    # Rankings impact
+    ranking_impact = "neutral"
+    if team_ranking and opponent_def_ranking:
+        if team_ranking < opponent_def_ranking:  # Higher rank is better
+            ranking_impact = "favorable"
+
+    # Decision Logic
+    recommendation = "indeterminate"
+    if avg_prop_performance > prop_value and (injury_impact == "potential increase in opportunity" or ranking_impact == "favorable"):
+        recommendation = 'over'
+    elif avg_prop_performance < prop_value and ranking_impact != "favorable":
+        recommendation = 'under'
+
+    return recommendation, avg_prop_performance, injury_impact, ranking_impact
 
 dataframe = load_data()
 injury_data = pd.read_csv('injury_data.csv')
@@ -496,6 +394,10 @@ day_to_day_players = injury_data[injury_data['Details'].str.contains('Day To Day
 
 players_with_props = dataframe[dataframe['Prop'].isin(["Points", "Rebounds", 'Assists', "Pts+Rebs+Asts", "Pts+Rebs", "Pts+Asts", "Rebs+Asts"])]
 
+dataframe['GAME_DATE'] = pd.to_datetime(dataframe['GAME_DATE'], errors='coerce')
+
+most_recent_games = dataframe.sort_values(by='GAME_DATE', ascending=False)
+most_recent_team_per_player = most_recent_games.drop_duplicates(subset='PlayerName')[['PlayerName', 'Team']]
 
 # Sidebar for user inputs
 st.sidebar.header("User Input Parameters")
@@ -504,10 +406,12 @@ view = st.sidebar.radio("View", ["Player Prop Analysis", "Over/Under Stats"])
 
 if view == "Player Prop Analysis":
     player_name = st.sidebar.selectbox("Select a Player", options=sorted(players_with_props['PlayerName'].unique()))
-    selected_prop = st.sidebar.selectbox("Prop Type", ["Points", "Rebounds", 'Assists', "Pts+Rebs+Asts", "Pts+Rebs", "Pts+Asts", "Rebs+Asts"])
-    team = dataframe[dataframe['PlayerName'] == player_name]['Team'].values[0].upper()
-    value = st.sidebar.number_input("Value", min_value=0.0, format="%.1f")
-    team_players = sorted(dataframe[dataframe['Team'] == team]['PlayerName'].unique())
+    available_props_for_player = players_with_props[players_with_props['PlayerName'] == player_name]['Prop'].unique()
+    
+    selected_prop = st.sidebar.selectbox("Prop Type", options=sorted(available_props_for_player))
+    team = most_recent_team_per_player[most_recent_team_per_player['PlayerName'] == player_name]['Team'].values[0].upper()
+    value = st.sidebar.number_input("Value", format="%.1f")
+    team_players = sorted(most_recent_team_per_player[most_recent_team_per_player['Team'] == team]['PlayerName'].unique())
     default_injured_players = [player for player in out_players if player in team_players]
 
     injured_players = st.sidebar.multiselect(
@@ -521,7 +425,6 @@ if view == "Player Prop Analysis":
     opponent = st.sidebar.selectbox("Select Opponent", options=teams)
 
     # Filter the dataframe for the selected player and prop
-    dataframe['GAME_DATE'] = pd.to_datetime(dataframe['GAME_DATE'], errors='coerce')
     dataframe.sort_values(by='GAME_DATE', ascending=False, inplace=True)
     dataframe['GAME_DATE'] = dataframe['GAME_DATE'].apply(lambda x: x.strftime('%m-%d-%y') if not pd.isnull(x) else x)
 
@@ -556,6 +459,13 @@ if view == "Player Prop Analysis":
     show_injured_players_expander(injury_data, team)
     if opponent:
         show_injured_players_expander(injury_data, opponent)
+
+    recommendation, avg_perf, injury_impact, ranking_impact = evaluate_prop_bet(player_data, selected_prop, value, team_rank, opponent_rank, injured_players)
+
+    if recommendation != "indeterminate":
+        st.markdown(f"<p style='color: green;'>{selected_prop} - Good {recommendation} bet. Avg Performance: {avg_perf}, Injury Impact: {injury_impact}, Ranking Impact: {ranking_impact}</p>", unsafe_allow_html=True)
+    else:
+        st.markdown(f"{selected_prop} - {recommendation}. Avg Performance: {avg_perf}, Injury Impact: {injury_impact}, Ranking Impact: {ranking_impact}")
 
     
     filter_type_options = ["Overall Last 10 Games", "Games Against Specific Opponent", "Games with Absent/Injured Players"]
@@ -600,9 +510,9 @@ if view == "Player Prop Analysis":
                 for category, details in results.items():
                     st.markdown(f"**{category}:**")
                     col1, col2 = st.columns(2)
-                    for i, (key, val) in enumerate(details.items()):
+                    for i, (key, val) in enumerate(details.items()):     
                         with col1 if i % 2 == 0 else col2:
-                            formatted_val = f"{val:.2f}%" if isinstance(val, float) and key in percentage_keys else val
+                            formatted_val = f"{val:.2f}%" if isinstance(val, float) else val
                             st.markdown(f"**{key.replace('_', ' ').title()}:** {formatted_val}")
 
 
@@ -684,4 +594,5 @@ elif view == "Over/Under Stats":
     sort_by = st.selectbox("Sort By", ["Under %", "Over %", "Exact %"])
     over_under_stats = calculate_over_under_stats(dataframe, sort_by)
     st.dataframe(over_under_stats)
+
 

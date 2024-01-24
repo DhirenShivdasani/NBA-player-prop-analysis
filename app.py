@@ -417,33 +417,34 @@ def extract_rankings_for_prop(matchup_data, prop_keys):
 
 
 def evaluate_prop_bet(player_data, prop_name, prop_value, team_ranking, opponent_def_ranking, injured_players):
-    last_n_games = 10  # Analyze the last 5 games
+    last_n_games = 10  # Analyze the last 10 games
 
-   # Player's average performance for the prop
+    # Player's average performance for the prop
     avg_prop_performance = player_data.head(last_n_games)[prop_name].mean()
 
     # Player's performance against this specific opponent
     avg_performance_against_opponent = player_data[(player_data['Away'] == opponent) | (player_data['Home'] == opponent)][prop_name].mean()
 
-    # Injury impact
-    injury_impact = "neutral"
-    if any(player in injured_players for player in player_data['PlayerName']):
-        injury_impact = "potential increase in opportunity"
+    # Injury impact for each injured player
+    injury_impacts = {}
+    for injured_player in injured_players:
+        injury_impact = analyze_individual_injury_impact(player_data, injured_player, prop_name)
+        injury_impacts[injured_player] = injury_impact
 
-    # Rankings impact
-    ranking_impact = "neutral"
-    if team_ranking and opponent_def_ranking:
-        if team_ranking < opponent_def_ranking:  # Higher rank is better
-            ranking_impact = "favorable"
+    # Check if the team rank is better (lower number) than the opponent's defense rank
+    favorable_matchup = team_ranking < opponent_def_ranking
 
     # Decision Logic
     recommendation = "indeterminate"
-    if avg_prop_performance > prop_value and (injury_impact == "potential increase in opportunity" or ranking_impact == "favorable"):
-        recommendation = 'over'
-    elif avg_prop_performance < prop_value and ranking_impact != "favorable":
-        recommendation = 'under'
+    if avg_prop_performance > prop_value:
+        if favorable_matchup or any(impact > prop_value for impact in injury_impacts.values() if impact is not None):
+            recommendation = 'over'
+    elif avg_prop_performance < prop_value:
+        if not favorable_matchup and all(impact < prop_value for impact in injury_impacts.values() if impact is not None):
+            recommendation = 'under'
 
-    return recommendation, avg_prop_performance, injury_impact, ranking_impact
+    return recommendation, avg_prop_performance, injury_impacts, team_ranking, opponent_def_ranking
+
 
 dataframe = load_data()
 injury_data = pd.read_csv('injury_data.csv')
@@ -577,14 +578,23 @@ if view == "Player Prop Analysis":
     if opponent:
         show_injured_players_expander(injury_data, opponent)
 
-    recommendation, avg_perf, injury_impact, ranking_impact = evaluate_prop_bet(player_data, selected_prop, value, team_rank, opponent_rank, injured_players)
+    # recommendation, avg_perf, injury_impact, team_ranking, opponent_def_ranking= evaluate_prop_bet(player_data, selected_prop, value, team_rank, opponent_rank, injured_players)
+    # is_good_bet = recommendation == 'over' or recommendation == 'under'
 
-    if recommendation != "indeterminate":
-        st.markdown(f"<p style='color: green;'>{selected_prop} - Good {recommendation} bet. Avg Performance: {avg_perf}, Injury Impact: {injury_impact}, Ranking Impact: {ranking_impact}</p>", unsafe_allow_html=True)
-    else:
-        st.markdown(f"{selected_prop} - {recommendation}. Avg Performance: {avg_perf}, Injury Impact: {injury_impact}, Ranking Impact: {ranking_impact}")
+    # # Display the recommendation with conditional formatting
+    # if is_good_bet:
+    #     st.markdown(f"<p style='color: green;'>Recommendation: Bet the <b>{recommendation}</b> on {avg_performance}</p>", unsafe_allow_html=True)
+    # else:
+    #     st.write(f"Recommendation: {recommendation} on {selected_prop}")
 
-    
+    #   # Display other results
+    # st.write("Injury Impacts:")
+    # for player, impact in injury_impact.items():
+    #     st.write(f"{player}: {impact}")
+
+    # st.write(f"Team Rank: {team_rank}")
+    # st.write(f"Opponent Defensive Rank: {opponent_def_ranking}")
+        
     filter_type_options = ["Overall Last 10 Games", "Games Against Specific Opponent", "Games with Absent/Injured Players"]
 
     # Allow user to select the filter type

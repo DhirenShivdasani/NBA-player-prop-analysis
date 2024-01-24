@@ -41,7 +41,7 @@ def odds_to_probability(american_odds):
 
 merged_df['Probability'] = merged_df['Odds'].apply(odds_to_probability)
 
-merged_df.to_csv('all_lines_and_odds.csv', index = False)
+merged_df.to_csv('odds_data.csv', index = False)
 merged_df = merged_df.sort_values(by = 'Odds', ascending=True) 
 
-merged_df.to_json('deez-locks/_data/odds_data.json', orient='records')
+# merged_df.to_json('odds_data.json', orient='records')

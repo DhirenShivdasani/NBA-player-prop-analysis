@@ -41,37 +41,34 @@ if response.status_code == 200:
 
     sportsbooks = ['draftkings', 'fanduel', 'mgm', 'pointsbet']
     props = ['pts', 'reb', 'ast', 'ptsrebast', 'ptsreb', 'ptsast', 'rebast']
+
     # Flatten each prop for each sportsbook into separate DataFrames
     flattened_dfs = []
     for prop in props:
         for sportsbook in sportsbooks:
             # Create a DataFrame for each prop and sportsbook
-            cols = [f'{sportsbook}_{prop}', f'{sportsbook}_{prop}Under', f'{sportsbook}_{prop}Over']
+            cols = [f'{sportsbook}_{prop}Under', f'{sportsbook}_{prop}Over']
             temp_df = master_df[['PlayerName', 'team', 'opp'] + cols].copy()
             temp_df['Prop'] = prop
             temp_df['Sportsbook'] = sportsbook
-            
-            # Combine prop values with odds
-            for col in ['Under', 'Over']:
-                odds_col = f'{sportsbook}_{prop}{col}'
-                temp_df[odds_col] = temp_df.apply(combine_prop_with_odds, args=(f'{sportsbook}_{prop}', odds_col), axis=1)
-
-            # Melting DataFrame
             temp_df = temp_df.melt(id_vars=['PlayerName', 'team', 'opp', 'Prop', 'Sportsbook'], 
-                                value_vars=[f'{sportsbook}_{prop}Under', f'{sportsbook}_{prop}Over'], 
+                                value_vars=cols, 
                                 var_name='Over_Under', 
                                 value_name='Odds')
+            # Clean the Over_Under column
             temp_df['Over_Under'] = temp_df['Over_Under'].apply(lambda x: 'Over' if 'Over' in x else 'Under')
             flattened_dfs.append(temp_df)
 
-    # Consolidate Sportsbook Odds
+    # Step 2: Create a Unified Prop Column
     consolidated_df = pd.concat(flattened_dfs)
-    pivot_df = consolidated_df.pivot_table(index=['PlayerName', 'Prop', 'Over_Under'], 
+
+    # Step 3: Consolidate Sportsbook Odds
+    # This step may require further clarification. If you want to have one row per player per prop with a column for each sportsbook's odds, you'll need to pivot the table
+    pivot_df = consolidated_df.pivot_table(index=['PlayerName', 'team', 'opp', 'Prop', 'Over_Under'], 
                                         columns='Sportsbook', 
                                         values='Odds', 
                                         aggfunc='first').reset_index()
 
-    # Apply prop mapping
     prop_mapping = {
         'pts': 'Points',
         'reb': 'Rebounds',
@@ -81,6 +78,9 @@ if response.status_code == 200:
         'ptsrebast': 'Pts+Rebs+Asts',
         'rebast': 'Rebs+Asts'
     }
+
+    # Step 2: Apply the Mapping
     pivot_df['Prop'] = pivot_df['Prop'].replace(prop_mapping)
+    pivot_df.drop(['opp', 'team'], axis = 1, inplace = True)
     pivot_df.reset_index(drop=True, inplace=True)
     pivot_df.to_csv('over_under_odds.csv', index = False)

@@ -744,6 +744,7 @@ elif view == "Over/Under Stats":
     sort_by = st.selectbox("Sort By", ["Under %", "Over %"])
     over_under_stats = calculate_over_under_stats(dataframe)
     combined_df = pd.merge(over_under_stats, odds, on=['PlayerName', 'Prop'])
+    combined_df.drop(['Exact %'], axis =1, inplace = True)
     if sort_by == "Over %":
        st.dataframe(combined_df[combined_df['Over_Under'] == 'Over'].sort_values(by = 'Over %', ascending = False))
     elif sort_by == "Under %":

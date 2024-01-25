@@ -1,8 +1,8 @@
 PlayerName,Prop,Over_Under,draftkings,fanduel,mgm,pointsbet
 Aaron Wiggins,Assists,Over,-,-,-,-
 Aaron Wiggins,Assists,Under,-,-,-,-
-Aaron Wiggins,Points,Over,10.5 (-110),-,-,-
-Aaron Wiggins,Points,Under,10.5 (-120),-,-,-
+Aaron Wiggins,Points,Over,9.5 (-160),-,-,-
+Aaron Wiggins,Points,Under,9.5 (120),-,-,-
 Aaron Wiggins,Pts+Asts,Over,-,-,-,-
 Aaron Wiggins,Pts+Asts,Under,-,-,-,-
 Aaron Wiggins,Pts+Rebs,Over,-,-,-,-
@@ -15,8 +15,8 @@ Aaron Wiggins,Rebs+Asts,Over,-,-,-,-
 Aaron Wiggins,Rebs+Asts,Under,-,-,-,-
 Andrew Wiggins,Assists,Over,-,-,-,-
 Andrew Wiggins,Assists,Under,-,-,-,-
-Andrew Wiggins,Points,Over,14.5 (-125),-,-,14.5 (-120)
-Andrew Wiggins,Points,Under,14.5 (-105),-,-,14.5 (-110)
+Andrew Wiggins,Points,Over,13.5 (105),-,-,13.5 (-140)
+Andrew Wiggins,Points,Under,13.5 (-135),-,-,13.5 (105)
 Andrew Wiggins,Pts+Asts,Over,-,-,-,-
 Andrew Wiggins,Pts+Asts,Under,-,-,-,-
 Andrew Wiggins,Pts+Rebs,Over,-,-,-,-
@@ -29,8 +29,8 @@ Andrew Wiggins,Rebs+Asts,Over,-,-,-,-
 Andrew Wiggins,Rebs+Asts,Under,-,-,-,-
 Blake Wesley,Assists,Over,-,-,-,-
 Blake Wesley,Assists,Under,-,-,-,-
-Blake Wesley,Points,Over,11.5 (-110),-,-,11.5 (115)
-Blake Wesley,Points,Under,11.5 (-120),-,-,11.5 (-150)
+Blake Wesley,Points,Over,11.5 (115),-,-,-
+Blake Wesley,Points,Under,11.5 (-150),-,-,-
 Blake Wesley,Pts+Asts,Over,-,-,-,-
 Blake Wesley,Pts+Asts,Under,-,-,-,-
 Blake Wesley,Pts+Rebs,Over,-,-,-,-
@@ -43,8 +43,8 @@ Blake Wesley,Rebs+Asts,Over,-,-,-,-
 Blake Wesley,Rebs+Asts,Under,-,-,-,-
 Bogdan Bogdanovic,Assists,Over,-,-,-,-
 Bogdan Bogdanovic,Assists,Under,-,-,-,-
-Bogdan Bogdanovic,Points,Over,22.5 (-125),22.5 (-111),-,21.5 (-140)
-Bogdan Bogdanovic,Points,Under,22.5 (-110),22.5 (-115),-,21.5 (105)
+Bogdan Bogdanovic,Points,Over,21.5 (-115),21.5 (-102),-,20.5 (-120)
+Bogdan Bogdanovic,Points,Under,21.5 (-115),21.5 (-125),-,20.5 (-110)
 Bogdan Bogdanovic,Pts+Asts,Over,-,-,-,-
 Bogdan Bogdanovic,Pts+Asts,Under,-,-,-,-
 Bogdan Bogdanovic,Pts+Rebs,Over,-,-,-,-
@@ -71,8 +71,8 @@ Brandin Podziemski,Rebs+Asts,Over,-,-,-,-
 Brandin Podziemski,Rebs+Asts,Under,-,-,-,-
 Cason Wallace,Assists,Over,-,-,-,-
 Cason Wallace,Assists,Under,-,-,-,-
-Cason Wallace,Points,Over,5.5 (110),-,-,-
-Cason Wallace,Points,Under,5.5 (-150),-,-,-
+Cason Wallace,Points,Over,3.5 (-115),-,-,-
+Cason Wallace,Points,Under,3.5 (-115),-,-,-
 Cason Wallace,Pts+Asts,Over,-,-,-,-
 Cason Wallace,Pts+Asts,Under,-,-,-,-
 Cason Wallace,Pts+Rebs,Over,-,-,-,-
@@ -85,8 +85,8 @@ Cason Wallace,Rebs+Asts,Over,-,-,-,-
 Cason Wallace,Rebs+Asts,Under,-,-,-,-
 Chet Holmgren,Assists,Over,-,-,-,-
 Chet Holmgren,Assists,Under,-,-,-,-
-Chet Holmgren,Points,Over,12.5 (100),12.5 (-106),-,12.5 (-115)
-Chet Holmgren,Points,Under,12.5 (-130),12.5 (-120),-,12.5 (-115)
+Chet Holmgren,Points,Over,10.5 (115),-,-,-
+Chet Holmgren,Points,Under,10.5 (-155),-,-,-
 Chet Holmgren,Pts+Asts,Over,-,-,-,-
 Chet Holmgren,Pts+Asts,Under,-,-,-,-
 Chet Holmgren,Pts+Rebs,Over,-,-,-,-
@@ -99,8 +99,8 @@ Chet Holmgren,Rebs+Asts,Over,-,-,-,-
 Chet Holmgren,Rebs+Asts,Under,-,-,-,-
 Clint Capela,Assists,Over,-,-,-,-
 Clint Capela,Assists,Under,-,-,-,-
-Clint Capela,Points,Over,9.5 (-145),-,-,12.5 (-105)
-Clint Capela,Points,Under,9.5 (110),-,-,12.5 (-125)
+Clint Capela,Points,Over,9.5 (-155),-,-,11.5 (-105)
+Clint Capela,Points,Under,9.5 (115),-,-,11.5 (-125)
 Clint Capela,Pts+Asts,Over,-,-,-,-
 Clint Capela,Pts+Asts,Under,-,-,-,-
 Clint Capela,Pts+Rebs,Over,-,-,-,-
@@ -113,8 +113,8 @@ Clint Capela,Rebs+Asts,Over,-,-,-,-
 Clint Capela,Rebs+Asts,Under,-,-,-,-
 Dario Saric,Assists,Over,-,-,-,-
 Dario Saric,Assists,Under,-,-,-,-
-Dario Saric,Points,Over,12.5 (100),-,-,-
-Dario Saric,Points,Under,12.5 (-135),-,-,-
+Dario Saric,Points,Over,12.5 (105),-,-,12.5 (-105)
+Dario Saric,Points,Under,12.5 (-140),-,-,12.5 (-125)
 Dario Saric,Pts+Asts,Over,-,-,-,-
 Dario Saric,Pts+Asts,Under,-,-,-,-
 Dario Saric,Pts+Rebs,Over,-,-,-,-
@@ -127,8 +127,8 @@ Dario Saric,Rebs+Asts,Over,-,-,-,-
 Dario Saric,Rebs+Asts,Under,-,-,-,-
 Dejounte Murray,Assists,Over,-,-,-,-
 Dejounte Murray,Assists,Under,-,-,-,-
-Dejounte Murray,Points,Over,22.5 (-110),21.5 (-111),-,22.5 (-105)
-Dejounte Murray,Points,Under,22.5 (-120),21.5 (-115),-,22.5 (-125)
+Dejounte Murray,Points,Over,21.5 (100),20.5 (-111),-,21.5 (-105)
+Dejounte Murray,Points,Under,21.5 (-130),20.5 (-115),-,21.5 (-125)
 Dejounte Murray,Pts+Asts,Over,-,-,-,-
 Dejounte Murray,Pts+Asts,Under,-,-,-,-
 Dejounte Murray,Pts+Rebs,Over,-,-,-,-
@@ -141,8 +141,8 @@ Dejounte Murray,Rebs+Asts,Over,-,-,-,-
 Dejounte Murray,Rebs+Asts,Under,-,-,-,-
 Devin Vassell,Assists,Over,-,-,-,-
 Devin Vassell,Assists,Under,-,-,-,-
-Devin Vassell,Points,Over,17.5 (-130),17.5 (-115),-,17.5 (-120)
-Devin Vassell,Points,Under,17.5 (-105),17.5 (-111),-,17.5 (-110)
+Devin Vassell,Points,Over,17.5 (-110),-,-,-
+Devin Vassell,Points,Under,17.5 (-120),-,-,-
 Devin Vassell,Pts+Asts,Over,-,-,-,-
 Devin Vassell,Pts+Asts,Under,-,-,-,-
 Devin Vassell,Pts+Rebs,Over,-,-,-,-
@@ -155,8 +155,8 @@ Devin Vassell,Rebs+Asts,Over,-,-,-,-
 Devin Vassell,Rebs+Asts,Under,-,-,-,-
 Draymond Green,Assists,Over,-,-,-,-
 Draymond Green,Assists,Under,-,-,-,-
-Draymond Green,Points,Over,11.5 (-110),-,-,11.5 (-115)
-Draymond Green,Points,Under,11.5 (-120),-,-,11.5 (-115)
+Draymond Green,Points,Over,10.5 (-130),-,-,-
+Draymond Green,Points,Under,10.5 (-105),-,-,-
 Draymond Green,Pts+Asts,Over,-,-,-,-
 Draymond Green,Pts+Asts,Under,-,-,-,-
 Draymond Green,Pts+Rebs,Over,-,-,-,-
@@ -169,8 +169,8 @@ Draymond Green,Rebs+Asts,Over,-,-,-,-
 Draymond Green,Rebs+Asts,Under,-,-,-,-
 Isaiah Joe,Assists,Over,-,-,-,-
 Isaiah Joe,Assists,Under,-,-,-,-
-Isaiah Joe,Points,Over,9.5 (115),-,-,-
-Isaiah Joe,Points,Under,9.5 (-150),-,-,-
+Isaiah Joe,Points,Over,11.5 (-125),-,-,-
+Isaiah Joe,Points,Under,11.5 (-110),-,-,-
 Isaiah Joe,Pts+Asts,Over,-,-,-,-
 Isaiah Joe,Pts+Asts,Under,-,-,-,-
 Isaiah Joe,Pts+Rebs,Over,-,-,-,-
@@ -183,8 +183,8 @@ Isaiah Joe,Rebs+Asts,Over,-,-,-,-
 Isaiah Joe,Rebs+Asts,Under,-,-,-,-
 Jalen Johnson,Assists,Over,-,-,-,-
 Jalen Johnson,Assists,Under,-,-,-,-
-Jalen Johnson,Points,Over,-,20.5 (-122),-,20.5 (-125)
-Jalen Johnson,Points,Under,-,20.5 (-104),-,20.5 (-105)
+Jalen Johnson,Points,Over,25.5 (-110),25.5 (-111),-,24.5 (-115)
+Jalen Johnson,Points,Under,25.5 (-120),25.5 (-115),-,24.5 (-115)
 Jalen Johnson,Pts+Asts,Over,-,-,-,-
 Jalen Johnson,Pts+Asts,Under,-,-,-,-
 Jalen Johnson,Pts+Rebs,Over,-,-,-,-
@@ -197,8 +197,8 @@ Jalen Johnson,Rebs+Asts,Over,-,-,-,-
 Jalen Johnson,Rebs+Asts,Under,-,-,-,-
 Jalen Williams,Assists,Over,-,-,-,-
 Jalen Williams,Assists,Under,-,-,-,-
-Jalen Williams,Points,Over,17.5 (-130),17.5 (-136),-,17.5 (-130)
-Jalen Williams,Points,Under,17.5 (100),17.5 (106),-,17.5 (100)
+Jalen Williams,Points,Over,16.5 (-135),-,-,-
+Jalen Williams,Points,Under,16.5 (100),-,-,-
 Jalen Williams,Pts+Asts,Over,-,-,-,-
 Jalen Williams,Pts+Asts,Under,-,-,-,-
 Jalen Williams,Pts+Rebs,Over,-,-,-,-
@@ -211,8 +211,8 @@ Jalen Williams,Rebs+Asts,Over,-,-,-,-
 Jalen Williams,Rebs+Asts,Under,-,-,-,-
 Jeremy Sochan,Assists,Over,-,-,-,-
 Jeremy Sochan,Assists,Under,-,-,-,-
-Jeremy Sochan,Points,Over,5.5 (100),-,-,5.5 (-150)
-Jeremy Sochan,Points,Under,5.5 (-130),-,-,5.5 (115)
+Jeremy Sochan,Points,Over,4.5 (135),-,-,-
+Jeremy Sochan,Points,Under,4.5 (-180),-,-,-
 Jeremy Sochan,Pts+Asts,Over,-,-,-,-
 Jeremy Sochan,Pts+Asts,Under,-,-,-,-
 Jeremy Sochan,Pts+Rebs,Over,-,-,-,-
@@ -225,8 +225,8 @@ Jeremy Sochan,Rebs+Asts,Over,-,-,-,-
 Jeremy Sochan,Rebs+Asts,Under,-,-,-,-
 Jonathan Kuminga,Assists,Over,-,-,-,-
 Jonathan Kuminga,Assists,Under,-,-,-,-
-Jonathan Kuminga,Points,Over,20.5 (-130),-,-,20.5 (-110)
-Jonathan Kuminga,Points,Under,20.5 (-105),-,-,20.5 (-120)
+Jonathan Kuminga,Points,Over,20.5 (100),-,-,-
+Jonathan Kuminga,Points,Under,20.5 (-135),-,-,-
 Jonathan Kuminga,Pts+Asts,Over,-,-,-,-
 Jonathan Kuminga,Pts+Asts,Under,-,-,-,-
 Jonathan Kuminga,Pts+Rebs,Over,-,-,-,-
@@ -239,8 +239,8 @@ Jonathan Kuminga,Rebs+Asts,Over,-,-,-,-
 Jonathan Kuminga,Rebs+Asts,Under,-,-,-,-
 Josh Giddey,Assists,Over,-,-,-,-
 Josh Giddey,Assists,Under,-,-,-,-
-Josh Giddey,Points,Over,12.5 (-135),-,-,12.5 (-140)
-Josh Giddey,Points,Under,12.5 (100),-,-,12.5 (105)
+Josh Giddey,Points,Over,10.5 (130),-,-,-
+Josh Giddey,Points,Under,10.5 (-175),-,-,-
 Josh Giddey,Pts+Asts,Over,-,-,-,-
 Josh Giddey,Pts+Asts,Under,-,-,-,-
 Josh Giddey,Pts+Rebs,Over,-,-,-,-
@@ -253,8 +253,8 @@ Josh Giddey,Rebs+Asts,Over,-,-,-,-
 Josh Giddey,Rebs+Asts,Under,-,-,-,-
 Julian Champagnie,Assists,Over,-,-,-,-
 Julian Champagnie,Assists,Under,-,-,-,-
-Julian Champagnie,Points,Over,1.5 (-140),-,-,2.5 (105)
-Julian Champagnie,Points,Under,1.5 (105),-,-,2.5 (-140)
+Julian Champagnie,Points,Over,0.5 (225),-,-,-
+Julian Champagnie,Points,Under,0.5 (-320),-,-,-
 Julian Champagnie,Pts+Asts,Over,-,-,-,-
 Julian Champagnie,Pts+Asts,Under,-,-,-,-
 Julian Champagnie,Pts+Rebs,Over,-,-,-,-
@@ -267,8 +267,8 @@ Julian Champagnie,Rebs+Asts,Over,-,-,-,-
 Julian Champagnie,Rebs+Asts,Under,-,-,-,-
 Keldon Johnson,Assists,Over,-,-,-,-
 Keldon Johnson,Assists,Under,-,-,-,-
-Keldon Johnson,Points,Over,12.5 (-110),-,-,-
-Keldon Johnson,Points,Under,12.5 (-120),-,-,-
+Keldon Johnson,Points,Over,11.5 (-140),-,-,-
+Keldon Johnson,Points,Under,11.5 (105),-,-,-
 Keldon Johnson,Pts+Asts,Over,-,-,-,-
 Keldon Johnson,Pts+Asts,Under,-,-,-,-
 Keldon Johnson,Pts+Rebs,Over,-,-,-,-
@@ -281,8 +281,8 @@ Keldon Johnson,Rebs+Asts,Over,-,-,-,-
 Keldon Johnson,Rebs+Asts,Under,-,-,-,-
 Kenrich Williams,Assists,Over,-,-,-,-
 Kenrich Williams,Assists,Under,-,-,-,-
-Kenrich Williams,Points,Over,1.5 (-155),-,-,-
-Kenrich Williams,Points,Under,1.5 (115),-,-,-
+Kenrich Williams,Points,Over,7.5 (100),-,-,-
+Kenrich Williams,Points,Under,7.5 (-130),-,-,-
 Kenrich Williams,Pts+Asts,Over,-,-,-,-
 Kenrich Williams,Pts+Asts,Under,-,-,-,-
 Kenrich Williams,Pts+Rebs,Over,-,-,-,-
@@ -295,8 +295,8 @@ Kenrich Williams,Rebs+Asts,Over,-,-,-,-
 Kenrich Williams,Rebs+Asts,Under,-,-,-,-
 Kevon Looney,Assists,Over,-,-,-,-
 Kevon Looney,Assists,Under,-,-,-,-
-Kevon Looney,Points,Over,1.5 (-150),-,-,-
-Kevon Looney,Points,Under,1.5 (110),-,-,-
+Kevon Looney,Points,Over,3.5 (-155),-,-,-
+Kevon Looney,Points,Under,3.5 (115),-,-,-
 Kevon Looney,Pts+Asts,Over,-,-,-,-
 Kevon Looney,Pts+Asts,Under,-,-,-,-
 Kevon Looney,Pts+Rebs,Over,-,-,-,-
@@ -309,8 +309,8 @@ Kevon Looney,Rebs+Asts,Over,-,-,-,-
 Kevon Looney,Rebs+Asts,Under,-,-,-,-
 Klay Thompson,Assists,Over,-,-,-,-
 Klay Thompson,Assists,Under,-,-,-,-
-Klay Thompson,Points,Over,23.5 (-115),22.5 (-128),-,23.5 (-125)
-Klay Thompson,Points,Under,23.5 (-115),22.5 (100),-,23.5 (-105)
+Klay Thompson,Points,Over,22.5 (-105),22.5 (-111),-,22.5 (-115)
+Klay Thompson,Points,Under,22.5 (-125),22.5 (-115),-,22.5 (-115)
 Klay Thompson,Pts+Asts,Over,-,-,-,-
 Klay Thompson,Pts+Asts,Under,-,-,-,-
 Klay Thompson,Pts+Rebs,Over,-,-,-,-
@@ -323,8 +323,8 @@ Klay Thompson,Rebs+Asts,Over,-,-,-,-
 Klay Thompson,Rebs+Asts,Under,-,-,-,-
 Luguentz Dort,Assists,Over,-,-,-,-
 Luguentz Dort,Assists,Under,-,-,-,-
-Luguentz Dort,Points,Over,5.5 (100),-,-,5.5 (105)
-Luguentz Dort,Points,Under,5.5 (-130),-,-,5.5 (-140)
+Luguentz Dort,Points,Over,4.5 (115),-,-,-
+Luguentz Dort,Points,Under,4.5 (-150),-,-,-
 Luguentz Dort,Pts+Asts,Over,-,-,-,-
 Luguentz Dort,Pts+Asts,Under,-,-,-,-
 Luguentz Dort,Pts+Rebs,Over,-,-,-,-
@@ -337,8 +337,8 @@ Luguentz Dort,Rebs+Asts,Over,-,-,-,-
 Luguentz Dort,Rebs+Asts,Under,-,-,-,-
 Onyeka Okongwu,Assists,Over,-,-,-,-
 Onyeka Okongwu,Assists,Under,-,-,-,-
-Onyeka Okongwu,Points,Over,6.5 (110),-,-,-
-Onyeka Okongwu,Points,Under,6.5 (-150),-,-,-
+Onyeka Okongwu,Points,Over,6.5 (105),-,-,-
+Onyeka Okongwu,Points,Under,6.5 (-140),-,-,-
 Onyeka Okongwu,Pts+Asts,Over,-,-,-,-
 Onyeka Okongwu,Pts+Asts,Under,-,-,-,-
 Onyeka Okongwu,Pts+Rebs,Over,-,-,-,-
@@ -351,8 +351,8 @@ Onyeka Okongwu,Rebs+Asts,Over,-,-,-,-
 Onyeka Okongwu,Rebs+Asts,Under,-,-,-,-
 Saddiq Bey,Assists,Over,-,-,-,-
 Saddiq Bey,Assists,Under,-,-,-,-
-Saddiq Bey,Points,Over,18.5 (-115),18.5 (-132),-,18.5 (-105)
-Saddiq Bey,Points,Under,18.5 (-115),18.5 (104),-,18.5 (-125)
+Saddiq Bey,Points,Over,22.5 (100),23.5 (-120),-,22.5 (110)
+Saddiq Bey,Points,Under,22.5 (-135),23.5 (-106),-,22.5 (-145)
 Saddiq Bey,Pts+Asts,Over,-,-,-,-
 Saddiq Bey,Pts+Asts,Under,-,-,-,-
 Saddiq Bey,Pts+Rebs,Over,-,-,-,-
@@ -365,8 +365,8 @@ Saddiq Bey,Rebs+Asts,Over,-,-,-,-
 Saddiq Bey,Rebs+Asts,Under,-,-,-,-
 Shai Gilgeous-Alexander,Assists,Over,-,-,-,-
 Shai Gilgeous-Alexander,Assists,Under,-,-,-,-
-Shai Gilgeous-Alexander,Points,Over,35.5 (-120),33.5 (-128),-,35.5 (-125)
-Shai Gilgeous-Alexander,Points,Under,35.5 (-110),33.5 (100),-,35.5 (-105)
+Shai Gilgeous-Alexander,Points,Over,34.5 (-130),-,-,-
+Shai Gilgeous-Alexander,Points,Under,34.5 (100),-,-,-
 Shai Gilgeous-Alexander,Pts+Asts,Over,-,-,-,-
 Shai Gilgeous-Alexander,Pts+Asts,Under,-,-,-,-
 Shai Gilgeous-Alexander,Pts+Rebs,Over,-,-,-,-
@@ -379,8 +379,8 @@ Shai Gilgeous-Alexander,Rebs+Asts,Over,-,-,-,-
 Shai Gilgeous-Alexander,Rebs+Asts,Under,-,-,-,-
 Stephen Curry,Assists,Over,-,-,-,-
 Stephen Curry,Assists,Under,-,-,-,-
-Stephen Curry,Points,Over,24.5 (-125),24.5 (100),-,25.5 (-105)
-Stephen Curry,Points,Under,24.5 (-105),24.5 (-128),-,25.5 (-125)
+Stephen Curry,Points,Over,26.5 (100),25.5 (-130),-,25.5 (-140)
+Stephen Curry,Points,Under,26.5 (-130),25.5 (102),-,25.5 (105)
 Stephen Curry,Pts+Asts,Over,-,-,-,-
 Stephen Curry,Pts+Asts,Under,-,-,-,-
 Stephen Curry,Pts+Rebs,Over,-,-,-,-
@@ -393,8 +393,8 @@ Stephen Curry,Rebs+Asts,Over,-,-,-,-
 Stephen Curry,Rebs+Asts,Under,-,-,-,-
 Victor Wembanyama,Assists,Over,-,-,-,-
 Victor Wembanyama,Assists,Under,-,-,-,-
-Victor Wembanyama,Points,Over,20.5 (-115),21.5 (-111),-,21.5 (-125)
-Victor Wembanyama,Points,Under,20.5 (-115),21.5 (-115),-,21.5 (-105)
+Victor Wembanyama,Points,Over,21.5 (-110),-,-,-
+Victor Wembanyama,Points,Under,21.5 (-120),-,-,-
 Victor Wembanyama,Pts+Asts,Over,-,-,-,-
 Victor Wembanyama,Pts+Asts,Under,-,-,-,-
 Victor Wembanyama,Pts+Rebs,Over,-,-,-,-
@@ -407,8 +407,8 @@ Victor Wembanyama,Rebs+Asts,Over,-,-,-,-
 Victor Wembanyama,Rebs+Asts,Under,-,-,-,-
 Zach Collins,Assists,Over,-,-,-,-
 Zach Collins,Assists,Under,-,-,-,-
-Zach Collins,Points,Over,9.5 (-145),-,-,-
-Zach Collins,Points,Under,9.5 (110),-,-,-
+Zach Collins,Points,Over,8.5 (110),-,-,-
+Zach Collins,Points,Under,8.5 (-145),-,-,-
 Zach Collins,Pts+Asts,Over,-,-,-,-
 Zach Collins,Pts+Asts,Under,-,-,-,-
 Zach Collins,Pts+Rebs,Over,-,-,-,-

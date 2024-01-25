@@ -5,6 +5,34 @@ import datetime as dt
 import numpy as np
 import time
 import json
+import os
+
+# Placeholder path for the file you are monitoring
+file_path = 'merged_data.csv'
+
+
+def get_file_info(filepath):
+    # Function to get file size and row count
+    file_size = os.path.getsize(filepath)
+    row_count = len(pd.read_csv(filepath))
+    return file_size, row_count
+
+def check_for_updates(filepath):
+    # Check if the file has been updated significantly
+    current_file_size, current_row_count = get_file_info(filepath)
+
+    last_file_size = st.session_state.get('last_file_size', current_file_size)
+    last_row_count = st.session_state.get('last_row_count', current_row_count)
+
+    significant_change = current_row_count - last_row_count >= 100
+
+    if significant_change:
+        # Update session state
+        st.session_state['last_file_size'] = current_file_size
+        st.session_state['last_row_count'] = current_row_count
+
+        return True
+    return False
 
 
 def load_data():
@@ -449,6 +477,11 @@ def evaluate_prop_bet(player_data, prop_name, prop_value, team_ranking, opponent
 dataframe = load_data()
 odds = pd.read_csv('over_under_odds.csv')
 injury_data = pd.read_csv('injury_data.csv')
+
+if check_for_updates(file_path):
+    st.info("Updates are available. Please refresh the app.")
+    if st.button("Refresh"):
+        st.rerun()
 
 opra = pd.read_csv('team_stats/opponent-points-plus-rebounds-plus-assists-per-gam_data.csv')
 opra.rename(columns={'Rank': 'PRA_Defense_Rank'}, inplace=True)

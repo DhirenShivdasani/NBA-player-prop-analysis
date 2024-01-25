@@ -56,7 +56,7 @@ def prop_result(row):
     else:
         return 0  # Exact
 
-def calculate_over_under_stats(df, sort_by):
+def calculate_over_under_stats(df):
     df['Prop_Result'] = df.apply(prop_result, axis=1)
 
     over_under_stats = df.groupby(['PlayerName', 'Value', 'Prop'])['Prop_Result'].value_counts(normalize=True).unstack(fill_value=0) * 100
@@ -72,7 +72,7 @@ def calculate_over_under_stats(df, sort_by):
 
     # Reset the index to turn the group by columns into regular columns
     grouped_stats = grouped_stats.reset_index()
-    return grouped_stats.sort_values(by=sort_by, ascending=False)
+    return grouped_stats
 
 
 def get_player_absences(dataframe, player_name, team):
@@ -447,6 +447,7 @@ def evaluate_prop_bet(player_data, prop_name, prop_value, team_ranking, opponent
 
 
 dataframe = load_data()
+odds = pd.read_csv('over_under_odds.csv')
 injury_data = pd.read_csv('injury_data.csv')
 
 opra = pd.read_csv('team_stats/opponent-points-plus-rebounds-plus-assists-per-gam_data.csv')
@@ -578,23 +579,6 @@ if view == "Player Prop Analysis":
     if opponent:
         show_injured_players_expander(injury_data, opponent)
 
-    # recommendation, avg_perf, injury_impact, team_ranking, opponent_def_ranking= evaluate_prop_bet(player_data, selected_prop, value, team_rank, opponent_rank, injured_players)
-    # is_good_bet = recommendation == 'over' or recommendation == 'under'
-
-    # # Display the recommendation with conditional formatting
-    # if is_good_bet:
-    #     st.markdown(f"<p style='color: green;'>Recommendation: Bet the <b>{recommendation}</b> on {avg_performance}</p>", unsafe_allow_html=True)
-    # else:
-    #     st.write(f"Recommendation: {recommendation} on {selected_prop}")
-
-    #   # Display other results
-    # st.write("Injury Impacts:")
-    # for player, impact in injury_impact.items():
-    #     st.write(f"{player}: {impact}")
-
-    # st.write(f"Team Rank: {team_rank}")
-    # st.write(f"Opponent Defensive Rank: {opponent_def_ranking}")
-        
     filter_type_options = ["Overall Last 10 Games", "Games Against Specific Opponent", "Games with Absent/Injured Players"]
 
     # Allow user to select the filter type
@@ -724,8 +708,14 @@ if view == "Player Prop Analysis":
 elif view == "Over/Under Stats":
     # Over/Under Stats Section
     st.title("Over/Under Stats")
-    sort_by = st.selectbox("Sort By", ["Under %", "Over %", "Exact %"])
-    over_under_stats = calculate_over_under_stats(dataframe, sort_by)
-    st.dataframe(over_under_stats)
+    sort_by = st.selectbox("Sort By", ["Under %", "Over %"])
+    over_under_stats = calculate_over_under_stats(dataframe)
+    combined_df = pd.merge(over_under_stats, odds, on=['PlayerName', 'Prop'])
+    if sort_by == "Over %":
+       st.dataframe(combined_df[combined_df['Over_Under'] == 'Over'].sort_values(by = 'Over %', ascending = False))
+    elif sort_by == "Under %":
+       st.dataframe(combined_df[combined_df['Over_Under'] == 'Under'].sort_values(by = 'Under %', ascending = False))
+
+    
 
 

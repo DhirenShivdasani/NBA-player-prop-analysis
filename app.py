@@ -6,6 +6,8 @@ import numpy as np
 import time
 import json
 import os
+import base64
+
 
 # Placeholder path for the file you are monitoring
 file_path = 'merged_data.csv'
@@ -473,9 +475,9 @@ def evaluate_prop_bet(player_data, prop_name, prop_value, team_ranking, opponent
 
     return recommendation, avg_prop_performance, injury_impacts, team_ranking, opponent_def_ranking
 
+odds = pd.read_csv('over_under_odds.csv')
 
 dataframe = load_data()
-odds = pd.read_csv('over_under_odds.csv')
 injury_data = pd.read_csv('injury_data.csv')
 
 if check_for_updates(file_path):
@@ -551,12 +553,18 @@ dataframe['GAME_DATE'] = pd.to_datetime(dataframe['GAME_DATE'], errors='coerce')
 most_recent_games = dataframe.sort_values(by='GAME_DATE', ascending=False)
 most_recent_team_per_player = most_recent_games.drop_duplicates(subset='PlayerName')[['PlayerName', 'Team']]
 
+
 # Sidebar for user inputs
 st.sidebar.header("User Input Parameters")
-view = st.sidebar.radio("View", ["Player Prop Analysis", "Over/Under Stats"])
+
+# view = st.sidebar.radio("View", ["Player Prop Analysis", "Over/Under Stats"])
+view_options = ["Player Prop Analysis", "Over/Under Stats"]
+view = st.sidebar.radio("View", view_options, index=view_options.index(st.session_state.get('view', view_options[0])))
 
 
 if view == "Player Prop Analysis":
+
+
     player_name = st.sidebar.selectbox("Select a Player", options=sorted(players_with_props['PlayerName'].unique()))
     available_props_for_player = players_with_props[players_with_props['PlayerName'] == player_name]['Prop'].unique()
     
@@ -737,7 +745,6 @@ if view == "Player Prop Analysis":
 
             plot_performance_bar_chart(game_dates, performances, selected_prop, value, player_name)
 
-
 elif view == "Over/Under Stats":
     # Over/Under Stats Section
     st.title("Over/Under Stats")
@@ -745,11 +752,14 @@ elif view == "Over/Under Stats":
     over_under_stats = calculate_over_under_stats(dataframe)
     combined_df = pd.merge(over_under_stats, odds, on=['PlayerName', 'Prop'])
     combined_df.drop(['Exact %'], axis =1, inplace = True)
-    if sort_by == "Over %":
-       st.dataframe(combined_df[combined_df['Over_Under'] == 'Over'].sort_values(by = 'Over %', ascending = False))
-    elif sort_by == "Under %":
-       st.dataframe(combined_df[combined_df['Over_Under'] == 'Under'].sort_values(by = 'Under %', ascending = False))
+    # Convert dataframe to HTML and render with Streamlit
 
-    
+    if sort_by == "Over %":
+        combined_df = combined_df[combined_df['Over_Under'] == 'Over'].sort_values(by = 'Over %', ascending = False)
+        st.dataframe(combined_df)
+    elif sort_by == "Under %":
+        combined_df = combined_df[combined_df['Over_Under'] == 'Under'].sort_values(by = 'Under %', ascending = False)
+        st.dataframe(combined_df)
+        
 
 

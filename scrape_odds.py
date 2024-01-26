@@ -81,6 +81,6 @@ if response.status_code == 200:
 
     # Step 2: Apply the Mapping
     pivot_df['Prop'] = pivot_df['Prop'].replace(prop_mapping)
-    pivot_df.drop(['opp', 'team'], axis = 1, inplace = True)
+    pivot_df.drop(['team'], axis = 1, inplace = True)
     pivot_df.reset_index(drop=True, inplace=True)
     pivot_df.to_csv('over_under_odds.csv', index = False)

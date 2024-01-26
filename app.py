@@ -750,6 +750,7 @@ elif view == "Over/Under Stats":
     st.title("Over/Under Stats")
     sort_by = st.selectbox("Sort By", ["Under %", "Over %"])
     over_under_stats = calculate_over_under_stats(dataframe)
+    print(over_under_stats.head())
     combined_df = pd.merge(over_under_stats, odds, on=['PlayerName', 'Prop'])
     combined_df.drop(['Exact %'], axis =1, inplace = True)
     # Convert dataframe to HTML and render with Streamlit

@@ -277,7 +277,40 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
             else:
                 print(f'{player_name} rank not available')
                 player_stat_given = None
-        
+
+        rankings_dict = {
+        'Points': None,
+        'Rebounds': None,
+        'Assists': None,
+        'Pts+Rebs+Asts': None,
+        'Pts+Asts': None,
+        'Pts+Rebs': None,
+        'Rebs+Asts': None
+        }
+
+        opponent_data_points = pd.read_csv('team_stats/opponent-points-per-game_data.csv')
+        rankings_dict['Points'] = opponent_data_points[opponent_data_points['Team'] == opponent]['Rank'].values[0]
+
+        opponent_data_rebounds = pd.read_csv('team_stats/opponent-total-rebounds-per-game_data.csv')
+        rankings_dict['Rebounds'] = opponent_data_rebounds[opponent_data_rebounds['Team'] == opponent]['Rank'].values[0]
+
+        opponent_data_assists = pd.read_csv('team_stats/opponent-assists-per-game_data.csv')
+        rankings_dict['Assists'] = opponent_data_assists[opponent_data_assists['Team'] == opponent]['Rank'].values[0]
+
+        opponent_data_pts_rebs_asts = pd.read_csv('team_stats/opponent-points-plus-rebounds-plus-assists-per-gam_data.csv')
+        rankings_dict['Pts+Rebs+Asts'] = opponent_data_pts_rebs_asts[opponent_data_pts_rebs_asts['Team'] == opponent]['Rank'].values[0]
+
+        opponent_data_pts_asts = pd.read_csv('team_stats/opponent-points-plus-assists-per-game_data.csv')
+        rankings_dict['Pts+Asts'] = opponent_data_pts_asts[opponent_data_pts_asts['Team'] == opponent]['Rank'].values[0]
+
+        opponent_data_pts_rebs = pd.read_csv('team_stats/opponent-points-plus-rebounds-per-game_data.csv')
+        rankings_dict['Pts+Rebs'] = opponent_data_pts_rebs[opponent_data_pts_rebs['Team'] == opponent]['Rank'].values[0]
+
+        opponent_data_rebs_asts = pd.read_csv('team_stats/opponent-rebounds-plus-assists-per-game_data.csv')
+        rankings_dict['Rebs+Asts'] = opponent_data_rebs_asts[opponent_data_rebs_asts['Team'] == opponent]['Rank'].values[0]
+
+        rankings_df = pd.DataFrame([rankings_dict], index=[opponent])
+
 
         # Final results including all factors
         results = {
@@ -311,7 +344,7 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
             'Injured Player Impact': {injured_player: f"{impact:.2f}" for injured_player, impact in injured_players_impact.items()}
         }
 
-        return results
+        return results, rankings_df.style.applymap(color_ranking)
     else:
         return f"Prop type '{prop_type_adjusted}' not found in data."
     
@@ -474,6 +507,34 @@ def evaluate_prop_bet(player_data, prop_name, prop_value, team_ranking, opponent
             recommendation = 'under'
 
     return recommendation, avg_prop_performance, injury_impacts, team_ranking, opponent_def_ranking
+
+def calculate_implied_probability(odds):
+    if pd.isna(odds) or odds == 0:
+        return None
+    if odds > 0:
+        return 100 / (odds + 100)
+    else:
+        return -odds / (-odds + 100)
+
+
+def average_implied_probability(row):
+    odds_list = [row['draftkings'], row['fanduel'], row['mgm'], row['pointsbet']]
+    valid_odds = [calculate_implied_probability(odds) for odds in odds_list if not pd.isna(odds)]
+    return None if not valid_odds else sum(valid_odds) / len(valid_odds)
+
+
+def color_ranking(val):
+    """
+    Colors rankings based on their value.
+    1-10: Red, 11-20: Yellow, 21-30: Green
+    """
+    if val <= 10:
+        color = 'red'
+    elif val <= 20:
+        color = 'yellow'
+    else:
+        color = 'green'
+    return f'background-color: {color}'
 
 odds = pd.read_csv('over_under_odds.csv')
 
@@ -641,11 +702,12 @@ if view == "Player Prop Analysis":
             player_data = player_data
 
         # Select the last 10 games based on the filtered data
-        last_10_games = player_data.head(10)
+        last_10_games = player_data.drop_duplicates(subset='Game_ID').head(10)
 
-        with st.spinner('Loading data...'):
-            time.sleep(0.5)
-
+    
+        results, rankings = analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_players, value, selected_prop)
+        st.subheader(f'{opponent} Defense (Allowed)')
+        st.dataframe(rankings)
         st.subheader('Game Logs (Last 10)')
         st.dataframe(last_10_games.drop(['Value', 'Prop', 'Game_ID','PlayerName', 'VIDEO_AVAILABLE', 'SEASON_ID', 'Player_ID', 'OREB', 'DREB', 'Team', 'Home', 'Away', 'STL', 'BLK', 'TOV', 'Team_Total', 'Opponent_Total', 'PTS_Team_Total', 'PRA_Defense_Rank', 'PRA_Rank',
                 'PA_Rank', 'PR_Defense_Rank', 'PR_Rank', 'PA_Defense_Rank',
@@ -654,7 +716,6 @@ if view == "Player Prop Analysis":
                 'Assists_Rank', 'Matchup_Rankings'], axis=1))
 
         # Analyze the prop bet and display results
-        results = analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_players, value, selected_prop)
         if isinstance(results, str):
             st.error(results)
         else:
@@ -750,7 +811,9 @@ elif view == "Over/Under Stats":
     st.title("Over/Under Stats")
     sort_by = st.selectbox("Sort By", ["Under %", "Over %"])
     over_under_stats = calculate_over_under_stats(dataframe)
-    print(over_under_stats.head())
+    odds['Average_Implied_Probability'] = odds.apply(average_implied_probability, axis=1)
+
+
     combined_df = pd.merge(over_under_stats, odds, on=['PlayerName', 'Prop'])
     combined_df.drop(['Exact %'], axis =1, inplace = True)
     # Convert dataframe to HTML and render with Streamlit

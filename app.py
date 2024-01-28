@@ -810,14 +810,21 @@ elif view == "Over/Under Stats":
     # Over/Under Stats Section
     st.title("Over/Under Stats")
     sort_by = st.selectbox("Sort By", ["Under %", "Over %"])
-    over_under_stats = calculate_over_under_stats(dataframe)
+    total_games_played_series = most_recent_games.groupby('PlayerName').size()
+
+      # Map this information to a new column in your existing DataFrame
+    over_under_stats = calculate_over_under_stats(most_recent_games)
+
     odds['Average_Implied_Probability'] = odds.apply(average_implied_probability, axis=1)
 
 
+  
     combined_df = pd.merge(over_under_stats, odds, on=['PlayerName', 'Prop'])
+    combined_df['Games_Played'] = combined_df['PlayerName'].map(total_games_played_series)
+
     combined_df.drop(['Exact %'], axis =1, inplace = True)
     # Convert dataframe to HTML and render with Streamlit
-
+    combined_df.set_index(['Average_Implied_Probability'], inplace=True)
     if sort_by == "Over %":
         combined_df = combined_df[combined_df['Over_Under'] == 'Over'].sort_values(by = 'Over %', ascending = False)
         st.dataframe(combined_df)

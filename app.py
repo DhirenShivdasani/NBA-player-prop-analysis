@@ -146,7 +146,9 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
     win_percentage_away = away_games['WL'].value_counts(normalize=True).get('W', 0) * 100
 
     historical_performance_against_opponent = player_data[(player_data['Away'] == opponent) | (player_data['Home'] == opponent)][prop_type_adjusted]
-    player_avg_minutes = player_data['MIN'].mean()
+    last_10_games = player_data.drop_duplicates(subset='Game_ID').head(10)
+
+    player_avg_minutes = last_10_games['MIN'].mean()
     player_avg_minutes_with_teammates_out = player_data[player_data['Game_ID'].isin(unique_injured_players_out_dates)]['MIN'].mean()
 
     player_performance_with_teammates_out = player_data[player_data['Game_ID'].isin(unique_injured_players_out_dates)][prop_type_adjusted].mean()
@@ -158,7 +160,7 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
         injured_players_impact[injured_player] = avg_performance_with_injured_player
 
     if prop_type_adjusted in player_data.columns:
-        average_overall = player_data[prop_type_adjusted].mean()
+        average_overall = last_10_games[prop_type_adjusted].mean()
         std_dev = player_data[prop_type_adjusted].std()
         average_home = player_data[player_data['Home'] == team][prop_type_adjusted].mean()
         average_away = player_data[player_data['Away'] == team][prop_type_adjusted].mean()

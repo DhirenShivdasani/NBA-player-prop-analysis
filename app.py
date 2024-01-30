@@ -86,22 +86,27 @@ def prop_result(row):
     else:
         return 0  # Exact
 
+
+
 def calculate_over_under_stats(df):
     df['Prop_Result'] = df.apply(prop_result, axis=1)
 
-    over_under_stats = df.groupby(['PlayerName', 'Value', 'Prop'])['Prop_Result'].value_counts(normalize=True).unstack(fill_value=0) * 100
+    def calculate_last_10_games_stats(player_df):
+        # Assuming player_df is sorted by date, take the last 10 games
+        last_10_games = player_df.head(10)
+        stats = last_10_games['Prop_Result'].value_counts(normalize=True).reindex([-1, 0, 1], fill_value=0).to_frame().T * 100
+        stats.columns = ['Under %', 'Exact %', 'Over %']  # Rename columns for clarity
+        return stats
 
-    # Rename columns for clarity
-    over_under_stats['Prop_Result'] = df.apply(prop_result, axis=1)
+    # Sort the DataFrame by PlayerName and Date (assuming Date is a column in your DataFrame)
+    # df = df.sort_values(['PlayerName', 'GAME_DATE'])
 
-    grouped_stats = df.groupby(['PlayerName', 'Value', 'Prop'])['Prop_Result'].value_counts(normalize=True).unstack(fill_value=0) * 100
-
-
-    # Rename columns for clarity
-    grouped_stats = grouped_stats.rename(columns={-1: 'Under %', 0: 'Exact %', 1: 'Over %'})
+    # Apply the function to each group and calculate the over/under stats
+    grouped_stats = df.groupby(['PlayerName', 'Value', 'Prop']).apply(calculate_last_10_games_stats)
 
     # Reset the index to turn the group by columns into regular columns
     grouped_stats = grouped_stats.reset_index()
+
     return grouped_stats
 
 
@@ -431,8 +436,6 @@ def get_games_with_selected_absent_players(dataframe, selected_players, team):
         absent_games.update(get_player_absences(dataframe, player, team))
     return absent_games
 
-# ranking_types = ['PRA_Rank', 'PR_Rank', 'PA_Rank', 'RA_Rank', 'Points_Rank', 'Rebounds_Rank', 'Assists_Rank','PRA_Defense_Rank', 'PR_Defense_Rank', 'PA_Defense_Rank', 'RA_Defense_Rank', 'Points_Defense_Rank', 'Rebounds_Defense_Rank', 'Assists_Defense_Rank']
-
 
 def get_matchup_rankings(data, game_id, team):
     game_row = data[data['Game_ID'] == game_id]
@@ -524,7 +527,6 @@ def average_implied_probability(row):
     valid_odds = [calculate_implied_probability(odds) for odds in odds_list if not pd.isna(odds)]
     return None if not valid_odds else sum(valid_odds) / len(valid_odds)
 
-
 def color_ranking(val):
     """
     Colors rankings based on their value.
@@ -537,6 +539,12 @@ def color_ranking(val):
     else:
         color = 'green'
     return f'background-color: {color}'
+
+def get_injured_players_for_game(game_id, team, injury_data):
+    injured_players = injury_data[(injury_data['Team'] == team) & 
+                                  (injury_data['Details'].str.contains('Out|Day To Day')) &
+                                  (injury_data['Game_ID'] == game_id)]['Player'].tolist()
+    return ', '.join(injured_players)
 
 odds = pd.read_csv('over_under_odds.csv')
 
@@ -812,27 +820,31 @@ elif view == "Over/Under Stats":
     # Over/Under Stats Section
     st.title("Over/Under Stats")
     sort_by = st.selectbox("Sort By", ["Under %", "Over %"])
+
     total_games_played_series = most_recent_games.groupby('PlayerName').size()
 
       # Map this information to a new column in your existing DataFrame
     over_under_stats = calculate_over_under_stats(most_recent_games)
-
-    odds['Average_Implied_Probability'] = odds.apply(average_implied_probability, axis=1)
+    # odds['Average_Implied_Probability'] = odds.apply(average_implied_probability, axis=1)
 
 
   
     combined_df = pd.merge(over_under_stats, odds, on=['PlayerName', 'Prop'])
-    combined_df['Games_Played'] = combined_df['PlayerName'].map(total_games_played_series)
+    # combined_df['Games_Played'] = combined_df['PlayerName'].map(total_games_played_series)
 
-    combined_df.drop(['Exact %'], axis =1, inplace = True)
     # Convert dataframe to HTML and render with Streamlit
-    combined_df.set_index(['Average_Implied_Probability'], inplace=True)
+    # combined_df.set_index(['Average_Implied_Probability'], inplace=True)
+
+    combined_df.drop(['level_3', 'Exact %'], axis =1, inplace = True)
+
+  
     if sort_by == "Over %":
         combined_df = combined_df[combined_df['Over_Under'] == 'Over'].sort_values(by = 'Over %', ascending = False)
-        st.dataframe(combined_df)
+   
+        st.dataframe(combined_df.drop(['Over_Under'], axis =1))
     elif sort_by == "Under %":
         combined_df = combined_df[combined_df['Over_Under'] == 'Under'].sort_values(by = 'Under %', ascending = False)
-        st.dataframe(combined_df)
-        
+ 
+        st.dataframe(combined_df.drop(['Over_Under'], axis =1))        
 
 

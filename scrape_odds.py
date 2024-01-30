@@ -5,14 +5,6 @@ import json
 import re
 
 
-def combine_prop_with_odds(row, prop_col, odds_col):
-        prop_value = row[prop_col]
-        odds_value = row[odds_col]
-        if pd.isna(odds_value) or odds_value == 'NaN':
-            return '-'
-        else:
-            return f"{prop_value} ({odds_value})"
-
 # URL of the webpage to scrape
 url = 'https://www.rotowire.com/betting/nba/player-props.php'
 response = requests.get(url)
@@ -40,35 +32,40 @@ if response.status_code == 200:
     master_df.drop(['firstName', 'lastName'], axis =1, inplace = True)
 
     sportsbooks = ['draftkings', 'fanduel', 'mgm', 'pointsbet']
-    props = ['pts', 'reb', 'ast', 'ptsrebast', 'ptsreb', 'ptsast', 'rebast']
+props = ['pts', 'reb', 'ast', 'ptsrebast', 'ptsreb', 'ptsast', 'rebast']
 
-    # Flatten each prop for each sportsbook into separate DataFrames
-    flattened_dfs = []
-    for prop in props:
-        for sportsbook in sportsbooks:
-            # Create a DataFrame for each prop and sportsbook
-            cols = [f'{sportsbook}_{prop}Under', f'{sportsbook}_{prop}Over']
-            temp_df = master_df[['PlayerName', 'team', 'opp'] + cols].copy()
-            temp_df['Prop'] = prop
-            temp_df['Sportsbook'] = sportsbook
-            temp_df = temp_df.melt(id_vars=['PlayerName', 'team', 'opp', 'Prop', 'Sportsbook'], 
-                                value_vars=cols, 
-                                var_name='Over_Under', 
-                                value_name='Odds')
-            # Clean the Over_Under column
-            temp_df['Over_Under'] = temp_df['Over_Under'].apply(lambda x: 'Over' if 'Over' in x else 'Under')
-            flattened_dfs.append(temp_df)
+# Flatten each prop for each sportsbook into separate DataFrames
+flattened_dfs = []
+for prop in props:
+    for sportsbook in sportsbooks:
+        # Include prop value columns
+        cols = [f'{sportsbook}_{prop}Under', f'{sportsbook}_{prop}Over', f'{sportsbook}_{prop}']
+        temp_df = master_df[['PlayerName', 'team', 'opp'] + cols].copy()
+        temp_df['Prop'] = prop
+        temp_df['Sportsbook'] = sportsbook
+        
+        # Melt the DataFrame
+        temp_df = temp_df.melt(id_vars=['PlayerName', 'team', 'opp', 'Prop', 'Sportsbook', f'{sportsbook}_{prop}'], 
+                               value_vars=[f'{sportsbook}_{prop}Under', f'{sportsbook}_{prop}Over'], 
+                               var_name='Over_Under', 
+                               value_name='Odds')
+        
+        # Clean the Over_Under column
+        temp_df['Over_Under'] = temp_df['Over_Under'].apply(lambda x: 'Over' if 'Over' in x else 'Under')
+
+        # Combine odds and value into a single column
+        temp_df['Odds_Value'] = temp_df.apply(lambda row: f"({row[f'{sportsbook}_{prop}']}) {row['Odds']}", axis=1)
+
+        flattened_dfs.append(temp_df)
 
     # Step 2: Create a Unified Prop Column
     consolidated_df = pd.concat(flattened_dfs)
 
-    # Step 3: Consolidate Sportsbook Odds
-    # This step may require further clarification. If you want to have one row per player per prop with a column for each sportsbook's odds, you'll need to pivot the table
+    # Step 3: Consolidate Sportsbook Odds and Values
     pivot_df = consolidated_df.pivot_table(index=['PlayerName', 'team', 'opp', 'Prop', 'Over_Under'], 
                                         columns='Sportsbook', 
-                                        values='Odds', 
+                                        values='Odds_Value', 
                                         aggfunc='first').reset_index()
-
     prop_mapping = {
         'pts': 'Points',
         'reb': 'Rebounds',
@@ -81,6 +78,8 @@ if response.status_code == 200:
 
     # Step 2: Apply the Mapping
     pivot_df['Prop'] = pivot_df['Prop'].replace(prop_mapping)
-    pivot_df.drop(['team'], axis = 1, inplace = True)
+    pivot_df.replace('(nan) nan', None, inplace=True)
+
+    pivot_df.drop([ 'team'], axis = 1, inplace = True)
     pivot_df.reset_index(drop=True, inplace=True)
     pivot_df.to_csv('over_under_odds.csv', index = False)

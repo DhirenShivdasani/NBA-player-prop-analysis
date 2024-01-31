@@ -7,7 +7,7 @@ import time
 import json
 import os
 import base64
-
+import re
 
 # Placeholder path for the file you are monitoring
 file_path = 'merged_data.csv'
@@ -519,13 +519,26 @@ def calculate_implied_probability(odds):
     if odds > 0:
         return 100 / (odds + 100)
     else:
-        return -odds / (-odds + 100)
+        return abs(odds) / (abs(odds) + 100)
 
+def extract_numeric_odds(odds_str):
+    if pd.isna(odds_str):
+        return None
+    match = re.search(r'\((.*?)\)', odds_str)
+    if match:
+        odds = match.group(1)
+        try:
+            return float(odds)
+        except ValueError:
+            return None
+    return None
 
 def average_implied_probability(row):
     odds_list = [row['draftkings'], row['fanduel'], row['mgm'], row['pointsbet']]
-    valid_odds = [calculate_implied_probability(odds) for odds in odds_list if not pd.isna(odds)]
+    numeric_odds_list = [extract_numeric_odds(odds) for odds in odds_list]
+    valid_odds = [calculate_implied_probability(odds) for odds in numeric_odds_list if odds is not None]
     return None if not valid_odds else sum(valid_odds) / len(valid_odds)
+
 
 def color_ranking(val):
     """
@@ -629,7 +642,7 @@ most_recent_team_per_player = most_recent_games.drop_duplicates(subset='PlayerNa
 st.sidebar.header("User Input Parameters")
 
 # view = st.sidebar.radio("View", ["Player Prop Analysis", "Over/Under Stats"])
-view_options = ["Player Prop Analysis", "Over/Under Stats"]
+view_options = ["Player Prop Analysis", "Over/Under Stats L10"]
 view = st.sidebar.radio("View", view_options, index=view_options.index(st.session_state.get('view', view_options[0])))
 
 
@@ -748,6 +761,8 @@ if view == "Player Prop Analysis":
         # Plot the performance bar chart
         game_dates = last_10_games.index.get_level_values('GAME_DATE').tolist()
         performances = last_10_games[selected_prop].tolist()
+        minutes = player_data.index.get_level_values('MIN').tolist()
+
         game_dates.reverse()
         performances.reverse()
         plot_performance_bar_chart(game_dates, performances, selected_prop, value, player_name)
@@ -783,6 +798,8 @@ if view == "Player Prop Analysis":
             # Display bar graph for performances
             game_dates = player_data_filtered.index.get_level_values('GAME_DATE').tolist()
             performances = player_data_filtered[selected_prop].tolist()
+            minutes = player_data.index.get_level_values('MIN').tolist()
+
             game_dates.reverse()
             performances.reverse()
             plot_performance_bar_chart(game_dates, performances, selected_prop, value, player_name)
@@ -810,13 +827,15 @@ if view == "Player Prop Analysis":
 
             # Extract necessary data for the plot
             game_dates = player_data.index.get_level_values('GAME_DATE').tolist()
+            minutes = player_data.index.get_level_values('MIN').tolist()
+
             performances = player_data[selected_prop].tolist()
             game_dates.reverse()
             performances.reverse()
 
             plot_performance_bar_chart(game_dates, performances, selected_prop, value, player_name)
 
-elif view == "Over/Under Stats":
+elif view == "Over/Under Stats L10":
     # Over/Under Stats Section
     st.title("Over/Under Stats")
     sort_by = st.selectbox("Sort By", ["Under %", "Over %"])
@@ -833,7 +852,7 @@ elif view == "Over/Under Stats":
     # combined_df['Games_Played'] = combined_df['PlayerName'].map(total_games_played_series)
 
     # Convert dataframe to HTML and render with Streamlit
-    # combined_df.set_index(['Average_Implied_Probability'], inplace=True)
+    combined_df.set_index(['PlayerName'], inplace=True)
 
     combined_df.drop(['level_3', 'Exact %'], axis =1, inplace = True)
 

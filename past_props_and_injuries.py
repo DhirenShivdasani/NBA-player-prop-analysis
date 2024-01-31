@@ -16,8 +16,6 @@ def update_injury_data(historical_data_path):
     daily_injury_data = fetch_daily_injury_data()
     daily_injury_data['Date'] = datetime.datetime.now().strftime('%Y-%m-%d')
     
-
-
     try:
         historical_data = pd.read_csv(historical_data_path)
         updated_data = pd.concat([historical_data, daily_injury_data], ignore_index=True)
@@ -29,7 +27,6 @@ def update_injury_data(historical_data_path):
 def update_prop_data(historical_prop_path):
     daily_prop_data = fetch_daily_prop_data()
     daily_prop_data['Date'] = datetime.datetime.now().strftime('%Y-%m-%d')
-    
 
     try:
         historical_data = pd.read_csv(historical_prop_path)

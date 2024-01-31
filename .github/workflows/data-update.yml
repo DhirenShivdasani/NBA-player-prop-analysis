@@ -24,8 +24,6 @@ jobs:
       run: python stats.py
     - name: Run injury_data.py
       run: python injury_data.py
-    - name: Run app.py
-      run: python app.py
     - name: Commit and push if there are changes
       run: |
         git config user.email "dhiren3102@gmail.com"

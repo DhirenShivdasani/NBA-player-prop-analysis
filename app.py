@@ -686,6 +686,8 @@ view = st.sidebar.radio("View", view_options, index=view_options.index(st.sessio
 
 if view == "Player Prop Analysis":
 
+    st.info('Updates player props at 12pm EST daily')
+
 
     player_name = st.sidebar.selectbox("Select a Player", options=sorted(players_with_props['PlayerName'].unique()))
     available_props_for_player = players_with_props[players_with_props['PlayerName'] == player_name]['Prop'].unique()

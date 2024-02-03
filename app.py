@@ -53,9 +53,15 @@ def load_data():
     merged_data['Pts+Asts'] = merged_data['PTS'] + merged_data['AST']
     merged_data['Rebs+Asts'] = merged_data['REB'] + merged_data['AST']
     merged_data= merged_data.rename(columns = {'PTS':'Points', 'REB': 'Rebounds', 'AST': 'Assists'})
+
+    pos = pd.read_csv('nba_player_positions.csv')
+    pos = pos[["NAME", "POS"]]
+    pos.rename(columns = {'NAME': 'PlayerName'}, inplace = True)
+    merged_data = pd.merge(pos, merged_data, on = 'PlayerName')
     merged_data.to_csv('merged_data.csv', index = False)
 
     dataframe = pd.read_csv('merged_data.csv')
+
     return dataframe
 
 # Merge the dataframes on the player's name
@@ -513,25 +519,28 @@ def evaluate_prop_bet(player_data, prop_name, prop_value, team_ranking, opponent
 
     return recommendation, avg_prop_performance, injury_impacts, team_ranking, opponent_def_ranking
 
-def calculate_implied_probability(odds):
-    if pd.isna(odds) or odds == 0:
-        return None
+def odds_to_implied_probability(odds):
     if odds > 0:
         return 100 / (odds + 100)
-    else:
+    elif odds < 0:
         return abs(odds) / (abs(odds) + 100)
-
-def extract_numeric_odds(odds_str):
-    if pd.isna(odds_str):
+    else:
         return None
-    match = re.search(r'\((.*?)\)', odds_str)
-    if match:
-        odds = match.group(1)
+
+def extract_and_convert(odds):
+    if isinstance(odds, str):
         try:
-            return float(odds)
-        except ValueError:
+            # Assuming the odds are in a format like "(+100)" or "(-110)"
+            odds = float(odds.split()[-1].strip("()"))
+        except (ValueError, IndexError):
             return None
-    return None
+    elif isinstance(odds, float):
+        # If the odds are already a float, use them directly
+        return odds
+    else:
+        return None
+
+    return odds_to_implied_probability(odds)
 
 def average_implied_probability(row):
     odds_list = [row['draftkings'], row['fanduel'], row['mgm'], row['pointsbet']]
@@ -568,6 +577,35 @@ if check_for_updates(file_path):
     st.info("Updates are available. Please refresh the app.")
     if st.button("Refresh"):
         st.rerun()
+
+
+
+# dataframe['Defending_Team'] = dataframe.apply(lambda x: x['Away'] if x['Team'] == x['Home'] else x['Home'], axis=1)
+# print(dataframe.columns)
+
+# avg_stats_allowed = dataframe.groupby(['Defending_Team', 'POS']).agg({
+#     'Points': 'mean',
+#     'Rebounds': 'mean',
+#     'Assists': 'mean',
+#     'Pts+Rebs+Asts': 'mean',
+#     'Pts+Rebs': 'mean',
+#     'Pts+Asts': 'mean',
+#     'Rebs+Asts': 'mean'
+# }).reset_index()
+
+# avg_stats_allowed.rename(columns={
+#     'Points': 'Avg_Points_Allowed',
+#     'Rebounds': 'Avg_Rebounds_Allowed',
+#     'Assists': 'Avg_Assists_Allowed',
+#     'Pts+Rebs+Asts': 'Avg_Pts_Rebs_Asts_Allowed',
+#     'Pts+Rebs': 'Avg_Pts_Rebs_Allowed',
+#     'Pts+Asts': 'Avg_Pts_Asts_Allowed',
+#     'Rebs+Asts': 'Avg_Rebs_Asts_Allowed'
+# }, inplace=True)
+
+# for stat in ['Avg_Points_Allowed', 'Avg_Rebounds_Allowed', 'Avg_Assists_Allowed', 'Avg_Pts_Rebs_Asts_Allowed', 'Avg_Pts_Rebs_Allowed', 'Avg_Pts_Asts_Allowed', 'Avg_Rebs_Asts_Allowed']:
+#     rank_col = f'{stat}_Rank'
+#     avg_stats_allowed[rank_col] = avg_stats_allowed.groupby('POS')[stat].rank(method='min', ascending = True)
 
 opra = pd.read_csv('team_stats/opponent-points-plus-rebounds-plus-assists-per-gam_data.csv')
 opra.rename(columns={'Rank': 'PRA_Defense_Rank'}, inplace=True)
@@ -724,7 +762,7 @@ if view == "Player Prop Analysis":
         else:
             player_data = player_data
 
-        # Select the last 10 games based on the filtered data
+
         last_10_games = player_data.drop_duplicates(subset='Game_ID').head(10)
 
     
@@ -851,10 +889,22 @@ elif view == "Over/Under Stats L10":
     combined_df = pd.merge(over_under_stats, odds, on=['PlayerName', 'Prop'])
     # combined_df['Games_Played'] = combined_df['PlayerName'].map(total_games_played_series)
 
-    # Convert dataframe to HTML and render with Streamlit
-    combined_df.set_index(['PlayerName'], inplace=True)
 
     combined_df.drop(['level_3', 'Exact %'], axis =1, inplace = True)
+
+    sportsbooks = ['fanduel', 'draftkings', 'mgm', 'pointsbet']  # Add or remove sportsbook columns as necessary
+
+
+    for book in sportsbooks:
+        combined_df[f'{book}_Implied_Probability'] = combined_df[book].apply(extract_and_convert)
+
+    implied_probs = [f'{book}_Implied_Probability' for book in sportsbooks]
+    combined_df['Average_Implied_Probability'] = combined_df[implied_probs].mean(axis=1)
+
+    columns_to_drop = [f'{book}_Implied_Probability' for book in sportsbooks] + implied_probs
+    combined_df = combined_df.drop(columns=columns_to_drop)
+
+    combined_df.set_index(['PlayerName', 'Average_Implied_Probability'], inplace=True)
 
   
     if sort_by == "Over %":

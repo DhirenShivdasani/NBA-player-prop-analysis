@@ -568,44 +568,39 @@ def get_injured_players_for_game(game_id, team, injury_data):
                                   (injury_data['Game_ID'] == game_id)]['Player'].tolist()
     return ', '.join(injured_players)
 
+
+def extract_position_from_lineup(player_name, lineup):
+    """
+    Extracts a player's position from a lineup string where each player's name is followed by their position in parentheses.
+
+    Parameters:
+    - player_name: The name of the player whose position is to be extracted.
+    - lineup: A string representing the team's lineup, with each player's name followed by their position in parentheses.
+
+    Returns:
+    - A string representing the player's position, or None if the player is not found in the lineup.
+    """
+    # Pattern to find the player's name followed by their position in parentheses
+    pattern = re.compile(re.escape(player_name) + r' \((.*?)\)')
+    match = pattern.search(lineup)
+
+    if match:
+        return match.group(1)  # The captured group contains the position
+    else:
+        return None
+
+
 odds = pd.read_csv('over_under_odds.csv')
 
 dataframe = load_data()
 injury_data = pd.read_csv('injury_data.csv')
 
+team_lineups = pd.read_csv('team_lineups.csv')
+
 if check_for_updates(file_path):
     st.info("Updates are available. Please refresh the app.")
     if st.button("Refresh"):
         st.rerun()
-
-
-
-# dataframe['Defending_Team'] = dataframe.apply(lambda x: x['Away'] if x['Team'] == x['Home'] else x['Home'], axis=1)
-# print(dataframe.columns)
-
-# avg_stats_allowed = dataframe.groupby(['Defending_Team', 'POS']).agg({
-#     'Points': 'mean',
-#     'Rebounds': 'mean',
-#     'Assists': 'mean',
-#     'Pts+Rebs+Asts': 'mean',
-#     'Pts+Rebs': 'mean',
-#     'Pts+Asts': 'mean',
-#     'Rebs+Asts': 'mean'
-# }).reset_index()
-
-# avg_stats_allowed.rename(columns={
-#     'Points': 'Avg_Points_Allowed',
-#     'Rebounds': 'Avg_Rebounds_Allowed',
-#     'Assists': 'Avg_Assists_Allowed',
-#     'Pts+Rebs+Asts': 'Avg_Pts_Rebs_Asts_Allowed',
-#     'Pts+Rebs': 'Avg_Pts_Rebs_Allowed',
-#     'Pts+Asts': 'Avg_Pts_Asts_Allowed',
-#     'Rebs+Asts': 'Avg_Rebs_Asts_Allowed'
-# }, inplace=True)
-
-# for stat in ['Avg_Points_Allowed', 'Avg_Rebounds_Allowed', 'Avg_Assists_Allowed', 'Avg_Pts_Rebs_Asts_Allowed', 'Avg_Pts_Rebs_Allowed', 'Avg_Pts_Asts_Allowed', 'Avg_Rebs_Asts_Allowed']:
-#     rank_col = f'{stat}_Rank'
-#     avg_stats_allowed[rank_col] = avg_stats_allowed.groupby('POS')[stat].rank(method='min', ascending = True)
 
 opra = pd.read_csv('team_stats/opponent-points-plus-rebounds-plus-assists-per-gam_data.csv')
 opra.rename(columns={'Rank': 'PRA_Defense_Rank'}, inplace=True)
@@ -754,7 +749,27 @@ if view == "Player Prop Analysis":
     if filter_type == "Overall Last 10 Games":
         st.title(f"Analysis Results for {player_name}")
 
+        
+
         home_away_filter = st.radio("Select Home/Away Games", ["Both", "Home", "Away"])
+        lineup = team_lineups[team_lineups['Team'] == team]['Lineup'].values[0]
+
+        formatted_lineup = []
+        for player in lineup.split(', '):  # Assuming lineup is a string of comma-separated player names
+            if player == player_name:
+                # Apply Markdown bold formatting
+                formatted_lineup.append(f"**{player}**")
+            else:
+                formatted_lineup.append(player)
+        
+        # Join the formatted names back into a string
+        formatted_lineup_str = ', '.join(formatted_lineup)
+        position = extract_position_from_lineup(player_name, lineup)
+
+        with st.expander("View Starting Lineup"):
+            # Display the lineup with the selected player's name bolded if they are in the lineup
+            st.markdown(formatted_lineup_str, unsafe_allow_html=True)
+
 
         # Filter data based on Home/Away selection
         if home_away_filter == "Home":
@@ -766,6 +781,7 @@ if view == "Player Prop Analysis":
 
 
         last_10_games = player_data.drop_duplicates(subset='Game_ID').head(10)
+        last_10_games['POS'] = position
 
     
         results, rankings = analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_players, value, selected_prop)

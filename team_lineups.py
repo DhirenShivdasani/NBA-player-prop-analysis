@@ -26,7 +26,7 @@ team_abbreviations = {
     "Denver Nuggets News": "DEN", 
     "Los Angeles Lakers News": "LAL",
     "Sacramento Kings News": "SAC",
-    "Cleveland Cavaliers Lakers News": "CLE",
+    "Cleveland Cavaliers News": "CLE",
     "LA Clippers News": "LAC",
     "Dallas Mavericks News": "DAL",
     "Atlanta Hawks News": "ATL",

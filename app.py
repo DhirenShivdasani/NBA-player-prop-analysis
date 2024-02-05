@@ -357,7 +357,7 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
             'Injured Player Impact': {injured_player: f"{impact:.2f}" for injured_player, impact in injured_players_impact.items()}
         }
 
-        return results, rankings_df.style.map(color_ranking)
+        return results, rankings_df.style.applymap(color_ranking)
     else:
         return f"Prop type '{prop_type_adjusted}' not found in data."
     

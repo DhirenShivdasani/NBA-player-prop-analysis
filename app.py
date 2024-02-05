@@ -357,7 +357,7 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
             'Injured Player Impact': {injured_player: f"{impact:.2f}" for injured_player, impact in injured_players_impact.items()}
         }
 
-        return results, rankings_df.style.applymap(color_ranking)
+        return results, rankings_df.style.map(color_ranking)
     else:
         return f"Prop type '{prop_type_adjusted}' not found in data."
     
@@ -819,7 +819,7 @@ if view == "Player Prop Analysis":
 
         team_def = team_def[(team_def['Opponent'] ==opponent) & (team_def['Position'] == position)]
         team_def.set_index(['Position'], inplace = True)
-        team_def = team_def[['Points', 'Rebounds', 'Assists']].style.applymap(color_ranking_pos)
+        team_def = team_def[['Points', 'Rebounds', 'Assists']].style.map(color_ranking_pos)
         st.dataframe(team_def)
 
         

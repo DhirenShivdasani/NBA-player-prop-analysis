@@ -591,6 +591,29 @@ def extract_position_from_lineup(player_name, lineup):
     else:
         return None
 
+def get_defensive_ranking(team, position, df_defense):
+    # Filter df_defense for the specific team and position
+    df_filtered = df_defense[(df_defense['Team'] == team) & (df_defense['Position'] == position)]
+    if not df_filtered.empty:
+        # Assuming 'Pts' column is the defensive ranking for simplification
+        return df_filtered['Points'].values[0]
+    else:
+        return None
+
+def color_ranking_pos(val):
+    """
+    Colors rankings based on their value.
+    1-10: Red, 11-20: Yellow, 21-30: Green
+    """
+    val = int(val.strip('#'))
+
+    if val <= 10:
+        color = 'red'
+    elif val <= 20:
+        color = 'yellow'
+    else:
+        color = 'green'
+    return f'background-color: {color}'
 
 odds = pd.read_csv('over_under_odds.csv')
 
@@ -598,6 +621,8 @@ dataframe = load_data()
 injury_data = pd.read_csv('injury_data.csv')
 
 team_lineups = pd.read_csv('team_lineups.csv')
+
+team_def = pd.read_csv('team_def_vs_pos.csv')
 
 if check_for_updates(file_path):
     st.info("Updates are available. Please refresh the app.")
@@ -789,6 +814,17 @@ if view == "Player Prop Analysis":
         results, rankings = analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_players, value, selected_prop)
         st.subheader(f'{opponent} Defense (Allowed)')
         st.dataframe(rankings)
+        
+        st.subheader(f'{opponent} Defense vs. Position (Allowed)')
+
+        team_def = team_def[(team_def['Opponent'] ==opponent) & (team_def['Position'] == position)]
+        team_def.set_index(['Position'], inplace = True)
+        team_def = team_def[['Points', 'Rebounds', 'Assists']].style.applymap(color_ranking_pos)
+        st.dataframe(team_def)
+
+        
+
+
         st.subheader('Game Logs (Last 10)')
         st.dataframe(last_10_games.drop(['Value', 'Prop', 'Game_ID','PlayerName', 'VIDEO_AVAILABLE', 'SEASON_ID', 'Player_ID', 'OREB', 'DREB', 'Team', 'Home', 'Away', 'STL', 'BLK', 'TOV', 'Team_Total', 'Opponent_Total', 'PTS_Team_Total', 'PRA_Defense_Rank', 'PRA_Rank',
                 'PA_Rank', 'PR_Defense_Rank', 'PR_Rank', 'PA_Defense_Rank',

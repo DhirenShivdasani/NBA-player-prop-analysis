@@ -527,26 +527,28 @@ def odds_to_implied_probability(odds):
     else:
         return None
 
-def extract_and_convert(odds):
-    if isinstance(odds, str):
+def extract_value_and_odds(odds_str):
+    if isinstance(odds_str, str):
         try:
-            # Assuming the odds are in a format like "(+100)" or "(-110)"
-            odds = float(odds.split()[-1].strip("()"))
+            # Split the string to extract the value and the odds
+            value, odds = odds_str.split()  # Assuming the format is "Value Odds"
+            value = float(value.strip("()"))
+            odds = float(odds.strip("()"))
+            return value, odds
         except (ValueError, IndexError):
-            return None
-    elif isinstance(odds, float):
-        # If the odds are already a float, use them directly
-        return odds
-    else:
-        return None
+            return None, None
+    return None, None
 
-    return odds_to_implied_probability(odds)
-
-def average_implied_probability(row):
-    odds_list = [row['draftkings'], row['fanduel'], row['mgm'], row['pointsbet']]
-    numeric_odds_list = [extract_numeric_odds(odds) for odds in odds_list]
-    valid_odds = [calculate_implied_probability(odds) for odds in numeric_odds_list if odds is not None]
-    return None if not valid_odds else sum(valid_odds) / len(valid_odds)
+def calculate_implied_probability_for_value(row):
+    odds_list = [row[f'{book}'] for book in ['draftkings', 'fanduel', 'mgm', 'pointsbet']]
+    valid_probs = []
+    for odds_str in odds_list:
+        value, odds = extract_value_and_odds(odds_str)
+        if value is not None and value == row['Value']:
+            prob = odds_to_implied_probability(odds)
+            if prob is not None:
+                valid_probs.append(prob)
+    return None if not valid_probs else sum(valid_probs) / len(valid_probs)
 
 
 def color_ranking(val):
@@ -914,10 +916,10 @@ elif view == "Over/Under Stats L10":
 
 
     for book in sportsbooks:
-        combined_df[f'{book}_Implied_Probability'] = combined_df[book].apply(extract_and_convert)
+        combined_df[f'{book}_Implied_Probability'] = combined_df[book].apply(extract_value_and_odds)
 
     implied_probs = [f'{book}_Implied_Probability' for book in sportsbooks]
-    combined_df['Average_Implied_Probability'] = combined_df[implied_probs].mean(axis=1)
+    combined_df['Average_Implied_Probability'] = combined_df.apply(calculate_implied_probability_for_value, axis=1)     
 
     columns_to_drop = [f'{book}_Implied_Probability' for book in sportsbooks] + implied_probs
     combined_df = combined_df.drop(columns=columns_to_drop)

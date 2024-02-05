@@ -19,9 +19,15 @@ chrome_options.add_experimental_option("prefs", {
     "profile.default_content_setting_values.geolocation": 1, # 1:Allow, 2:Block
 })
 # chrome_options.add_argument("--headless")
+# chrome_options.add_argument("--window-size=1920,1080")
 
 chrome_options.page_load_strategy = 'eager'  # Waits for the DOMContentLoaded event
+
+
 driver = uc.Chrome(options=chrome_options)
+
+
+
 
 driver.get("https://app.prizepicks.com/")
 time.sleep(5)
@@ -49,7 +55,7 @@ except Exception as e:
 time.sleep(2)
 
 
-stat_container = WebDriverWait(driver, 2).until(
+stat_container = WebDriverWait(driver, 10).until(
     EC.visibility_of_element_located((By.CLASS_NAME, "stat-container"))
 )
 

@@ -23,7 +23,29 @@ team_abbreviations = {
     "Milwaukee Bucks News": "MIL",
     "Utah Jazz News": "UTA",
     "Portland Trail Blazers News": "POR",
-    "Denver Nuggets News": "DEN"
+    "Denver Nuggets News": "DEN", 
+    "Los Angeles Lakers News": "LAL",
+    "Sacramento Kings News": "SAC",
+    "Cleveland Cavaliers Lakers News": "CLE",
+    "LA Clippers News": "LAC",
+    "Dallas Mavericks News": "DAL",
+    "Atlanta Hawks News": "ATL",
+    "Brooklyn Nets News": "BKN",
+    "Golden State Warriors News": "GSW",
+    "Toronto Raptors News": "TOR",
+    "New Orleans Pelicans News": "NOP",
+    'Philadelphia 76ers News': 'PHI'
+
+
+
+
+
+
+
+
+
+
+
 }
 
 positions = ["PG", "SG", "SF", "PF", "C"]

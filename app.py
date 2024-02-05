@@ -819,7 +819,7 @@ if view == "Player Prop Analysis":
 
         team_def = team_def[(team_def['Opponent'] ==opponent) & (team_def['Position'] == position)]
         team_def.set_index(['Position'], inplace = True)
-        team_def = team_def[['Points', 'Rebounds', 'Assists']].style.map(color_ranking_pos)
+        team_def = team_def[['Points', 'Rebounds', 'Assists']].style.applymap(color_ranking_pos)
         st.dataframe(team_def)
 
         

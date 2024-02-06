@@ -92,6 +92,4 @@ for team, players in team_lineups.items():
 
 # Convert to DataFrame
 df_lineups = pd.DataFrame(processed_lineups)
-df_lineups['Team'] = df_lineups['Team'].replace(team_mapping)
-
 df_lineups.to_csv('team_lineups.csv', index = False)

@@ -34,7 +34,9 @@ team_abbreviations = {
     "Golden State Warriors News": "GSW",
     "Toronto Raptors News": "TOR",
     "New Orleans Pelicans News": "NOP",
-    'Philadelphia 76ers News': 'PHI'
+    'Philadelphia 76ers News': 'PHI',
+    'New York Knicks News': 'NYK',
+    'Chicago Bulls News': 'CHI'
 
 
 

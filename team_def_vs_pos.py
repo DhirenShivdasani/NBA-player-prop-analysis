@@ -5,6 +5,11 @@ from datetime import datetime
 import requests 
 import pandas as pd
 
+team_mapping = {
+    'OKL': 'OKC',
+    'BRO': 'BKN',
+}
+
 url = "https://draftedge.com/nba/nba-defense-vs-position/"
 
 
@@ -48,4 +53,5 @@ chunked_data = list(chunk_list_with_positions(data, len(headers) - 1))  # -1 bec
 df = pd.DataFrame(chunked_data, columns=headers)
 df.drop(['DFS', 'vsAvg', 'Stl', 'Blk', 'DK', 'FD', '3pt'], axis =1, inplace = True)
 df.rename(columns= {'Pts': 'Points', 'Reb':'Rebounds', 'Ast': "Assists", 'Team Name': 'Opponent'}, inplace = True)
+df['Opponent'] = df['Opponent'].replace(team_mapping)
 df.to_csv('team_def_vs_pos.csv', index = False)

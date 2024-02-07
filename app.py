@@ -955,21 +955,23 @@ elif view == "Over/Under Stats L10":
         combined_df[f'{book}_Implied_Probability'] = combined_df[book].apply(extract_value_and_odds)
 
     implied_probs = [f'{book}_Implied_Probability' for book in sportsbooks]
-    combined_df['Average_Implied_Probability'] = combined_df.apply(calculate_implied_probability_for_value, axis=1)     
+    # combined_df['Average_Implied_Probability'] = combined_df.apply(calculate_implied_probability_for_value, axis=1)     
 
     columns_to_drop = [f'{book}_Implied_Probability' for book in sportsbooks] + implied_probs
     combined_df = combined_df.drop(columns=columns_to_drop)
 
-    combined_df.set_index(['PlayerName', 'Average_Implied_Probability'], inplace=True)
+    # combined_df.set_index(['PlayerName', 'Average_Implied_Probability'], inplace=True)
 
   
     if sort_by == "Over %":
         combined_df = combined_df[combined_df['Over_Under'] == 'Over'].sort_values(by = 'Over %', ascending = False)
-   
+        combined_df['Average_Implied_Probability'] = combined_df.apply(calculate_implied_probability_for_value, axis=1)     
+        combined_df.set_index(['PlayerName', 'Average_Implied_Probability'], inplace=True)
         st.dataframe(combined_df.drop(['Over_Under'], axis =1))
     elif sort_by == "Under %":
         combined_df = combined_df[combined_df['Over_Under'] == 'Under'].sort_values(by = 'Under %', ascending = False)
- 
+        combined_df['Average_Implied_Probability'] = combined_df.apply(calculate_implied_probability_for_value, axis=1)     
+        combined_df.set_index(['PlayerName', 'Average_Implied_Probability'], inplace=True)
         st.dataframe(combined_df.drop(['Over_Under'], axis =1))        
 
 

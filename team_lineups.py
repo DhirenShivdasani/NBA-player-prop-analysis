@@ -36,7 +36,8 @@ team_abbreviations = {
     "New Orleans Pelicans News": "NOP",
     'Philadelphia 76ers News': 'PHI',
     'New York Knicks News': 'NYK',
-    'Chicago Bulls News': 'CHI'
+    'Chicago Bulls News': 'CHI',
+    'San Antonio Spurs News': 'SAS'
 
 
 

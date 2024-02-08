@@ -624,6 +624,8 @@ team_lineups = pd.read_csv('team_lineups.csv')
 
 team_def = pd.read_csv('team_def_vs_pos.csv')
 
+print(team_def[team_def['Opponent'] == 'MEM'])
+
 if check_for_updates(file_path):
     st.info("Updates are available. Please refresh the app.")
     if st.button("Refresh"):
@@ -818,6 +820,7 @@ if view == "Player Prop Analysis":
         st.subheader(f'{opponent} Defense vs. Position (Allowed)')
 
         team_def = team_def[(team_def['Opponent'] ==opponent) & (team_def['Position'] == position)]
+        print(team_def)
         team_def.set_index(['Position'], inplace = True)
         team_def = team_def[['Points', 'Rebounds', 'Assists']].style.applymap(color_ranking_pos)
         st.dataframe(team_def)

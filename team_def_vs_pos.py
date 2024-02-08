@@ -36,7 +36,8 @@ for td in td_elements:
     else:
         data.append(td.text)
 
-positions = ['C', 'PF', 'SF', 'SG', 'PG']
+positions = ['C', 'PF', 'PG', 'SF', 'SG']
+
 
 headers= ['Position'] + headers
 def chunk_list_with_positions(lst, n):

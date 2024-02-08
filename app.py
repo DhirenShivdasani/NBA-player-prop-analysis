@@ -932,7 +932,7 @@ if view == "Player Prop Analysis":
 elif view == "Over/Under Stats L10":
     # Over/Under Stats Section
     st.title("Over/Under Stats")
-    sort_by = st.selectbox("Sort By", ["Under %", "Over %"])
+    # sort_by = st.selectbox("Sort By", ["Under %", "Over %"])
 
     total_games_played_series = most_recent_games.groupby('PlayerName').size()
 
@@ -963,15 +963,17 @@ elif view == "Over/Under Stats L10":
     # combined_df.set_index(['PlayerName', 'Average_Implied_Probability'], inplace=True)
 
   
-    if sort_by == "Over %":
-        combined_df = combined_df[combined_df['Over_Under'] == 'Over'].sort_values(by = 'Over %', ascending = False)
-        combined_df['Average_Implied_Probability'] = combined_df.apply(calculate_implied_probability_for_value, axis=1)     
-        combined_df.set_index(['PlayerName', 'Average_Implied_Probability'], inplace=True)
-        st.dataframe(combined_df.drop(['Over_Under'], axis =1))
-    elif sort_by == "Under %":
-        combined_df = combined_df[combined_df['Over_Under'] == 'Under'].sort_values(by = 'Under %', ascending = False)
-        combined_df['Average_Implied_Probability'] = combined_df.apply(calculate_implied_probability_for_value, axis=1)     
-        combined_df.set_index(['PlayerName', 'Average_Implied_Probability'], inplace=True)
-        st.dataframe(combined_df.drop(['Over_Under'], axis =1))        
+    # if sort_by == "Over %":
+    #     combined_df = combined_df[combined_df['Over_Under'] == 'Over'].sort_values(by = 'Over %', ascending = False)
+    #     combined_df['Average_Implied_Probability'] = combined_df.apply(calculate_implied_probability_for_value, axis=1)     
+    #     combined_df.set_index(['PlayerName', 'Average_Implied_Probability'], inplace=True)
+    #     st.dataframe(combined_df.drop(['Over_Under'], axis =1))
+    # elif sort_by == "Under %":
+    #     combined_df = combined_df[combined_df['Over_Under'] == 'Under'].sort_values(by = 'Under %', ascending = False)
+    #     combined_df['Average_Implied_Probability'] = combined_df.apply(calculate_implied_probability_for_value, axis=1)     
+    #     combined_df.set_index(['PlayerName', 'Average_Implied_Probability'], inplace=True)
+    combined_df['Average_Implied_Probability'] = combined_df.apply(calculate_implied_probability_for_value, axis=1)     
+    combined_df.set_index(['PlayerName', 'Average_Implied_Probability', 'Over_Under'], inplace=True)
+    st.dataframe(combined_df)        
 
 

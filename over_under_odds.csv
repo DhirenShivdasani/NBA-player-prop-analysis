@@ -1,715 +1,729 @@
 PlayerName,opp,Prop,Over_Under,draftkings,fanduel,mgm,pointsbet
-Aaron Gordon,@SAC,Assists,Over,(2.5) -125,(2.5) -120,(2.5) -105,(2.5) -115
-Aaron Gordon,@SAC,Assists,Under,(2.5) -105,(2.5) -102,(2.5) -125,(2.5) -115
-Aaron Gordon,@SAC,Points,Over,(13.5) -120,(13.5) -105,(13.5) -115,(13.5) -115
-Aaron Gordon,@SAC,Points,Under,(13.5) -110,(13.5) -115,(13.5) -115,(13.5) -115
-Aaron Gordon,@SAC,Pts+Asts,Over,(16.5) 100,(16.5) -102,(16.5) 100,(16.5) -110
-Aaron Gordon,@SAC,Pts+Asts,Under,(16.5) -130,(16.5) -125,(16.5) -130,(16.5) -120
-Aaron Gordon,@SAC,Pts+Rebs,Over,(18.5) -130,(19.5) -104,(18.5) -130,(19.5) -110
-Aaron Gordon,@SAC,Pts+Rebs,Under,(18.5) 100,(19.5) -122,(18.5) 100,(19.5) -120
-Aaron Gordon,@SAC,Pts+Rebs+Asts,Over,(21.5) -115,(21.5) -125,(21.5) -120,(21.5) -130
-Aaron Gordon,@SAC,Pts+Rebs+Asts,Under,(21.5) -115,(21.5) -102,(21.5) -110,(21.5) 100
-Aaron Gordon,@SAC,Rebounds,Over,(5.5) -110,(5.5) -108,(5.5) -105,(5.5) -110
-Aaron Gordon,@SAC,Rebounds,Under,(5.5) -120,(5.5) -114,(5.5) -130,(5.5) -120
-Aaron Gordon,@SAC,Rebs+Asts,Over,,(8.5) 102,,(8.5) 105
-Aaron Gordon,@SAC,Rebs+Asts,Under,,(8.5) -130,,(8.5) -140
-Alperen Sengun,@TOR,Assists,Over,,(5.5) -114,,
-Alperen Sengun,@TOR,Assists,Under,,(5.5) -106,,
-Alperen Sengun,@TOR,Points,Over,,(23.5) -102,(24.5) 100,
-Alperen Sengun,@TOR,Points,Under,,(23.5) -120,(24.5) -135,
-Alperen Sengun,@TOR,Pts+Asts,Over,,(28.5) -122,(30.5) 115,
-Alperen Sengun,@TOR,Pts+Asts,Under,,(28.5) -104,(30.5) -155,
-Alperen Sengun,@TOR,Pts+Rebs,Over,,(32.5) -122,(34.5) 120,
-Alperen Sengun,@TOR,Pts+Rebs,Under,,(32.5) -104,(34.5) -160,
-Alperen Sengun,@TOR,Pts+Rebs+Asts,Over,,(38.5) -115,(40.5) 100,
-Alperen Sengun,@TOR,Pts+Rebs+Asts,Under,,(38.5) -111,(40.5) -130,
+Aaron Gordon,@SAC,Assists,Over,(2.5) -120,(2.5) -120,(2.5) -105,(2.5) -120
+Aaron Gordon,@SAC,Assists,Under,(2.5) -110,(2.5) -102,(2.5) -125,(2.5) -110
+Aaron Gordon,@SAC,Points,Over,(13.5) -115,(13.5) -105,(13.5) -115,(13.5) -115
+Aaron Gordon,@SAC,Points,Under,(13.5) -115,(13.5) -115,(13.5) -115,(13.5) -115
+Aaron Gordon,@SAC,Pts+Asts,Over,(16.5) 100,(16.5) 100,(16.5) 100,(16.5) -110
+Aaron Gordon,@SAC,Pts+Asts,Under,(16.5) -130,(16.5) -128,(16.5) -130,(16.5) -120
+Aaron Gordon,@SAC,Pts+Rebs,Over,(18.5) -130,(18.5) -128,(18.5) -130,(19.5) -110
+Aaron Gordon,@SAC,Pts+Rebs,Under,(18.5) 100,(18.5) 100,(18.5) 100,(19.5) -120
+Aaron Gordon,@SAC,Pts+Rebs+Asts,Over,(21.5) -115,(21.5) -120,(21.5) -120,(21.5) -125
+Aaron Gordon,@SAC,Pts+Rebs+Asts,Under,(21.5) -115,(21.5) -106,(21.5) -110,(21.5) -105
+Aaron Gordon,@SAC,Rebounds,Over,(5.5) -110,(5.5) -104,(5.5) -105,(5.5) -115
+Aaron Gordon,@SAC,Rebounds,Under,(5.5) -120,(5.5) -118,(5.5) -130,(5.5) -115
+Aaron Gordon,@SAC,Rebs+Asts,Over,,(8.5) 102,,(8.5) 100
+Aaron Gordon,@SAC,Rebs+Asts,Under,,(8.5) -130,,(8.5) -130
+Alperen Sengun,@TOR,Assists,Over,,(5.5) -134,,
+Alperen Sengun,@TOR,Assists,Under,,(5.5) 110,,
+Alperen Sengun,@TOR,Points,Over,,(23.5) -105,(24.5) 100,
+Alperen Sengun,@TOR,Points,Under,,(23.5) -115,(24.5) -135,
+Alperen Sengun,@TOR,Pts+Asts,Over,,(29.5) -115,(30.5) 115,
+Alperen Sengun,@TOR,Pts+Asts,Under,,(29.5) -111,(30.5) -155,
+Alperen Sengun,@TOR,Pts+Rebs,Over,,(33.5) -106,(34.5) 120,
+Alperen Sengun,@TOR,Pts+Rebs,Under,,(33.5) -120,(34.5) -160,
+Alperen Sengun,@TOR,Pts+Rebs+Asts,Over,,(39.5) -113,(40.5) 100,
+Alperen Sengun,@TOR,Pts+Rebs+Asts,Under,,(39.5) -113,(40.5) -130,
 Alperen Sengun,@TOR,Rebounds,Over,,(9.5) -115,(9.5) -140,
 Alperen Sengun,@TOR,Rebounds,Under,,(9.5) -105,(9.5) 105,
-Alperen Sengun,@TOR,Rebs+Asts,Over,,(15.5) -104,(15.5) -115,
-Alperen Sengun,@TOR,Rebs+Asts,Under,,(15.5) -122,(15.5) -115,
-Amen Thompson,@TOR,Assists,Over,(5.5) 114,(5.5) 110,(5.5) -105,(5.5) 105
-Amen Thompson,@TOR,Assists,Under,(5.5) -145,(5.5) -134,(5.5) -130,(5.5) -140
-Amen Thompson,@TOR,Points,Over,(13.5) -125,(13.5) -112,(13.5) -125,(13.5) -120
-Amen Thompson,@TOR,Points,Under,(13.5) -105,(13.5) -108,(13.5) -105,(13.5) -110
-Amen Thompson,@TOR,Pts+Asts,Over,(19.5) -115,(19.5) 100,(19.5) -115,(19.5) 100
-Amen Thompson,@TOR,Pts+Asts,Under,(19.5) -115,(19.5) -128,(19.5) -115,(19.5) -130
-Amen Thompson,@TOR,Pts+Rebs,Over,(21.5) -125,(21.5) -115,(21.5) -125,(21.5) -115
-Amen Thompson,@TOR,Pts+Rebs,Under,(21.5) -105,(21.5) -111,(21.5) -105,(21.5) -115
-Amen Thompson,@TOR,Pts+Rebs+Asts,Over,(27.5) 105,(27.5) -102,(27.5) -115,(27.5) 100
-Amen Thompson,@TOR,Pts+Rebs+Asts,Under,(27.5) -135,(27.5) -125,(27.5) -120,(27.5) -130
-Amen Thompson,@TOR,Rebounds,Over,(7.5) -120,(7.5) -128,(7.5) -135,(7.5) -120
-Amen Thompson,@TOR,Rebounds,Under,(7.5) -110,(7.5) 104,(7.5) 100,(7.5) -110
-Amen Thompson,@TOR,Rebs+Asts,Over,,(13.5) 100,(13.5) -105,(13.5) 110
-Amen Thompson,@TOR,Rebs+Asts,Under,,(13.5) -128,(13.5) -125,(13.5) -145
-Anthony Davis,NOP,Assists,Over,(3.5) -140,(3.5) -138,(3.5) -145,(3.5) -140
-Anthony Davis,NOP,Assists,Under,(3.5) 110,(3.5) 112,(3.5) 110,(3.5) 105
-Anthony Davis,NOP,Points,Over,(25.5) -115,(25.5) -108,(25.5) -115,(25.5) -115
-Anthony Davis,NOP,Points,Under,(25.5) -115,(25.5) -112,(25.5) -115,(25.5) -115
-Anthony Davis,NOP,Pts+Asts,Over,(29.5) -115,(29.5) -111,(29.5) -115,(29.5) -115
-Anthony Davis,NOP,Pts+Asts,Under,(29.5) -115,(29.5) -115,(29.5) -115,(29.5) -115
-Anthony Davis,NOP,Pts+Rebs,Over,(38.5) -120,(38.5) -115,(38.5) -120,(38.5) -120
-Anthony Davis,NOP,Pts+Rebs,Under,(38.5) -110,(38.5) -111,(38.5) -110,(38.5) -110
-Anthony Davis,NOP,Pts+Rebs+Asts,Over,(42.5) -125,(42.5) -113,(42.5) -125,(42.5) -115
-Anthony Davis,NOP,Pts+Rebs+Asts,Under,(42.5) -105,(42.5) -113,(42.5) -105,(42.5) -115
-Anthony Davis,NOP,Rebounds,Over,(12.5) -135,(12.5) -138,(12.5) -140,(12.5) -130
-Anthony Davis,NOP,Rebounds,Under,(12.5) 105,(12.5) 112,(12.5) 105,(12.5) 100
-Anthony Davis,NOP,Rebs+Asts,Over,,(16.5) -132,(16.5) -135,(16.5) -125
-Anthony Davis,NOP,Rebs+Asts,Under,,(16.5) 104,(16.5) 105,(16.5) -105
-Brandon Ingram,@LAL,Assists,Over,(6.5) -120,(6.5) -110,(6.5) -135,(6.5) -120
+Alperen Sengun,@TOR,Rebs+Asts,Over,,(15.5) -111,(15.5) -115,
+Alperen Sengun,@TOR,Rebs+Asts,Under,,(15.5) -115,(15.5) -115,
+Amen Thompson,@TOR,Assists,Over,(5.5) 114,(5.5) 104,(5.5) -105,(5.5) 110
+Amen Thompson,@TOR,Assists,Under,(5.5) -145,(5.5) -128,(5.5) -130,(5.5) -145
+Amen Thompson,@TOR,Points,Over,(13.5) -125,(13.5) -110,(13.5) -125,(14.5) -105
+Amen Thompson,@TOR,Points,Under,(13.5) -105,(13.5) -110,(13.5) -105,(14.5) -110
+Amen Thompson,@TOR,Pts+Asts,Over,(19.5) -105,(18.5) -120,(19.5) -120,(19.5) -115
+Amen Thompson,@TOR,Pts+Asts,Under,(19.5) -125,(18.5) -106,(19.5) -110,(19.5) -115
+Amen Thompson,@TOR,Pts+Rebs,Over,(21.5) -125,(21.5) -122,(22.5) -105,(21.5) -115
+Amen Thompson,@TOR,Pts+Rebs,Under,(21.5) -105,(21.5) -104,(22.5) -105,(21.5) -115
+Amen Thompson,@TOR,Pts+Rebs+Asts,Over,(27.5) 100,(27.5) 104,(27.5) -120,(27.5) -115
+Amen Thompson,@TOR,Pts+Rebs+Asts,Under,(27.5) -130,(27.5) -132,(27.5) -110,(27.5) -115
+Amen Thompson,@TOR,Rebounds,Over,(7.5) -130,(7.5) -140,(7.5) -135,(7.5) -125
+Amen Thompson,@TOR,Rebounds,Under,(7.5) 100,(7.5) 114,(7.5) 100,(7.5) -105
+Amen Thompson,@TOR,Rebs+Asts,Over,,(13.5) -108,(13.5) -110,(13.5) 100
+Amen Thompson,@TOR,Rebs+Asts,Under,,(13.5) -118,(13.5) -120,(13.5) -130
+Anthony Davis,NOP,Assists,Over,(3.5) -140,(3.5) -142,(3.5) -145,(3.5) -140
+Anthony Davis,NOP,Assists,Under,(3.5) 110,(3.5) 116,(3.5) 110,(3.5) 105
+Anthony Davis,NOP,Points,Over,(25.5) -115,(25.5) -102,(25.5) -115,(25.5) -115
+Anthony Davis,NOP,Points,Under,(25.5) -115,(25.5) -120,(25.5) -115,(25.5) -115
+Anthony Davis,NOP,Pts+Asts,Over,(29.5) -115,(29.5) -104,(29.5) -115,(29.5) -115
+Anthony Davis,NOP,Pts+Asts,Under,(29.5) -115,(29.5) -122,(29.5) -115,(29.5) -115
+Anthony Davis,NOP,Pts+Rebs,Over,(38.5) -120,(38.5) -106,(38.5) -120,(38.5) -115
+Anthony Davis,NOP,Pts+Rebs,Under,(38.5) -110,(38.5) -120,(38.5) -110,(38.5) -115
+Anthony Davis,NOP,Pts+Rebs+Asts,Over,(42.5) -125,(42.5) -106,(42.5) -125,(42.5) -115
+Anthony Davis,NOP,Pts+Rebs+Asts,Under,(42.5) -105,(42.5) -120,(42.5) -105,(42.5) -115
+Anthony Davis,NOP,Rebounds,Over,(12.5) -135,(12.5) -122,(12.5) -140,(12.5) -140
+Anthony Davis,NOP,Rebounds,Under,(12.5) 105,(12.5) 100,(12.5) 105,(12.5) 105
+Anthony Davis,NOP,Rebs+Asts,Over,,(16.5) -122,(16.5) -135,(16.5) -130
+Anthony Davis,NOP,Rebs+Asts,Under,,(16.5) -104,(16.5) 100,(16.5) 100
+Austin Reaves,NOP,Assists,Over,(6.5) -115,(6.5) -106,(6.5) -110,(6.5) -115
+Austin Reaves,NOP,Assists,Under,(6.5) -115,(6.5) -114,(6.5) -120,(6.5) -115
+Austin Reaves,NOP,Points,Over,(15.5) -130,(15.5) -106,,(15.5) -125
+Austin Reaves,NOP,Points,Under,(15.5) 100,(15.5) -114,,(15.5) -105
+Austin Reaves,NOP,Pts+Asts,Over,(22.5) -120,(22.5) -102,(22.5) -120,(22.5) -115
+Austin Reaves,NOP,Pts+Asts,Under,(22.5) -110,(22.5) -125,(22.5) -110,(22.5) -115
+Austin Reaves,NOP,Pts+Rebs,Over,(19.5) -125,(19.5) -118,(19.5) -125,(20.5) 100
+Austin Reaves,NOP,Pts+Rebs,Under,(19.5) -105,(19.5) -108,(19.5) -105,(20.5) -130
+Austin Reaves,NOP,Pts+Rebs+Asts,Over,(26.5) -120,(26.5) -106,(26.5) -120,(26.5) -115
+Austin Reaves,NOP,Pts+Rebs+Asts,Under,(26.5) -110,(26.5) -120,(26.5) -110,(26.5) -115
+Austin Reaves,NOP,Rebounds,Over,(3.5) -140,(3.5) -144,(3.5) -140,(3.5) -145
+Austin Reaves,NOP,Rebounds,Under,(3.5) 110,(3.5) 118,(3.5) 105,(3.5) 110
+Austin Reaves,NOP,Rebs+Asts,Over,,(10.5) -115,(10.5) -110,(10.5) -110
+Austin Reaves,NOP,Rebs+Asts,Under,,(10.5) -111,(10.5) -120,(10.5) -120
+Bobby Portis,CHA,Assists,Over,,,,
+Bobby Portis,CHA,Assists,Under,,,,
+Bobby Portis,CHA,Points,Over,,(14.5) -102,,
+Bobby Portis,CHA,Points,Under,,(14.5) -120,,
+Bobby Portis,CHA,Pts+Asts,Over,,,,
+Bobby Portis,CHA,Pts+Asts,Under,,,,
+Bobby Portis,CHA,Pts+Rebs,Over,,(22.5) -104,,
+Bobby Portis,CHA,Pts+Rebs,Under,,(22.5) -122,,
+Bobby Portis,CHA,Pts+Rebs+Asts,Over,,,,
+Bobby Portis,CHA,Pts+Rebs+Asts,Under,,,,
+Bobby Portis,CHA,Rebounds,Over,,(7.5) -122,,
+Bobby Portis,CHA,Rebounds,Under,,(7.5) 100,,
+Bobby Portis,CHA,Rebs+Asts,Over,,,,
+Bobby Portis,CHA,Rebs+Asts,Under,,,,
+Brandon Ingram,@LAL,Assists,Over,(6.5) -120,(6.5) -110,(6.5) -130,(6.5) -120
 Brandon Ingram,@LAL,Assists,Under,(6.5) -110,(6.5) -110,(6.5) 100,(6.5) -110
-Brandon Ingram,@LAL,Points,Over,(23.5) -130,(23.5) -108,(23.5) -125,(24.5) -105
-Brandon Ingram,@LAL,Points,Under,(23.5) 100,(23.5) -112,(23.5) -105,(24.5) -125
-Brandon Ingram,@LAL,Pts+Asts,Over,(30.5) -125,(29.5) -125,(30.5) -125,(30.5) -125
-Brandon Ingram,@LAL,Pts+Asts,Under,(30.5) -105,(29.5) -102,(30.5) -105,(30.5) -105
-Brandon Ingram,@LAL,Pts+Rebs,Over,(29.5) -120,(29.5) -106,(29.5) -125,(29.5) -120
-Brandon Ingram,@LAL,Pts+Rebs,Under,(29.5) -110,(29.5) -120,(29.5) -110,(29.5) -110
-Brandon Ingram,@LAL,Pts+Rebs+Asts,Over,(36.5) -125,(35.5) -120,(36.5) -120,(36.5) -115
-Brandon Ingram,@LAL,Pts+Rebs+Asts,Under,(36.5) -105,(35.5) -106,(36.5) -110,(36.5) -115
-Brandon Ingram,@LAL,Rebounds,Over,(5.5) -120,(5.5) -106,(5.5) -125,(5.5) -120
-Brandon Ingram,@LAL,Rebounds,Under,(5.5) -110,(5.5) -114,(5.5) -110,(5.5) -110
-Brandon Ingram,@LAL,Rebs+Asts,Over,,(12.5) 100,(12.5) -115,(12.5) -110
-Brandon Ingram,@LAL,Rebs+Asts,Under,,(12.5) -128,(12.5) -115,(12.5) -120
-Brandon Miller,@MIL,Assists,Over,(3.5) 114,(3.5) 106,(3.5) 100,(3.5) 115
-Brandon Miller,@MIL,Assists,Under,(3.5) -145,(3.5) -130,(3.5) -135,(3.5) -150
-Brandon Miller,@MIL,Points,Over,(25.5) -115,(25.5) -104,(25.5) -115,(25.5) -115
-Brandon Miller,@MIL,Points,Under,(25.5) -115,(25.5) -115,(25.5) -115,(25.5) -115
-Brandon Miller,@MIL,Pts+Asts,Over,(29.5) -110,(28.5) -120,(29.5) -110,(28.5) -120
-Brandon Miller,@MIL,Pts+Asts,Under,(29.5) -120,(28.5) -106,(29.5) -120,(28.5) -110
-Brandon Miller,@MIL,Pts+Rebs,Over,(30.5) -115,(29.5) -125,(30.5) -115,(30.5) -105
-Brandon Miller,@MIL,Pts+Rebs,Under,(30.5) -115,(29.5) -102,(30.5) -115,(30.5) -125
-Brandon Miller,@MIL,Pts+Rebs+Asts,Over,(34.5) 105,(33.5) -115,(34.5) -105,(33.5) -115
-Brandon Miller,@MIL,Pts+Rebs+Asts,Under,(34.5) -135,(33.5) -111,(34.5) -125,(33.5) -115
-Brandon Miller,@MIL,Rebounds,Over,(4.5) -110,(4.5) -110,(4.5) -115,(4.5) -110
-Brandon Miller,@MIL,Rebounds,Under,(4.5) -120,(4.5) -110,(4.5) -115,(4.5) -120
-Brandon Miller,@MIL,Rebs+Asts,Over,,(8.5) 114,(7.5) -150,(7.5) -140
-Brandon Miller,@MIL,Rebs+Asts,Under,,(8.5) -146,(7.5) 110,(7.5) 105
-Brook Lopez,CHA,Assists,Over,(2.5) 135,,(2.5) 130,(2.5) 135
-Brook Lopez,CHA,Assists,Under,(2.5) -175,,(2.5) -175,(2.5) -175
-Brook Lopez,CHA,Points,Over,(12.5) -130,(13.5) -106,(12.5) -130,(12.5) -125
-Brook Lopez,CHA,Points,Under,(12.5) 100,(13.5) -114,(12.5) 100,(12.5) -105
-Brook Lopez,CHA,Pts+Asts,Over,(15.5) -110,,(15.5) -110,(15.5) -105
-Brook Lopez,CHA,Pts+Asts,Under,(15.5) -120,,(15.5) -120,(15.5) -125
-Brook Lopez,CHA,Pts+Rebs,Over,(18.5) -110,(18.5) -128,(18.5) -110,(18.5) -115
-Brook Lopez,CHA,Pts+Rebs,Under,(18.5) -120,(18.5) 100,(18.5) -120,(18.5) -115
-Brook Lopez,CHA,Pts+Rebs+Asts,Over,(20.5) -115,,(20.5) -120,(20.5) -120
-Brook Lopez,CHA,Pts+Rebs+Asts,Under,(20.5) -115,,(20.5) -115,(20.5) -110
-Brook Lopez,CHA,Rebounds,Over,(5.5) 110,(5.5) 100,(5.5) 110,(5.5) 100
-Brook Lopez,CHA,Rebounds,Under,(5.5) -140,(5.5) -122,(5.5) -145,(5.5) -130
-Brook Lopez,CHA,Rebs+Asts,Over,,,(7.5) -110,(7.5) -115
-Brook Lopez,CHA,Rebs+Asts,Under,,,(7.5) -120,(7.5) -115
-CJ McCollum,@LAL,Assists,Over,(4.5) -140,(4.5) -134,,(4.5) -140
-CJ McCollum,@LAL,Assists,Under,(4.5) 110,(4.5) 110,,(4.5) 105
-CJ McCollum,@LAL,Points,Over,(21.5) -125,(21.5) -114,(21.5) -125,(21.5) -120
-CJ McCollum,@LAL,Points,Under,(21.5) -105,(21.5) -106,(21.5) -105,(21.5) -110
-CJ McCollum,@LAL,Pts+Asts,Over,(26.5) -125,(26.5) -113,(26.5) -125,(26.5) -120
-CJ McCollum,@LAL,Pts+Asts,Under,(26.5) -105,(26.5) -113,(26.5) -105,(26.5) -110
-CJ McCollum,@LAL,Pts+Rebs,Over,(26.5) -115,(26.5) -104,(26.5) -110,(26.5) -115
-CJ McCollum,@LAL,Pts+Rebs,Under,(26.5) -115,(26.5) -122,(26.5) -120,(26.5) -115
-CJ McCollum,@LAL,Pts+Rebs+Asts,Over,(31.5) -115,(31.5) -106,(31.5) -110,(31.5) -110
-CJ McCollum,@LAL,Pts+Rebs+Asts,Under,(31.5) -115,(31.5) -120,(31.5) -120,(31.5) -120
-CJ McCollum,@LAL,Rebounds,Over,(4.5) 100,(4.5) 108,(4.5) 100,(4.5) -105
-CJ McCollum,@LAL,Rebounds,Under,(4.5) -130,(4.5) -132,(4.5) -135,(4.5) -125
+Brandon Ingram,@LAL,Points,Over,(23.5) -130,(23.5) -110,(23.5) -125,(24.5) -105
+Brandon Ingram,@LAL,Points,Under,(23.5) 100,(23.5) -110,(23.5) -105,(24.5) -125
+Brandon Ingram,@LAL,Pts+Asts,Over,(30.5) -125,(30.5) -106,(30.5) -125,(30.5) -120
+Brandon Ingram,@LAL,Pts+Asts,Under,(30.5) -105,(30.5) -120,(30.5) -105,(30.5) -110
+Brandon Ingram,@LAL,Pts+Rebs,Over,(29.5) -120,(29.5) -108,(29.5) -120,(29.5) -120
+Brandon Ingram,@LAL,Pts+Rebs,Under,(29.5) -110,(29.5) -118,(29.5) -110,(29.5) -110
+Brandon Ingram,@LAL,Pts+Rebs+Asts,Over,(36.5) -110,(35.5) -122,(36.5) -120,(36.5) -115
+Brandon Ingram,@LAL,Pts+Rebs+Asts,Under,(36.5) -120,(35.5) -104,(36.5) -110,(36.5) -115
+Brandon Ingram,@LAL,Rebounds,Over,(5.5) -120,(5.5) -110,(5.5) -125,(5.5) -115
+Brandon Ingram,@LAL,Rebounds,Under,(5.5) -110,(5.5) -110,(5.5) -110,(5.5) -115
+Brandon Ingram,@LAL,Rebs+Asts,Over,,(12.5) 100,(12.5) -115,(12.5) -105
+Brandon Ingram,@LAL,Rebs+Asts,Under,,(12.5) -128,(12.5) -115,(12.5) -125
+Brandon Miller,@MIL,Assists,Over,(3.5) 114,(3.5) 118,(3.5) 100,(3.5) 110
+Brandon Miller,@MIL,Assists,Under,(3.5) -145,(3.5) -144,(3.5) -135,(3.5) -145
+Brandon Miller,@MIL,Points,Over,(25.5) -115,(24.5) -115,(25.5) -115,(25.5) -110
+Brandon Miller,@MIL,Points,Under,(25.5) -115,(24.5) -105,(25.5) -115,(25.5) -120
+Brandon Miller,@MIL,Pts+Asts,Over,(29.5) -110,(28.5) -104,(29.5) -110,(28.5) -115
+Brandon Miller,@MIL,Pts+Asts,Under,(29.5) -120,(28.5) -122,(29.5) -120,(28.5) -115
+Brandon Miller,@MIL,Pts+Rebs,Over,(30.5) -115,(29.5) -113,(30.5) -115,(30.5) -105
+Brandon Miller,@MIL,Pts+Rebs,Under,(30.5) -115,(29.5) -113,(30.5) -115,(30.5) -125
+Brandon Miller,@MIL,Pts+Rebs+Asts,Over,(34.5) 105,(32.5) -120,(34.5) -105,(33.5) -115
+Brandon Miller,@MIL,Pts+Rebs+Asts,Under,(34.5) -135,(32.5) -106,(34.5) -125,(33.5) -115
+Brandon Miller,@MIL,Rebounds,Over,(4.5) -110,(4.5) -108,(4.5) -115,(4.5) -115
+Brandon Miller,@MIL,Rebounds,Under,(4.5) -120,(4.5) -114,(4.5) -115,(4.5) -115
+Brandon Miller,@MIL,Rebs+Asts,Over,,(7.5) -136,(7.5) -150,(7.5) -145
+Brandon Miller,@MIL,Rebs+Asts,Under,,(7.5) 106,(7.5) 110,(7.5) 110
+Brook Lopez,CHA,Assists,Over,(2.5) 150,,(2.5) 130,(2.5) 140
+Brook Lopez,CHA,Assists,Under,(2.5) -195,,(2.5) -175,(2.5) -180
+Brook Lopez,CHA,Points,Over,(12.5) -130,(13.5) -105,(12.5) -130,(12.5) -120
+Brook Lopez,CHA,Points,Under,(12.5) 100,(13.5) -115,(12.5) 100,(12.5) -110
+Brook Lopez,CHA,Pts+Asts,Over,(15.5) -110,,(15.5) -110,(15.5) -110
+Brook Lopez,CHA,Pts+Asts,Under,(15.5) -120,,(15.5) -120,(15.5) -120
+Brook Lopez,CHA,Pts+Rebs,Over,(18.5) -110,(19.5) -106,(18.5) -110,(18.5) -115
+Brook Lopez,CHA,Pts+Rebs,Under,(18.5) -120,(19.5) -120,(18.5) -120,(18.5) -115
+Brook Lopez,CHA,Pts+Rebs+Asts,Over,(20.5) -115,,(20.5) -120,(20.5) -125
+Brook Lopez,CHA,Pts+Rebs+Asts,Under,(20.5) -115,,(20.5) -115,(20.5) -105
+Brook Lopez,CHA,Rebounds,Over,(5.5) -110,(5.5) -110,,(5.5) -110
+Brook Lopez,CHA,Rebounds,Under,(5.5) -120,(5.5) -110,,(5.5) -120
+Brook Lopez,CHA,Rebs+Asts,Over,,,(7.5) -110,(7.5) -125
+Brook Lopez,CHA,Rebs+Asts,Under,,,(7.5) -120,(7.5) -105
+CJ McCollum,@LAL,Assists,Over,(4.5) -140,(4.5) -138,,(4.5) -145
+CJ McCollum,@LAL,Assists,Under,(4.5) 110,(4.5) 112,,(4.5) 110
+CJ McCollum,@LAL,Points,Over,(21.5) -125,(20.5) -122,(21.5) -125,(22.5) -105
+CJ McCollum,@LAL,Points,Under,(21.5) -105,(20.5) 100,(21.5) -105,(22.5) -105
+CJ McCollum,@LAL,Pts+Asts,Over,(26.5) -125,(26.5) -102,(26.5) -125,(26.5) -125
+CJ McCollum,@LAL,Pts+Asts,Under,(26.5) -105,(26.5) -125,(26.5) -105,(26.5) -105
+CJ McCollum,@LAL,Pts+Rebs,Over,(26.5) -115,(25.5) -115,(26.5) -110,(26.5) -115
+CJ McCollum,@LAL,Pts+Rebs,Under,(26.5) -115,(25.5) -113,(26.5) -120,(26.5) -115
+CJ McCollum,@LAL,Pts+Rebs+Asts,Over,(31.5) -115,(30.5) -115,(31.5) -115,(31.5) -115
+CJ McCollum,@LAL,Pts+Rebs+Asts,Under,(31.5) -115,(30.5) -111,(31.5) -120,(31.5) -115
+CJ McCollum,@LAL,Rebounds,Over,(4.5) 100,(4.5) 110,(4.5) 100,(4.5) -105
+CJ McCollum,@LAL,Rebounds,Under,(4.5) -130,(4.5) -134,(4.5) -135,(4.5) -125
 CJ McCollum,@LAL,Rebs+Asts,Over,,(9.5) 102,(9.5) -105,(9.5) -105
 CJ McCollum,@LAL,Rebs+Asts,Under,,(9.5) -130,(9.5) -130,(9.5) -125
-Cody Martin,@MIL,Assists,Over,(4.5) -150,(4.5) -128,(4.5) -155,(4.5) -150
-Cody Martin,@MIL,Assists,Under,(4.5) 120,(4.5) 104,(4.5) 115,(4.5) 115
-Cody Martin,@MIL,Points,Over,(10.5) -105,(9.5) -128,(10.5) -120,(10.5) 100
-Cody Martin,@MIL,Points,Under,(10.5) -125,(9.5) 104,(10.5) -110,(10.5) -130
-Cody Martin,@MIL,Pts+Asts,Over,(15.5) 110,(14.5) -125,(15.5) 100,(15.5) -110
-Cody Martin,@MIL,Pts+Asts,Under,(15.5) -140,(14.5) -102,(15.5) -130,(15.5) -120
-Cody Martin,@MIL,Pts+Rebs,Over,(14.5) 100,(14.5) 102,,(14.5) 100
-Cody Martin,@MIL,Pts+Rebs,Under,(14.5) -130,(14.5) -130,,(14.5) -130
+Cody Martin,@MIL,Assists,Over,(4.5) -150,(4.5) -134,(4.5) -155,(4.5) -150
+Cody Martin,@MIL,Assists,Under,(4.5) 120,(4.5) 110,(4.5) 115,(4.5) 115
+Cody Martin,@MIL,Points,Over,(10.5) 105,(9.5) -128,(10.5) -115,(9.5) -130
+Cody Martin,@MIL,Points,Under,(10.5) -135,(9.5) 104,(10.5) -120,(9.5) 100
+Cody Martin,@MIL,Pts+Asts,Over,(15.5) 110,(14.5) -122,(15.5) 100,(15.5) -105
+Cody Martin,@MIL,Pts+Asts,Under,(15.5) -140,(14.5) -104,(15.5) -130,(15.5) -125
+Cody Martin,@MIL,Pts+Rebs,Over,(14.5) 100,(13.5) -130,,(14.5) 105
+Cody Martin,@MIL,Pts+Rebs,Under,(14.5) -130,(13.5) 102,,(14.5) -140
 Cody Martin,@MIL,Pts+Rebs+Asts,Over,(19.5) 110,(18.5) -125,(19.5) 100,(19.5) -105
 Cody Martin,@MIL,Pts+Rebs+Asts,Under,(19.5) -140,(18.5) -102,(19.5) -130,(19.5) -125
-Cody Martin,@MIL,Rebounds,Over,(3.5) -140,(3.5) -134,(3.5) -145,(3.5) -145
-Cody Martin,@MIL,Rebounds,Under,(3.5) 110,(3.5) 110,(3.5) 110,(3.5) 110
+Cody Martin,@MIL,Rebounds,Over,(3.5) -140,(3.5) -140,(3.5) -145,(3.5) -130
+Cody Martin,@MIL,Rebounds,Under,(3.5) 110,(3.5) 114,(3.5) 110,(3.5) 100
 Cody Martin,@MIL,Rebs+Asts,Over,,(8.5) -125,(8.5) -140,(8.5) -140
 Cody Martin,@MIL,Rebs+Asts,Under,,(8.5) -102,(8.5) 105,(8.5) 105
 D'Angelo Russell,NOP,Assists,Over,(6.5) 110,(6.5) 116,,(6.5) 110
 D'Angelo Russell,NOP,Assists,Under,(6.5) -140,(6.5) -142,,(6.5) -145
-D'Angelo Russell,NOP,Points,Over,(18.5) -120,(18.5) -114,(18.5) -120,(18.5) -115
-D'Angelo Russell,NOP,Points,Under,(18.5) -110,(18.5) -106,(18.5) -110,(18.5) -115
-D'Angelo Russell,NOP,Pts+Asts,Over,(24.5) -125,(24.5) -125,(24.5) -130,(25.5) -105
-D'Angelo Russell,NOP,Pts+Asts,Under,(24.5) -105,(24.5) -102,(24.5) -105,(25.5) -125
-D'Angelo Russell,NOP,Pts+Rebs,Over,(21.5) -120,(21.5) -120,(21.5) -120,(22.5) 105
-D'Angelo Russell,NOP,Pts+Rebs,Under,(21.5) -110,(21.5) -106,(21.5) -110,(22.5) -140
-D'Angelo Russell,NOP,Pts+Rebs+Asts,Over,(28.5) -105,(28.5) -102,(28.5) -105,(28.5) -105
-D'Angelo Russell,NOP,Pts+Rebs+Asts,Under,(28.5) -125,(28.5) -125,(28.5) -125,(28.5) -125
+D'Angelo Russell,NOP,Points,Over,(18.5) -120,(18.5) -115,(18.5) -120,(18.5) -115
+D'Angelo Russell,NOP,Points,Under,(18.5) -110,(18.5) -104,(18.5) -110,(18.5) -115
+D'Angelo Russell,NOP,Pts+Asts,Over,(24.5) -125,(25.5) 100,(24.5) -130,(25.5) -105
+D'Angelo Russell,NOP,Pts+Asts,Under,(24.5) -105,(25.5) -128,(24.5) -105,(25.5) -125
+D'Angelo Russell,NOP,Pts+Rebs,Over,(21.5) -120,(21.5) -122,(21.5) -120,(21.5) -115
+D'Angelo Russell,NOP,Pts+Rebs,Under,(21.5) -110,(21.5) -104,(21.5) -110,(21.5) -115
+D'Angelo Russell,NOP,Pts+Rebs+Asts,Over,(28.5) -105,(28.5) -104,(28.5) -105,(28.5) -105
+D'Angelo Russell,NOP,Pts+Rebs+Asts,Under,(28.5) -125,(28.5) -122,(28.5) -125,(28.5) -125
 D'Angelo Russell,NOP,Rebounds,Over,(2.5) -150,(2.5) -144,(2.5) -155,(2.5) -160
 D'Angelo Russell,NOP,Rebounds,Under,(2.5) 120,(2.5) 118,(2.5) 115,(2.5) 120
-D'Angelo Russell,NOP,Rebs+Asts,Over,,(9.5) 106,(9.5) 105,(9.5) 105
-D'Angelo Russell,NOP,Rebs+Asts,Under,,(9.5) -136,(9.5) -140,(9.5) -140
-Damian Lillard,CHA,Assists,Over,(6.5) -150,(7.5) -105,(6.5) -155,(6.5) -160
-Damian Lillard,CHA,Assists,Under,(6.5) 120,(7.5) -115,(6.5) 115,(6.5) 120
-Damian Lillard,CHA,Points,Over,(27.5) -120,(27.5) -112,(27.5) -115,(27.5) -115
-Damian Lillard,CHA,Points,Under,(27.5) -110,(27.5) -110,(27.5) -115,(27.5) -115
-Damian Lillard,CHA,Pts+Asts,Over,(34.5) -120,(35.5) -104,(34.5) -120,(34.5) -120
-Damian Lillard,CHA,Pts+Asts,Under,(34.5) -110,(35.5) -122,(34.5) -110,(34.5) -110
-Damian Lillard,CHA,Pts+Rebs,Over,(31.5) -120,(31.5) -122,(31.5) -120,(31.5) -120
-Damian Lillard,CHA,Pts+Rebs,Under,(31.5) -110,(31.5) -104,(31.5) -110,(31.5) -110
-Damian Lillard,CHA,Pts+Rebs+Asts,Over,(38.5) -125,(39.5) -111,(38.5) -125,(38.5) -120
-Damian Lillard,CHA,Pts+Rebs+Asts,Under,(38.5) -105,(39.5) -115,(38.5) -105,(38.5) -110
-Damian Lillard,CHA,Rebounds,Over,(3.5) -166,(4.5) 120,(3.5) -165,(3.5) -165
-Damian Lillard,CHA,Rebounds,Under,(3.5) 130,(4.5) -148,(3.5) 125,(3.5) 125
-Damian Lillard,CHA,Rebs+Asts,Over,,(11.5) -122,(11.5) 100,(11.5) 105
-Damian Lillard,CHA,Rebs+Asts,Under,,(11.5) -104,(11.5) -135,(11.5) -140
-De'Aaron Fox,DEN,Assists,Over,(4.5) 105,(4.5) -105,(4.5) -105,(4.5) 100
-De'Aaron Fox,DEN,Assists,Under,(4.5) -135,(4.5) -115,(4.5) -130,(4.5) -130
-De'Aaron Fox,DEN,Points,Over,(24.5) -110,(24.5) -106,(24.5) -110,(24.5) -110
-De'Aaron Fox,DEN,Points,Under,(24.5) -120,(24.5) -114,(24.5) -120,(24.5) -120
-De'Aaron Fox,DEN,Pts+Asts,Over,(28.5) -130,(29.5) -102,(28.5) -120,(28.5) -120
-De'Aaron Fox,DEN,Pts+Asts,Under,(28.5) 100,(29.5) -125,(28.5) -110,(28.5) -110
-De'Aaron Fox,DEN,Pts+Rebs,Over,(28.5) -105,(27.5) -122,(28.5) -105,(27.5) -120
-De'Aaron Fox,DEN,Pts+Rebs,Under,(28.5) -125,(27.5) -104,(28.5) -125,(27.5) -110
-De'Aaron Fox,DEN,Pts+Rebs+Asts,Over,(32.5) -110,(32.5) -113,(32.5) -110,(32.5) -115
-De'Aaron Fox,DEN,Pts+Rebs+Asts,Under,(32.5) -120,(32.5) -113,(32.5) -120,(32.5) -115
-De'Aaron Fox,DEN,Rebounds,Over,(3.5) -115,(3.5) 106,(3.5) -120,(3.5) -115
-De'Aaron Fox,DEN,Rebounds,Under,(3.5) -115,(3.5) -130,(3.5) -110,(3.5) -115
+D'Angelo Russell,NOP,Rebs+Asts,Over,,(9.5) 102,(9.5) 105,(9.5) 105
+D'Angelo Russell,NOP,Rebs+Asts,Under,,(9.5) -130,(9.5) -140,(9.5) -140
+Damian Lillard,CHA,Assists,Over,(6.5) -166,(7.5) 120,(6.5) -155,(7.5) 115
+Damian Lillard,CHA,Assists,Under,(6.5) 130,(7.5) -148,(6.5) 115,(7.5) -150
+Damian Lillard,CHA,Points,Over,(27.5) -120,(27.5) 100,(27.5) -115,(27.5) -115
+Damian Lillard,CHA,Points,Under,(27.5) -110,(27.5) -122,(27.5) -115,(27.5) -115
+Damian Lillard,CHA,Pts+Asts,Over,(34.5) -110,(34.5) -106,(34.5) -120,(35.5) -105
+Damian Lillard,CHA,Pts+Asts,Under,(34.5) -120,(34.5) -120,(34.5) -110,(35.5) -115
+Damian Lillard,CHA,Pts+Rebs,Over,(31.5) -120,(31.5) -111,(31.5) -120,
+Damian Lillard,CHA,Pts+Rebs,Under,(31.5) -110,(31.5) -115,(31.5) -110,
+Damian Lillard,CHA,Pts+Rebs+Asts,Over,(38.5) -125,(38.5) -113,(38.5) -105,
+Damian Lillard,CHA,Pts+Rebs+Asts,Under,(38.5) -105,(38.5) -113,(38.5) -125,
+Damian Lillard,CHA,Rebounds,Over,(3.5) -166,(4.5) 120,(3.5) -165,
+Damian Lillard,CHA,Rebounds,Under,(3.5) 130,(4.5) -148,(3.5) 125,
+Damian Lillard,CHA,Rebs+Asts,Over,,(11.5) -104,(11.5) 100,
+Damian Lillard,CHA,Rebs+Asts,Under,,(11.5) -122,(11.5) -135,
+De'Aaron Fox,DEN,Assists,Over,(4.5) 105,(4.5) 100,(4.5) -105,(4.5) 100
+De'Aaron Fox,DEN,Assists,Under,(4.5) -135,(4.5) -122,(4.5) -130,(4.5) -130
+De'Aaron Fox,DEN,Points,Over,(24.5) -110,(24.5) -110,(24.5) -110,(24.5) -115
+De'Aaron Fox,DEN,Points,Under,(24.5) -120,(24.5) -110,(24.5) -120,(24.5) -115
+De'Aaron Fox,DEN,Pts+Asts,Over,(28.5) -130,(29.5) -104,(28.5) -120,(29.5) -105
+De'Aaron Fox,DEN,Pts+Asts,Under,(28.5) 100,(29.5) -122,(28.5) -110,(29.5) -115
+De'Aaron Fox,DEN,Pts+Rebs,Over,(28.5) -105,(28.5) -104,(28.5) -105,(28.5) -110
+De'Aaron Fox,DEN,Pts+Rebs,Under,(28.5) -125,(28.5) -122,(28.5) -125,(28.5) -120
+De'Aaron Fox,DEN,Pts+Rebs+Asts,Over,(32.5) -110,(32.5) -118,(32.5) -110,(32.5) -115
+De'Aaron Fox,DEN,Pts+Rebs+Asts,Under,(32.5) -120,(32.5) -108,(32.5) -120,(32.5) -115
+De'Aaron Fox,DEN,Rebounds,Over,(3.5) -115,(3.5) 104,(3.5) -120,(3.5) -115
+De'Aaron Fox,DEN,Rebounds,Under,(3.5) -115,(3.5) -128,(3.5) -110,(3.5) -115
 De'Aaron Fox,DEN,Rebs+Asts,Over,,(7.5) -140,(7.5) -130,(7.5) -150
-De'Aaron Fox,DEN,Rebs+Asts,Under,,(7.5) 110,(7.5) 100,(7.5) 115
-Dejounte Murray,@PHI,Assists,Over,(4.5) -175,(5.5) 116,(4.5) -155,(5.5) 120
-Dejounte Murray,@PHI,Assists,Under,(4.5) 135,(5.5) -142,(4.5) 115,(5.5) -160
-Dejounte Murray,@PHI,Points,Over,(20.5) -125,(20.5) -120,(20.5) -130,(21.5) -105
-Dejounte Murray,@PHI,Points,Under,(20.5) -105,(20.5) -102,(20.5) -105,(21.5) -125
-Dejounte Murray,@PHI,Pts+Asts,Over,(26.5) -115,(26.5) -108,(26.5) -110,(26.5) -110
-Dejounte Murray,@PHI,Pts+Asts,Under,(26.5) -115,(26.5) -118,(26.5) -120,(26.5) -120
-Dejounte Murray,@PHI,Pts+Rebs,Over,(25.5) -125,(26.5) -104,(25.5) -130,(26.5) -105
-Dejounte Murray,@PHI,Pts+Rebs,Under,(25.5) -105,(26.5) -122,(25.5) -105,(26.5) -125
-Dejounte Murray,@PHI,Pts+Rebs+Asts,Over,(31.5) -125,(31.5) -113,(31.5) -110,(31.5) -115
-Dejounte Murray,@PHI,Pts+Rebs+Asts,Under,(31.5) -105,(31.5) -113,(31.5) -120,(31.5) -115
-Dejounte Murray,@PHI,Rebounds,Over,(4.5) -140,(4.5) -142,(4.5) -150,(4.5) -145
-Dejounte Murray,@PHI,Rebounds,Under,(4.5) 110,(4.5) 116,(4.5) 110,(4.5) 110
-Dejounte Murray,@PHI,Rebs+Asts,Over,,(10.5) 100,(9.5) -160,(10.5) 105
-Dejounte Murray,@PHI,Rebs+Asts,Under,,(10.5) -128,(9.5) 120,(10.5) -140
-Deni Avdija,@BOS,Assists,Over,(3.5) 114,(2.5) -170,,(3.5) 105
-Deni Avdija,@BOS,Assists,Under,(3.5) -145,(2.5) 138,,(3.5) -140
-Deni Avdija,@BOS,Points,Over,(12.5) 105,(11.5) -108,(12.5) -105,(12.5) 100
-Deni Avdija,@BOS,Points,Under,(12.5) -135,(11.5) -112,(12.5) -125,(12.5) -130
-Deni Avdija,@BOS,Pts+Asts,Over,(15.5) -105,(14.5) -118,(15.5) -110,(15.5) -115
-Deni Avdija,@BOS,Pts+Asts,Under,(15.5) -125,(14.5) -108,(15.5) -120,(15.5) -115
-Deni Avdija,@BOS,Pts+Rebs,Over,(19.5) -105,(18.5) -122,(19.5) 100,(19.5) -105
-Deni Avdija,@BOS,Pts+Rebs,Under,(19.5) -125,(18.5) -104,(19.5) -135,(19.5) -125
-Deni Avdija,@BOS,Pts+Rebs+Asts,Over,(23.5) 105,(22.5) 100,(23.5) 105,(22.5) -115
-Deni Avdija,@BOS,Pts+Rebs+Asts,Under,(23.5) -135,(22.5) -128,(23.5) -140,(22.5) -115
-Deni Avdija,@BOS,Rebounds,Over,(7.5) 124,(6.5) -142,(7.5) 110,(6.5) -130
-Deni Avdija,@BOS,Rebounds,Under,(7.5) -160,(6.5) 116,(7.5) -150,(6.5) 100
-Deni Avdija,@BOS,Rebs+Asts,Over,,(10.5) 108,(10.5) -105,(10.5) 100
-Deni Avdija,@BOS,Rebs+Asts,Under,,(10.5) -138,(10.5) -125,(10.5) -130
-Derrick White,WAS,Assists,Over,,(4.5) -120,,
-Derrick White,WAS,Assists,Under,,(4.5) -102,,
-Derrick White,WAS,Points,Over,,(16.5) -104,,
-Derrick White,WAS,Points,Under,,(16.5) -118,,
-Derrick White,WAS,Pts+Asts,Over,,(21.5) -104,,
-Derrick White,WAS,Pts+Asts,Under,,(21.5) -122,,
-Derrick White,WAS,Pts+Rebs,Over,,(20.5) -104,,
-Derrick White,WAS,Pts+Rebs,Under,,(20.5) -122,,
-Derrick White,WAS,Pts+Rebs+Asts,Over,,(25.5) -102,,
-Derrick White,WAS,Pts+Rebs+Asts,Under,,(25.5) -125,,
-Derrick White,WAS,Rebounds,Over,,(3.5) -118,,
-Derrick White,WAS,Rebounds,Under,,(3.5) -104,,
-Derrick White,WAS,Rebs+Asts,Over,,(8.5) -111,,
-Derrick White,WAS,Rebs+Asts,Under,,(8.5) -115,,
-Dillon Brooks,@TOR,Assists,Over,,,(1.5) -115,
-Dillon Brooks,@TOR,Assists,Under,,,(1.5) -115,
-Dillon Brooks,@TOR,Points,Over,(13.5) -115,(13.5) -110,(13.5) -110,(13.5) -115
-Dillon Brooks,@TOR,Points,Under,(13.5) -115,(13.5) -110,(13.5) -125,(13.5) -115
-Dillon Brooks,@TOR,Pts+Asts,Over,(14.5) -125,,(14.5) -130,
-Dillon Brooks,@TOR,Pts+Asts,Under,(14.5) -105,,(14.5) 100,
-Dillon Brooks,@TOR,Pts+Rebs,Over,(16.5) -120,(16.5) -122,(16.5) -120,(17.5) -105
-Dillon Brooks,@TOR,Pts+Rebs,Under,(16.5) -110,(16.5) -104,(16.5) -110,(17.5) -125
-Dillon Brooks,@TOR,Pts+Rebs+Asts,Over,(18.5) -115,,(18.5) -110,
-Dillon Brooks,@TOR,Pts+Rebs+Asts,Under,(18.5) -115,,(18.5) -120,
-Dillon Brooks,@TOR,Rebounds,Over,(3.5) 114,(3.5) 130,(3.5) 115,(3.5) 110
-Dillon Brooks,@TOR,Rebounds,Under,(3.5) -145,(3.5) -160,(3.5) -155,(3.5) -145
+De'Aaron Fox,DEN,Rebs+Asts,Under,,(7.5) 110,(7.5) 100,(7.5) -145
+Dejounte Murray,@PHI,Assists,Over,(4.5) -175,(5.5) 116,(4.5) -155,(5.5) 100
+Dejounte Murray,@PHI,Assists,Under,(4.5) 135,(5.5) -142,(4.5) -155,(5.5) -130
+Dejounte Murray,@PHI,Points,Over,(20.5) -125,(20.5) -115,(20.5) -130,(21.5) -105
+Dejounte Murray,@PHI,Points,Under,(20.5) -105,(20.5) -105,(20.5) -105,(21.5) -110
+Dejounte Murray,@PHI,Pts+Asts,Over,(26.5) -115,(26.5) -102,(26.5) -105,(26.5) -115
+Dejounte Murray,@PHI,Pts+Asts,Under,(26.5) -115,(26.5) -125,(26.5) -125,(26.5) -115
+Dejounte Murray,@PHI,Pts+Rebs,Over,(25.5) -125,(25.5) -120,(26.5) -105,(26.5) -110
+Dejounte Murray,@PHI,Pts+Rebs,Under,(25.5) -105,(25.5) -106,(26.5) -105,(26.5) -110
+Dejounte Murray,@PHI,Pts+Rebs+Asts,Over,(31.5) -125,(31.5) -104,(31.5) -110,(31.5) -120
+Dejounte Murray,@PHI,Pts+Rebs+Asts,Under,(31.5) -105,(31.5) -122,(31.5) -125,(31.5) -110
+Dejounte Murray,@PHI,Rebounds,Over,(4.5) -140,(4.5) -132,(4.5) -155,(4.5) -160
+Dejounte Murray,@PHI,Rebounds,Under,(4.5) 110,(4.5) 108,(4.5) 115,(4.5) 120
+Dejounte Murray,@PHI,Rebs+Asts,Over,,(10.5) 102,(10.5) -105,(10.5) -110
+Dejounte Murray,@PHI,Rebs+Asts,Under,,(10.5) -130,(10.5) -130,(10.5) -120
+Deni Avdija,@BOS,Assists,Over,(3.5) 120,(2.5) -172,,(3.5) 120
+Deni Avdija,@BOS,Assists,Under,(3.5) -150,(2.5) 140,,(3.5) -160
+Deni Avdija,@BOS,Points,Over,(12.5) 100,(11.5) -106,,(12.5) -105
+Deni Avdija,@BOS,Points,Under,(12.5) -130,(11.5) -114,,(12.5) -125
+Deni Avdija,@BOS,Pts+Asts,Over,,(14.5) -115,,(15.5) -115
+Deni Avdija,@BOS,Pts+Asts,Under,,(14.5) -111,,(15.5) -115
+Deni Avdija,@BOS,Pts+Rebs,Over,,(18.5) -130,(20.5) -110,(19.5) -115
+Deni Avdija,@BOS,Pts+Rebs,Under,,(18.5) 102,(20.5) -120,(19.5) -115
+Deni Avdija,@BOS,Pts+Rebs+Asts,Over,(23.5) 100,(21.5) -120,(23.5) 105,(22.5) -115
+Deni Avdija,@BOS,Pts+Rebs+Asts,Under,(23.5) -130,(21.5) -106,(23.5) -140,(22.5) -115
+Deni Avdija,@BOS,Rebounds,Over,(7.5) 114,(6.5) -134,(7.5) 110,(6.5) -150
+Deni Avdija,@BOS,Rebounds,Under,(7.5) -145,(6.5) 110,(7.5) -150,(6.5) -150
+Deni Avdija,@BOS,Rebs+Asts,Over,,(10.5) 106,(10.5) -105,(10.5) -110
+Deni Avdija,@BOS,Rebs+Asts,Under,,(10.5) -136,(10.5) -125,(10.5) -120
+Derrick White,WAS,Assists,Over,(3.5) -150,(3.5) -162,(3.5) -160,(3.5) -150
+Derrick White,WAS,Assists,Under,(3.5) 120,(3.5) 132,(3.5) 120,(3.5) -160
+Derrick White,WAS,Points,Over,(14.5) -125,(14.5) -114,(14.5) -125,(14.5) -120
+Derrick White,WAS,Points,Under,(14.5) -105,(14.5) -106,(14.5) -105,(14.5) -110
+Derrick White,WAS,Pts+Asts,Over,(18.5) -125,(18.5) -125,(18.5) -130,(19.5) 105
+Derrick White,WAS,Pts+Asts,Under,(18.5) -105,(18.5) -102,(18.5) -105,(19.5) -140
+Derrick White,WAS,Pts+Rebs,Over,(19.5) -105,(19.5) 100,(19.5) -105,(19.5) -105
+Derrick White,WAS,Pts+Rebs,Under,(19.5) -125,(19.5) -128,(19.5) -130,(19.5) -125
+Derrick White,WAS,Pts+Rebs+Asts,Over,(23.5) -110,(23.5) -106,(23.5) -110,(23.5) -105
+Derrick White,WAS,Pts+Rebs+Asts,Under,(23.5) -120,(23.5) -120,(23.5) -120,(23.5) -125
+Derrick White,WAS,Rebounds,Over,(4.5) 120,(4.5) 122,(4.5) 115,(4.5) 120
+Derrick White,WAS,Rebounds,Under,(4.5) -150,(4.5) -150,(4.5) -155,(4.5) -160
+Derrick White,WAS,Rebs+Asts,Over,,(8.5) 100,(8.5) 100,(8.5) 105
+Derrick White,WAS,Rebs+Asts,Under,,(8.5) -128,(8.5) -135,(8.5) -140
+Dillon Brooks,@TOR,Assists,Over,,,(1.5) -110,
+Dillon Brooks,@TOR,Assists,Under,,,(1.5) -120,
+Dillon Brooks,@TOR,Points,Over,(13.5) -115,(13.5) -108,(13.5) -120,(13.5) -115
+Dillon Brooks,@TOR,Points,Under,(13.5) -115,(13.5) -112,(13.5) -110,(13.5) -115
+Dillon Brooks,@TOR,Pts+Asts,Over,(14.5) -130,,(14.5) -130,
+Dillon Brooks,@TOR,Pts+Asts,Under,(14.5) 100,,(14.5) 100,
+Dillon Brooks,@TOR,Pts+Rebs,Over,(16.5) -120,(16.5) -125,(16.5) -120,(16.5) -120
+Dillon Brooks,@TOR,Pts+Rebs,Under,(16.5) -110,(16.5) -102,(16.5) -110,(16.5) -110
+Dillon Brooks,@TOR,Pts+Rebs+Asts,Over,(18.5) -120,,(18.5) -110,
+Dillon Brooks,@TOR,Pts+Rebs+Asts,Under,(18.5) -110,,(18.5) -120,
+Dillon Brooks,@TOR,Rebounds,Over,(3.5) 120,(3.5) 116,(3.5) 110,(3.5) 120
+Dillon Brooks,@TOR,Rebounds,Under,(3.5) -150,(3.5) -142,(3.5) -150,(3.5) -160
 Dillon Brooks,@TOR,Rebs+Asts,Over,,,(4.5) -150,
 Dillon Brooks,@TOR,Rebs+Asts,Under,,,(4.5) 110,
-Domantas Sabonis,DEN,Assists,Over,(8.5) -110,(8.5) -118,(8.5) -130,(8.5) 100
-Domantas Sabonis,DEN,Assists,Under,(8.5) -120,(8.5) -104,(8.5) 100,(8.5) -130
-Domantas Sabonis,DEN,Points,Over,(19.5) 100,(19.5) -110,(19.5) -105,(19.5) -105
-Domantas Sabonis,DEN,Points,Under,(19.5) -130,(19.5) -110,(19.5) -130,(19.5) -125
-Domantas Sabonis,DEN,Pts+Asts,Over,(28.5) 105,(28.5) -111,(28.5) -105,(27.5) -115
-Domantas Sabonis,DEN,Pts+Asts,Under,(28.5) -135,(28.5) -115,(28.5) -125,(27.5) -115
-Domantas Sabonis,DEN,Pts+Rebs,Over,(32.5) -115,(32.5) -118,(32.5) -115,(32.5) -110
-Domantas Sabonis,DEN,Pts+Rebs,Under,(32.5) -115,(32.5) -108,(32.5) -115,(32.5) -120
-Domantas Sabonis,DEN,Pts+Rebs+Asts,Over,(41.5) -115,(41.5) -113,(41.5) -115,(40.5) -120
-Domantas Sabonis,DEN,Pts+Rebs+Asts,Under,(41.5) -115,(41.5) -113,(41.5) -115,(40.5) -110
-Domantas Sabonis,DEN,Rebounds,Over,(13.5) 110,(12.5) -128,(13.5) 100,(12.5) -140
-Domantas Sabonis,DEN,Rebounds,Under,(13.5) -140,(12.5) 104,(13.5) -135,(12.5) 105
-Domantas Sabonis,DEN,Rebs+Asts,Over,,(21.5) -115,(22.5) -110,(21.5) -115
-Domantas Sabonis,DEN,Rebs+Asts,Under,,(21.5) -111,(22.5) -125,(21.5) -115
+Domantas Sabonis,DEN,Assists,Over,(8.5) -115,(8.5) -115,(8.5) -130,(8.5) -110
+Domantas Sabonis,DEN,Assists,Under,(8.5) -115,(8.5) -105,(8.5) 100,(8.5) -120
+Domantas Sabonis,DEN,Points,Over,(19.5) 100,(19.5) -106,(19.5) -105,(19.5) -110
+Domantas Sabonis,DEN,Points,Under,(19.5) -130,(19.5) -114,(19.5) -130,(19.5) -105
+Domantas Sabonis,DEN,Pts+Asts,Over,(28.5) 105,(28.5) -104,(28.5) -105,(27.5) -125
+Domantas Sabonis,DEN,Pts+Asts,Under,(28.5) -135,(28.5) -122,(28.5) -125,(27.5) -105
+Domantas Sabonis,DEN,Pts+Rebs,Over,(32.5) -115,(32.5) -118,(32.5) -115,(32.5) -115
+Domantas Sabonis,DEN,Pts+Rebs,Under,(32.5) -115,(32.5) -108,(32.5) -115,(32.5) -115
+Domantas Sabonis,DEN,Pts+Rebs+Asts,Over,(41.5) -115,(41.5) -113,(41.5) -115,(41.5) -110
+Domantas Sabonis,DEN,Pts+Rebs+Asts,Under,(41.5) -115,(41.5) -113,(41.5) -115,(41.5) -120
+Domantas Sabonis,DEN,Rebounds,Over,(13.5) 110,(12.5) -130,(13.5) 100,(12.5) -140
+Domantas Sabonis,DEN,Rebounds,Under,(13.5) -140,(12.5) 106,(13.5) -135,(12.5) -140
+Domantas Sabonis,DEN,Rebs+Asts,Over,,(21.5) -122,(22.5) -110,(21.5) -120
+Domantas Sabonis,DEN,Rebs+Asts,Under,,(21.5) -104,(22.5) -125,(21.5) -110
 Gary Trent,HOU,Assists,Over,,,(1.5) 155,
 Gary Trent,HOU,Assists,Under,,,(1.5) -210,
-Gary Trent,HOU,Points,Over,(12.5) -115,(12.5) -110,(12.5) -115,(12.5) -115
-Gary Trent,HOU,Points,Under,(12.5) -115,(12.5) -110,(12.5) -115,(12.5) -115
+Gary Trent,HOU,Points,Over,(12.5) -115,(12.5) -118,(12.5) -115,(12.5) -115
+Gary Trent,HOU,Points,Under,(12.5) -115,(12.5) -104,(12.5) -115,(12.5) -115
 Gary Trent,HOU,Pts+Asts,Over,(13.5) -120,,(13.5) -120,
 Gary Trent,HOU,Pts+Asts,Under,(13.5) -110,,(13.5) -110,
-Gary Trent,HOU,Pts+Rebs,Over,(14.5) -130,,(14.5) -120,(15.5) 105
-Gary Trent,HOU,Pts+Rebs,Under,(14.5) 100,,(14.5) -110,(15.5) -140
+Gary Trent,HOU,Pts+Rebs,Over,(14.5) -130,,(14.5) -120,(15.5) 100
+Gary Trent,HOU,Pts+Rebs,Under,(14.5) 100,,(14.5) -110,(15.5) -130
 Gary Trent,HOU,Pts+Rebs+Asts,Over,,,(15.5) -130,
 Gary Trent,HOU,Pts+Rebs+Asts,Under,,,(15.5) -105,
-Gary Trent,HOU,Rebounds,Over,(2.5) 145,,(2.5) 140,(2.5) 140
-Gary Trent,HOU,Rebounds,Under,(2.5) -190,,(2.5) -190,(2.5) -180
+Gary Trent,HOU,Rebounds,Over,(2.5) 120,,(2.5) 140,(2.5) 120
+Gary Trent,HOU,Rebounds,Under,(2.5) -150,,(2.5) -190,(2.5) -160
 Gary Trent,HOU,Rebs+Asts,Over,,,(3.5) 105,
 Gary Trent,HOU,Rebs+Asts,Under,,,(3.5) -140,
-Giannis Antetokounmpo,CHA,Assists,Over,(7.5) -105,(7.5) -108,,(7.5) -105
-Giannis Antetokounmpo,CHA,Assists,Under,(7.5) -125,(7.5) -112,,(7.5) -125
-Giannis Antetokounmpo,CHA,Points,Over,(33.5) -110,(33.5) -114,(33.5) -110,(33.5) -115
-Giannis Antetokounmpo,CHA,Points,Under,(33.5) -120,(33.5) -106,(33.5) -125,(33.5) -115
-Giannis Antetokounmpo,CHA,Pts+Asts,Over,(40.5) -115,(41.5) -111,(40.5) -115,(40.5) -120
-Giannis Antetokounmpo,CHA,Pts+Asts,Under,(40.5) -115,(41.5) -115,(40.5) -115,(40.5) -110
-Giannis Antetokounmpo,CHA,Pts+Rebs,Over,(45.5) -110,(46.5) -104,(45.5) -110,(45.5) -115
-Giannis Antetokounmpo,CHA,Pts+Rebs,Under,(45.5) -120,(46.5) -122,(45.5) -120,(45.5) -115
-Giannis Antetokounmpo,CHA,Pts+Rebs+Asts,Over,(52.5) -115,(53.5) -115,(52.5) -115,(52.5) -120
-Giannis Antetokounmpo,CHA,Pts+Rebs+Asts,Under,(52.5) -115,(53.5) -111,(52.5) -120,(52.5) -110
-Giannis Antetokounmpo,CHA,Rebounds,Over,(11.5) -115,(12.5) 108,(11.5) -120,(11.5) -120
-Giannis Antetokounmpo,CHA,Rebounds,Under,(11.5) -115,(12.5) -132,(11.5) -110,(11.5) -110
-Giannis Antetokounmpo,CHA,Rebs+Asts,Over,,(19.5) -125,(19.5) 100,(19.5) -105
-Giannis Antetokounmpo,CHA,Rebs+Asts,Under,,(19.5) -102,(19.5) -135,(19.5) -125
+Giannis Antetokounmpo,CHA,Assists,Over,(7.5) -105,(7.5) -104,,(7.5) -110
+Giannis Antetokounmpo,CHA,Assists,Under,(7.5) -125,(7.5) -118,,(7.5) -120
+Giannis Antetokounmpo,CHA,Points,Over,(33.5) -110,(32.5) -110,(33.5) -110,(33.5) -115
+Giannis Antetokounmpo,CHA,Points,Under,(33.5) -120,(32.5) -110,(33.5) -125,(33.5) -115
+Giannis Antetokounmpo,CHA,Pts+Asts,Over,(40.5) -115,(40.5) -102,(40.5) -115,(41.5) -110
+Giannis Antetokounmpo,CHA,Pts+Asts,Under,(40.5) -115,(40.5) -125,(40.5) -115,(41.5) -110
+Giannis Antetokounmpo,CHA,Pts+Rebs,Over,(45.5) -110,(44.5) -120,(45.5) -110,(45.5) -110
+Giannis Antetokounmpo,CHA,Pts+Rebs,Under,(45.5) -120,(44.5) -106,(45.5) -120,(45.5) -120
+Giannis Antetokounmpo,CHA,Pts+Rebs+Asts,Over,(52.5) -115,(52.5) -111,(52.5) -115,(52.5) -120
+Giannis Antetokounmpo,CHA,Pts+Rebs+Asts,Under,(52.5) -115,(52.5) -115,(52.5) -120,(52.5) -110
+Giannis Antetokounmpo,CHA,Rebounds,Over,(11.5) -115,(11.5) -130,(11.5) -120,(11.5) -115
+Giannis Antetokounmpo,CHA,Rebounds,Under,(11.5) -115,(11.5) 108,(11.5) -110,(11.5) -115
+Giannis Antetokounmpo,CHA,Rebs+Asts,Over,,(19.5) -113,(19.5) 100,(19.5) -105
+Giannis Antetokounmpo,CHA,Rebs+Asts,Under,,(19.5) -113,(19.5) -135,(19.5) -125
 Harrison Barnes,DEN,Assists,Over,,,(0.5) -250,
 Harrison Barnes,DEN,Assists,Under,,,(0.5) 170,
-Harrison Barnes,DEN,Points,Over,(12.5) -120,(12.5) -124,(12.5) -115,(12.5) -120
-Harrison Barnes,DEN,Points,Under,(12.5) -110,(12.5) 102,(12.5) -115,(12.5) -110
+Harrison Barnes,DEN,Points,Over,(12.5) -115,(12.5) -124,(12.5) -115,(12.5) -115
+Harrison Barnes,DEN,Points,Under,(12.5) -115,(12.5) 102,(12.5) -115,(12.5) -115
 Harrison Barnes,DEN,Pts+Asts,Over,(13.5) -120,,(13.5) -120,
 Harrison Barnes,DEN,Pts+Asts,Under,(13.5) -110,,(13.5) -110,
-Harrison Barnes,DEN,Pts+Rebs,Over,(15.5) -135,(15.5) -125,(15.5) -110,(15.5) -115
-Harrison Barnes,DEN,Pts+Rebs,Under,(15.5) 105,(15.5) -102,(15.5) -120,(15.5) -115
+Harrison Barnes,DEN,Pts+Rebs,Over,(15.5) -130,(16.5) -102,(15.5) -110,(15.5) -115
+Harrison Barnes,DEN,Pts+Rebs,Under,(15.5) 100,(16.5) -125,(15.5) -120,(15.5) -115
 Harrison Barnes,DEN,Pts+Rebs+Asts,Over,(16.5) -115,,(16.5) -115,
 Harrison Barnes,DEN,Pts+Rebs+Asts,Under,(16.5) -115,,(16.5) -120,
-Harrison Barnes,DEN,Rebounds,Over,(2.5) -135,(2.5) -140,(2.5) -130,(2.5) -140
-Harrison Barnes,DEN,Rebounds,Under,(2.5) 105,(2.5) 112,(2.5) -105,(2.5) 105
+Harrison Barnes,DEN,Rebounds,Over,(2.5) -135,(2.5) -144,(2.5) -130,(2.5) -145
+Harrison Barnes,DEN,Rebounds,Under,(2.5) 105,(2.5) 118,(2.5) -105,(2.5) 110
 Harrison Barnes,DEN,Rebs+Asts,Over,,,,
 Harrison Barnes,DEN,Rebs+Asts,Under,,,,
-Immanuel Quickley,HOU,Assists,Over,(6.5) -105,(6.5) 100,(6.5) -110,(6.5) -105
-Immanuel Quickley,HOU,Assists,Under,(6.5) -125,(6.5) -122,(6.5) -120,(6.5) -125
-Immanuel Quickley,HOU,Points,Over,(17.5) -115,(18.5) -105,(17.5) -115,(17.5) -115
-Immanuel Quickley,HOU,Points,Under,(17.5) -115,(18.5) -115,(17.5) -115,(17.5) -115
-Immanuel Quickley,HOU,Pts+Asts,Over,(24.5) -110,(24.5) -118,(24.5) -110,(24.5) -105
-Immanuel Quickley,HOU,Pts+Asts,Under,(24.5) -120,(24.5) -108,(24.5) -120,(24.5) -125
+Immanuel Quickley,HOU,Assists,Over,(6.5) -105,(6.5) 104,(6.5) -110,(6.5) 100
+Immanuel Quickley,HOU,Assists,Under,(6.5) -125,(6.5) -128,(6.5) -120,(6.5) -130
+Immanuel Quickley,HOU,Points,Over,(17.5) -115,(18.5) -106,(17.5) -115,(17.5) -115
+Immanuel Quickley,HOU,Points,Under,(17.5) -115,(18.5) -114,(17.5) -115,(17.5) -115
+Immanuel Quickley,HOU,Pts+Asts,Over,(24.5) -110,(24.5) -120,(24.5) -110,(24.5) -105
+Immanuel Quickley,HOU,Pts+Asts,Under,(24.5) -120,(24.5) -106,(24.5) -120,(24.5) -105
 Immanuel Quickley,HOU,Pts+Rebs,Over,(21.5) -110,(22.5) -106,(21.5) -110,(21.5) -110
 Immanuel Quickley,HOU,Pts+Rebs,Under,(21.5) -120,(22.5) -120,(21.5) -120,(21.5) -120
 Immanuel Quickley,HOU,Pts+Rebs+Asts,Over,(27.5) -125,(28.5) -118,(27.5) -125,(28.5) -105
-Immanuel Quickley,HOU,Pts+Rebs+Asts,Under,(27.5) -105,(28.5) -108,(27.5) -105,(28.5) -125
-Immanuel Quickley,HOU,Rebounds,Over,(3.5) -130,(3.5) -122,(3.5) -115,(3.5) -130
-Immanuel Quickley,HOU,Rebounds,Under,(3.5) 100,(3.5) 100,(3.5) -120,(3.5) 100
-Immanuel Quickley,HOU,Rebs+Asts,Over,,(10.5) 100,(10.5) 105,(10.5) 100
-Immanuel Quickley,HOU,Rebs+Asts,Under,,(10.5) -128,(10.5) -140,(10.5) -130
+Immanuel Quickley,HOU,Pts+Rebs+Asts,Under,(27.5) -105,(28.5) -108,(27.5) -105,(28.5) -110
+Immanuel Quickley,HOU,Rebounds,Over,(3.5) -130,(3.5) -124,(3.5) -115,(3.5) -125
+Immanuel Quickley,HOU,Rebounds,Under,(3.5) 100,(3.5) 102,(3.5) -120,(3.5) -105
+Immanuel Quickley,HOU,Rebs+Asts,Over,,(10.5) 104,(10.5) 105,(10.5) 105
+Immanuel Quickley,HOU,Rebs+Asts,Under,,(10.5) -132,(10.5) -140,(10.5) -140
 Jabari Smith,@TOR,Assists,Over,,,(1.5) 165,
 Jabari Smith,@TOR,Assists,Under,,,(1.5) -225,
-Jabari Smith,@TOR,Points,Over,(12.5) -135,(13.5) -102,(12.5) -130,(13.5) 100
-Jabari Smith,@TOR,Points,Under,(12.5) 105,(13.5) -120,(12.5) -105,(13.5) -130
+Jabari Smith,@TOR,Points,Over,(12.5) -135,(13.5) 100,(12.5) -130,(13.5) -110
+Jabari Smith,@TOR,Points,Under,(12.5) 105,(13.5) -122,(12.5) -105,(13.5) -120
 Jabari Smith,@TOR,Pts+Asts,Over,(14.5) 100,,(14.5) -105,
-Jabari Smith,@TOR,Pts+Asts,Under,(14.5) -130,,(14.5) -130,
-Jabari Smith,@TOR,Pts+Rebs,Over,(21.5) -110,(21.5) -104,(21.5) -110,(21.5) -115
-Jabari Smith,@TOR,Pts+Rebs,Under,(21.5) -120,(21.5) -122,(21.5) -125,(21.5) -115
-Jabari Smith,@TOR,Pts+Rebs+Asts,Over,(22.5) -110,,(22.5) -115,
-Jabari Smith,@TOR,Pts+Rebs+Asts,Under,(22.5) -120,,(22.5) -120,
-Jabari Smith,@TOR,Rebounds,Over,(8.5) 110,(7.5) -122,(8.5) 110,(8.5) 105
-Jabari Smith,@TOR,Rebounds,Under,(8.5) -140,(7.5) 100,(8.5) -145,(8.5) -140
+Jabari Smith,@TOR,Pts+Asts,Under,(14.5) -130,,(14.5) -125,
+Jabari Smith,@TOR,Pts+Rebs,Over,(21.5) -105,(21.5) -108,(21.5) -110,(21.5) -115
+Jabari Smith,@TOR,Pts+Rebs,Under,(21.5) -125,(21.5) -118,(21.5) -125,(21.5) -115
+Jabari Smith,@TOR,Pts+Rebs+Asts,Over,(22.5) -115,,(22.5) -110,
+Jabari Smith,@TOR,Pts+Rebs+Asts,Under,(22.5) -115,,(22.5) -120,
+Jabari Smith,@TOR,Rebounds,Over,(8.5) 110,(7.5) -130,(7.5) -155,(7.5) -140
+Jabari Smith,@TOR,Rebounds,Under,(8.5) -140,(7.5) 106,(7.5) -145,(7.5) -140
 Jabari Smith,@TOR,Rebs+Asts,Over,,,(9.5) 100,
-Jabari Smith,@TOR,Rebs+Asts,Under,,,(9.5) -130,
-Jakob Poeltl,HOU,Assists,Over,(2.5) 120,,(2.5) 105,(2.5) 115
-Jakob Poeltl,HOU,Assists,Under,(2.5) -150,,(2.5) -140,(2.5) -150
-Jakob Poeltl,HOU,Points,Over,(11.5) -135,(11.5) -124,(11.5) -135,(11.5) -140
-Jakob Poeltl,HOU,Points,Under,(11.5) 105,(11.5) 102,(11.5) 100,(11.5) 105
-Jakob Poeltl,HOU,Pts+Asts,Over,(14.5) -115,(14.5) -113,(14.5) -115,(14.5) -115
-Jakob Poeltl,HOU,Pts+Asts,Under,(14.5) -115,(14.5) -113,(14.5) -115,(14.5) -115
-Jakob Poeltl,HOU,Pts+Rebs,Over,(22.5) -105,(21.5) -122,(22.5) -105,(21.5) -125
-Jakob Poeltl,HOU,Pts+Rebs,Under,(22.5) -125,(21.5) -104,(22.5) -130,(21.5) -105
-Jakob Poeltl,HOU,Pts+Rebs+Asts,Over,(24.5) -115,(24.5) -111,(24.5) -120,(24.5) -110
-Jakob Poeltl,HOU,Pts+Rebs+Asts,Under,(24.5) -115,(24.5) -115,(24.5) -115,(24.5) -120
-Jakob Poeltl,HOU,Rebounds,Over,(9.5) -125,(9.5) -120,(9.5) -125,(9.5) -120
-Jakob Poeltl,HOU,Rebounds,Under,(9.5) -105,(9.5) -102,(9.5) -105,(9.5) -110
-Jakob Poeltl,HOU,Rebs+Asts,Over,,(12.5) 102,(12.5) -105,(12.5) 105
-Jakob Poeltl,HOU,Rebs+Asts,Under,,(12.5) -130,(12.5) -125,(12.5) -140
-Jalen Green,@TOR,Assists,Over,(3.5) -125,(3.5) -142,(3.5) -130,(3.5) -125
-Jalen Green,@TOR,Assists,Under,(3.5) -105,(3.5) 116,(3.5) 100,(3.5) -105
-Jalen Green,@TOR,Points,Over,(20.5) -115,(19.5) -114,(20.5) -105,(20.5) -115
-Jalen Green,@TOR,Points,Under,(20.5) -115,(19.5) -106,(20.5) -130,(20.5) -115
-Jalen Green,@TOR,Pts+Asts,Over,(23.5) -125,(23.5) -115,(23.5) -125,(24.5) -115
-Jalen Green,@TOR,Pts+Asts,Under,(23.5) -105,(23.5) -111,(23.5) -105,(24.5) -115
-Jalen Green,@TOR,Pts+Rebs,Over,(24.5) -120,(24.5) -104,(24.5) -115,(24.5) -125
-Jalen Green,@TOR,Pts+Rebs,Under,(24.5) -110,(24.5) -122,(24.5) -120,(24.5) -105
-Jalen Green,@TOR,Pts+Rebs+Asts,Over,(28.5) -130,(28.5) -104,(28.5) -125,(28.5) -120
-Jalen Green,@TOR,Pts+Rebs+Asts,Under,(28.5) 100,(28.5) -122,(28.5) -105,(28.5) -110
-Jalen Green,@TOR,Rebounds,Over,(4.5) 114,(4.5) 116,(4.5) 115,(4.5) 110
-Jalen Green,@TOR,Rebounds,Under,(4.5) -145,(4.5) -142,(4.5) -150,(4.5) -145
-Jalen Green,@TOR,Rebs+Asts,Over,,(8.5) 104,(8.5) 110,(7.5) -150
-Jalen Green,@TOR,Rebs+Asts,Under,,(8.5) -132,(8.5) -150,(7.5) 115
-Jalen Johnson,@PHI,Assists,Over,(3.5) -130,(3.5) -134,(3.5) -130,(3.5) -120
-Jalen Johnson,@PHI,Assists,Under,(3.5) 100,(3.5) 110,(3.5) 100,(3.5) -110
-Jalen Johnson,@PHI,Points,Over,(15.5) -125,(16.5) 100,(15.5) -130,(15.5) -125
-Jalen Johnson,@PHI,Points,Under,(15.5) -105,(16.5) -122,(15.5) -105,(15.5) -105
-Jalen Johnson,@PHI,Pts+Asts,Over,(19.5) -120,(20.5) 100,(19.5) -110,(19.5) -120
-Jalen Johnson,@PHI,Pts+Asts,Under,(19.5) -110,(20.5) -128,(19.5) -120,(19.5) -110
-Jalen Johnson,@PHI,Pts+Rebs,Over,(25.5) -115,(25.5) -118,(25.5) -115,(25.5) -120
-Jalen Johnson,@PHI,Pts+Rebs,Under,(25.5) -115,(25.5) -108,(25.5) -115,(25.5) -110
-Jalen Johnson,@PHI,Pts+Rebs+Asts,Over,(29.5) -110,(29.5) -118,(29.5) -110,(29.5) -115
-Jalen Johnson,@PHI,Pts+Rebs+Asts,Under,(29.5) -120,(29.5) -108,(29.5) -120,(29.5) -115
-Jalen Johnson,@PHI,Rebounds,Over,(9.5) -115,(9.5) -104,,(9.5) -115
-Jalen Johnson,@PHI,Rebounds,Under,(9.5) -115,(9.5) -118,,(9.5) -115
-Jalen Johnson,@PHI,Rebs+Asts,Over,,(13.5) 100,(13.5) -120,(13.5) -110
-Jalen Johnson,@PHI,Rebs+Asts,Under,,(13.5) -128,(13.5) -115,(13.5) -120
-Jamal Murray,@SAC,Assists,Over,(7.5) -105,(7.5) 116,(7.5) -105,(7.5) -115
-Jamal Murray,@SAC,Assists,Under,(7.5) -125,(7.5) -142,(7.5) -130,(7.5) -115
-Jamal Murray,@SAC,Points,Over,(23.5) -120,(23.5) -106,(23.5) -120,(23.5) -120
-Jamal Murray,@SAC,Points,Under,(23.5) -110,(23.5) -114,(23.5) -110,(23.5) -110
-Jamal Murray,@SAC,Pts+Asts,Over,(31.5) -105,(30.5) -113,(31.5) -115,(31.5) -110
-Jamal Murray,@SAC,Pts+Asts,Under,(31.5) -125,(30.5) -113,(31.5) -120,(31.5) -120
-Jamal Murray,@SAC,Pts+Rebs,Over,(27.5) -130,(27.5) -115,(27.5) -120,(27.5) -120
-Jamal Murray,@SAC,Pts+Rebs,Under,(27.5) 100,(27.5) -111,(27.5) -110,(27.5) -110
-Jamal Murray,@SAC,Pts+Rebs+Asts,Over,(35.5) -105,(34.5) -120,(35.5) -115,(35.5) -115
-Jamal Murray,@SAC,Pts+Rebs+Asts,Under,(35.5) -125,(34.5) -106,(35.5) -115,(35.5) -115
-Jamal Murray,@SAC,Rebounds,Over,(3.5) -150,(3.5) -150,(3.5) -155,(3.5) -160
-Jamal Murray,@SAC,Rebounds,Under,(3.5) 120,(3.5) 122,(3.5) 115,(3.5) 120
-Jamal Murray,@SAC,Rebs+Asts,Over,,(11.5) 100,(11.5) -120,(11.5) -115
-Jamal Murray,@SAC,Rebs+Asts,Under,,(11.5) -128,(11.5) -110,(11.5) -115
-Jaylen Brown,WAS,Assists,Over,,(4.5) 108,,
-Jaylen Brown,WAS,Assists,Under,,(4.5) -132,,
-Jaylen Brown,WAS,Points,Over,,(23.5) 100,,
-Jaylen Brown,WAS,Points,Under,,(23.5) -122,,
-Jaylen Brown,WAS,Pts+Asts,Over,,(27.5) -113,,
-Jaylen Brown,WAS,Pts+Asts,Under,,(27.5) -113,,
-Jaylen Brown,WAS,Pts+Rebs,Over,,(29.5) -104,,
-Jaylen Brown,WAS,Pts+Rebs,Under,,(29.5) -122,,
-Jaylen Brown,WAS,Pts+Rebs+Asts,Over,,(33.5) -113,,
-Jaylen Brown,WAS,Pts+Rebs+Asts,Under,,(33.5) -113,,
-Jaylen Brown,WAS,Rebounds,Over,,(5.5) -128,,
-Jaylen Brown,WAS,Rebounds,Under,,(5.5) 104,,
-Jaylen Brown,WAS,Rebs+Asts,Over,,(10.5) 102,,
-Jaylen Brown,WAS,Rebs+Asts,Under,,(10.5) -130,,
-Jayson Tatum,WAS,Assists,Over,(4.5) -115,(4.5) 104,(4.5) 100,(4.5) -105
-Jayson Tatum,WAS,Assists,Under,(4.5) -115,(4.5) -128,(4.5) -135,(4.5) -125
-Jayson Tatum,WAS,Points,Over,(27.5) -125,(27.5) -108,(27.5) -110,(28.5) -110
-Jayson Tatum,WAS,Points,Under,(27.5) -105,(27.5) -112,(27.5) -120,(28.5) -120
-Jayson Tatum,WAS,Pts+Asts,Over,(31.5) -120,(31.5) -120,(31.5) -120,(32.5) -115
-Jayson Tatum,WAS,Pts+Asts,Under,(31.5) -110,(31.5) -106,(31.5) -110,(32.5) -115
-Jayson Tatum,WAS,Pts+Rebs,Over,(37.5) -110,(36.5) -120,(37.5) -110,(37.5) -115
-Jayson Tatum,WAS,Pts+Rebs,Under,(37.5) -120,(36.5) -106,(37.5) -120,(37.5) -115
-Jayson Tatum,WAS,Pts+Rebs+Asts,Over,(41.5) -115,(41.5) -111,(41.5) -120,(42.5) -110
-Jayson Tatum,WAS,Pts+Rebs+Asts,Under,(41.5) -115,(41.5) -115,(41.5) -110,(42.5) -120
-Jayson Tatum,WAS,Rebounds,Over,(9.5) 100,(9.5) -105,(9.5) -105,(9.5) 100
-Jayson Tatum,WAS,Rebounds,Under,(9.5) -130,(9.5) -115,(9.5) -130,(9.5) -130
-Jayson Tatum,WAS,Rebs+Asts,Over,,(13.5) -125,(14.5) 105,(13.5) -125
-Jayson Tatum,WAS,Rebs+Asts,Under,,(13.5) -102,(14.5) -140,(13.5) -105
-Jordan Poole,@BOS,Assists,Over,(2.5) -166,(2.5) -168,(2.5) -165,(2.5) -170
-Jordan Poole,@BOS,Assists,Under,(2.5) 130,(2.5) 136,(2.5) 125,(2.5) 130
-Jordan Poole,@BOS,Points,Over,(14.5) 100,(13.5) -122,(14.5) -105,(14.5) -110
-Jordan Poole,@BOS,Points,Under,(14.5) -125,(13.5) 100,(14.5) -130,(14.5) -120
-Jordan Poole,@BOS,Pts+Asts,Over,(17.5) -110,(17.5) -102,(17.5) -110,(17.5) -110
-Jordan Poole,@BOS,Pts+Asts,Under,(17.5) -120,(17.5) -125,(17.5) -120,(17.5) -120
-Jordan Poole,@BOS,Pts+Rebs,Over,(16.5) -115,(16.5) -111,(16.5) -115,(16.5) -115
-Jordan Poole,@BOS,Pts+Rebs,Under,(16.5) -115,(16.5) -115,(16.5) -120,(16.5) -115
-Jordan Poole,@BOS,Pts+Rebs+Asts,Over,(19.5) -115,(19.5) -115,(19.5) -120,(19.5) -115
-Jordan Poole,@BOS,Pts+Rebs+Asts,Under,(19.5) -115,(19.5) -111,(19.5) -110,(19.5) -115
-Jordan Poole,@BOS,Rebounds,Over,(2.5) 124,,(2.5) 120,(2.5) 120
-Jordan Poole,@BOS,Rebounds,Under,(2.5) -160,,(2.5) -160,(2.5) -160
-Jordan Poole,@BOS,Rebs+Asts,Over,,(5.5) -106,(5.5) 100,(5.5) 100
-Jordan Poole,@BOS,Rebs+Asts,Under,,(5.5) -120,(5.5) -135,(5.5) -130
-Jrue Holiday,WAS,Assists,Over,,(4.5) -134,,
-Jrue Holiday,WAS,Assists,Under,,(4.5) 110,,
-Jrue Holiday,WAS,Points,Over,,(13.5) -110,,
-Jrue Holiday,WAS,Points,Under,,(13.5) -110,,
-Jrue Holiday,WAS,Pts+Asts,Over,,(18.5) -115,,
-Jrue Holiday,WAS,Pts+Asts,Under,,(18.5) -111,,
-Jrue Holiday,WAS,Pts+Rebs,Over,,(18.5) -122,,
-Jrue Holiday,WAS,Pts+Rebs,Under,,(18.5) -104,,
-Jrue Holiday,WAS,Pts+Rebs+Asts,Over,,(23.5) -120,,
-Jrue Holiday,WAS,Pts+Rebs+Asts,Under,,(23.5) -106,,
-Jrue Holiday,WAS,Rebounds,Over,,(4.5) -144,,
-Jrue Holiday,WAS,Rebounds,Under,,(4.5) 118,,
-Jrue Holiday,WAS,Rebs+Asts,Over,,(9.5) -138,,
-Jrue Holiday,WAS,Rebs+Asts,Under,,(9.5) 108,,
+Jabari Smith,@TOR,Rebs+Asts,Under,,,(9.5) -135,
+Jae Crowder,CHA,Assists,Over,,,,
+Jae Crowder,CHA,Assists,Under,,,,
+Jae Crowder,CHA,Points,Over,,(10.5) 106,,
+Jae Crowder,CHA,Points,Under,,(10.5) -130,,
+Jae Crowder,CHA,Pts+Asts,Over,,,,
+Jae Crowder,CHA,Pts+Asts,Under,,,,
+Jae Crowder,CHA,Pts+Rebs,Over,,,,
+Jae Crowder,CHA,Pts+Rebs,Under,,,,
+Jae Crowder,CHA,Pts+Rebs+Asts,Over,,,,
+Jae Crowder,CHA,Pts+Rebs+Asts,Under,,,,
+Jae Crowder,CHA,Rebounds,Over,,,,
+Jae Crowder,CHA,Rebounds,Under,,,,
+Jae Crowder,CHA,Rebs+Asts,Over,,,,
+Jae Crowder,CHA,Rebs+Asts,Under,,,,
+Jakob Poeltl,HOU,Assists,Over,(2.5) 120,,(2.5) 105,(2.5) 130
+Jakob Poeltl,HOU,Assists,Under,(2.5) -150,,(2.5) -140,(2.5) -170
+Jakob Poeltl,HOU,Points,Over,(11.5) -130,(11.5) -124,(11.5) -135,(11.5) -140
+Jakob Poeltl,HOU,Points,Under,(11.5) 100,(11.5) 102,(11.5) 100,(11.5) 105
+Jakob Poeltl,HOU,Pts+Asts,Over,(14.5) -115,(14.5) -113,(14.5) -115,(14.5) -110
+Jakob Poeltl,HOU,Pts+Asts,Under,(14.5) -115,(14.5) -113,(14.5) -115,(14.5) -120
+Jakob Poeltl,HOU,Pts+Rebs,Over,(22.5) -105,(22.5) 100,(22.5) -105,(21.5) -120
+Jakob Poeltl,HOU,Pts+Rebs,Under,(22.5) -125,(22.5) -128,(22.5) -130,(21.5) -110
+Jakob Poeltl,HOU,Pts+Rebs+Asts,Over,(24.5) -115,(24.5) -115,(24.5) -120,(24.5) -105
+Jakob Poeltl,HOU,Pts+Rebs+Asts,Under,(24.5) -115,(24.5) -111,(24.5) -115,(24.5) -125
+Jakob Poeltl,HOU,Rebounds,Over,(9.5) -125,(9.5) -134,(9.5) -125,(9.5) -115
+Jakob Poeltl,HOU,Rebounds,Under,(9.5) -105,(9.5) 110,(9.5) -105,(9.5) -115
+Jakob Poeltl,HOU,Rebs+Asts,Over,,(12.5) -106,(12.5) -105,(12.5) 115
+Jakob Poeltl,HOU,Rebs+Asts,Under,,(12.5) -120,(12.5) -125,(12.5) -150
+Jalen Green,@TOR,Assists,Over,(3.5) -130,(3.5) -138,(3.5) -135,(3.5) -130
+Jalen Green,@TOR,Assists,Under,(3.5) 100,(3.5) 112,(3.5) 100,(3.5) 100
+Jalen Green,@TOR,Points,Over,(20.5) -115,(20.5) -110,(20.5) -110,(20.5) -120
+Jalen Green,@TOR,Points,Under,(20.5) -115,(20.5) -110,(20.5) -120,(20.5) -110
+Jalen Green,@TOR,Pts+Asts,Over,(23.5) -125,(24.5) -113,(24.5) -105,(24.5) -115
+Jalen Green,@TOR,Pts+Asts,Under,(23.5) -105,(24.5) -113,(24.5) -105,(24.5) -115
+Jalen Green,@TOR,Pts+Rebs,Over,(24.5) -125,(24.5) -125,(24.5) -115,(25.5) -110
+Jalen Green,@TOR,Pts+Rebs,Under,(24.5) -105,(24.5) -102,(24.5) -115,(25.5) -110
+Jalen Green,@TOR,Pts+Rebs+Asts,Over,(28.5) -130,(28.5) -125,(28.5) -125,(29.5) -105
+Jalen Green,@TOR,Pts+Rebs+Asts,Under,(28.5) 100,(28.5) -102,(28.5) -105,(29.5) -115
+Jalen Green,@TOR,Rebounds,Over,(4.5) 114,(4.5) 118,(4.5) 115,(4.5) 110
+Jalen Green,@TOR,Rebounds,Under,(4.5) -145,(4.5) -144,(4.5) -150,(4.5) -145
+Jalen Green,@TOR,Rebs+Asts,Over,,(8.5) 106,(7.5) -150,(7.5) -145
+Jalen Green,@TOR,Rebs+Asts,Under,,(8.5) -136,(7.5) -150,(7.5) -145
+Jalen Johnson,@PHI,Assists,Over,(3.5) -130,(3.5) -120,(3.5) -135,(3.5) -130
+Jalen Johnson,@PHI,Assists,Under,(3.5) 100,(3.5) -102,(3.5) 100,(3.5) 100
+Jalen Johnson,@PHI,Points,Over,(15.5) -125,(15.5) -120,(15.5) -135,(16.5) -105
+Jalen Johnson,@PHI,Points,Under,(15.5) -105,(15.5) -102,(15.5) 100,(16.5) -110
+Jalen Johnson,@PHI,Pts+Asts,Over,(19.5) -120,(19.5) -120,(19.5) -115,(19.5) -125
+Jalen Johnson,@PHI,Pts+Asts,Under,(19.5) -110,(19.5) -106,(19.5) -115,(19.5) -105
+Jalen Johnson,@PHI,Pts+Rebs,Over,(25.5) -115,(25.5) -115,(25.5) -120,(25.5) -120
+Jalen Johnson,@PHI,Pts+Rebs,Under,(25.5) -115,(25.5) -111,(25.5) -115,(25.5) -110
+Jalen Johnson,@PHI,Pts+Rebs+Asts,Over,(29.5) -110,(29.5) -111,(29.5) -110,(29.5) -120
+Jalen Johnson,@PHI,Pts+Rebs+Asts,Under,(29.5) -120,(29.5) -115,(29.5) -120,(29.5) -110
+Jalen Johnson,@PHI,Rebounds,Over,(9.5) -115,(9.5) -110,,(9.5) -115
+Jalen Johnson,@PHI,Rebounds,Under,(9.5) -115,(9.5) -110,,(9.5) -115
+Jalen Johnson,@PHI,Rebs+Asts,Over,,(13.5) 102,(13.5) -120,(13.5) -115
+Jalen Johnson,@PHI,Rebs+Asts,Under,,(13.5) -130,(13.5) -110,(13.5) -115
+Jamal Murray,@SAC,Assists,Over,(7.5) -105,(7.5) 116,(7.5) -105,(7.5) -105
+Jamal Murray,@SAC,Assists,Under,(7.5) -125,(7.5) -142,(7.5) -130,(7.5) -125
+Jamal Murray,@SAC,Points,Over,(23.5) -120,(23.5) -106,(23.5) -120,(23.5) -115
+Jamal Murray,@SAC,Points,Under,(23.5) -110,(23.5) -114,(23.5) -110,(23.5) -115
+Jamal Murray,@SAC,Pts+Asts,Over,(31.5) -105,(30.5) -115,(31.5) -115,(31.5) -110
+Jamal Murray,@SAC,Pts+Asts,Under,(31.5) -125,(30.5) -111,(31.5) -120,(31.5) -120
+Jamal Murray,@SAC,Pts+Rebs,Over,(27.5) -130,(27.5) -113,(27.5) -120,(27.5) -115
+Jamal Murray,@SAC,Pts+Rebs,Under,(27.5) 100,(27.5) -113,(27.5) -110,(27.5) -115
+Jamal Murray,@SAC,Pts+Rebs+Asts,Over,(35.5) -105,(34.5) -120,(35.5) -115,(35.5) -110
+Jamal Murray,@SAC,Pts+Rebs+Asts,Under,(35.5) -125,(34.5) -106,(35.5) -115,(35.5) -120
+Jamal Murray,@SAC,Rebounds,Over,(3.5) -150,(4.5) 124,(3.5) -155,(3.5) -150
+Jamal Murray,@SAC,Rebounds,Under,(3.5) 120,(4.5) -152,(3.5) 115,(3.5) 115
+Jamal Murray,@SAC,Rebs+Asts,Over,,(11.5) -104,(11.5) -120,(11.5) -110
+Jamal Murray,@SAC,Rebs+Asts,Under,,(11.5) -122,(11.5) -110,(11.5) -120
+Jaylen Brown,WAS,Assists,Over,(3.5) -160,(3.5) -150,(3.5) -160,(3.5) -160
+Jaylen Brown,WAS,Assists,Under,(3.5) 124,(3.5) 124,(3.5) 120,(3.5) 120
+Jaylen Brown,WAS,Points,Over,(20.5) -115,(21.5) -104,(20.5) -115,(20.5) -115
+Jaylen Brown,WAS,Points,Under,(20.5) -115,(21.5) -118,(20.5) -115,(20.5) -115
+Jaylen Brown,WAS,Pts+Asts,Over,(24.5) -125,(25.5) -108,(24.5) -120,(24.5) -115
+Jaylen Brown,WAS,Pts+Asts,Under,(24.5) -105,(25.5) -120,(24.5) -115,(24.5) -115
+Jaylen Brown,WAS,Pts+Rebs,Over,(26.5) -120,(27.5) -113,(26.5) -120,(27.5) -105
+Jaylen Brown,WAS,Pts+Rebs,Under,(26.5) -110,(27.5) -113,(26.5) -110,(27.5) -110
+Jaylen Brown,WAS,Pts+Rebs+Asts,Over,(30.5) -130,(31.5) -115,(30.5) -120,(31.5) -105
+Jaylen Brown,WAS,Pts+Rebs+Asts,Under,(30.5) 100,(31.5) -111,(30.5) -110,(31.5) -110
+Jaylen Brown,WAS,Rebounds,Over,(6.5) 114,(5.5) -144,(6.5) 115,(6.5) 110
+Jaylen Brown,WAS,Rebounds,Under,(6.5) -145,(5.5) 118,(6.5) -155,(6.5) -145
+Jaylen Brown,WAS,Rebs+Asts,Over,,(10.5) 108,(10.5) 100,(10.5) 100
+Jaylen Brown,WAS,Rebs+Asts,Under,,(10.5) -138,(10.5) -135,(10.5) -130
+Jayson Tatum,WAS,Assists,Over,(4.5) -125,(4.5) -105,(4.5) -110,(4.5) -120
+Jayson Tatum,WAS,Assists,Under,(4.5) -105,(4.5) -115,(4.5) -120,(4.5) -110
+Jayson Tatum,WAS,Points,Over,(27.5) -120,(27.5) -105,(27.5) -110,(27.5) -115
+Jayson Tatum,WAS,Points,Under,(27.5) -110,(27.5) -115,(27.5) -120,(27.5) -115
+Jayson Tatum,WAS,Pts+Asts,Over,(31.5) -125,(31.5) -122,(31.5) -125,(32.5) -115
+Jayson Tatum,WAS,Pts+Asts,Under,(31.5) -105,(31.5) -104,(31.5) -105,(32.5) -115
+Jayson Tatum,WAS,Pts+Rebs,Over,(36.5) -130,(36.5) -115,(36.5) -120,(36.5) -120
+Jayson Tatum,WAS,Pts+Rebs,Under,(36.5) 100,(36.5) -113,(36.5) -110,(36.5) -110
+Jayson Tatum,WAS,Pts+Rebs+Asts,Over,(41.5) -110,(41.5) -111,(41.5) -110,(41.5) -115
+Jayson Tatum,WAS,Pts+Rebs+Asts,Under,(41.5) -120,(41.5) -115,(41.5) -120,(41.5) -115
+Jayson Tatum,WAS,Rebounds,Over,(9.5) 120,(9.5) 106,(9.5) 100,(8.5) -145
+Jayson Tatum,WAS,Rebounds,Under,(9.5) -150,(9.5) -130,(9.5) -130,(8.5) 110
+Jayson Tatum,WAS,Rebs+Asts,Over,,(13.5) -122,(13.5) -125,(13.5) -125
+Jayson Tatum,WAS,Rebs+Asts,Under,,(13.5) -104,(13.5) -105,(13.5) -105
+Jordan Poole,@BOS,Assists,Over,(2.5) -166,(3.5) 138,(2.5) -165,(2.5) -165
+Jordan Poole,@BOS,Assists,Under,(2.5) 130,(3.5) -170,(2.5) 130,(2.5) 125
+Jordan Poole,@BOS,Points,Over,(14.5) 105,(13.5) -118,(14.5) -105,(13.5) -120
+Jordan Poole,@BOS,Points,Under,(14.5) -135,(13.5) -104,(14.5) -130,(13.5) -110
+Jordan Poole,@BOS,Pts+Asts,Over,(17.5) -110,(17.5) 100,(17.5) -110,(17.5) 105
+Jordan Poole,@BOS,Pts+Asts,Under,(17.5) -120,(17.5) -128,(17.5) -120,(17.5) -140
+Jordan Poole,@BOS,Pts+Rebs,Over,(16.5) -110,(16.5) -108,(16.5) -115,(16.5) -110
+Jordan Poole,@BOS,Pts+Rebs,Under,(16.5) -120,(16.5) -118,(16.5) -115,(16.5) -120
+Jordan Poole,@BOS,Pts+Rebs+Asts,Over,(19.5) -120,(19.5) -113,(19.5) -120,(19.5) -110
+Jordan Poole,@BOS,Pts+Rebs+Asts,Under,(19.5) -110,(19.5) -113,(19.5) -110,(19.5) -120
+Jordan Poole,@BOS,Rebounds,Over,(2.5) 114,,(2.5) 115,(2.5) 110
+Jordan Poole,@BOS,Rebounds,Under,(2.5) -145,,(2.5) -150,(2.5) -145
+Jordan Poole,@BOS,Rebs+Asts,Over,,(5.5) -106,(5.5) -105,(5.5) -105
+Jordan Poole,@BOS,Rebs+Asts,Under,,(5.5) -120,(5.5) -125,(5.5) -125
+Jrue Holiday,WAS,Assists,Over,(4.5) -145,(4.5) -142,(4.5) -150,(4.5) -150
+Jrue Holiday,WAS,Assists,Under,(4.5) 114,(4.5) 116,(4.5) 115,(4.5) 115
+Jrue Holiday,WAS,Points,Over,(12.5) -110,(12.5) -108,,(12.5) -110
+Jrue Holiday,WAS,Points,Under,(12.5) -120,(12.5) -112,,(12.5) -120
+Jrue Holiday,WAS,Pts+Asts,Over,(17.5) -110,(17.5) -111,(17.5) -110,(17.5) -115
+Jrue Holiday,WAS,Pts+Asts,Under,(17.5) -120,(17.5) -115,(17.5) -120,(17.5) -115
+Jrue Holiday,WAS,Pts+Rebs,Over,(17.5) -125,(18.5) -102,(17.5) -130,(18.5) 100
+Jrue Holiday,WAS,Pts+Rebs,Under,(17.5) -105,(18.5) -125,(17.5) -105,(18.5) -130
+Jrue Holiday,WAS,Pts+Rebs+Asts,Over,(23.5) -105,(23.5) -102,(23.5) -105,(23.5) -105
+Jrue Holiday,WAS,Pts+Rebs+Asts,Under,(23.5) -125,(23.5) -125,(23.5) -130,(23.5) -125
+Jrue Holiday,WAS,Rebounds,Over,(5.5) -105,(5.5) 100,(5.5) -105,(5.5) -105
+Jrue Holiday,WAS,Rebounds,Under,(5.5) -125,(5.5) -122,(5.5) -125,(5.5) -125
+Jrue Holiday,WAS,Rebs+Asts,Over,,(10.5) -106,(10.5) -110,(10.5) -115
+Jrue Holiday,WAS,Rebs+Asts,Under,,(10.5) -120,(10.5) -120,(10.5) -115
 Keegan Murray,DEN,Assists,Over,,,(1.5) -110,
 Keegan Murray,DEN,Assists,Under,,,(1.5) -120,
-Keegan Murray,DEN,Points,Over,(12.5) -140,(13.5) -106,(12.5) -130,(13.5) 100
-Keegan Murray,DEN,Points,Under,(12.5) 110,(13.5) -114,(12.5) -105,(13.5) -130
+Keegan Murray,DEN,Points,Over,(12.5) -140,(13.5) -104,(12.5) -130,(13.5) -110
+Keegan Murray,DEN,Points,Under,(12.5) 110,(13.5) -118,(12.5) -105,(13.5) -120
 Keegan Murray,DEN,Pts+Asts,Over,(14.5) -115,,(14.5) -120,
 Keegan Murray,DEN,Pts+Asts,Under,(14.5) -115,,(14.5) -115,
-Keegan Murray,DEN,Pts+Rebs,Over,(17.5) -105,(18.5) -106,(17.5) -105,(17.5) -115
-Keegan Murray,DEN,Pts+Rebs,Under,(17.5) -125,(18.5) -120,(17.5) -125,(17.5) -115
+Keegan Murray,DEN,Pts+Rebs,Over,(17.5) -105,(18.5) -102,(17.5) -105,(17.5) -125
+Keegan Murray,DEN,Pts+Rebs,Under,(17.5) -125,(18.5) -125,(17.5) -125,(17.5) -105
 Keegan Murray,DEN,Pts+Rebs+Asts,Over,(18.5) -125,,(18.5) -130,
 Keegan Murray,DEN,Pts+Rebs+Asts,Under,(18.5) -105,,(18.5) -105,
-Keegan Murray,DEN,Rebounds,Over,(4.5) -105,(4.5) -114,(4.5) -115,(4.5) -105
-Keegan Murray,DEN,Rebounds,Under,(4.5) -125,(4.5) -106,(4.5) -120,(4.5) -125
+Keegan Murray,DEN,Rebounds,Over,(4.5) -105,(4.5) -114,(4.5) -115,(4.5) -110
+Keegan Murray,DEN,Rebounds,Under,(4.5) -125,(4.5) -106,(4.5) -120,(4.5) -120
 Keegan Murray,DEN,Rebs+Asts,Over,,,(5.5) -160,
 Keegan Murray,DEN,Rebs+Asts,Under,,,(5.5) 120,
-Kelly Oubre,ATL,Assists,Over,,,,
-Kelly Oubre,ATL,Assists,Under,,,,
-Kelly Oubre,ATL,Points,Over,,(18.5) -105,,(18.5) -115
-Kelly Oubre,ATL,Points,Under,,(18.5) -115,,(18.5) -115
-Kelly Oubre,ATL,Pts+Asts,Over,,,,
-Kelly Oubre,ATL,Pts+Asts,Under,,,,
-Kelly Oubre,ATL,Pts+Rebs,Over,,(23.5) -118,,(23.5) -120
-Kelly Oubre,ATL,Pts+Rebs,Under,,(23.5) -108,,(23.5) -110
-Kelly Oubre,ATL,Pts+Rebs+Asts,Over,,,,
-Kelly Oubre,ATL,Pts+Rebs+Asts,Under,,,,
-Kelly Oubre,ATL,Rebounds,Over,,(5.5) 118,,(5.5) 115
-Kelly Oubre,ATL,Rebounds,Under,,(5.5) -144,,(5.5) -150
-Kelly Oubre,ATL,Rebs+Asts,Over,,,,
-Kelly Oubre,ATL,Rebs+Asts,Under,,,,
 Kentavious Caldwell-Pope,@SAC,Assists,Over,,,(1.5) 100,
 Kentavious Caldwell-Pope,@SAC,Assists,Under,,,(1.5) -135,
-Kentavious Caldwell-Pope,@SAC,Points,Over,(10.5) -110,(10.5) 104,(10.5) -105,(10.5) -110
-Kentavious Caldwell-Pope,@SAC,Points,Under,(10.5) -120,(10.5) -128,(10.5) -125,(10.5) -120
+Kentavious Caldwell-Pope,@SAC,Points,Over,(10.5) -105,(10.5) 104,(10.5) -105,(10.5) -110
+Kentavious Caldwell-Pope,@SAC,Points,Under,(10.5) -125,(10.5) -128,(10.5) -125,(10.5) -120
 Kentavious Caldwell-Pope,@SAC,Pts+Asts,Over,(11.5) -125,,(11.5) -130,
 Kentavious Caldwell-Pope,@SAC,Pts+Asts,Under,(11.5) -105,,(11.5) -105,
-Kentavious Caldwell-Pope,@SAC,Pts+Rebs,Over,(12.5) -120,(12.5) -113,(12.5) -120,(12.5) -120
-Kentavious Caldwell-Pope,@SAC,Pts+Rebs,Under,(12.5) -110,(12.5) -113,(12.5) -110,(12.5) -110
+Kentavious Caldwell-Pope,@SAC,Pts+Rebs,Over,(12.5) -115,(12.5) -111,(12.5) -120,(12.5) -120
+Kentavious Caldwell-Pope,@SAC,Pts+Rebs,Under,(12.5) -115,(12.5) -115,(12.5) -110,(12.5) -110
 Kentavious Caldwell-Pope,@SAC,Pts+Rebs+Asts,Over,,,(14.5) -105,
 Kentavious Caldwell-Pope,@SAC,Pts+Rebs+Asts,Under,,,(14.5) -125,
-Kentavious Caldwell-Pope,@SAC,Rebounds,Over,(2.5) 124,(2.5) 132,(2.5) 120,(2.5) 115
-Kentavious Caldwell-Pope,@SAC,Rebounds,Under,(2.5) -160,(2.5) -162,(2.5) -160,(2.5) -150
+Kentavious Caldwell-Pope,@SAC,Rebounds,Over,(2.5) 124,(2.5) 130,(2.5) 120,(2.5) 130
+Kentavious Caldwell-Pope,@SAC,Rebounds,Under,(2.5) -160,(2.5) -160,(2.5) -160,(2.5) -170
 Kentavious Caldwell-Pope,@SAC,Rebs+Asts,Over,,,(3.5) -140,
 Kentavious Caldwell-Pope,@SAC,Rebs+Asts,Under,,,(3.5) 105,
-Kevin Huerter,DEN,Assists,Over,(3.5) 135,(3.5) 128,(3.5) 120,(3.5) 130
-Kevin Huerter,DEN,Assists,Under,(3.5) -175,(3.5) -158,(3.5) -160,(3.5) -170
-Kevin Huerter,DEN,Points,Over,(12.5) -120,(12.5) -115,(12.5) -125,(12.5) -115
-Kevin Huerter,DEN,Points,Under,(12.5) -110,(12.5) -105,(12.5) -105,(12.5) -115
-Kevin Huerter,DEN,Pts+Asts,Over,(16.5) 100,(15.5) -130,(16.5) 100,(15.5) -125
-Kevin Huerter,DEN,Pts+Asts,Under,(16.5) -130,(15.5) 102,(16.5) -130,(15.5) -105
-Kevin Huerter,DEN,Pts+Rebs,Over,(16.5) -125,(16.5) -115,(16.5) -130,(16.5) -115
-Kevin Huerter,DEN,Pts+Rebs,Under,(16.5) -105,(16.5) -111,(16.5) -105,(16.5) -115
-Kevin Huerter,DEN,Pts+Rebs+Asts,Over,(20.5) -105,(19.5) -122,(20.5) -105,(19.5) -120
-Kevin Huerter,DEN,Pts+Rebs+Asts,Under,(20.5) -125,(19.5) -104,(20.5) -125,(19.5) -110
-Kevin Huerter,DEN,Rebounds,Over,(3.5) -140,(3.5) -122,(3.5) -155,(3.5) -140
-Kevin Huerter,DEN,Rebounds,Under,(3.5) 110,(3.5) 100,(3.5) 115,(3.5) 105
-Kevin Huerter,DEN,Rebs+Asts,Over,,(6.5) -140,(7.5) 100,(7.5) 115
-Kevin Huerter,DEN,Rebs+Asts,Under,,(6.5) 110,(7.5) -135,(7.5) -150
-Kristaps Porzingis,WAS,Assists,Over,,,,
-Kristaps Porzingis,WAS,Assists,Under,,,,
-Kristaps Porzingis,WAS,Points,Over,,(20.5) -106,,
-Kristaps Porzingis,WAS,Points,Under,,(20.5) -114,,
-Kristaps Porzingis,WAS,Pts+Asts,Over,,,,
-Kristaps Porzingis,WAS,Pts+Asts,Under,,,,
-Kristaps Porzingis,WAS,Pts+Rebs,Over,,(28.5) -104,,
-Kristaps Porzingis,WAS,Pts+Rebs,Under,,(28.5) -122,,
-Kristaps Porzingis,WAS,Pts+Rebs+Asts,Over,,,,
-Kristaps Porzingis,WAS,Pts+Rebs+Asts,Under,,,,
-Kristaps Porzingis,WAS,Rebounds,Over,,(7.5) -114,,
-Kristaps Porzingis,WAS,Rebounds,Under,,(7.5) -108,,
-Kristaps Porzingis,WAS,Rebs+Asts,Over,,,,
-Kristaps Porzingis,WAS,Rebs+Asts,Under,,,,
+Kevin Huerter,DEN,Assists,Over,(3.5) 135,(3.5) 126,(3.5) 120,(3.5) 135
+Kevin Huerter,DEN,Assists,Under,(3.5) -175,(3.5) -154,(3.5) -160,(3.5) -175
+Kevin Huerter,DEN,Points,Over,(12.5) -125,(12.5) -118,(12.5) -125,(12.5) -120
+Kevin Huerter,DEN,Points,Under,(12.5) -105,(12.5) -104,(12.5) -105,(12.5) -110
+Kevin Huerter,DEN,Pts+Asts,Over,(16.5) 100,(16.5) 100,(16.5) 100,(16.5) -105
+Kevin Huerter,DEN,Pts+Asts,Under,(16.5) -130,(16.5) -128,(16.5) -130,(16.5) -105
+Kevin Huerter,DEN,Pts+Rebs,Over,(16.5) -125,(16.5) -118,(16.5) -130,(16.5) -120
+Kevin Huerter,DEN,Pts+Rebs,Under,(16.5) -105,(16.5) -108,(16.5) -105,(16.5) -110
+Kevin Huerter,DEN,Pts+Rebs+Asts,Over,(20.5) -105,(19.5) -128,(20.5) -105,(20.5) -105
+Kevin Huerter,DEN,Pts+Rebs+Asts,Under,(20.5) -125,(19.5) 100,(20.5) -125,(20.5) -110
+Kevin Huerter,DEN,Rebounds,Over,(3.5) -140,(3.5) -120,(3.5) -155,(3.5) -140
+Kevin Huerter,DEN,Rebounds,Under,(3.5) 110,(3.5) -102,(3.5) 115,(3.5) 105
+Kevin Huerter,DEN,Rebs+Asts,Over,,(6.5) -146,(7.5) 100,(7.5) 120
+Kevin Huerter,DEN,Rebs+Asts,Under,,(6.5) 114,(7.5) -135,(7.5) -160
+Kristaps Porzingis,WAS,Assists,Over,(2.5) 140,,(2.5) 140,(2.5) 140
+Kristaps Porzingis,WAS,Assists,Under,(2.5) -180,,(2.5) -185,(2.5) -180
+Kristaps Porzingis,WAS,Points,Over,(19.5) -110,(19.5) -108,(19.5) -110,(19.5) -115
+Kristaps Porzingis,WAS,Points,Under,(19.5) -120,(19.5) -112,(19.5) -120,(19.5) -115
+Kristaps Porzingis,WAS,Pts+Asts,Over,(21.5) -120,,(21.5) -120,(21.5) -120
+Kristaps Porzingis,WAS,Pts+Asts,Under,(21.5) -110,,(21.5) -110,(21.5) -110
+Kristaps Porzingis,WAS,Pts+Rebs,Over,(27.5) -120,(27.5) -111,(27.5) -120,(27.5) -115
+Kristaps Porzingis,WAS,Pts+Rebs,Under,(27.5) -110,(27.5) -115,(27.5) -110,(27.5) -115
+Kristaps Porzingis,WAS,Pts+Rebs+Asts,Over,(29.5) -120,,(29.5) -120,(30.5) -110
+Kristaps Porzingis,WAS,Pts+Rebs+Asts,Under,(29.5) -110,,(29.5) -110,(30.5) -115
+Kristaps Porzingis,WAS,Rebounds,Over,(8.5) 110,(7.5) -110,(8.5) 110,(7.5) -125
+Kristaps Porzingis,WAS,Rebounds,Under,(8.5) -140,(7.5) -110,(8.5) -145,(7.5) -105
+Kristaps Porzingis,WAS,Rebs+Asts,Over,,,(10.5) -105,(10.5) 110
+Kristaps Porzingis,WAS,Rebs+Asts,Under,,,(10.5) -125,(10.5) -145
 Kyle Kuzma,@BOS,Assists,Over,(3.5) -115,(3.5) 100,(3.5) -120,(3.5) -115
-Kyle Kuzma,@BOS,Assists,Under,(3.5) -115,(3.5) -122,(3.5) -115,(3.5) -115
-Kyle Kuzma,@BOS,Points,Over,(21.5) -125,(21.5) -118,(21.5) -115,(21.5) -125
-Kyle Kuzma,@BOS,Points,Under,(21.5) -105,(21.5) -104,(21.5) -115,(21.5) -105
-Kyle Kuzma,@BOS,Pts+Asts,Over,(25.5) -110,(25.5) -111,(25.5) -110,(25.5) -115
-Kyle Kuzma,@BOS,Pts+Asts,Under,(25.5) -120,(25.5) -115,(25.5) -120,(25.5) -115
-Kyle Kuzma,@BOS,Pts+Rebs,Over,(29.5) -110,(29.5) -111,(29.5) -110,(29.5) -115
-Kyle Kuzma,@BOS,Pts+Rebs,Under,(29.5) -120,(29.5) -115,(29.5) -120,(29.5) -115
-Kyle Kuzma,@BOS,Pts+Rebs+Asts,Over,(33.5) 105,(32.5) -120,(33.5) -105,(33.5) -110
-Kyle Kuzma,@BOS,Pts+Rebs+Asts,Under,(33.5) -135,(32.5) -106,(33.5) -125,(33.5) -120
-Kyle Kuzma,@BOS,Rebounds,Over,(7.5) 100,(7.5) 106,(7.5) 100,(7.5) 100
-Kyle Kuzma,@BOS,Rebounds,Under,(7.5) -130,(7.5) -130,(7.5) -135,(7.5) -130
-Kyle Kuzma,@BOS,Rebs+Asts,Over,,(10.5) -128,,(10.5) -140
-Kyle Kuzma,@BOS,Rebs+Asts,Under,,(10.5) 100,,(10.5) 105
-LeBron James,NOP,Assists,Over,(7.5) 100,(7.5) 110,(7.5) 120,(7.5) -105
-LeBron James,NOP,Assists,Under,(7.5) -130,(7.5) -134,(7.5) -155,(7.5) -125
-LeBron James,NOP,Points,Over,(25.5) -105,(25.5) -108,(25.5) -105,(25.5) -110
-LeBron James,NOP,Points,Under,(25.5) -125,(25.5) -112,(25.5) -125,(25.5) -120
-LeBron James,NOP,Pts+Asts,Over,(32.5) -110,(32.5) -118,(32.5) -110,(32.5) -120
-LeBron James,NOP,Pts+Asts,Under,(32.5) -120,(32.5) -108,(32.5) -120,(32.5) -110
-LeBron James,NOP,Pts+Rebs,Over,(32.5) -120,(33.5) -106,(32.5) -120,(32.5) -115
-LeBron James,NOP,Pts+Rebs,Under,(32.5) -110,(33.5) -120,(32.5) -110,(32.5) -115
-LeBron James,NOP,Pts+Rebs+Asts,Over,(40.5) -105,(40.5) -113,(40.5) -105,(40.5) -110
-LeBron James,NOP,Pts+Rebs+Asts,Under,(40.5) -125,(40.5) -113,(40.5) -125,(40.5) -120
-LeBron James,NOP,Rebounds,Over,(7.5) 114,(7.5) -104,(7.5) -105,(7.5) 110
-LeBron James,NOP,Rebounds,Under,(7.5) -145,(7.5) -118,(7.5) -125,(7.5) -145
-LeBron James,NOP,Rebs+Asts,Over,,(14.5) -125,(14.5) -125,(14.5) -120
-LeBron James,NOP,Rebs+Asts,Under,,(14.5) -102,(14.5) -110,(14.5) -110
+Kyle Kuzma,@BOS,Assists,Under,(3.5) -115,(3.5) -122,(3.5) -110,(3.5) -115
+Kyle Kuzma,@BOS,Points,Over,(21.5) -130,(21.5) -122,(21.5) -125,(22.5) -105
+Kyle Kuzma,@BOS,Points,Under,(21.5) 100,(21.5) 100,(21.5) -105,(22.5) -115
+Kyle Kuzma,@BOS,Pts+Asts,Over,(25.5) -120,(25.5) -113,(25.5) -120,(25.5) -110
+Kyle Kuzma,@BOS,Pts+Asts,Under,(25.5) -110,(25.5) -113,(25.5) -110,(25.5) -120
+Kyle Kuzma,@BOS,Pts+Rebs,Over,(29.5) -120,(29.5) -111,(29.5) -120,(29.5) -115
+Kyle Kuzma,@BOS,Pts+Rebs,Under,(29.5) -110,(29.5) -115,(29.5) -110,(29.5) -115
+Kyle Kuzma,@BOS,Pts+Rebs+Asts,Over,(33.5) -105,(32.5) -125,(33.5) -120,(33.5) -110
+Kyle Kuzma,@BOS,Pts+Rebs+Asts,Under,(33.5) -125,(32.5) -102,(33.5) -115,(33.5) -120
+Kyle Kuzma,@BOS,Rebounds,Over,(7.5) -110,(7.5) 106,(7.5) 100,(7.5) -115
+Kyle Kuzma,@BOS,Rebounds,Under,(7.5) -120,(7.5) -130,(7.5) -135,(7.5) -115
+Kyle Kuzma,@BOS,Rebs+Asts,Over,,(10.5) -128,,(11.5) 100
+Kyle Kuzma,@BOS,Rebs+Asts,Under,,(10.5) 100,,(11.5) -130
+LeBron James,NOP,Assists,Over,(7.5) 100,(7.5) 106,(7.5) 120,(7.5) 100
+LeBron James,NOP,Assists,Under,(7.5) -130,(7.5) -130,(7.5) -155,(7.5) -130
+LeBron James,NOP,Points,Over,(25.5) -105,(25.5) 100,(25.5) -105,(25.5) -115
+LeBron James,NOP,Points,Under,(25.5) -125,(25.5) -122,(25.5) -125,(25.5) -115
+LeBron James,NOP,Pts+Asts,Over,(32.5) -110,(32.5) -111,(32.5) -110,(32.5) -115
+LeBron James,NOP,Pts+Asts,Under,(32.5) -120,(32.5) -115,(32.5) -120,(32.5) -115
+LeBron James,NOP,Pts+Rebs,Over,(32.5) -120,(32.5) -113,(32.5) -120,(32.5) -115
+LeBron James,NOP,Pts+Rebs,Under,(32.5) -110,(32.5) -113,(32.5) -110,(32.5) -115
+LeBron James,NOP,Pts+Rebs+Asts,Over,(40.5) -105,(39.5) -120,(40.5) -110,(40.5) -105
+LeBron James,NOP,Pts+Rebs+Asts,Under,(40.5) -125,(39.5) -104,(40.5) -125,(40.5) -125
+LeBron James,NOP,Rebounds,Over,(7.5) 110,(7.5) 108,(7.5) -105,(7.5) 115
+LeBron James,NOP,Rebounds,Under,(7.5) -140,(7.5) -132,(7.5) -125,(7.5) -150
+LeBron James,NOP,Rebs+Asts,Over,,(14.5) -115,(14.5) -120,(14.5) -115
+LeBron James,NOP,Rebs+Asts,Under,,(14.5) -111,(14.5) -110,(14.5) -115
 Malik Beasley,CHA,Assists,Over,,,(1.5) -105,
 Malik Beasley,CHA,Assists,Under,,,(1.5) -130,
-Malik Beasley,CHA,Points,Over,(11.5) -125,(12.5) -102,(11.5) -130,(11.5) -125
-Malik Beasley,CHA,Points,Under,(11.5) -105,(12.5) -120,(11.5) -105,(11.5) -105
+Malik Beasley,CHA,Points,Over,(11.5) -125,(12.5) 104,(11.5) -130,(11.5) -120
+Malik Beasley,CHA,Points,Under,(11.5) -105,(12.5) -128,(11.5) -105,(11.5) -110
 Malik Beasley,CHA,Pts+Asts,Over,(13.5) -115,,(13.5) -120,
 Malik Beasley,CHA,Pts+Asts,Under,(13.5) -115,,(13.5) -110,
-Malik Beasley,CHA,Pts+Rebs,Over,(15.5) -115,(16.5) 100,(15.5) -115,(15.5) -120
-Malik Beasley,CHA,Pts+Rebs,Under,(15.5) -115,(16.5) -128,(15.5) -115,(15.5) -110
+Malik Beasley,CHA,Pts+Rebs,Over,(15.5) -115,(16.5) -102,(15.5) -115,(15.5) -115
+Malik Beasley,CHA,Pts+Rebs,Under,(15.5) -115,(16.5) -125,(15.5) -115,(15.5) -115
 Malik Beasley,CHA,Pts+Rebs+Asts,Over,(17.5) -105,,(17.5) -110,
 Malik Beasley,CHA,Pts+Rebs+Asts,Under,(17.5) -125,,(17.5) -125,
-Malik Beasley,CHA,Rebounds,Over,(3.5) -125,(3.5) -118,(3.5) -110,(3.5) -120
-Malik Beasley,CHA,Rebounds,Under,(3.5) -105,(3.5) -104,(3.5) -120,(3.5) -110
-Malik Beasley,CHA,Rebs+Asts,Over,,,(5.5) 115,
+Malik Beasley,CHA,Rebounds,Over,(3.5) -125,(3.5) -128,(3.5) -110,(3.5) -120
+Malik Beasley,CHA,Rebounds,Under,(3.5) -105,(3.5) 104,(3.5) -120,(3.5) -110
+Malik Beasley,CHA,Rebs+Asts,Over,,,(5.5) 120,
 Malik Beasley,CHA,Rebs+Asts,Under,,,(5.5) -155,
 Michael Porter,@SAC,Assists,Over,,,(1.5) 160,
 Michael Porter,@SAC,Assists,Under,,,(1.5) -225,
-Michael Porter,@SAC,Points,Over,(15.5) -105,(15.5) -102,(15.5) -105,(15.5) -105
-Michael Porter,@SAC,Points,Under,(15.5) -125,(15.5) -120,(15.5) -125,(15.5) -125
+Michael Porter,@SAC,Points,Over,(15.5) -105,(15.5) -102,(15.5) -105,(15.5) -115
+Michael Porter,@SAC,Points,Under,(15.5) -125,(15.5) -120,(15.5) -125,(15.5) -115
 Michael Porter,@SAC,Pts+Asts,Over,(16.5) -110,,(16.5) -110,
 Michael Porter,@SAC,Pts+Asts,Under,(16.5) -120,,(16.5) -120,
-Michael Porter,@SAC,Pts+Rebs,Over,(21.5) -115,(21.5) -106,(21.5) -110,(21.5) -110
-Michael Porter,@SAC,Pts+Rebs,Under,(21.5) -115,(21.5) -120,(21.5) -120,(21.5) -120
+Michael Porter,@SAC,Pts+Rebs,Over,(21.5) -110,(21.5) -111,(21.5) -110,(21.5) -115
+Michael Porter,@SAC,Pts+Rebs,Under,(21.5) -120,(21.5) -115,(21.5) -120,(21.5) -115
 Michael Porter,@SAC,Pts+Rebs+Asts,Over,(22.5) -120,,(22.5) -120,
 Michael Porter,@SAC,Pts+Rebs+Asts,Under,(22.5) -110,,(22.5) -110,
-Michael Porter,@SAC,Rebounds,Over,(5.5) -145,(5.5) -134,(5.5) -150,(5.5) -145
-Michael Porter,@SAC,Rebounds,Under,(5.5) 114,(5.5) 110,(5.5) 110,(5.5) 110
+Michael Porter,@SAC,Rebounds,Over,(5.5) -145,(5.5) -140,(5.5) -150,(5.5) -145
+Michael Porter,@SAC,Rebounds,Under,(5.5) 114,(5.5) 114,(5.5) 110,(5.5) 110
 Michael Porter,@SAC,Rebs+Asts,Over,,,(7.5) 105,
 Michael Porter,@SAC,Rebs+Asts,Under,,,(7.5) -140,
 Miles Bridges,@MIL,Assists,Over,(4.5) -105,(4.5) 104,(4.5) -105,(4.5) -105
 Miles Bridges,@MIL,Assists,Under,(4.5) -125,(4.5) -128,(4.5) -125,(4.5) -125
-Miles Bridges,@MIL,Points,Over,(26.5) -120,(26.5) -108,(26.5) -105,(26.5) -115
-Miles Bridges,@MIL,Points,Under,(26.5) -110,(26.5) -112,(26.5) -130,(26.5) -115
-Miles Bridges,@MIL,Pts+Asts,Over,(31.5) -115,(30.5) -122,(31.5) -110,(31.5) -105
-Miles Bridges,@MIL,Pts+Asts,Under,(31.5) -115,(30.5) -104,(31.5) -120,(31.5) -125
-Miles Bridges,@MIL,Pts+Rebs,Over,(34.5) -110,(33.5) -122,(34.5) -110,(34.5) -105
-Miles Bridges,@MIL,Pts+Rebs,Under,(34.5) -120,(33.5) -104,(34.5) -120,(34.5) -125
-Miles Bridges,@MIL,Pts+Rebs+Asts,Over,(38.5) -110,(38.5) -111,(38.5) 100,(38.5) -115
-Miles Bridges,@MIL,Pts+Rebs+Asts,Under,(38.5) -120,(38.5) -115,(38.5) -135,(38.5) -115
-Miles Bridges,@MIL,Rebounds,Over,(7.5) -105,(7.5) 104,(7.5) 100,(7.5) -110
-Miles Bridges,@MIL,Rebounds,Under,(7.5) -125,(7.5) -128,(7.5) -130,(7.5) -120
-Miles Bridges,@MIL,Rebs+Asts,Over,,(11.5) -128,(11.5) -135,(11.5) -140
-Miles Bridges,@MIL,Rebs+Asts,Under,,(11.5) 100,(11.5) 100,(11.5) 105
+Miles Bridges,@MIL,Points,Over,(26.5) -110,(25.5) -118,(26.5) -105,(26.5) -115
+Miles Bridges,@MIL,Points,Under,(26.5) -120,(25.5) -104,(26.5) -130,(26.5) -115
+Miles Bridges,@MIL,Pts+Asts,Over,(31.5) -105,(30.5) -111,(31.5) -115,(30.5) -120
+Miles Bridges,@MIL,Pts+Asts,Under,(31.5) -125,(30.5) -115,(31.5) -120,(30.5) -110
+Miles Bridges,@MIL,Pts+Rebs,Over,(34.5) 100,(33.5) -104,(34.5) -110,(33.5) -120
+Miles Bridges,@MIL,Pts+Rebs,Under,(34.5) -130,(33.5) -122,(34.5) -120,(33.5) -110
+Miles Bridges,@MIL,Pts+Rebs+Asts,Over,(38.5) -110,(37.5) -113,(38.5) 100,(38.5) -115
+Miles Bridges,@MIL,Pts+Rebs+Asts,Under,(38.5) -120,(37.5) -113,(38.5) -135,(38.5) -115
+Miles Bridges,@MIL,Rebounds,Over,(7.5) -105,(7.5) 116,(7.5) 100,(7.5) 100
+Miles Bridges,@MIL,Rebounds,Under,(7.5) -125,(7.5) -142,(7.5) -130,(7.5) -130
+Miles Bridges,@MIL,Rebs+Asts,Over,,(11.5) -113,(11.5) -135,(11.5) -130
+Miles Bridges,@MIL,Rebs+Asts,Under,,(11.5) -113,(11.5) 100,(11.5) 100
 Nick Richards,@MIL,Assists,Over,,,(1.5) 145,
 Nick Richards,@MIL,Assists,Under,,,(1.5) -200,
-Nick Richards,@MIL,Points,Over,(11.5) -120,(11.5) -114,(11.5) -120,(11.5) -115
-Nick Richards,@MIL,Points,Under,(11.5) -110,(11.5) -106,(11.5) -110,(11.5) -115
+Nick Richards,@MIL,Points,Over,(11.5) -120,(11.5) -112,(11.5) -120,(11.5) -120
+Nick Richards,@MIL,Points,Under,(11.5) -110,(11.5) -108,(11.5) -110,(11.5) -110
 Nick Richards,@MIL,Pts+Asts,Over,(12.5) -125,,(12.5) -130,
 Nick Richards,@MIL,Pts+Asts,Under,(12.5) -105,,(12.5) -105,
-Nick Richards,@MIL,Pts+Rebs,Over,(20.5) -110,(20.5) -115,(20.5) -110,(20.5) -105
-Nick Richards,@MIL,Pts+Rebs,Under,(20.5) -120,(20.5) -111,(20.5) -120,(20.5) -125
+Nick Richards,@MIL,Pts+Rebs,Over,(20.5) -110,(20.5) -113,(20.5) -110,(20.5) -110
+Nick Richards,@MIL,Pts+Rebs,Under,(20.5) -120,(20.5) -113,(20.5) -120,(20.5) -120
 Nick Richards,@MIL,Pts+Rebs+Asts,Over,(21.5) -115,,(21.5) -120,
 Nick Richards,@MIL,Pts+Rebs+Asts,Under,(21.5) -115,,(21.5) -110,
-Nick Richards,@MIL,Rebounds,Over,(8.5) -110,(8.5) -110,(8.5) -120,(8.5) -110
-Nick Richards,@MIL,Rebounds,Under,(8.5) -120,(8.5) -110,(8.5) -110,(8.5) -120
+Nick Richards,@MIL,Rebounds,Over,(8.5) -110,(8.5) -114,(8.5) -120,(8.5) -110
+Nick Richards,@MIL,Rebounds,Under,(8.5) -120,(8.5) -106,(8.5) -110,(8.5) -120
 Nick Richards,@MIL,Rebs+Asts,Over,,,(9.5) -135,
 Nick Richards,@MIL,Rebs+Asts,Under,,,(9.5) 100,
-Nikola Jokic,@SAC,Assists,Over,(8.5) -140,(8.5) -128,(8.5) -140,(8.5) -140
-Nikola Jokic,@SAC,Assists,Under,(8.5) 110,(8.5) 104,(8.5) 105,(8.5) 105
-Nikola Jokic,@SAC,Points,Over,(27.5) -105,(26.5) -118,(27.5) -110,(27.5) -110
-Nikola Jokic,@SAC,Points,Under,(27.5) -125,(26.5) -104,(27.5) -120,(27.5) -120
-Nikola Jokic,@SAC,Pts+Asts,Over,(36.5) -115,(35.5) -115,(36.5) -110,(36.5) -110
-Nikola Jokic,@SAC,Pts+Asts,Under,(36.5) -115,(35.5) -111,(36.5) -120,(36.5) -120
-Nikola Jokic,@SAC,Pts+Rebs,Over,(39.5) -120,(39.5) -113,(39.5) -120,(39.5) -115
-Nikola Jokic,@SAC,Pts+Rebs,Under,(39.5) -110,(39.5) -113,(39.5) -115,(39.5) -115
-Nikola Jokic,@SAC,Pts+Rebs+Asts,Over,(48.5) -120,(48.5) -111,(48.5) -120,(48.5) -120
-Nikola Jokic,@SAC,Pts+Rebs+Asts,Under,(48.5) -110,(48.5) -115,(48.5) -110,(48.5) -110
-Nikola Jokic,@SAC,Rebounds,Over,(12.5) -115,(12.5) -106,(12.5) 100,(12.5) -110
-Nikola Jokic,@SAC,Rebounds,Under,(12.5) -115,(12.5) -114,(12.5) -135,(12.5) -120
-Nikola Jokic,@SAC,Rebs+Asts,Over,,(21.5) -104,(21.5) 100,(21.5) -115
-Nikola Jokic,@SAC,Rebs+Asts,Under,,(21.5) -122,(21.5) -135,(21.5) -115
-Onyeka Okongwu,@PHI,Assists,Over,,,(1.5) 110,
-Onyeka Okongwu,@PHI,Assists,Under,,,(1.5) -145,
-Onyeka Okongwu,@PHI,Points,Over,(13.5) -115,(13.5) -106,(13.5) -115,(13.5) -115
-Onyeka Okongwu,@PHI,Points,Under,(13.5) -115,(13.5) -114,(13.5) -120,(13.5) -115
-Onyeka Okongwu,@PHI,Pts+Asts,Over,(14.5) -130,,(14.5) -135,
-Onyeka Okongwu,@PHI,Pts+Asts,Under,(14.5) 100,,(14.5) 100,
-Onyeka Okongwu,@PHI,Pts+Rebs,Over,(22.5) -115,(22.5) -111,(22.5) -115,(22.5) -120
-Onyeka Okongwu,@PHI,Pts+Rebs,Under,(22.5) -115,(22.5) -115,(22.5) -115,(22.5) -110
-Onyeka Okongwu,@PHI,Pts+Rebs+Asts,Over,(24.5) -105,,(24.5) -105,
-Onyeka Okongwu,@PHI,Pts+Rebs+Asts,Under,(24.5) -125,,(24.5) -125,
-Onyeka Okongwu,@PHI,Rebounds,Over,(8.5) -150,(8.5) -124,(8.5) -145,(8.5) -145
-Onyeka Okongwu,@PHI,Rebounds,Under,(8.5) 120,(8.5) 102,(8.5) 110,(8.5) 110
+Nikola Jokic,@SAC,Assists,Over,(8.5) -135,(8.5) -138,(8.5) -140,(8.5) -145
+Nikola Jokic,@SAC,Assists,Under,(8.5) 105,(8.5) 112,(8.5) 105,(8.5) 110
+Nikola Jokic,@SAC,Points,Over,(27.5) 100,(26.5) -122,(27.5) -110,(26.5) -125
+Nikola Jokic,@SAC,Points,Under,(27.5) -130,(26.5) 100,(27.5) -120,(26.5) -105
+Nikola Jokic,@SAC,Pts+Asts,Over,(36.5) -110,(35.5) -125,(36.5) -110,(36.5) -110
+Nikola Jokic,@SAC,Pts+Asts,Under,(36.5) -120,(35.5) -102,(36.5) -120,(36.5) -110
+Nikola Jokic,@SAC,Pts+Rebs,Over,(39.5) -115,(39.5) -115,(39.5) -120,(39.5) -120
+Nikola Jokic,@SAC,Pts+Rebs,Under,(39.5) -115,(39.5) -111,(39.5) -115,(39.5) -110
+Nikola Jokic,@SAC,Pts+Rebs+Asts,Over,(48.5) -120,(48.5) -115,(48.5) -120,(48.5) -120
+Nikola Jokic,@SAC,Pts+Rebs+Asts,Under,(48.5) -110,(48.5) -111,(48.5) -110,(48.5) -110
+Nikola Jokic,@SAC,Rebounds,Over,(12.5) -115,(12.5) -106,(12.5) 100,(12.5) -115
+Nikola Jokic,@SAC,Rebounds,Under,(12.5) -115,(12.5) -114,(12.5) -135,(12.5) -115
+Nikola Jokic,@SAC,Rebs+Asts,Over,,(21.5) -113,(21.5) 100,(21.5) -120
+Nikola Jokic,@SAC,Rebs+Asts,Under,,(21.5) -113,(21.5) -135,(21.5) -110
+Onyeka Okongwu,@PHI,Assists,Over,,,(1.5) 115,
+Onyeka Okongwu,@PHI,Assists,Under,,,(1.5) -150,
+Onyeka Okongwu,@PHI,Points,Over,(13.5) -115,(13.5) -108,(13.5) -140,(13.5) -115
+Onyeka Okongwu,@PHI,Points,Under,(13.5) -115,(13.5) -112,(13.5) 105,(13.5) -115
+Onyeka Okongwu,@PHI,Pts+Asts,Over,(14.5) -130,,(14.5) -130,
+Onyeka Okongwu,@PHI,Pts+Asts,Under,(14.5) 100,,(14.5) -130,
+Onyeka Okongwu,@PHI,Pts+Rebs,Over,(22.5) -115,(22.5) -115,(22.5) -135,(23.5) -105
+Onyeka Okongwu,@PHI,Pts+Rebs,Under,(22.5) -115,(22.5) -111,(22.5) 100,(23.5) -105
+Onyeka Okongwu,@PHI,Pts+Rebs+Asts,Over,(24.5) -105,,(24.5) -125,
+Onyeka Okongwu,@PHI,Pts+Rebs+Asts,Under,(24.5) -125,,(24.5) -110,
+Onyeka Okongwu,@PHI,Rebounds,Over,(8.5) -150,(9.5) 110,(8.5) -145,(9.5) -105
+Onyeka Okongwu,@PHI,Rebounds,Under,(8.5) 120,(9.5) -134,(8.5) -140,(9.5) -125
 Onyeka Okongwu,@PHI,Rebs+Asts,Over,,,,
 Onyeka Okongwu,@PHI,Rebs+Asts,Under,,,,
-Paul Reed,ATL,Assists,Over,,,,(2.5) 100
-Paul Reed,ATL,Assists,Under,,,,(2.5) -130
-Paul Reed,ATL,Points,Over,,(10.5) 102,,(9.5) -125
-Paul Reed,ATL,Points,Under,,(10.5) -124,,(9.5) -105
-Paul Reed,ATL,Pts+Asts,Over,,,,(12.5) -110
-Paul Reed,ATL,Pts+Asts,Under,,,,(12.5) -120
-Paul Reed,ATL,Pts+Rebs,Over,,(19.5) -106,,(18.5) -125
-Paul Reed,ATL,Pts+Rebs,Under,,(19.5) -120,,(18.5) -105
-Paul Reed,ATL,Pts+Rebs+Asts,Over,,,,(21.5) -115
-Paul Reed,ATL,Pts+Rebs+Asts,Under,,,,(21.5) -115
-Paul Reed,ATL,Rebounds,Over,,(8.5) -132,,(8.5) -140
-Paul Reed,ATL,Rebounds,Under,,(8.5) 108,,(8.5) 105
-Paul Reed,ATL,Rebs+Asts,Over,,,,(11.5) -110
-Paul Reed,ATL,Rebs+Asts,Under,,,,(11.5) -120
-RJ Barrett,HOU,Assists,Over,(3.5) -120,(3.5) -122,(3.5) -130,(3.5) -115
-RJ Barrett,HOU,Assists,Under,(3.5) -110,(3.5) 100,(3.5) 100,(3.5) -115
-RJ Barrett,HOU,Points,Over,(20.5) -120,(21.5) -102,(20.5) -120,(20.5) -120
-RJ Barrett,HOU,Points,Under,(20.5) -110,(21.5) -120,(20.5) -110,(20.5) -110
-RJ Barrett,HOU,Pts+Asts,Over,(24.5) -115,(24.5) -122,(24.5) -120,(24.5) -115
-RJ Barrett,HOU,Pts+Asts,Under,(24.5) -115,(24.5) -104,(24.5) -110,(24.5) -115
-RJ Barrett,HOU,Pts+Rebs,Over,(26.5) -120,(27.5) -115,(26.5) -120,(26.5) -120
-RJ Barrett,HOU,Pts+Rebs,Under,(26.5) -110,(27.5) -111,(26.5) -110,(26.5) -110
-RJ Barrett,HOU,Pts+Rebs+Asts,Over,(30.5) -115,(31.5) -111,(30.5) -120,(30.5) -115
-RJ Barrett,HOU,Pts+Rebs+Asts,Under,(30.5) -115,(31.5) -115,(30.5) -115,(30.5) -115
+RJ Barrett,HOU,Assists,Over,(3.5) -120,(3.5) -110,(3.5) -130,(3.5) -115
+RJ Barrett,HOU,Assists,Under,(3.5) -110,(3.5) -110,(3.5) 100,(3.5) -115
+RJ Barrett,HOU,Points,Over,(20.5) -120,(21.5) 100,(20.5) -120,(20.5) -120
+RJ Barrett,HOU,Points,Under,(20.5) -110,(21.5) -122,(20.5) -110,(20.5) -110
+RJ Barrett,HOU,Pts+Asts,Over,(24.5) -120,(24.5) -115,(24.5) -120,(24.5) -115
+RJ Barrett,HOU,Pts+Asts,Under,(24.5) -110,(24.5) -111,(24.5) -110,(24.5) -115
+RJ Barrett,HOU,Pts+Rebs,Over,(26.5) -120,(27.5) -113,(26.5) -120,(26.5) -120
+RJ Barrett,HOU,Pts+Rebs,Under,(26.5) -110,(27.5) -113,(26.5) -110,(26.5) -110
+RJ Barrett,HOU,Pts+Rebs+Asts,Over,(30.5) -115,(31.5) -108,(30.5) -120,(30.5) -115
+RJ Barrett,HOU,Pts+Rebs+Asts,Under,(30.5) -115,(31.5) -118,(30.5) -115,(30.5) -115
 RJ Barrett,HOU,Rebounds,Over,(5.5) -145,(6.5) 104,(5.5) -150,(5.5) -145
 RJ Barrett,HOU,Rebounds,Under,(5.5) 114,(6.5) -128,(5.5) 115,(5.5) 110
-RJ Barrett,HOU,Rebs+Asts,Over,,(10.5) 110,(9.5) -140,(9.5) -115
-RJ Barrett,HOU,Rebs+Asts,Under,,(10.5) -140,(9.5) 105,(9.5) -115
+RJ Barrett,HOU,Rebs+Asts,Over,,(9.5) -136,(9.5) -140,(9.5) -115
+RJ Barrett,HOU,Rebs+Asts,Under,,(9.5) 106,(9.5) 105,(9.5) -115
 Saddiq Bey,@PHI,Assists,Over,,,(1.5) 150,
-Saddiq Bey,@PHI,Assists,Under,,,(1.5) -200,
-Saddiq Bey,@PHI,Points,Over,(14.5) -125,(14.5) -110,(14.5) -130,(14.5) -125
-Saddiq Bey,@PHI,Points,Under,(14.5) -105,(14.5) -110,(14.5) -105,(14.5) -105
+Saddiq Bey,@PHI,Assists,Under,,,(1.5) -210,
+Saddiq Bey,@PHI,Points,Over,(14.5) -125,(14.5) -105,(14.5) -125,(14.5) -120
+Saddiq Bey,@PHI,Points,Under,(14.5) -105,(14.5) -115,(14.5) -105,(14.5) -110
 Saddiq Bey,@PHI,Pts+Asts,Over,(16.5) -105,,(16.5) -105,
 Saddiq Bey,@PHI,Pts+Asts,Under,(16.5) -125,,(16.5) -125,
-Saddiq Bey,@PHI,Pts+Rebs,Over,(21.5) -110,(20.5) -122,(21.5) -110,(21.5) -115
-Saddiq Bey,@PHI,Pts+Rebs,Under,(21.5) -120,(20.5) -104,(21.5) -120,(21.5) -115
+Saddiq Bey,@PHI,Pts+Rebs,Over,(21.5) -110,(20.5) -118,(21.5) -110,(21.5) -115
+Saddiq Bey,@PHI,Pts+Rebs,Under,(21.5) -120,(20.5) -108,(21.5) -120,(21.5) -115
 Saddiq Bey,@PHI,Pts+Rebs+Asts,Over,(22.5) -120,,,
 Saddiq Bey,@PHI,Pts+Rebs+Asts,Under,(22.5) -110,,,
-Saddiq Bey,@PHI,Rebounds,Over,(6.5) 105,(6.5) 114,(6.5) 105,(6.5) 100
-Saddiq Bey,@PHI,Rebounds,Under,(6.5) -135,(6.5) -140,(6.5) -140,(6.5) -130
+Saddiq Bey,@PHI,Rebounds,Over,(6.5) 105,(6.5) 112,(6.5) -105,(6.5) 100
+Saddiq Bey,@PHI,Rebounds,Under,(6.5) -135,(6.5) -138,(6.5) -130,(6.5) -130
 Saddiq Bey,@PHI,Rebs+Asts,Over,,,(7.5) -120,
-Saddiq Bey,@PHI,Rebs+Asts,Under,,,(7.5) -115,
-Scottie Barnes,HOU,Assists,Over,(5.5) -140,(5.5) -138,(5.5) -145,(6.5) 115
-Scottie Barnes,HOU,Assists,Under,(5.5) 110,(5.5) 112,(5.5) 110,(6.5) -150
-Scottie Barnes,HOU,Points,Over,(20.5) -110,(20.5) 100,(20.5) -110,(20.5) -115
-Scottie Barnes,HOU,Points,Under,(20.5) -120,(20.5) -122,(20.5) -120,(20.5) -115
-Scottie Barnes,HOU,Pts+Asts,Over,(26.5) -115,(26.5) -102,(26.5) -115,(26.5) -120
-Scottie Barnes,HOU,Pts+Asts,Under,(26.5) -115,(26.5) -128,(26.5) -115,(26.5) -110
-Scottie Barnes,HOU,Pts+Rebs,Over,(27.5) -125,(27.5) -106,(27.5) -110,(27.5) -115
-Scottie Barnes,HOU,Pts+Rebs,Under,(27.5) -105,(27.5) -120,(27.5) -120,(27.5) -115
-Scottie Barnes,HOU,Pts+Rebs+Asts,Over,(33.5) -115,(33.5) -104,(33.5) -115,(33.5) -120
-Scottie Barnes,HOU,Pts+Rebs+Asts,Under,(33.5) -115,(33.5) -122,(33.5) -120,(33.5) -110
-Scottie Barnes,HOU,Rebounds,Over,(6.5) -140,(6.5) -130,(6.5) -135,(6.5) -145
-Scottie Barnes,HOU,Rebounds,Under,(6.5) 110,(6.5) 106,(6.5) 100,(6.5) 110
-Scottie Barnes,HOU,Rebs+Asts,Over,,(12.5) -130,(12.5) -125,(13.5) 100
-Scottie Barnes,HOU,Rebs+Asts,Under,,(12.5) 102,(12.5) -105,(13.5) -130
-Tobias Harris,ATL,Assists,Over,,(4.5) -106,,(4.5) -105
-Tobias Harris,ATL,Assists,Under,,(4.5) -114,,(4.5) -125
-Tobias Harris,ATL,Points,Over,,(23.5) -106,,(23.5) -115
-Tobias Harris,ATL,Points,Under,,(23.5) -114,,(23.5) -115
-Tobias Harris,ATL,Pts+Asts,Over,,(28.5) -104,,(28.5) -105
-Tobias Harris,ATL,Pts+Asts,Under,,(28.5) -122,,(28.5) -125
-Tobias Harris,ATL,Pts+Rebs,Over,,(30.5) -104,,(30.5) -115
-Tobias Harris,ATL,Pts+Rebs,Under,,(30.5) -122,,(30.5) -115
-Tobias Harris,ATL,Pts+Rebs+Asts,Over,,(34.5) -118,,(34.5) -120
-Tobias Harris,ATL,Pts+Rebs+Asts,Under,,(34.5) -108,,(34.5) -110
-Tobias Harris,ATL,Rebounds,Over,,(6.5) -104,,(6.5) -125
-Tobias Harris,ATL,Rebounds,Under,,(6.5) -118,,(6.5) -105
-Tobias Harris,ATL,Rebs+Asts,Over,,(11.5) 106,,(11.5) 100
-Tobias Harris,ATL,Rebs+Asts,Under,,(11.5) -136,,(11.5) -130
-Trae Young,@PHI,Assists,Over,(10.5) -135,(10.5) -138,,(10.5) -130
-Trae Young,@PHI,Assists,Under,(10.5) 105,(10.5) 112,,(10.5) 100
-Trae Young,@PHI,Points,Over,(25.5) -130,(25.5) -120,(25.5) -115,(26.5) -110
-Trae Young,@PHI,Points,Under,(25.5) 100,(25.5) -102,(25.5) -115,(26.5) -120
-Trae Young,@PHI,Pts+Asts,Over,(36.5) -115,(37.5) -106,(36.5) -120,(37.5) -110
-Trae Young,@PHI,Pts+Asts,Under,(36.5) -115,(37.5) -120,(36.5) -110,(37.5) -120
-Trae Young,@PHI,Pts+Rebs,Over,(28.5) -115,(28.5) -118,(28.5) -115,(29.5) -105
-Trae Young,@PHI,Pts+Rebs,Under,(28.5) -115,(28.5) -108,(28.5) -120,(29.5) -125
-Trae Young,@PHI,Pts+Rebs+Asts,Over,(39.5) -110,(39.5) -120,(39.5) -110,(40.5) -110
-Trae Young,@PHI,Pts+Rebs+Asts,Under,(39.5) -120,(39.5) -106,(39.5) -120,(40.5) -120
-Trae Young,@PHI,Rebounds,Over,(2.5) -125,(2.5) -106,(2.5) -125,(2.5) -130
-Trae Young,@PHI,Rebounds,Under,(2.5) -105,(2.5) -114,(2.5) -110,(2.5) 100
-Trae Young,@PHI,Rebs+Asts,Over,,(13.5) -120,(13.5) -105,(13.5) -120
-Trae Young,@PHI,Rebs+Asts,Under,,(13.5) -106,(13.5) -125,(13.5) -110
-Tyrese Maxey,ATL,Assists,Over,(6.5) -120,(6.5) -130,(6.5) -120,(6.5) -120
-Tyrese Maxey,ATL,Assists,Under,(6.5) -110,(6.5) 106,(6.5) -110,(6.5) -110
-Tyrese Maxey,ATL,Points,Over,(27.5) -115,(27.5) -115,(27.5) -120,(27.5) -120
-Tyrese Maxey,ATL,Points,Under,(27.5) -115,(27.5) -105,(27.5) -115,(27.5) -110
-Tyrese Maxey,ATL,Pts+Asts,Over,(34.5) -115,(34.5) -118,(34.5) -115,(34.5) -120
-Tyrese Maxey,ATL,Pts+Asts,Under,(34.5) -115,(34.5) -108,(34.5) -115,(34.5) -110
-Tyrese Maxey,ATL,Pts+Rebs,Over,(31.5) -105,(31.5) -111,(31.5) -105,(31.5) -115
-Tyrese Maxey,ATL,Pts+Rebs,Under,(31.5) -125,(31.5) -115,(31.5) -125,(31.5) -115
-Tyrese Maxey,ATL,Pts+Rebs+Asts,Over,(38.5) -105,(38.5) -108,(38.5) -105,(38.5) -110
-Tyrese Maxey,ATL,Pts+Rebs+Asts,Under,(38.5) -125,(38.5) -118,(38.5) -125,(38.5) -120
-Tyrese Maxey,ATL,Rebounds,Over,(3.5) 110,(3.5) 112,(3.5) 110,(3.5) 105
-Tyrese Maxey,ATL,Rebounds,Under,(3.5) -140,(3.5) -138,(3.5) -145,(3.5) -140
-Tyrese Maxey,ATL,Rebs+Asts,Over,,(10.5) 100,(10.5) 110,(10.5) 105
-Tyrese Maxey,ATL,Rebs+Asts,Under,,(10.5) -128,(10.5) -145,(10.5) -140
-Tyus Jones,@BOS,Assists,Over,,(6.5) 110,,(6.5) -115
-Tyus Jones,@BOS,Assists,Under,,(6.5) -134,,(6.5) -115
-Tyus Jones,@BOS,Points,Over,(11.5) -120,(11.5) -112,(11.5) -120,(11.5) -115
-Tyus Jones,@BOS,Points,Under,(11.5) -110,(11.5) -108,(11.5) -110,(11.5) -115
-Tyus Jones,@BOS,Pts+Asts,Over,(18.5) -110,(17.5) -118,(18.5) -120,(18.5) -110
-Tyus Jones,@BOS,Pts+Asts,Under,(18.5) -120,(17.5) -108,(18.5) -110,(18.5) -120
-Tyus Jones,@BOS,Pts+Rebs,Over,(14.5) -110,(14.5) -115,(14.5) -120,(14.5) -115
-Tyus Jones,@BOS,Pts+Rebs,Under,(14.5) -120,(14.5) -111,(14.5) -110,(14.5) -115
-Tyus Jones,@BOS,Pts+Rebs+Asts,Over,(21.5) -120,(21.5) -102,(21.5) -120,(21.5) -105
-Tyus Jones,@BOS,Pts+Rebs+Asts,Under,(21.5) -110,(21.5) -125,(21.5) -110,(21.5) -125
-Tyus Jones,@BOS,Rebounds,Over,(2.5) -145,(2.5) -140,(2.5) -160,(2.5) -145
-Tyus Jones,@BOS,Rebounds,Under,(2.5) 114,(2.5) 114,(2.5) 120,(2.5) 110
-Tyus Jones,@BOS,Rebs+Asts,Over,,(9.5) -108,(9.5) -135,(9.5) -110
-Tyus Jones,@BOS,Rebs+Asts,Under,,(9.5) -118,(9.5) 100,(9.5) -120
+Saddiq Bey,@PHI,Rebs+Asts,Under,,,(7.5) -110,
+Scottie Barnes,HOU,Assists,Over,(5.5) -140,(5.5) -134,(5.5) -145,(5.5) -130
+Scottie Barnes,HOU,Assists,Under,(5.5) 110,(5.5) 110,(5.5) 110,(5.5) 100
+Scottie Barnes,HOU,Points,Over,(20.5) -110,(20.5) -102,(20.5) -110,(20.5) -110
+Scottie Barnes,HOU,Points,Under,(20.5) -120,(20.5) -120,(20.5) -120,(20.5) -120
+Scottie Barnes,HOU,Pts+Asts,Over,(26.5) -115,(26.5) -102,(26.5) -115,(26.5) -110
+Scottie Barnes,HOU,Pts+Asts,Under,(26.5) -115,(26.5) -125,(26.5) -115,(26.5) -120
+Scottie Barnes,HOU,Pts+Rebs,Over,(27.5) -125,(27.5) -106,(27.5) -110,(27.5) -110
+Scottie Barnes,HOU,Pts+Rebs,Under,(27.5) -105,(27.5) -120,(27.5) -120,(27.5) -120
+Scottie Barnes,HOU,Pts+Rebs+Asts,Over,(33.5) -115,(33.5) -106,(33.5) -115,(33.5) -110
+Scottie Barnes,HOU,Pts+Rebs+Asts,Under,(33.5) -115,(33.5) -120,(33.5) -120,(33.5) -120
+Scottie Barnes,HOU,Rebounds,Over,(6.5) -140,(6.5) -128,(6.5) -135,(6.5) -125
+Scottie Barnes,HOU,Rebounds,Under,(6.5) 110,(6.5) 104,(6.5) 100,(6.5) -105
+Scottie Barnes,HOU,Rebs+Asts,Over,,(12.5) -125,(12.5) -125,(12.5) -120
+Scottie Barnes,HOU,Rebs+Asts,Under,,(12.5) -102,(12.5) -105,(12.5) -110
+Tobias Harris,ATL,Assists,Over,,(4.5) -110,,
+Tobias Harris,ATL,Assists,Under,,(4.5) -110,,
+Tobias Harris,ATL,Points,Over,,(23.5) -106,,
+Tobias Harris,ATL,Points,Under,,(23.5) -114,,
+Tobias Harris,ATL,Pts+Asts,Over,,(27.5) -122,,
+Tobias Harris,ATL,Pts+Asts,Under,,(27.5) -104,,
+Tobias Harris,ATL,Pts+Rebs,Over,,(29.5) -122,,
+Tobias Harris,ATL,Pts+Rebs,Under,,(29.5) -104,,
+Tobias Harris,ATL,Pts+Rebs+Asts,Over,,(34.5) -113,,
+Tobias Harris,ATL,Pts+Rebs+Asts,Under,,(34.5) -113,,
+Tobias Harris,ATL,Rebounds,Over,,(6.5) -102,,
+Tobias Harris,ATL,Rebounds,Under,,(6.5) -120,,
+Tobias Harris,ATL,Rebs+Asts,Over,,(10.5) -138,,
+Tobias Harris,ATL,Rebs+Asts,Under,,(10.5) 108,,
+Trae Young,@PHI,Assists,Over,(10.5) -135,(10.5) -118,,(10.5) -130
+Trae Young,@PHI,Assists,Under,(10.5) 105,(10.5) -104,,(10.5) 100
+Trae Young,@PHI,Points,Over,(25.5) -130,(25.5) -115,(25.5) -110,(26.5) -110
+Trae Young,@PHI,Points,Under,(25.5) 100,(25.5) -105,(25.5) -120,(26.5) -110
+Trae Young,@PHI,Pts+Asts,Over,(36.5) -115,(36.5) -118,(36.5) -120,(37.5) -110
+Trae Young,@PHI,Pts+Asts,Under,(36.5) -115,(36.5) -108,(36.5) -110,(37.5) -110
+Trae Young,@PHI,Pts+Rebs,Over,(28.5) -115,(28.5) -113,(28.5) -110,(28.5) -115
+Trae Young,@PHI,Pts+Rebs,Under,(28.5) -115,(28.5) -113,(28.5) -120,(28.5) -115
+Trae Young,@PHI,Pts+Rebs+Asts,Over,(39.5) -110,(39.5) -113,(39.5) -110,(39.5) -115
+Trae Young,@PHI,Pts+Rebs+Asts,Under,(39.5) -120,(39.5) -113,(39.5) -120,(39.5) -115
+Trae Young,@PHI,Rebounds,Over,(2.5) -120,(2.5) -106,(2.5) -125,(2.5) -120
+Trae Young,@PHI,Rebounds,Under,(2.5) -110,(2.5) -114,(2.5) -105,(2.5) -110
+Trae Young,@PHI,Rebs+Asts,Over,,(13.5) -113,(13.5) -115,(13.5) -120
+Trae Young,@PHI,Rebs+Asts,Under,,(13.5) -113,(13.5) -120,(13.5) -110
+Tyrese Maxey,ATL,Assists,Over,,(6.5) -120,(6.5) 100,(6.5) 100
+Tyrese Maxey,ATL,Assists,Under,,(6.5) -102,(6.5) -135,(6.5) -130
+Tyrese Maxey,ATL,Points,Over,,(27.5) -118,(27.5) -110,(27.5) -110
+Tyrese Maxey,ATL,Points,Under,,(27.5) -104,(27.5) -125,(27.5) -120
+Tyrese Maxey,ATL,Pts+Asts,Over,,(34.5) -118,(33.5) -120,(34.5) -115
+Tyrese Maxey,ATL,Pts+Asts,Under,,(34.5) -108,(33.5) -110,(34.5) -110
+Tyrese Maxey,ATL,Pts+Rebs,Over,,(31.5) -113,(30.5) -120,(31.5) -105
+Tyrese Maxey,ATL,Pts+Rebs,Under,,(31.5) -115,(30.5) -115,(31.5) -110
+Tyrese Maxey,ATL,Pts+Rebs+Asts,Over,,(38.5) -111,(37.5) -105,(37.5) -115
+Tyrese Maxey,ATL,Pts+Rebs+Asts,Under,,(38.5) -115,(37.5) -125,(37.5) -115
+Tyrese Maxey,ATL,Rebounds,Over,,(3.5) 106,(3.5) 110,(3.5) 110
+Tyrese Maxey,ATL,Rebounds,Under,,(3.5) -130,(3.5) -145,(3.5) -145
+Tyrese Maxey,ATL,Rebs+Asts,Over,,(10.5) 106,(9.5) -135,(9.5) -125
+Tyrese Maxey,ATL,Rebs+Asts,Under,,(10.5) -136,(9.5) 100,(9.5) -105
+Tyus Jones,@BOS,Assists,Over,(6.5) -115,(6.5) -105,,(6.5) -115
+Tyus Jones,@BOS,Assists,Under,(6.5) -115,(6.5) -115,,(6.5) -115
+Tyus Jones,@BOS,Points,Over,(11.5) -120,(11.5) -114,(11.5) -125,(11.5) -115
+Tyus Jones,@BOS,Points,Under,(11.5) -110,(11.5) -106,(11.5) -105,(11.5) -115
+Tyus Jones,@BOS,Pts+Asts,Over,(18.5) -120,(18.5) 104,(18.5) -130,(18.5) -105
+Tyus Jones,@BOS,Pts+Asts,Under,(18.5) -110,(18.5) -132,(18.5) -105,(18.5) -125
+Tyus Jones,@BOS,Pts+Rebs,Over,(14.5) -115,(14.5) -122,(14.5) -135,(14.5) -115
+Tyus Jones,@BOS,Pts+Rebs,Under,(14.5) -115,(14.5) -104,(14.5) 100,(14.5) -115
+Tyus Jones,@BOS,Pts+Rebs+Asts,Over,(22.5) 110,(21.5) -113,(22.5) 105,(21.5) -110
+Tyus Jones,@BOS,Pts+Rebs+Asts,Under,(22.5) -140,(21.5) -113,(22.5) -140,(21.5) -120
+Tyus Jones,@BOS,Rebounds,Over,(2.5) -150,(2.5) -148,(2.5) -175,(2.5) -160
+Tyus Jones,@BOS,Rebounds,Under,(2.5) 120,(2.5) 120,(2.5) 130,(2.5) 120
+Tyus Jones,@BOS,Rebs+Asts,Over,,(9.5) -128,(10.5) 110,(9.5) -115
+Tyus Jones,@BOS,Rebs+Asts,Under,,(9.5) 100,(10.5) -145,(9.5) -115

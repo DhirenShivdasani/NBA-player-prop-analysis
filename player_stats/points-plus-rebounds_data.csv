@@ -3,12 +3,12 @@ Rank,Player,Team,Pos,Value
 2,Giannis Antetokounmpo,Milwaukee Bucks,SF,41.98
 3,Nikola Jokic,Denver Nuggets,C,38.39
 4,Anthony Davis,Los Angeles Lakers,PF,37.27
-5,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,36.59
-6,Jayson Tatum,Boston Celtics,SF,35.47
+5,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,36.67
+6,Jayson Tatum,Boston Celtics,SF,35.48
 7,Kevin Durant,Phoenix Suns,SF,34.80
 8,Donovan Mitchell,Cleveland Cavaliers,SG,33.60
 9,Julius Randle,New York Knicks,PF,33.15
-10,Domantas Sabonis,Sacramento Kings,PF,33.04
+10,Domantas Sabonis,Sacramento Kings,PF,33.02
 11,Devin Booker,Phoenix Suns,SG,32.74
 12,Stephen Curry,Golden State Warriors,PG,32.47
 13,Lauri Markkanen,Utah Jazz,PF,32.26
@@ -16,10 +16,10 @@ Rank,Player,Team,Pos,Value
 15,Jalen Brunson,New York Knicks,PG,31.36
 16,Karl-Anthony Towns,Minnesota Timberwolves,C,31.14
 17,Anthony Edwards,Minnesota Timberwolves,SG,31.06
-18,Bam Adebayo,Miami Heat,C,30.71
-19,De'Aaron Fox,Sacramento Kings,PG,30.62
-20,Alperen Sengun,Houston Rockets,C,30.57
-21,Kawhi Leonard,Los Angeles Clippers,SF,30.43
+18,Bam Adebayo,Miami Heat,C,30.81
+19,Alperen Sengun,Houston Rockets,C,30.57
+20,Kawhi Leonard,Los Angeles Clippers,SF,30.43
+21,De'Aaron Fox,Sacramento Kings,PG,30.30
 22,Victor Wembanyama,San Antonio Spurs,PF,30.26
 23,Trae Young,Atlanta Hawks,PG,29.88
 24,Paolo Banchero,Orlando Magic,PF,29.64
@@ -34,8 +34,8 @@ Rank,Player,Team,Pos,Value
 33,Paul George,Los Angeles Clippers,SF,27.83
 34,Jaren Jackson Jr.,Memphis Grizzlies,PF,27.82
 35,Zion Williamson,New Orleans Pelicans,PF,27.79
-36,Jaylen Brown,Boston Celtics,SG,27.56
-37,Kristaps Porzingis,Boston Celtics,PF,27.16
+36,Jaylen Brown,Boston Celtics,SG,27.59
+37,Kristaps Porzingis,Boston Celtics,PF,27.33
 38,Franz Wagner,Orlando Magic,SF,26.87
 39,Jimmy Butler,Miami Heat,PF,26.86
 40,Dejounte Murray,Atlanta Hawks,PG,26.78
@@ -49,9 +49,9 @@ Rank,Player,Team,Pos,Value
 48,Tyrese Haliburton,Indiana Pacers,PG,25.81
 49,Jerami Grant,Portland Trail Blazers,SF,25.73
 50,Jamal Murray,Denver Nuggets,SG,24.92
-51,Terry Rozier,Miami Heat,PG,24.79
+51,Terry Rozier,Miami Heat,PG,24.60
 52,RJ Barrett,Toronto Raptors,SF,24.56
-53,Chet Holmgren,Oklahoma City Thunder,C,24.46
+53,Chet Holmgren,Oklahoma City Thunder,C,24.34
 54,Cam Thomas,Brooklyn Nets,SG,24.30
 55,Jalen Johnson,Atlanta Hawks,SF,24.18
 56,Coby White,Chicago Bulls,SG,24.04
@@ -60,9 +60,9 @@ Rank,Player,Team,Pos,Value
 59,Jonas Valanciunas,New Orleans Pelicans,C,23.49
 60,CJ McCollum,New Orleans Pelicans,SG,23.36
 61,Jalen Green,Houston Rockets,SG,23.17
-62,Michael Porter Jr.,Denver Nuggets,PF,22.96
-63,Nic Claxton,Brooklyn Nets,C,22.67
-64,Jalen Williams,Oklahoma City Thunder,SG,22.63
+62,Jalen Williams,Oklahoma City Thunder,SG,23.00
+63,Michael Porter Jr.,Denver Nuggets,PF,22.96
+64,Nic Claxton,Brooklyn Nets,C,22.67
 65,Devin Vassell,San Antonio Spurs,SG,22.58
 66,John Collins,Utah Jazz,PF,22.53
 67,James Harden,Los Angeles Clippers,SG,22.37
@@ -74,7 +74,7 @@ Rank,Player,Team,Pos,Value
 73,Tim Hardaway Jr.,Dallas Mavericks,SG,21.36
 74,Jordan Clarkson,Utah Jazz,PG,20.63
 75,Brandon Miller,Charlotte Hornets,SF,20.54
-76,Keegan Murray,Sacramento Kings,SF,20.40
+76,Keegan Murray,Sacramento Kings,SF,20.46
 77,Klay Thompson,Golden State Warriors,SG,20.30
 78,Jonathan Kuminga,Golden State Warriors,PF,20.27
 79,Fred VanVleet,Houston Rockets,PG,20.23
@@ -86,12 +86,12 @@ Rank,Player,Team,Pos,Value
 85,Austin Reaves,Los Angeles Lakers,PG,19.80
 86,Malcolm Brogdon,Portland Trail Blazers,SG,19.51
 87,Bobby Portis,Milwaukee Bucks,PF,19.49
-88,Derrick White,Boston Celtics,PG,19.48
-89,O.G. Anunoby,New York Knicks,SF,19.46
-90,Jaden Ivey,Detroit Pistons,PG,19.40
-91,Deni Avdija,Washington Wizards,SF,19.37
-92,Jakob Poeltl,Toronto Raptors,C,19.33
-93,Jrue Holiday,Boston Celtics,PG,19.26
+88,O.G. Anunoby,New York Knicks,SF,19.46
+89,Jaden Ivey,Detroit Pistons,PG,19.40
+90,Deni Avdija,Washington Wizards,SF,19.37
+91,Jakob Poeltl,Toronto Raptors,C,19.33
+92,Derrick White,Boston Celtics,PG,19.24
+93,Jrue Holiday,Boston Celtics,PG,19.23
 94,Daniel Gafford,Dallas Mavericks,PF,19.11
 95,Khris Middleton,Milwaukee Bucks,SF,19.07
 96,P.J. Washington,Dallas Mavericks,PF,18.91

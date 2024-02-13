@@ -542,13 +542,26 @@ def extract_value_and_odds(odds_str):
 def calculate_implied_probability_for_value(row):
     odds_list = [row[f'{book}'] for book in ['draftkings', 'fanduel', 'mgm', 'pointsbet']]
     valid_probs = []
+    any_value_matches = False  # Assume no values match initially
+
     for odds_str in odds_list:
-        value, odds = extract_value_and_odds(odds_str)
-        if value is not None and value == row['Value']:
-            prob = odds_to_implied_probability(odds)
-            if prob is not None:
-                valid_probs.append(prob)
-    return None if not valid_probs else sum(valid_probs) / len(valid_probs)
+        if isinstance(odds_str, str) and '(' in odds_str:
+            split_str = odds_str.split(' ')
+            if len(split_str) > 1:  # Ensuring there's both value and odds
+                value_str, odds = split_str[0].strip('()'), split_str[1]
+                try:
+                    value = float(value_str)
+                    odds_value = float(odds)
+                    prob = odds_to_implied_probability(odds_value)
+                    if prob is not None:
+                        valid_probs.append(prob)
+                    if value == row['Value']:
+                        any_value_matches = True  # Found at least one matching value
+                except ValueError:
+                    continue  # Skip if conversion fails
+
+    avg_prob = None if not valid_probs else sum(valid_probs) / len(valid_probs)
+    return avg_prob, any_value_matches
 
 
 def color_ranking(val):
@@ -964,28 +977,34 @@ elif view == "Over/Under Stats L10":
 
 
   
-    combined_df['Average_Implied_Probability'] = combined_df.apply(calculate_implied_probability_for_value, axis=1)     
+    combined_df[['Average_Implied_Probability', 'All_Values_Match']] = combined_df.apply(lambda row: calculate_implied_probability_for_value(row), axis=1, result_type="expand")
     
 
     prop_relations = {
-    'Points': ['Points', 'Pts+Rebs', 'Pts+Rebs+Asts', 'Pts+Asts'],
-    'Rebounds': ['Rebounds', 'Pts+Rebs', 'Pts+Rebs+Asts', 'Rebs+Asts'],
-    'Assists': ['Assists', 'Pts+Asts', 'Pts+Rebs+Asts', 'Rebs+Asts'],
-    'Pts+Rebs': ['Pts+Rebs', 'Pts+Rebs+Asts'],
-    'Pts+Asts': ['Pts+Asts', 'Pts+Rebs+Asts'],
-    'Rebs+Asts': ['Rebs+Asts', 'Pts+Rebs+Asts'],
-    'Pts+Rebs+Asts': ['Pts+Rebs+Asts'],
+    'Points': ['Points', 'Pts+Rebs', 'Pts+Asts'],
+    'Rebounds': ['Rebounds', 'Rebs+Asts'],
+    'Assists': ['Assists', 'Rebs+Asts'],
+    'Pts+Rebs': ['Pts+Rebs', 'Pts+Rebs+Asts', 'Points', 'Rebounds'],
+    'Pts+Asts': ['Pts+Asts', 'Pts+Rebs+Asts', 'Assits', 'Points'],
+    'Rebs+Asts': ['Rebs+Asts', 'Pts+Rebs+Asts', 'Rebounds', 'Assists'],
+    'Pts+Rebs+Asts': ['Pts+Rebs+Asts', 'Points', 'Rebounds', 'Assists'],
     }
 
     # Function to calculate if a base prop should be highlighted
     def should_highlight(player, base_prop, direction, agg_probs):
+        # Check if the average implied probability is NaN, return False immediately
+        if agg_probs.get((player, base_prop, direction)) is None or np.isnan(agg_probs.get((player, base_prop, direction))):
+            return False
+
         related_props = prop_relations[base_prop]
         for rel_prop in related_props:
-            # Check if both Over and Under exist for the related prop
+            # Ensure both Over and Under exist for the related prop
             if (player, rel_prop, 'Over') in agg_probs and (player, rel_prop, 'Under') in agg_probs:
                 over_prob = agg_probs.get((player, rel_prop, 'Over'))
                 under_prob = agg_probs.get((player, rel_prop, 'Under'))
-                # Proceed to compare probabilities and check against the threshold
+                # If either Over or Under implied probability is NaN, do not highlight
+                if np.isnan(over_prob) or np.isnan(under_prob):
+                    return False
                 if direction == 'Over':
                     if over_prob <= under_prob or over_prob < 0.56:
                         return False
@@ -1004,9 +1023,9 @@ elif view == "Over/Under Stats L10":
     # Step 3: Apply highlighting logic
     combined_df['Highlight'] = combined_df.apply(lambda row: '✅' if should_highlight(row['PlayerName'], row['Prop'], row['Over_Under'], agg_probs) else '', axis=1)
 
-    combined_df.set_index(['Highlight','PlayerName', 'Average_Implied_Probability', 'Over_Under'], inplace=True)
+    combined_df.set_index(['All_Values_Match','Highlight','PlayerName', 'Average_Implied_Probability', 'Over_Under'], inplace=True)
     
-
+    print(combined_df)
     st.dataframe(combined_df)
 
     # combined_df.sort_values(by=['opp','Average_Implied_Probability', 'PlayerName'], inplace=True)

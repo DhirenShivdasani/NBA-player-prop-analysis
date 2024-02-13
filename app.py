@@ -958,25 +958,65 @@ elif view == "Over/Under Stats L10":
         combined_df[f'{book}_Implied_Probability'] = combined_df[book].apply(extract_value_and_odds)
 
     implied_probs = [f'{book}_Implied_Probability' for book in sportsbooks]
-    # combined_df['Average_Implied_Probability'] = combined_df.apply(calculate_implied_probability_for_value, axis=1)     
 
     columns_to_drop = [f'{book}_Implied_Probability' for book in sportsbooks] + implied_probs
     combined_df = combined_df.drop(columns=columns_to_drop)
 
-    # combined_df.set_index(['PlayerName', 'Average_Implied_Probability'], inplace=True)
 
   
-    # if sort_by == "Over %":
-    #     combined_df = combined_df[combined_df['Over_Under'] == 'Over'].sort_values(by = 'Over %', ascending = False)
-    #     combined_df['Average_Implied_Probability'] = combined_df.apply(calculate_implied_probability_for_value, axis=1)     
-    #     combined_df.set_index(['PlayerName', 'Average_Implied_Probability'], inplace=True)
-    #     st.dataframe(combined_df.drop(['Over_Under'], axis =1))
-    # elif sort_by == "Under %":
-    #     combined_df = combined_df[combined_df['Over_Under'] == 'Under'].sort_values(by = 'Under %', ascending = False)
-    #     combined_df['Average_Implied_Probability'] = combined_df.apply(calculate_implied_probability_for_value, axis=1)     
-    #     combined_df.set_index(['PlayerName', 'Average_Implied_Probability'], inplace=True)
     combined_df['Average_Implied_Probability'] = combined_df.apply(calculate_implied_probability_for_value, axis=1)     
-    combined_df.set_index(['PlayerName', 'Average_Implied_Probability', 'Over_Under'], inplace=True)
-    st.dataframe(combined_df)        
+    
+
+    prop_relations = {
+    'Points': ['Points', 'Pts+Rebs', 'Pts+Rebs+Asts', 'Pts+Asts'],
+    'Rebounds': ['Rebounds', 'Pts+Rebs', 'Pts+Rebs+Asts', 'Rebs+Asts'],
+    'Assists': ['Assists', 'Pts+Asts', 'Pts+Rebs+Asts', 'Rebs+Asts'],
+    'Pts+Rebs': ['Pts+Rebs', 'Pts+Rebs+Asts'],
+    'Pts+Asts': ['Pts+Asts', 'Pts+Rebs+Asts'],
+    'Rebs+Asts': ['Rebs+Asts', 'Pts+Rebs+Asts'],
+    'Pts+Rebs+Asts': ['Pts+Rebs+Asts'],
+    }
+
+    # Function to calculate if a base prop should be highlighted
+    def should_highlight(player, base_prop, direction, agg_probs):
+        related_props = prop_relations[base_prop]
+        for rel_prop in related_props:
+            # Check if both Over and Under exist for the related prop
+            if (player, rel_prop, 'Over') in agg_probs and (player, rel_prop, 'Under') in agg_probs:
+                over_prob = agg_probs.get((player, rel_prop, 'Over'))
+                under_prob = agg_probs.get((player, rel_prop, 'Under'))
+                # Proceed to compare probabilities and check against the threshold
+                if direction == 'Over':
+                    if over_prob <= under_prob or over_prob < 0.56:
+                        return False
+                else:  # direction == 'Under'
+                    if under_prob <= over_prob or under_prob < 0.56:
+                        return False
+            else:
+                # If either Over or Under is missing for the related prop, do not highlight
+                return False
+        return True
+
+    # Step 2: Aggregate implied probabilities
+    agg_probs = combined_df.groupby(['PlayerName', 'Prop', 'Over_Under'])['Average_Implied_Probability'].mean()
+    agg_probs = agg_probs.to_dict()
+
+    # Step 3: Apply highlighting logic
+    combined_df['Highlight'] = combined_df.apply(lambda row: '✅' if should_highlight(row['PlayerName'], row['Prop'], row['Over_Under'], agg_probs) else '', axis=1)
+
+    combined_df.set_index(['Highlight','PlayerName', 'Average_Implied_Probability', 'Over_Under'], inplace=True)
+    
+
+    st.dataframe(combined_df)
+
+    # combined_df.sort_values(by=['opp','Average_Implied_Probability', 'PlayerName'], inplace=True)
+
+    # Display DataFrame Grouped by Team in Streamlit
+
+    # for team, group in combined_df.groupby('opp'):
+    #     # st.subheader(f"Team: {team}")
+    #     group.set_index(['PlayerName', 'Average_Implied_Probability', 'Over_Under'], inplace=True)
+
+    #     st.dataframe(group) 
 
 

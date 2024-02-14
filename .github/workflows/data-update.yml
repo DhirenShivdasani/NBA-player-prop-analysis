@@ -20,10 +20,6 @@ jobs:
         pip install -r requirements.txt  # If you have a requirements.txt
     - name: Run team_def_vs_pos.py
       run: python team_def_vs_pos.py
-    - name: Run team_lineups.py
-      run: python team_lineups.py
-    - name: Run scrape_odds.py
-      run: python scrape_odds.py
     - name: Run stats.py
       run: python stats.py
     - name: Run injury_data.py

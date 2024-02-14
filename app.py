@@ -390,11 +390,13 @@ def check_player_absence(game_id, player_name, dataframe):
 def show_injured_players_expander(injury_data, team_name):
     with st.sidebar.expander(f"Injured Players from {team_name}"):
         injured_players = injury_data[(injury_data['Team'] == team_name) &
-                                      (injury_data['Details'].str.contains('Out|Day To Day'))]
+                                      (injury_data['Status'].str.contains('Out|TBD|Injured|Out for season|Questionable'))]
         if not injured_players.empty:
-            st.table(injured_players[['Player', 'Details']])
+            st.table(injured_players[['Player', 'Status']])
         else:
             st.write("No injured players reported.")
+
+
 
 
 def plot_performance_bar_chart(game_dates, performances, selected_prop, value, player_name):
@@ -432,7 +434,9 @@ def plot_performance_bar_chart(game_dates, performances, selected_prop, value, p
 
 def has_injured_players(injury_data, team):
     return not injury_data[(injury_data['Team'] == team) & 
-                           (injury_data['Details'].str.contains('Out|Day To Day'))].empty
+                           (injury_data['Status'].str.contains('Out|Day To Day'))].empty
+
+
 
 
 # Function to get game IDs where selected injured players were absent
@@ -701,8 +705,8 @@ ast = ast[['Team','Assists_Rank']]
 dataframe = dataframe.merge(opra, on='Team').merge(pra, on='Team').merge(pa, on='Team').merge(opr, on='Team').merge(pr, on='Team').merge(opa, on='Team').merge(ora, on='Team').merge(ra, on='Team').merge(op, on='Team').merge(pts, on='Team').merge(oreb, on='Team').merge(reb, on='Team').merge(oa, on='Team').merge(ast, on='Team')
 
 # Parse injury data to find out players who are 'Out' and 'Day to Day'
-out_players = injury_data[injury_data['Details'].str.contains('Out')]['Player'].tolist()
-day_to_day_players = injury_data[injury_data['Details'].str.contains('Day To Day')]['Player'].tolist()
+out_players = injury_data[injury_data['Status'].str.contains('Out|Injured|Out for season')]['Player'].tolist()
+day_to_day_players = injury_data[injury_data['Status'].str.contains('Day To Day|TBD')]['Player'].tolist()
 
 
 players_with_props = dataframe[dataframe['Prop'].isin(["Points", "Rebounds", 'Assists', "Pts+Rebs+Asts", "Pts+Rebs", "Pts+Asts", "Rebs+Asts"])]
@@ -978,15 +982,16 @@ elif view == "Over/Under Stats L10":
 
   
     combined_df[['Average_Implied_Probability', 'All_Values_Match']] = combined_df.apply(lambda row: calculate_implied_probability_for_value(row), axis=1, result_type="expand")
-    
+    combined_df['Average_Implied_Probability'] = combined_df['Average_Implied_Probability'].round(2)
+
 
     prop_relations = {
-    'Points': ['Points', 'Pts+Rebs', 'Pts+Asts'],
-    'Rebounds': ['Rebounds', 'Rebs+Asts'],
-    'Assists': ['Assists', 'Rebs+Asts'],
-    'Pts+Rebs': ['Pts+Rebs', 'Pts+Rebs+Asts', 'Points', 'Rebounds'],
-    'Pts+Asts': ['Pts+Asts', 'Pts+Rebs+Asts', 'Assits', 'Points'],
-    'Rebs+Asts': ['Rebs+Asts', 'Pts+Rebs+Asts', 'Rebounds', 'Assists'],
+    'Points': ['Points'],
+    'Rebounds': ['Rebounds'],
+    'Assists': ['Assists'],
+    'Pts+Rebs': ['Pts+Rebs', 'Points', 'Rebounds'],
+    'Pts+Asts': ['Pts+Asts', 'Assists', 'Points'],
+    'Rebs+Asts': ['Rebs+Asts', 'Rebounds', 'Assists'],
     'Pts+Rebs+Asts': ['Pts+Rebs+Asts', 'Points', 'Rebounds', 'Assists'],
     }
 
@@ -1025,8 +1030,18 @@ elif view == "Over/Under Stats L10":
 
     combined_df.set_index(['All_Values_Match','Highlight','PlayerName', 'Average_Implied_Probability', 'Over_Under'], inplace=True)
     
-    print(combined_df)
-    st.dataframe(combined_df)
+    st.markdown(
+        """
+        <style>
+        .dataframe-container {
+            height: 800px;  /* Adjust the height as needed */
+        }
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
+
+    st.dataframe(combined_df)    
 
     # combined_df.sort_values(by=['opp','Average_Implied_Probability', 'PlayerName'], inplace=True)
 

@@ -1,5 +1,5 @@
 Team,Player,Status
-ATL,Patty Mills,Available
+ATL,Patty Mills,Not on injury report
 ATL,Onyeka Okongwu,Out
 ATL,AJ Griffin,Out
 ATL,Wesley Matthews,Out
@@ -23,8 +23,9 @@ NYK,Isaiah Hartenstein,Questionable
 NYK,Julius Randle,Injured
 NYK,OG Anunoby,Injured
 NYK,Mitchell Robinson,Injured
-ORL,Markelle Fultz,TBD
-BKN,Cam Johnson,Expects to play
+ORL,Markelle Fultz,Out
+ORL,Gary Harris,Out
+BKN,Cam Johnson,On track to play
 BKN,Ben Simmons,Out
 BKN,Dariq Whitehead,Out for season
 BOS,Kristaps Porzingis,TBD
@@ -37,20 +38,24 @@ CHI,Dalen Terry,Probable
 CHI,Patrick Williams,Injured
 CHI,Zach LaVine,Out for season
 CHI,Lonzo Ball,Out for season
+CLE,Darius Garland,Questionable
+CLE,Sam Merrill,Questionable
 CLE,Dean Wade,Questionable
 CLE,Tristan Thompson,Suspended
 CLE,Ty Jerome,Injured
 IND,Tyrese Haliburton,Questionable
+IND,Myles Turner,Questionable
 IND,Bennedict Mathurin,Questionable
 IND,James Johnson,Out
 IND,Jalen Smith,Out
 TOR,RJ Barrett,Questionable
+TOR,Jontay Porter,Doubtful
 HOU,Reggie Bullock,Questionable
 HOU,Cam Whitmore,Out
 HOU,Fred VanVleet,Injured
 HOU,Tari Eason,Injured
 HOU,Steven Adams,Out for season
-MEM,GG Jackson,Available
+MEM,GG Jackson,Not on injury report
 MEM,Derrick Rose,Questionable
 MEM,Ziaire Williams,Questionable
 MEM,Jordan Goodwin,TBD
@@ -60,6 +65,7 @@ MEM,Marcus Smart,Injured
 MEM,Brandon Clarke,Injured
 MEM,Jake LaRavia,Injured
 MEM,Ja Morant,Out for season
+WAS,Kyle Kuzma,Questionable
 WAS,Isaiah Livers,Out
 NOP,Zion Williamson,Questionable
 NOP,Cody Zeller,Questionable
@@ -81,9 +87,7 @@ LAL,Max Christie,Injured
 LAL,Jarred Vanderbilt,Injured
 LAL,Cam Reddish,Injured
 LAL,Gabe Vincent,Injured
-<<<<<<< HEAD
-=======
-UTA,Otto Porter,Available
+UTA,Otto Porter,Not on injury report
 SAC,Trey Lyles,TBD
 SAC,Sasha Vezenkov,Injured
 DEN,Jamal Murray,Unlikely to play
@@ -93,4 +97,3 @@ LAC,Kawhi Leonard,Out
 LAC,PJ Tucker,Out
 LAC,Bones Hyland,Out
 GSW,Chris Paul,Injured
->>>>>>> 3a1e4f20eac02f8efd97f914ff15c9b4e2957d0a

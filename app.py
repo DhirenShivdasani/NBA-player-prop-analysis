@@ -360,10 +360,6 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
         return results, rankings_df.style.applymap(color_ranking)
     else:
         return f"Prop type '{prop_type_adjusted}' not found in data."
-    
-def get_injured_players_from_team(injury_data, team):
-        return injury_data[(injury_data['Team'] == team) & 
-                       (injury_data['Details'].str.contains('Out|Day To Day'))]
 
 
 def get_matchup_total_for_game(dataframe, game_id, team):
@@ -581,12 +577,6 @@ def color_ranking(val):
         color = 'green'
     return f'background-color: {color}'
 
-def get_injured_players_for_game(game_id, team, injury_data):
-    injured_players = injury_data[(injury_data['Team'] == team) & 
-                                  (injury_data['Details'].str.contains('Out|Day To Day')) &
-                                  (injury_data['Game_ID'] == game_id)]['Player'].tolist()
-    return ', '.join(injured_players)
-
 
 def extract_position_from_lineup(player_name, lineup):
     """
@@ -641,7 +631,6 @@ team_lineups = pd.read_csv('team_lineups.csv')
 
 team_def = pd.read_csv('team_def_vs_pos.csv')
 
-print(team_def[team_def['Opponent'] == 'MEM'])
 
 if check_for_updates(file_path):
     st.info("Updates are available. Please refresh the app.")

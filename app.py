@@ -827,9 +827,9 @@ if view == "Player Prop Analysis":
         with st.expander("View Team Starting Lineup"):
             # Display the lineup with the selected player's name bolded if they are in the lineup
             st.markdown(formatted_lineup_team_str, unsafe_allow_html=True)
-        with st.expander("View Opponent Starting Lineup"):
-            # Display the lineup with the selected player's name bolded if they are in the lineup
-            st.markdown(formatted_lineup_opp_str, unsafe_allow_html=True)
+        # with st.expander("View Opponent Starting Lineup"):
+        #     # Display the lineup with the selected player's name bolded if they are in the lineup
+        #     st.markdown(formatted_lineup_opp_str, unsafe_allow_html=True)
 
 
 

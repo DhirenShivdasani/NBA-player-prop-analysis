@@ -22,6 +22,8 @@ jobs:
       run: python team_lineups.py
     - name: Run scrape_odds.py
       run: python scrape_odds.py
+    - name: Run injury_data.py
+      run: python injury_data.py
     - name: Commit and push if there are changes
       run: |
         git config user.email "dhiren3102@gmail.com"

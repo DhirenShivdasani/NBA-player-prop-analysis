@@ -798,7 +798,6 @@ if view == "Player Prop Analysis":
         home_away_filter = st.radio("Select Home/Away Games", ["Both", "Home", "Away"])
         team_lineup = team_lineups[team_lineups['Team'] == team]['Lineup'].values[0]
         
-        # opponent_lineup = team_lineups[team_lineups['Team'] == opponent]['Lineup']
 
         
 
@@ -814,28 +813,32 @@ if view == "Player Prop Analysis":
         formatted_lineup_team_str = ', '.join(formatted_lineup_team)
         position_team = extract_position_from_lineup(player_name, team_lineup)
 
-        # formatted_lineup_opp = []
-        # for player in opponent_lineup.split(', '):  # Assuming lineup is a string of comma-separated player names
-        #     if player == player_name:
-        #         # Apply Markdown bold formatting
-        #         formatted_lineup_opp.append(f"**{player}**")
-        #     else:
-        #         formatted_lineup_opp.append(player)
-        
-        # # Join the formatted names back into a string
-        # formatted_lineup_opp_str = ', '.join(formatted_lineup_opp)
-        # position_opp = extract_position_from_lineup(player_name, opponent_lineup)
-
+      
         with st.expander("View Team Starting Lineup"):
             # Display the lineup with the selected player's name bolded if they are in the lineup
             st.markdown(formatted_lineup_team_str, unsafe_allow_html=True)
-        # with st.expander("View Opponent Starting Lineup"):
-        #     if opponent_lineup.empty:
-        #         print(f"{opponent} not playing today.")
-        #     else:
-        #         opponent_lineup = opponent_lineup.values[0]
-        #     # Display the lineup with the selected player's name bolded if they are in the lineup
-        #     st.markdown(formatted_lineup_opp_str, unsafe_allow_html=True)
+
+
+        if opponent in team_lineups['Team'].values:
+            opponent_lineup = team_lineups[team_lineups['Team'] == opponent]['Lineup'].values[0]
+
+            formatted_lineup_opp = []
+            for player in opponent_lineup.split(', '):  # Assuming lineup is a string of comma-separated player names
+                if player == player_name:
+                    # Apply Markdown bold formatting
+                    formatted_lineup_opp.append(f"**{player}**")
+                else:
+                    formatted_lineup_opp.append(player)
+            
+            # Join the formatted names back into a string
+            formatted_lineup_opp_str = ', '.join(formatted_lineup_opp)
+            position_opp = extract_position_from_lineup(player_name, opponent_lineup)
+
+
+            with st.expander("View Opponent Starting Lineup"):
+
+                # Display the lineup with the selected player's name bolded if they are in the lineup
+                st.markdown(formatted_lineup_opp_str, unsafe_allow_html=True)
 
 
 

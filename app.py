@@ -797,8 +797,10 @@ if view == "Player Prop Analysis":
 
         home_away_filter = st.radio("Select Home/Away Games", ["Both", "Home", "Away"])
         team_lineup = team_lineups[team_lineups['Team'] == team]['Lineup'].values[0]
-        opponent_lineup = team_lineups[team_lineups['Team'] == opponent]['Lineup'].values[0]
+        
+        # opponent_lineup = team_lineups[team_lineups['Team'] == opponent]['Lineup']
 
+        
 
         formatted_lineup_team = []
         for player in team_lineup.split(', '):  # Assuming lineup is a string of comma-separated player names
@@ -828,6 +830,10 @@ if view == "Player Prop Analysis":
             # Display the lineup with the selected player's name bolded if they are in the lineup
             st.markdown(formatted_lineup_team_str, unsafe_allow_html=True)
         # with st.expander("View Opponent Starting Lineup"):
+        #     if opponent_lineup.empty:
+        #         print(f"{opponent} not playing today.")
+        #     else:
+        #         opponent_lineup = opponent_lineup.values[0]
         #     # Display the lineup with the selected player's name bolded if they are in the lineup
         #     st.markdown(formatted_lineup_opp_str, unsafe_allow_html=True)
 

@@ -999,6 +999,7 @@ elif view == "Over/Under Stats L10":
   
     combined_df[['Average_Implied_Probability', 'All_Values_Match']] = combined_df.apply(lambda row: calculate_implied_probability_for_value(row), axis=1, result_type="expand")
     combined_df['Average_Implied_Probability'] = combined_df['Average_Implied_Probability'].round(2)
+    combined_df['Expected_Value'] = combined_df.apply(calculate_ev, axis=1)
 
 
     prop_relations = {
@@ -1056,7 +1057,6 @@ elif view == "Over/Under Stats L10":
         """,
         unsafe_allow_html=True
     )
-    combined_df['Expected_Value'] = combined_df.apply(calculate_ev, axis=1)
 
 
     st.dataframe(combined_df)    

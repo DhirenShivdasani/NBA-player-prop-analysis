@@ -22,8 +22,6 @@ jobs:
       run: python team_def_vs_pos.py
     - name: Run stats.py
       run: python stats.py
-    - name: Run injury_data.py
-      run: python injury_data.py
     - name: Commit and push if there are changes
       run: |
         git config user.email "dhiren3102@gmail.com"

@@ -814,17 +814,17 @@ if view == "Player Prop Analysis":
         formatted_lineup_team_str = ', '.join(formatted_lineup_team)
         position_team = extract_position_from_lineup(player_name, team_lineup)
 
-        formatted_lineup_opp = []
-        for player in opponent_lineup.split(', '):  # Assuming lineup is a string of comma-separated player names
-            if player == player_name:
-                # Apply Markdown bold formatting
-                formatted_lineup_opp.append(f"**{player}**")
-            else:
-                formatted_lineup_opp.append(player)
+        # formatted_lineup_opp = []
+        # for player in opponent_lineup.split(', '):  # Assuming lineup is a string of comma-separated player names
+        #     if player == player_name:
+        #         # Apply Markdown bold formatting
+        #         formatted_lineup_opp.append(f"**{player}**")
+        #     else:
+        #         formatted_lineup_opp.append(player)
         
-        # Join the formatted names back into a string
-        formatted_lineup_opp_str = ', '.join(formatted_lineup_opp)
-        position_opp = extract_position_from_lineup(player_name, opponent_lineup)
+        # # Join the formatted names back into a string
+        # formatted_lineup_opp_str = ', '.join(formatted_lineup_opp)
+        # position_opp = extract_position_from_lineup(player_name, opponent_lineup)
 
         with st.expander("View Team Starting Lineup"):
             # Display the lineup with the selected player's name bolded if they are in the lineup

@@ -52,7 +52,7 @@ try:
 except Exception as e:
     print(f"Error: {e}")
 
-time.sleep(2)
+time.sleep(4)
 
 
 stat_container = WebDriverWait(driver, 10).until(

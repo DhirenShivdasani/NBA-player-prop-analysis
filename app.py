@@ -622,6 +622,15 @@ def color_ranking_pos(val):
         color = 'green'
     return f'background-color: {color}'
 
+def calculate_ev(row):
+    # Assuming a fixed decimal payout of 2 for demonstration purposes
+    decimal_odds = 2  # This should be calculated based on actual odds
+    p_win = row['Average_Implied_Probability']
+    p_loss = 1 - p_win
+    ev = (p_win * (decimal_odds - 1)) - (p_loss * 1)
+    return round(ev, 2)  # Round to 2 decimal places for readability
+
+
 odds = pd.read_csv('over_under_odds.csv')
 
 dataframe = load_data()
@@ -1047,6 +1056,8 @@ elif view == "Over/Under Stats L10":
         """,
         unsafe_allow_html=True
     )
+    combined_df['Expected_Value'] = combined_df.apply(calculate_ev, axis=1)
+
 
     st.dataframe(combined_df)    
 

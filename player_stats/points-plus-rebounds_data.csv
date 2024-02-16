@@ -1,6 +1,6 @@
 Rank,Player,Team,Pos,Value
 1,Luka Doncic,Dallas Mavericks,SF,43.00
-2,Giannis Antetokounmpo,Milwaukee Bucks,SF,42.06
+2,Giannis Antetokounmpo,Milwaukee Bucks,SF,42.00
 3,Nikola Jokic,Denver Nuggets,C,38.09
 4,Anthony Davis,Los Angeles Lakers,PF,37.49
 5,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,36.64
@@ -9,12 +9,12 @@ Rank,Player,Team,Pos,Value
 8,Donovan Mitchell,Cleveland Cavaliers,SG,33.80
 9,Domantas Sabonis,Sacramento Kings,PF,33.39
 10,Julius Randle,New York Knicks,PF,33.15
-11,Stephen Curry,Golden State Warriors,PG,32.69
+11,Stephen Curry,Golden State Warriors,PG,32.40
 12,Devin Booker,Phoenix Suns,SG,32.09
 13,LeBron James,Los Angeles Lakers,SF,32.04
-14,Lauri Markkanen,Utah Jazz,PF,31.89
-15,Jalen Brunson,New York Knicks,PG,31.40
-16,Anthony Edwards,Minnesota Timberwolves,SG,31.31
+14,Lauri Markkanen,Utah Jazz,PF,31.93
+15,Anthony Edwards,Minnesota Timberwolves,SG,31.48
+16,Jalen Brunson,New York Knicks,PG,31.40
 17,Bam Adebayo,Miami Heat,C,30.87
 18,De'Aaron Fox,Sacramento Kings,PG,30.85
 19,Karl-Anthony Towns,Minnesota Timberwolves,C,30.83
@@ -40,12 +40,12 @@ Rank,Player,Team,Pos,Value
 39,Dejounte Murray,Atlanta Hawks,PG,26.56
 40,Mikal Bridges,Brooklyn Nets,SG,26.52
 41,Brandon Ingram,New Orleans Pelicans,SF,26.41
-42,Rudy Gobert,Minnesota Timberwolves,C,26.32
+42,Rudy Gobert,Minnesota Timberwolves,C,26.28
 43,Jarrett Allen,Cleveland Cavaliers,C,26.17
 44,Cade Cunningham,Detroit Pistons,PG,26.00
 45,Jalen Duren,Detroit Pistons,C,25.95
 46,Tyrese Haliburton,Indiana Pacers,PG,25.64
-47,Jerami Grant,Portland Trail Blazers,SF,25.46
+47,Jerami Grant,Portland Trail Blazers,SF,25.38
 48,Terry Rozier,Miami Heat,PG,24.60
 49,RJ Barrett,Toronto Raptors,SF,24.58
 50,Jamal Murray,Denver Nuggets,SG,24.43
@@ -60,9 +60,9 @@ Rank,Player,Team,Pos,Value
 59,Jonas Valanciunas,New Orleans Pelicans,C,23.13
 60,Michael Porter Jr.,Denver Nuggets,PF,22.85
 61,Jalen Green,Houston Rockets,SG,22.83
-62,James Harden,Los Angeles Clippers,SG,22.54
-63,Devin Vassell,San Antonio Spurs,SG,22.54
-64,John Collins,Utah Jazz,PF,22.41
+62,John Collins,Utah Jazz,PF,22.58
+63,James Harden,Los Angeles Clippers,SG,22.54
+64,Devin Vassell,San Antonio Spurs,SG,22.54
 65,Nic Claxton,Brooklyn Nets,C,22.36
 66,Clint Capela,Atlanta Hawks,C,22.02
 67,Jusuf Nurkic,Phoenix Suns,C,22.02
@@ -70,21 +70,21 @@ Rank,Player,Team,Pos,Value
 69,Jabari Smith Jr.,Houston Rockets,PF,21.53
 70,Ivica Zubac,Los Angeles Clippers,C,21.35
 71,Tim Hardaway Jr.,Dallas Mavericks,SG,20.88
-72,Jordan Clarkson,Utah Jazz,PG,20.73
+72,Klay Thompson,Golden State Warriors,SG,20.84
 73,Brandon Miller,Charlotte Hornets,SF,20.69
-74,Aaron Gordon,Denver Nuggets,PF,20.49
-75,Klay Thompson,Golden State Warriors,SG,20.43
-76,Deni Avdija,Washington Wizards,SF,20.31
-77,Fred VanVleet,Houston Rockets,PG,20.23
-78,Jonathan Kuminga,Golden State Warriors,PF,20.20
+74,Jordan Clarkson,Utah Jazz,PG,20.61
+75,Aaron Gordon,Denver Nuggets,PF,20.49
+76,Collin Sexton,Utah Jazz,PG,20.45
+77,Deni Avdija,Washington Wizards,SF,20.31
+78,Fred VanVleet,Houston Rockets,PG,20.23
 79,D'Angelo Russell,Los Angeles Lakers,PG,20.19
 80,Bogdan Bogdanovic,Atlanta Hawks,SG,20.17
-81,Collin Sexton,Utah Jazz,PG,20.13
+81,Jonathan Kuminga,Golden State Warriors,PF,20.15
 82,Saddiq Bey,Atlanta Hawks,SF,20.09
 83,Keegan Murray,Sacramento Kings,SF,20.08
 84,Austin Reaves,Los Angeles Lakers,PG,19.95
-85,Jakob Poeltl,Toronto Raptors,C,19.55
-86,Bobby Portis,Milwaukee Bucks,PF,19.53
+85,Bobby Portis,Milwaukee Bucks,PF,19.57
+86,Jakob Poeltl,Toronto Raptors,C,19.55
 87,Malcolm Brogdon,Portland Trail Blazers,SG,19.51
 88,Derrick White,Boston Celtics,PG,19.47
 89,O.G. Anunoby,New York Knicks,SF,19.46
@@ -94,8 +94,8 @@ Rank,Player,Team,Pos,Value
 93,Jrue Holiday,Boston Celtics,PG,18.98
 94,Immanuel Quickley,Toronto Raptors,SG,18.60
 95,P.J. Washington,Dallas Mavericks,PF,18.60
-96,Kelly Oubre Jr.,Philadelphia 76ers,SF,18.50
-97,Brook Lopez,Milwaukee Bucks,C,18.46
+96,Brook Lopez,Milwaukee Bucks,C,18.58
+97,Kelly Oubre Jr.,Philadelphia 76ers,SF,18.50
 98,Cameron Johnson,Brooklyn Nets,PF,18.37
 99,Jordan Poole,Washington Wizards,SG,18.08
 100,Caris LeVert,Cleveland Cavaliers,SG,18.00

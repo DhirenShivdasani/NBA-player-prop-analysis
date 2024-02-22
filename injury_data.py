@@ -46,9 +46,10 @@ team_abbreviations = {
 today = datetime.now()
 
 # Format the date as 'month-day-2-digit year'
-date_str = f"{today.month}-{today.day}-{today.strftime('%y')}"
+date_str = f"{today.month}-{today.day}"
 
 # Construct the URL with the current date
+
 url = f"https://underdognetwork.com/basketball/news-and-lineups/nba-news-and-fantasy-basketball-notes-{date_str}"
 
 
@@ -66,6 +67,7 @@ for team_header in soup.find_all('h2'):
 
     # Find the next <ul> sibling of the current <h2> tag, which contains the players
     players_list = team_header.find_next_sibling('ul')
+    print(players_list)
 
     # Iterate through all <li> tags within the <ul> to extract player names and statuses
     for player_item in players_list.find_all('li'):

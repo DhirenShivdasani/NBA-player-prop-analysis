@@ -1,140 +1,17 @@
 ,Name,Team,Value,Prop
-0,Brook Lopez,MIL - C,11.5,Points
-1,Damian Lillard,MIL - G,24.5,Points
-2,Giannis Antetokounmpo,MIL - F,30.5,Points
-3,Malik Beasley,MIL - G,11.5,Points
-4,Andrew Wiggins,GSW - F,12.5,Points
-5,Collin Sexton,UTA - G,18.5,Points
-6,Draymond Green,GSW - F,8.5,Points
-7,John Collins,UTA - F-C,14.5,Points
-8,Jonathan Kuminga,GSW - F,19.5,Points
-9,Keyonte George,UTA - G,13.5,Points
-10,Klay Thompson,GSW - G,16.5,Points
-11,Lauri Markkanen,UTA - F-C,22.5,Points
-12,Stephen Curry,GSW - G,29.5,Points
-13,Anfernee Simons,POR - G,22.5,Points
-14,Anthony Edwards,MIN - G,26.5,Points
-15,Deandre Ayton,POR - C,14.5,Points
-16,Rudy Gobert,MIN - C,15.0,Points
-17,Jerami Grant,POR - F,20.0,Points
-18,Brook Lopez,MIL - C,18.5,Pts+Rebs+Asts
-19,Jaren Jackson Jr.,MEM - F-C,30.5,Pts+Rebs+Asts
-20,Damian Lillard,MIL - G,35.0,Pts+Rebs+Asts
-21,Vince Williams Jr.,MEM - G-F,23.5,Pts+Rebs+Asts
-22,Giannis Antetokounmpo,MIL - F,49.5,Pts+Rebs+Asts
-23,Malik Beasley,MIL - G,17.0,Pts+Rebs+Asts
-24,Andrew Wiggins,GSW - F,18.5,Pts+Rebs+Asts
-25,Collin Sexton,UTA - G,26.5,Pts+Rebs+Asts
-26,Draymond Green,GSW - F,23.5,Pts+Rebs+Asts
-27,John Collins,UTA - F-C,25.5,Pts+Rebs+Asts
-28,Jonathan Kuminga,GSW - F,29.5,Pts+Rebs+Asts
-29,Keyonte George,UTA - G,22.5,Pts+Rebs+Asts
-30,Klay Thompson,GSW - G,21.5,Pts+Rebs+Asts
-31,Lauri Markkanen,UTA - F-C,33.5,Pts+Rebs+Asts
-32,Stephen Curry,GSW - G,39.5,Pts+Rebs+Asts
-33,Walker Kessler,UTA - C,19.5,Pts+Rebs+Asts
-34,Anfernee Simons,POR - G,30.5,Pts+Rebs+Asts
-35,Anthony Edwards,MIN - G,36.5,Pts+Rebs+Asts
-36,Deandre Ayton,POR - C,26.5,Pts+Rebs+Asts
-37,Rudy Gobert,MIN - C,29.5,Pts+Rebs+Asts
-38,Jerami Grant,POR - F,26.5,Pts+Rebs+Asts
-39,Damian Lillard,MIL - G,6.0,Assists
-40,Vince Williams Jr.,MEM - G-F,5.0,Assists
-41,Giannis Antetokounmpo,MIL - F,7.0,Assists
-42,Collin Sexton,UTA - G,5.0,Assists
-43,Draymond Green,GSW - F,7.0,Assists
-44,Keyonte George,UTA - G,5.5,Assists
-45,Stephen Curry,GSW - G,5.5,Assists
-46,Anfernee Simons,POR - G,5.5,Assists
-47,Anthony Edwards,MIN - G,5.0,Assists
-48,Brook Lopez,MIL - C,5.0,Rebounds
-49,Jaren Jackson Jr.,MEM - F-C,5.0,Rebounds
-50,Vince Williams Jr.,MEM - G-F,6.0,Rebounds
-51,Giannis Antetokounmpo,MIL - F,12.0,Rebounds
-52,Malik Beasley,MIL - G,3.5,Rebounds
-53,Andrew Wiggins,GSW - F,4.5,Rebounds
-54,Collin Sexton,UTA - G,2.5,Rebounds
-55,Draymond Green,GSW - F,7.5,Rebounds
-56,John Collins,UTA - F-C,9.5,Rebounds
-57,Jonathan Kuminga,GSW - F,6.0,Rebounds
-58,Keyonte George,UTA - G,3.5,Rebounds
-59,Lauri Markkanen,UTA - F-C,9.0,Rebounds
-60,Walker Kessler,UTA - C,8.5,Rebounds
-61,Anthony Edwards,MIN - G,5.0,Rebounds
-62,Deandre Ayton,POR - C,10.0,Rebounds
-63,Rudy Gobert,MIN - C,12.5,Rebounds
-64,Jerami Grant,POR - F,3.5,Rebounds
-65,Collin Sexton,UTA - G,1.5,3-PT Made
-66,Draymond Green,GSW - F,0.5,3-PT Made
-67,Jonathan Kuminga,GSW - F,0.5,3-PT Made
-68,Anfernee Simons,POR - G,3.5,3-PT Made
-69,Brook Lopez,MIL - C,16.5,Pts+Rebs
-70,Jaren Jackson Jr.,MEM - F-C,27.5,Pts+Rebs
-71,Damian Lillard,MIL - G,28.5,Pts+Rebs
-72,Vince Williams Jr.,MEM - G-F,18.5,Pts+Rebs
-73,Giannis Antetokounmpo,MIL - F,42.5,Pts+Rebs
-74,Malik Beasley,MIL - G,15.5,Pts+Rebs
-75,Andrew Wiggins,GSW - F,17.0,Pts+Rebs
-76,Collin Sexton,UTA - G,21.5,Pts+Rebs
-77,Draymond Green,GSW - F,16.5,Pts+Rebs
-78,John Collins,UTA - F-C,24.0,Pts+Rebs
-79,Jonathan Kuminga,GSW - F,26.0,Pts+Rebs
-80,Keyonte George,UTA - G,16.5,Pts+Rebs
-81,Klay Thompson,GSW - G,19.5,Pts+Rebs
-82,Lauri Markkanen,UTA - F-C,31.5,Pts+Rebs
-83,Stephen Curry,GSW - G,34.5,Pts+Rebs
-84,Walker Kessler,UTA - C,18.5,Pts+Rebs
-85,Anfernee Simons,POR - G,25.5,Pts+Rebs
-86,Anthony Edwards,MIN - G,31.5,Pts+Rebs
-87,Deandre Ayton,POR - C,24.5,Pts+Rebs
-88,Rudy Gobert,MIN - C,28.5,Pts+Rebs
-89,Jerami Grant,POR - F,23.5,Pts+Rebs
-90,Brook Lopez,MIL - C,13.5,Pts+Asts
-91,Jaren Jackson Jr.,MEM - F-C,25.5,Pts+Asts
-92,Damian Lillard,MIL - G,30.5,Pts+Asts
-93,Vince Williams Jr.,MEM - G-F,17.5,Pts+Asts
-94,Giannis Antetokounmpo,MIL - F,36.5,Pts+Asts
-95,Malik Beasley,MIL - G,13.5,Pts+Asts
-96,Andrew Wiggins,GSW - F,14.5,Pts+Asts
-97,Collin Sexton,UTA - G,23.5,Pts+Asts
-98,Draymond Green,GSW - F,15.5,Pts+Asts
-99,John Collins,UTA - F-C,16.5,Pts+Asts
-100,Jonathan Kuminga,GSW - F,22.5,Pts+Asts
-101,Keyonte George,UTA - G,18.5,Pts+Asts
-102,Klay Thompson,GSW - G,18.5,Pts+Asts
-103,Lauri Markkanen,UTA - F-C,23.5,Pts+Asts
-104,Stephen Curry,GSW - G,35.5,Pts+Asts
-105,Walker Kessler,UTA - C,10.5,Pts+Asts
-106,Anfernee Simons,POR - G,27.5,Pts+Asts
-107,Anthony Edwards,MIN - G,31.5,Pts+Asts
-108,Deandre Ayton,POR - C,15.5,Pts+Asts
-109,Rudy Gobert,MIN - C,16.5,Pts+Asts
-110,Jerami Grant,POR - F,22.5,Pts+Asts
-111,Andrew Wiggins,GSW - F,0.5,Blocked Shots
-112,Klay Thompson,GSW - G,0.5,Blocked Shots
-113,Anfernee Simons,POR - G,0.5,Steals
-114,Jaren Jackson Jr.,MEM - F-C,8.0,Rebs+Asts
-115,Damian Lillard,MIL - G,10.0,Rebs+Asts
-116,Vince Williams Jr.,MEM - G-F,11.5,Rebs+Asts
-117,Giannis Antetokounmpo,MIL - F,19.5,Rebs+Asts
-118,Collin Sexton,UTA - G,8.0,Rebs+Asts
-119,Draymond Green,GSW - F,14.5,Rebs+Asts
-120,John Collins,UTA - F-C,10.5,Rebs+Asts
-121,Jonathan Kuminga,GSW - F,9.0,Rebs+Asts
-122,Keyonte George,UTA - G,9.0,Rebs+Asts
-123,Lauri Markkanen,UTA - F-C,11.0,Rebs+Asts
-124,Stephen Curry,GSW - G,9.5,Rebs+Asts
-125,Walker Kessler,UTA - C,9.5,Rebs+Asts
-126,Anfernee Simons,POR - G,8.5,Rebs+Asts
-127,Damian Lillard,MIL - G,1.5,Blks+Stls
-128,Giannis Antetokounmpo,MIL - F,2.5,Blks+Stls
-129,Andrew Wiggins,GSW - F,1.5,Blks+Stls
-130,John Collins,UTA - F-C,1.5,Blks+Stls
-131,Walker Kessler,UTA - C,3.5,Blks+Stls
-132,Anthony Edwards,MIN - G,1.5,Blks+Stls
-133,Deandre Ayton,POR - C,1.5,Blks+Stls
-134,Rudy Gobert,MIN - C,2.5,Blks+Stls
-135,Damian Lillard,MIL - G,2.5,Turnovers
-136,Giannis Antetokounmpo,MIL - F,3.5,Turnovers
-137,Lauri Markkanen,UTA - F-C,1.5,Turnovers
-138,Anfernee Simons,POR - G,2.5,Turnovers
+0,Tyrese Haliburton,IND - G,36.5,Pts+Rebs+Asts
+1,Tyrese Haliburton,IND - G,46.0,Fantasy Score
+2,Myles Turner,IND - C-F,5.0,Defensive Rebounds
+3,Tyrese Haliburton,IND - G,0.5,Offensive Rebounds
+4,Tyrese Haliburton + Cade Cunningham,IND/DET - G,42.5,Points (Combo)
+5,Tyrese Haliburton + Cade Cunningham,IND/DET - G,19.5,Assists (Combo)
+6,Myles Turner + Jalen Duren,IND/DET - C,18.0,Rebounds (Combo)
+7,Tyrese Maxey + Jalen Brunson,PHI/NYK - G,5.0,3-PT Made (Combo)
+8,Tyrese Haliburton,IND - G,3.5,Free Throws Made
+9,Tyrese Haliburton,IND - G,15.5,FG Attempted
+10,Tyrese Haliburton,IND - G,24.0,Pts+Rebs
+11,Pascal Siakam,IND - F,0.5,Dunks
+12,Tyrese Haliburton,IND - G,32.5,Pts+Asts
+13,Tyrese Haliburton,IND - G,15.5,Rebs+Asts
+14,Pascal Siakam,IND - F,1.5,Blks+Stls
+15,Pascal Siakam,IND - F,1.5,Turnovers

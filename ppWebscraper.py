@@ -61,8 +61,16 @@ for category in categories:
     driver.find_element(By.XPATH, f"//div[text()='{category}']").click()
 
 
-    projectionsPP = WebDriverWait(driver, 2).until(
-        EC.presence_of_all_elements_located((By.XPATH, "/html/body/div[1]/div/div[3]/div[1]/div/main/div/div[2]/div[1]/div[2]")))
+    # projectionsPP = WebDriverWait(driver, 2).until(
+    #     EC.presence_of_all_elements_located((By.CSS_SELECTOR, "/html/body/div[1]/div/div[3]/div[1]/div/main/div/div[2]")))
+    # print(projectionsPP)
+
+    WebDriverWait(driver, 10).until(
+    EC.visibility_of_element_located((By.CSS_SELECTOR, "#projections > ul"))
+)
+
+    # Find all prop items under the specified container
+    projectionsPP = driver.find_elements(By.CSS_SELECTOR, "#projections > ul > li")
 
     for projections in projectionsPP:
 

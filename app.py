@@ -540,7 +540,7 @@ def extract_value_and_odds(odds_str):
     return None, None
 
 def calculate_implied_probability_for_value(row):
-    odds_list = [row[f'{book}'] for book in ['draftkings', 'fanduel', 'mgm', 'pointsbet']]
+    odds_list = [row[f'{book}'] for book in ['draftkings', 'fanduel', 'pointsbet']]
     valid_probs = []
     any_value_matches = False  # Assume no values match initially
 
@@ -993,7 +993,7 @@ elif view == "Over/Under Stats L10":
 
     combined_df.drop(['level_3', 'Exact %'], axis =1, inplace = True)
 
-    sportsbooks = ['fanduel', 'draftkings', 'mgm', 'pointsbet']  # Add or remove sportsbook columns as necessary
+    sportsbooks = ['fanduel', 'draftkings', 'pointsbet']  # Add or remove sportsbook columns as necessary
 
 
     for book in sportsbooks:

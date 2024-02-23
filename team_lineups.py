@@ -53,7 +53,7 @@ today = datetime.now()
 date_str = f"{today.month}-{today.day}"
 
 # Construct the URL with the current date
-url = f"https://underdognetwork.com/basketball/news-and-lineups/nba-news-and-fantasy-basketball-notes-{date_str}"
+url = f"https://underdognetwork.com/basketball/news-and-lineups/nba-news-and-fantasy-basketball-notes-{date_str}-24"
 
 
 response = requests.get(url)

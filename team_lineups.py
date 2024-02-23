@@ -50,10 +50,10 @@ positions = ["PG", "SG", "SF", "PF", "C"]
 today = datetime.now()
 
 # Format the date as 'month-day-2-digit year'
-date_str = f"{today.month}-{today.day}"
+date_str = f"{today.month}-{today.day}-{today.strftime('%y')}"
 
 # Construct the URL with the current date
-url = f"https://underdognetwork.com/basketball/news-and-lineups/nba-news-and-fantasy-basketball-notes-{date_str}-24"
+url = f"https://underdognetwork.com/basketball/news-and-lineups/nba-news-and-fantasy-basketball-notes-{date_str}"
 
 
 response = requests.get(url)

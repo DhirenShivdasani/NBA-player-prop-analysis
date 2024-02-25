@@ -7,21 +7,21 @@ Rank,Player,Team,Pos,Value
 6,James Harden,Los Angeles Clippers,SG,8.26
 7,Fred VanVleet,Houston Rockets,PG,8.08
 8,LeBron James,Los Angeles Lakers,SF,7.71
-9,Cade Cunningham,Detroit Pistons,PG,7.47
+9,Cade Cunningham,Detroit Pistons,PG,7.39
 10,Tyus Jones,Washington Wizards,PG,6.93
 11,Devin Booker,Phoenix Suns,SG,6.91
 12,Damian Lillard,Milwaukee Bucks,PG,6.79
-13,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,6.60
-14,Jalen Brunson,New York Knicks,PG,6.57
+13,Jalen Brunson,New York Knicks,PG,6.61
+14,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,6.60
 15,Jamal Murray,Denver Nuggets,SG,6.49
 16,D'Angelo Russell,Los Angeles Lakers,PG,6.39
 17,Giannis Antetokounmpo,Milwaukee Bucks,SF,6.38
 18,Tyrese Maxey,Philadelphia 76ers,PG,6.37
-19,Mike Conley,Minnesota Timberwolves,PG,6.35
-20,Terry Rozier,Miami Heat,PG,6.35
+19,Terry Rozier,Miami Heat,PG,6.35
+20,Mike Conley,Minnesota Timberwolves,PG,6.29
 21,Donovan Mitchell,Cleveland Cavaliers,SG,6.27
-22,Dennis Schroder,Brooklyn Nets,PG,6.02
-23,Scottie Barnes,Toronto Raptors,SF,5.98
+22,Scottie Barnes,Toronto Raptors,SF,5.98
+23,Dennis Schroder,Brooklyn Nets,PG,5.95
 24,Brandon Ingram,New Orleans Pelicans,SF,5.84
 25,Spencer Dinwiddie,Los Angeles Lakers,PG,5.83
 26,Tre Jones,San Antonio Spurs,PG,5.79
@@ -31,11 +31,11 @@ Rank,Player,Team,Pos,Value
 30,Malcolm Brogdon,Portland Trail Blazers,SG,5.49
 31,Austin Reaves,Los Angeles Lakers,PG,5.42
 32,Dejounte Murray,Atlanta Hawks,PG,5.36
-33,Anthony Edwards,Minnesota Timberwolves,SG,5.25
-34,DeMar DeRozan,Chicago Bulls,SG,5.24
-35,Paolo Banchero,Orlando Magic,PF,5.23
-35,Coby White,Chicago Bulls,SG,5.23
-37,Malik Monk,Sacramento Kings,SG,5.22
+33,DeMar DeRozan,Chicago Bulls,SG,5.24
+34,Coby White,Chicago Bulls,SG,5.23
+35,Malik Monk,Sacramento Kings,SG,5.22
+36,Anthony Edwards,Minnesota Timberwolves,SG,5.20
+37,Paolo Banchero,Orlando Magic,PF,5.19
 38,Stephen Curry,Golden State Warriors,PG,5.10
 39,Khris Middleton,Milwaukee Bucks,SF,5.02
 40,Julius Randle,New York Knicks,PF,4.98
@@ -43,10 +43,10 @@ Rank,Player,Team,Pos,Value
 42,Alperen Sengun,Houston Rockets,C,4.96
 43,Killian Hayes,Detroit Pistons,PG,4.88
 44,Jordan Clarkson,Utah Jazz,PG,4.83
-45,Jrue Holiday,Boston Celtics,PG,4.80
-46,Pascal Siakam,Indiana Pacers,PF,4.80
-47,Jayson Tatum,Boston Celtics,SF,4.79
-48,Derrick White,Boston Celtics,PG,4.73
+45,Jrue Holiday,Boston Celtics,PG,4.83
+46,Jayson Tatum,Boston Celtics,SF,4.81
+47,Pascal Siakam,Indiana Pacers,PF,4.80
+48,Derrick White,Boston Celtics,PG,4.75
 49,Scoot Henderson,Portland Trail Blazers,PG,4.70
 50,Jalen Williams,Oklahoma City Thunder,SG,4.64
 51,Andrew Nembhard,Indiana Pacers,PG,4.58
@@ -60,23 +60,23 @@ Rank,Player,Team,Pos,Value
 59,Kris Dunn,Utah Jazz,PG,4.12
 60,Bam Adebayo,Miami Heat,C,4.11
 61,Kyle Kuzma,Washington Wizards,PF,4.09
-62,Kyle Anderson,Minnesota Timberwolves,SF,4.09
-63,Franz Wagner,Orlando Magic,SF,4.06
+62,Kyle Anderson,Minnesota Timberwolves,SF,4.07
+63,Franz Wagner,Orlando Magic,SF,4.04
 64,Reggie Jackson,Denver Nuggets,PG,3.98
-65,Dennis Smith Jr.,Brooklyn Nets,PG,3.92
-66,Brandin Podziemski,Golden State Warriors,SG,3.88
+65,Brandin Podziemski,Golden State Warriors,SG,3.88
+66,Dennis Smith Jr.,Brooklyn Nets,PG,3.88
 67,Immanuel Quickley,Toronto Raptors,SG,3.81
 68,Max Strus,Cleveland Cavaliers,PG,3.78
-69,Jaylen Brown,Boston Celtics,SG,3.76
+69,Jaylen Brown,Boston Celtics,SG,3.75
 70,Deni Avdija,Washington Wizards,SF,3.75
 70,Anthony Davis,Los Angeles Lakers,PF,3.75
-72,Devin Vassell,San Antonio Spurs,SG,3.71
-73,Jusuf Nurkic,Phoenix Suns,C,3.70
-74,Kawhi Leonard,Los Angeles Clippers,SF,3.68
-75,Paul George,Los Angeles Clippers,SF,3.65
-76,Mikal Bridges,Brooklyn Nets,SG,3.64
-77,Jordan Poole,Washington Wizards,SG,3.63
-78,Jaden Ivey,Detroit Pistons,PG,3.63
+72,Mikal Bridges,Brooklyn Nets,SG,3.71
+73,Devin Vassell,San Antonio Spurs,SG,3.71
+74,Jusuf Nurkic,Phoenix Suns,C,3.70
+75,Jaden Ivey,Detroit Pistons,PG,3.69
+76,Kawhi Leonard,Los Angeles Clippers,SF,3.68
+77,Paul George,Los Angeles Clippers,SF,3.65
+78,Jordan Poole,Washington Wizards,SG,3.63
 79,Jeremy Sochan,San Antonio Spurs,PF,3.54
 80,Miles Bridges,Charlotte Hornets,SF,3.40
 81,Nikola Vucevic,Chicago Bulls,C,3.39
@@ -85,17 +85,17 @@ Rank,Player,Team,Pos,Value
 84,Jalen Green,Houston Rockets,SG,3.36
 85,Jalen Johnson,Atlanta Hawks,SF,3.33
 86,Victor Wembanyama,San Antonio Spurs,PF,3.31
-87,Josh Hart,New York Knicks,SG,3.22
+87,Josh Hart,New York Knicks,SG,3.27
 88,Grayson Allen,Phoenix Suns,SG,3.22
-89,Aaron Gordon,Denver Nuggets,PF,3.16
-90,Cole Anthony,Orlando Magic,PG,3.09
+89,Cole Anthony,Orlando Magic,PG,3.16
+90,Aaron Gordon,Denver Nuggets,PF,3.16
 91,Buddy Hield,Philadelphia 76ers,SG,3.05
-92,Joe Ingles,Orlando Magic,SF,3.05
-93,Zach Collins,San Antonio Spurs,PF,3.04
-94,Keldon Johnson,San Antonio Spurs,SF,3.04
+92,Zach Collins,San Antonio Spurs,PF,3.04
+93,Keldon Johnson,San Antonio Spurs,SF,3.04
+94,Joe Ingles,Orlando Magic,SF,3.02
 95,Vince Williams Jr.,Memphis Grizzlies,SG,3.02
 96,Marcus Sasser,Detroit Pistons,SG,3.02
 97,Patrick Beverley,Milwaukee Bucks,PG,3.02
 98,RJ Barrett,Toronto Raptors,SF,2.98
-99,Karl-Anthony Towns,Minnesota Timberwolves,C,2.89
+99,Karl-Anthony Towns,Minnesota Timberwolves,C,2.91
 100,Alex Caruso,Chicago Bulls,SG,2.88

@@ -24,8 +24,12 @@ jobs:
       run: python scrape_odds.py
     - name: Run injury_data.py
       run: python injury_data.py
+    - name: Stash changes
+      run: git stash push -u
     - name: Pull changes from the remote repository
       run: git pull --rebase
+    - name: Pop stashed changes
+      run: git stash pop
     - name: Commit and push if there are changes
       run: |
         git config user.email "dhiren3102@gmail.com"

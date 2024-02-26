@@ -19,7 +19,6 @@ chrome_options.add_experimental_option("prefs", {
     "profile.default_content_setting_values.geolocation": 1, # 1:Allow, 2:Block
 })
 
-
 chrome_options.page_load_strategy = 'eager'  # Waits for the DOMContentLoaded event
 
 
@@ -27,21 +26,20 @@ driver = uc.Chrome(options=chrome_options)
 
 
 driver.get("https://app.prizepicks.com/")
-time.sleep(5)
+# time.sleep(5)
 
-wait = WebDriverWait(driver, 10)  # Wait for up to 10 seconds
+wait = WebDriverWait(driver, timeout = 10)  # Wait for up to 10 seconds
 try:
-    element = wait.until(EC.element_to_be_clickable((By.XPATH, '/html/body/div[3]/div[3]/div/div/div[3]/button')))
+    element = wait.until(EC.element_to_be_clickable((By.XPATH, '/html/body/div[3]/div[3]/div/div/button')))
     element.click()
 except Exception as e:
     print(f"Error: {e}")
 
 
-
 ppPlayers = []
 
 
-wait = WebDriverWait(driver, 5)  # Wait for up to 10 seconds
+wait = WebDriverWait(driver, 10)  # Wait for up to 10 seconds
 try:
     element = wait.until(EC.element_to_be_clickable((By.XPATH, "//div[@class='name'][normalize-space()='NBA']")))
     element.click()
@@ -51,7 +49,7 @@ except Exception as e:
 time.sleep(4)
 
 
-stat_container = WebDriverWait(driver, 10).until(
+stat_container = WebDriverWait(driver, 15).until(
     EC.visibility_of_element_located((By.CLASS_NAME, "stat-container"))
 )
 

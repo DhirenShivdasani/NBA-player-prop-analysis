@@ -1,357 +1,386 @@
 ,Name,Team,Value,Prop
 0,Ausar Thompson,DET - G-F,9.5,Points
 1,Donte DiVincenzo,NYK - G,18.0,Points
-2,Cade Cunningham,DET - G,21.0,Points
+2,Cade Cunningham,DET - G,20.5,Points
 3,Jalen Brunson,NYK - G,31.5,Points
 4,Jaden Ivey,DET - G,15.5,Points
 5,Josh Hart,NYK - G,11.5,Points
 6,Jalen Duren,DET - C,13.5,Points
 7,Precious Achiuwa,NYK - F,12.5,Points
-8,Simone Fontecchio,DET - F,12.5,Points
-9,Bojan Bogdanovic,NYK - G-F,14.5,Points
-10,Alec Burks,NYK - G,9.0,Points
-11,Isaiah Hartenstein,NYK - C-F,8.0,Points
-12,Andrew Nembhard,IND - G-F,10.5,Points
-13,Gary Trent Jr.,TOR - G,11.5,Points
-14,Bennedict Mathurin,IND - G-F,15.5,Points
-15,Immanuel Quickley,TOR - G,18.5,Points
-16,Myles Turner,IND - C-F,17.5,Points
-17,Jakob Poeltl,TOR - C,11.5,Points
-18,Pascal Siakam,IND - F,22.5,Points
-19,RJ Barrett,TOR - F-G,20.5,Points
-20,Tyrese Haliburton,IND - G,21.5,Points
-21,Scottie Barnes,TOR - G-F,21.0,Points
-22,Obi Toppin,IND - F,8.5,Points
-23,Bruce Brown,TOR - G-F,10.5,Points
-24,T.J. McConnell,IND - G,8.0,Points
-25,Kelly Olynyk,TOR - F-C,9.0,Points
-26,Gradey Dick,TOR - G-F,8.0,Points
-27,Cam Thomas,BKN - G,20.0,Points
-28,Jaren Jackson Jr.,MEM - F-C,23.5,Points
-29,Dorian Finney-Smith,BKN - F,7.5,Points
-30,Luke Kennard,MEM - G-F,11.5,Points
-31,Mikal Bridges,BKN - F,21.0,Points
-32,Santi Aldama,MEM - F,9.5,Points
-33,Nicolas Claxton,BKN - C,11.5,Points
-34,Vince Williams Jr.,MEM - G-F,12.5,Points
-35,GG Jackson II,MEM - F,13.5,Points
-36,De'Aaron Fox,SAC - G,24.5,Points
-37,Bam Adebayo,MIA - C-F,21.5,Points
-38,Domantas Sabonis,SAC - C,19.5,Points
-39,Tyler Herro,MIA - G,20.5,Points
-40,Keegan Murray,SAC - F,14.5,Points
-41,Harrison Barnes,SAC - F,12.5,Points
-42,Kevin Huerter,SAC - G-F,11.5,Points
-43,Ausar Thompson,DET - G-F,17.0,Pts+Rebs+Asts
-44,Donte DiVincenzo,NYK - G,25.5,Pts+Rebs+Asts
-45,Cade Cunningham,DET - G,32.5,Pts+Rebs+Asts
-46,Jalen Brunson,NYK - G,42.5,Pts+Rebs+Asts
-47,Jaden Ivey,DET - G,22.5,Pts+Rebs+Asts
-48,Josh Hart,NYK - G,25.5,Pts+Rebs+Asts
-49,Jalen Duren,DET - C,26.5,Pts+Rebs+Asts
-50,Precious Achiuwa,NYK - F,23.5,Pts+Rebs+Asts
-51,Simone Fontecchio,DET - F,17.5,Pts+Rebs+Asts
-52,Bojan Bogdanovic,NYK - G-F,18.5,Pts+Rebs+Asts
-53,Isaiah Hartenstein,NYK - C-F,17.5,Pts+Rebs+Asts
-54,Andrew Nembhard,IND - G-F,17.5,Pts+Rebs+Asts
-55,Bennedict Mathurin,IND - G-F,23.5,Pts+Rebs+Asts
-56,Immanuel Quickley,TOR - G,28.5,Pts+Rebs+Asts
-57,Myles Turner,IND - C-F,26.5,Pts+Rebs+Asts
-58,Jakob Poeltl,TOR - C,23.5,Pts+Rebs+Asts
-59,Pascal Siakam,IND - F,33.5,Pts+Rebs+Asts
-60,RJ Barrett,TOR - F-G,29.5,Pts+Rebs+Asts
-61,Tyrese Haliburton,IND - G,38.5,Pts+Rebs+Asts
-62,Scottie Barnes,TOR - G-F,35.5,Pts+Rebs+Asts
-63,Bruce Brown,TOR - G-F,16.5,Pts+Rebs+Asts
-64,Kelly Olynyk,TOR - F-C,16.5,Pts+Rebs+Asts
-65,Cam Thomas,BKN - G,25.5,Pts+Rebs+Asts
-66,Jaren Jackson Jr.,MEM - F-C,32.5,Pts+Rebs+Asts
-67,Luke Kennard,MEM - G-F,17.5,Pts+Rebs+Asts
-68,Mikal Bridges,BKN - F,29.5,Pts+Rebs+Asts
-69,Santi Aldama,MEM - F,18.5,Pts+Rebs+Asts
-70,Nicolas Claxton,BKN - C,25.0,Pts+Rebs+Asts
-71,Vince Williams Jr.,MEM - G-F,25.5,Pts+Rebs+Asts
-72,GG Jackson II,MEM - F,19.5,Pts+Rebs+Asts
-73,De'Aaron Fox,SAC - G,34.5,Pts+Rebs+Asts
-74,Bam Adebayo,MIA - C-F,36.5,Pts+Rebs+Asts
-75,Domantas Sabonis,SAC - C,42.5,Pts+Rebs+Asts
-76,Tyler Herro,MIA - G,31.5,Pts+Rebs+Asts
-77,Keegan Murray,SAC - F,21.0,Pts+Rebs+Asts
-78,Harrison Barnes,SAC - F,17.5,Pts+Rebs+Asts
-79,Kevin Huerter,SAC - G-F,17.5,Pts+Rebs+Asts
-80,Cade Cunningham,DET - G,7.0,Assists
-81,Jalen Brunson,NYK - G,7.5,Assists
-82,Jaden Ivey,DET - G,3.5,Assists
-83,Josh Hart,NYK - G,4.5,Assists
-84,Andrew Nembhard,IND - G-F,4.0,Assists
-85,Immanuel Quickley,TOR - G,5.5,Assists
-86,RJ Barrett,TOR - F-G,3.5,Assists
-87,Tyrese Haliburton,IND - G,12.0,Assists
-88,Scottie Barnes,TOR - G-F,7.0,Assists
-89,T.J. McConnell,IND - G,5.0,Assists
-90,Mikal Bridges,BKN - F,3.5,Assists
-91,Vince Williams Jr.,MEM - G-F,6.0,Assists
-92,De'Aaron Fox,SAC - G,5.0,Assists
-93,Domantas Sabonis,SAC - C,9.0,Assists
-94,Tyler Herro,MIA - G,4.5,Assists
-95,Ausar Thompson,DET - G-F,6.0,Rebounds
-96,Cade Cunningham,DET - G,4.0,Rebounds
-97,Jalen Brunson,NYK - G,3.5,Rebounds
-98,Josh Hart,NYK - G,9.0,Rebounds
-99,Jalen Duren,DET - C,11.0,Rebounds
-100,Precious Achiuwa,NYK - F,9.5,Rebounds
-101,Bojan Bogdanovic,NYK - G-F,2.5,Rebounds
-102,Isaiah Hartenstein,NYK - C-F,7.5,Rebounds
-103,Andrew Nembhard,IND - G-F,2.5,Rebounds
-104,Immanuel Quickley,TOR - G,3.5,Rebounds
-105,Myles Turner,IND - C-F,7.5,Rebounds
-106,Jakob Poeltl,TOR - C,9.0,Rebounds
-107,Pascal Siakam,IND - F,6.5,Rebounds
-108,RJ Barrett,TOR - F-G,6.0,Rebounds
-109,Scottie Barnes,TOR - G-F,8.0,Rebounds
-110,Bruce Brown,TOR - G-F,3.5,Rebounds
-111,Kelly Olynyk,TOR - F-C,5.0,Rebounds
-112,Jaren Jackson Jr.,MEM - F-C,5.0,Rebounds
-113,Dorian Finney-Smith,BKN - F,4.5,Rebounds
-114,Mikal Bridges,BKN - F,5.0,Rebounds
-115,Santi Aldama,MEM - F,6.0,Rebounds
-116,Nicolas Claxton,BKN - C,11.0,Rebounds
-117,Vince Williams Jr.,MEM - G-F,6.5,Rebounds
-118,GG Jackson II,MEM - F,5.0,Rebounds
-119,De'Aaron Fox,SAC - G,4.5,Rebounds
-120,Bam Adebayo,MIA - C-F,10.5,Rebounds
-121,Domantas Sabonis,SAC - C,14.0,Rebounds
-122,Tyler Herro,MIA - G,5.5,Rebounds
-123,Ausar Thompson,DET - G-F,23.0,Fantasy Score
-124,Donte DiVincenzo,NYK - G,31.5,Fantasy Score
-125,Cade Cunningham,DET - G,37.0,Fantasy Score
-126,Jalen Brunson,NYK - G,47.5,Fantasy Score
-127,Jaden Ivey,DET - G,25.5,Fantasy Score
-128,Josh Hart,NYK - G,31.0,Fantasy Score
-129,Jalen Duren,DET - C,31.5,Fantasy Score
-130,Precious Achiuwa,NYK - F,31.5,Fantasy Score
-131,Andrew Nembhard,IND - G-F,22.5,Fantasy Score
-132,Gary Trent Jr.,TOR - G,18.5,Fantasy Score
-133,Bennedict Mathurin,IND - G-F,26.0,Fantasy Score
-134,Immanuel Quickley,TOR - G,32.5,Fantasy Score
-135,Myles Turner,IND - C-F,32.5,Fantasy Score
-136,Jakob Poeltl,TOR - C,30.0,Fantasy Score
-137,Pascal Siakam,IND - F,37.5,Fantasy Score
-138,RJ Barrett,TOR - F-G,33.5,Fantasy Score
-139,Tyrese Haliburton,IND - G,47.0,Fantasy Score
-140,Scottie Barnes,TOR - G-F,42.5,Fantasy Score
-141,Cam Thomas,BKN - G,30.0,Fantasy Score
-142,Jaren Jackson Jr.,MEM - F-C,39.5,Fantasy Score
-143,Dorian Finney-Smith,BKN - F,18.5,Fantasy Score
-144,Luke Kennard,MEM - G-F,20.5,Fantasy Score
-145,Mikal Bridges,BKN - F,34.0,Fantasy Score
-146,Santi Aldama,MEM - F,23.5,Fantasy Score
-147,Nicolas Claxton,BKN - C,34.5,Fantasy Score
-148,Vince Williams Jr.,MEM - G-F,32.5,Fantasy Score
-149,Immanuel Quickley,TOR - G,2.5,3-PT Made
-150,Myles Turner,IND - C-F,1.5,3-PT Made
-151,Kelly Olynyk,TOR - F-C,0.5,3-PT Made
-152,Dorian Finney-Smith,BKN - F,1.5,3-PT Made
-153,Santi Aldama,MEM - F,1.5,3-PT Made
-154,Tyler Herro,MIA - G,2.5,3-PT Made
-155,Josh Hart,NYK - G,6.5,Defensive Rebounds
-156,Myles Turner,IND - C-F,6.0,Defensive Rebounds
-157,Jakob Poeltl,TOR - C,6.0,Defensive Rebounds
-158,Pascal Siakam,IND - F,5.0,Defensive Rebounds
-159,Scottie Barnes,TOR - G-F,5.5,Defensive Rebounds
-160,Nicolas Claxton,BKN - C,8.0,Defensive Rebounds
-161,Jakob Poeltl,TOR - C,3.0,Offensive Rebounds
-162,Pascal Siakam,IND - F,1.5,Offensive Rebounds
-163,Dorian Finney-Smith,BKN - F,1.5,Offensive Rebounds
-164,Donte DiVincenzo,NYK - G,10.5,3-PT Attempted
-165,Cade Cunningham,DET - G,5.5,3-PT Attempted
-166,Jalen Brunson,NYK - G,6.0,3-PT Attempted
-167,Bojan Bogdanovic,NYK - G-F,5.5,3-PT Attempted
-168,Gary Trent Jr.,TOR - G,6.5,3-PT Attempted
-169,Immanuel Quickley,TOR - G,7.0,3-PT Attempted
-170,Tyrese Haliburton,IND - G,8.0,3-PT Attempted
-171,Cam Thomas,BKN - G,6.0,3-PT Attempted
-172,Jaren Jackson Jr.,MEM - F-C,7.0,3-PT Attempted
-173,Luke Kennard,MEM - G-F,6.0,3-PT Attempted
-174,Mikal Bridges,BKN - F,8.0,3-PT Attempted
-175,Vince Williams Jr.,MEM - G-F,5.0,3-PT Attempted
-176,Scottie Barnes + Tyrese Haliburton,TOR/IND - G-F/G,42.5,Points (Combo)
-177,Jalen Brunson + Cade Cunningham,NYK/DET - G,52.0,Points (Combo)
-178,Cam Thomas + Jaren Jackson Jr.,BKN/MEM - G/F-C,43.5,Points (Combo)
-179,Tyler Herro + De'Aaron Fox,MIA/SAC - G,45.5,Points (Combo)
-180,Jalen Brunson + Tyrese Haliburton,NYK/IND - G,53.5,Points (Combo)
-181,Bam Adebayo + Pascal Siakam,MIA/IND - C-F/F,44.5,Points (Combo)
-182,Domantas Sabonis + Scottie Barnes,SAC/TOR - C/G-F,40.5,Points (Combo)
-183,Scottie Barnes + Tyrese Haliburton,TOR/IND - G-F/G,19.0,Assists (Combo)
-184,Jalen Brunson + Cade Cunningham,NYK/DET - G,15.0,Assists (Combo)
-185,Tyler Herro + Domantas Sabonis,MIA/SAC - G/C,13.5,Assists (Combo)
-186,Jalen Brunson + Tyrese Haliburton,NYK/IND - G,19.5,Assists (Combo)
-187,Myles Turner + Jakob Poeltl,IND/TOR - C-F/C,16.5,Rebounds (Combo)
-188,Precious Achiuwa + Jalen Duren,NYK/DET - F/C,20.0,Rebounds (Combo)
-189,Mikal Bridges + Santi Aldama,BKN/MEM - F,10.5,Rebounds (Combo)
-190,Bam Adebayo + Domantas Sabonis,MIA/SAC - C,24.5,Rebounds (Combo)
-191,Domantas Sabonis + Josh Hart,SAC/NYK - C/G,22.5,Rebounds (Combo)
-192,Bam Adebayo + Myles Turner,MIA/IND - C,18.0,Rebounds (Combo)
-193,Immanuel Quickley + Tyrese Haliburton,TOR/IND - G,6.0,3-PT Made (Combo)
-194,Jalen Brunson + Simone Fontecchio,NYK/DET - G/F,4.5,3-PT Made (Combo)
-195,Mikal Bridges + Luke Kennard,BKN/MEM - F/G-F,5.5,3-PT Made (Combo)
-196,Tyler Herro + De'Aaron Fox,MIA/SAC - G,5.0,3-PT Made (Combo)
-197,Tyler Herro + Jalen Brunson,MIA/NYK - G,4.5,3-PT Made (Combo)
-198,Tyrese Haliburton + Donte DiVincenzo,IND/NYK - G,7.0,3-PT Made (Combo)
-199,Cade Cunningham,DET - G,3.0,Free Throws Made
-200,Jalen Brunson,NYK - G,6.5,Free Throws Made
-201,Jaden Ivey,DET - G,2.5,Free Throws Made
-202,Immanuel Quickley,TOR - G,2.5,Free Throws Made
-203,Myles Turner,IND - C-F,3.0,Free Throws Made
-204,Pascal Siakam,IND - F,2.5,Free Throws Made
-205,RJ Barrett,TOR - F-G,3.5,Free Throws Made
-206,Tyrese Haliburton,IND - G,3.0,Free Throws Made
-207,Scottie Barnes,TOR - G-F,4.0,Free Throws Made
-208,Cam Thomas,BKN - G,3.5,Free Throws Made
-209,Jaren Jackson Jr.,MEM - F-C,4.5,Free Throws Made
-210,Luke Kennard,MEM - G-F,0.5,Free Throws Made
-211,Mikal Bridges,BKN - F,3.0,Free Throws Made
-212,Vince Williams Jr.,MEM - G-F,2.5,Free Throws Made
-213,Jalen Brunson,NYK - G,22.0,FG Attempted
-214,Jaden Ivey,DET - G,13.0,FG Attempted
-215,Immanuel Quickley,TOR - G,15.0,FG Attempted
-216,Myles Turner,IND - C-F,12.0,FG Attempted
-217,Pascal Siakam,IND - F,15.5,FG Attempted
-218,RJ Barrett,TOR - F-G,15.0,FG Attempted
-219,Tyrese Haliburton,IND - G,16.0,FG Attempted
-220,Scottie Barnes,TOR - G-F,16.0,FG Attempted
-221,Cam Thomas,BKN - G,18.0,FG Attempted
-222,Jaren Jackson Jr.,MEM - F-C,19.5,FG Attempted
-223,Mikal Bridges,BKN - F,17.5,FG Attempted
-224,Ausar Thompson,DET - G-F,15.0,Pts+Rebs
-225,Donte DiVincenzo,NYK - G,21.5,Pts+Rebs
-226,Cade Cunningham,DET - G,25.5,Pts+Rebs
-227,Jalen Brunson,NYK - G,34.5,Pts+Rebs
-228,Jaden Ivey,DET - G,18.5,Pts+Rebs
-229,Josh Hart,NYK - G,20.5,Pts+Rebs
-230,Jalen Duren,DET - C,23.5,Pts+Rebs
-231,Precious Achiuwa,NYK - F,22.5,Pts+Rebs
-232,Simone Fontecchio,DET - F,15.5,Pts+Rebs
-233,Bojan Bogdanovic,NYK - G-F,17.5,Pts+Rebs
-234,Alec Burks,NYK - G,11.5,Pts+Rebs
-235,Isaiah Hartenstein,NYK - C-F,15.5,Pts+Rebs
-236,Andrew Nembhard,IND - G-F,13.5,Pts+Rebs
-237,Gary Trent Jr.,TOR - G,14.0,Pts+Rebs
-238,Bennedict Mathurin,IND - G-F,21.5,Pts+Rebs
-239,Immanuel Quickley,TOR - G,22.5,Pts+Rebs
-240,Jakob Poeltl,TOR - C,20.5,Pts+Rebs
-241,Pascal Siakam,IND - F,29.5,Pts+Rebs
-242,RJ Barrett,TOR - F-G,26.5,Pts+Rebs
-243,Tyrese Haliburton,IND - G,26.5,Pts+Rebs
-244,Scottie Barnes,TOR - G-F,28.5,Pts+Rebs
-245,Obi Toppin,IND - F,12.5,Pts+Rebs
-246,Bruce Brown,TOR - G-F,14.0,Pts+Rebs
-247,T.J. McConnell,IND - G,11.5,Pts+Rebs
-248,Kelly Olynyk,TOR - F-C,13.5,Pts+Rebs
-249,Cam Thomas,BKN - G,22.5,Pts+Rebs
-250,Jaren Jackson Jr.,MEM - F-C,29.5,Pts+Rebs
-251,Dorian Finney-Smith,BKN - F,12.5,Pts+Rebs
-252,Luke Kennard,MEM - G-F,14.5,Pts+Rebs
-253,Mikal Bridges,BKN - F,25.5,Pts+Rebs
-254,Santi Aldama,MEM - F,15.5,Pts+Rebs
-255,Nicolas Claxton,BKN - C,23.5,Pts+Rebs
-256,Vince Williams Jr.,MEM - G-F,19.0,Pts+Rebs
-257,GG Jackson II,MEM - F,18.5,Pts+Rebs
-258,De'Aaron Fox,SAC - G,29.5,Pts+Rebs
-259,Bam Adebayo,MIA - C-F,32.5,Pts+Rebs
-260,Domantas Sabonis,SAC - C,34.0,Pts+Rebs
-261,Tyler Herro,MIA - G,26.5,Pts+Rebs
-262,Keegan Murray,SAC - F,19.5,Pts+Rebs
-263,Harrison Barnes,SAC - F,15.5,Pts+Rebs
-264,Kevin Huerter,SAC - G-F,15.5,Pts+Rebs
-265,Jalen Duren,DET - C,1.5,Dunks
-266,Jakob Poeltl,TOR - C,0.5,Dunks
-267,Nicolas Claxton,BKN - C,2.0,Dunks
-268,Ausar Thompson,DET - G-F,10.5,Pts+Asts
-269,Donte DiVincenzo,NYK - G,21.5,Pts+Asts
-270,Cade Cunningham,DET - G,28.5,Pts+Asts
-271,Jalen Brunson,NYK - G,38.5,Pts+Asts
-272,Jaden Ivey,DET - G,18.5,Pts+Asts
-273,Josh Hart,NYK - G,16.5,Pts+Asts
-274,Jalen Duren,DET - C,15.5,Pts+Asts
-275,Precious Achiuwa,NYK - F,14.0,Pts+Asts
-276,Simone Fontecchio,DET - F,14.5,Pts+Asts
-277,Bojan Bogdanovic,NYK - G-F,15.5,Pts+Asts
-278,Alec Burks,NYK - G,10.5,Pts+Asts
-279,Isaiah Hartenstein,NYK - C-F,10.0,Pts+Asts
-280,Andrew Nembhard,IND - G-F,14.5,Pts+Asts
-281,Gary Trent Jr.,TOR - G,13.5,Pts+Asts
-282,Bennedict Mathurin,IND - G-F,17.5,Pts+Asts
-283,Immanuel Quickley,TOR - G,24.5,Pts+Asts
-284,Myles Turner,IND - C-F,18.5,Pts+Asts
-285,Jakob Poeltl,TOR - C,13.5,Pts+Asts
-286,Pascal Siakam,IND - F,26.5,Pts+Asts
-287,RJ Barrett,TOR - F-G,23.5,Pts+Asts
-288,Tyrese Haliburton,IND - G,33.5,Pts+Asts
-289,Scottie Barnes,TOR - G-F,28.0,Pts+Asts
-290,Bruce Brown,TOR - G-F,13.0,Pts+Asts
-291,T.J. McConnell,IND - G,13.5,Pts+Asts
-292,Kelly Olynyk,TOR - F-C,11.5,Pts+Asts
-293,Cam Thomas,BKN - G,22.5,Pts+Asts
-294,Jaren Jackson Jr.,MEM - F-C,27.5,Pts+Asts
-295,Luke Kennard,MEM - G-F,14.5,Pts+Asts
-296,Mikal Bridges,BKN - F,24.5,Pts+Asts
-297,Santi Aldama,MEM - F,12.5,Pts+Asts
-298,Nicolas Claxton,BKN - C,13.5,Pts+Asts
-299,Vince Williams Jr.,MEM - G-F,18.5,Pts+Asts
-300,GG Jackson II,MEM - F,14.5,Pts+Asts
-301,De'Aaron Fox,SAC - G,29.5,Pts+Asts
-302,Bam Adebayo,MIA - C-F,25.5,Pts+Asts
-303,Domantas Sabonis,SAC - C,29.0,Pts+Asts
-304,Tyler Herro,MIA - G,25.5,Pts+Asts
-305,Keegan Murray,SAC - F,15.5,Pts+Asts
-306,Harrison Barnes,SAC - F,13.5,Pts+Asts
-307,Kevin Huerter,SAC - G-F,13.5,Pts+Asts
-308,Jakob Poeltl,TOR - C,1.5,Blocked Shots
-309,Dorian Finney-Smith,BKN - F,0.5,Blocked Shots
-310,GG Jackson II,MEM - F,0.5,Blocked Shots
-311,Donte DiVincenzo,NYK - G,1.5,Steals
-312,Jaden Ivey,DET - G,0.5,Steals
-313,Bojan Bogdanovic,NYK - G-F,0.5,Steals
-314,Myles Turner,IND - C-F,0.5,Steals
-315,RJ Barrett,TOR - F-G,0.5,Steals
-316,Gradey Dick,TOR - G-F,0.5,Steals
-317,Luke Kennard,MEM - G-F,0.5,Steals
-318,Santi Aldama,MEM - F,0.5,Steals
-319,GG Jackson II,MEM - F,0.5,Steals
-320,Harrison Barnes,SAC - F,0.5,Steals
-321,Ausar Thompson,DET - G-F,7.5,Rebs+Asts
-322,Donte DiVincenzo,NYK - G,7.5,Rebs+Asts
-323,Cade Cunningham,DET - G,11.5,Rebs+Asts
-324,Jalen Brunson,NYK - G,11.5,Rebs+Asts
-325,Josh Hart,NYK - G,13.5,Rebs+Asts
-326,Jalen Duren,DET - C,13.0,Rebs+Asts
-327,Precious Achiuwa,NYK - F,11.0,Rebs+Asts
-328,Isaiah Hartenstein,NYK - C-F,10.0,Rebs+Asts
-329,Immanuel Quickley,TOR - G,9.5,Rebs+Asts
-330,Myles Turner,IND - C-F,9.0,Rebs+Asts
-331,Jakob Poeltl,TOR - C,11.5,Rebs+Asts
-332,Pascal Siakam,IND - F,10.0,Rebs+Asts
-333,RJ Barrett,TOR - F-G,9.5,Rebs+Asts
-334,Tyrese Haliburton,IND - G,16.0,Rebs+Asts
-335,Scottie Barnes,TOR - G-F,15.0,Rebs+Asts
-336,T.J. McConnell,IND - G,8.0,Rebs+Asts
-337,Kelly Olynyk,TOR - F-C,7.5,Rebs+Asts
-338,Jaren Jackson Jr.,MEM - F-C,8.5,Rebs+Asts
-339,Mikal Bridges,BKN - F,8.5,Rebs+Asts
-340,Santi Aldama,MEM - F,8.5,Rebs+Asts
-341,Nicolas Claxton,BKN - C,13.5,Rebs+Asts
-342,Vince Williams Jr.,MEM - G-F,13.0,Rebs+Asts
-343,De'Aaron Fox,SAC - G,9.5,Rebs+Asts
-344,Bam Adebayo,MIA - C-F,14.5,Rebs+Asts
-345,Domantas Sabonis,SAC - C,23.5,Rebs+Asts
-346,Tyler Herro,MIA - G,10.0,Rebs+Asts
-347,Josh Hart,NYK - G,1.5,Blks+Stls
-348,Alec Burks,NYK - G,0.5,Blks+Stls
-349,Jaren Jackson Jr.,MEM - F-C,2.5,Blks+Stls
-350,Dorian Finney-Smith,BKN - F,1.5,Blks+Stls
-351,Mikal Bridges,BKN - F,1.5,Blks+Stls
-352,Jalen Duren,DET - C,1.5,Turnovers
-353,Pascal Siakam,IND - F,1.5,Turnovers
-354,Jaren Jackson Jr.,MEM - F-C,3.5,Turnovers
-355,Bam Adebayo,MIA - C-F,2.5,Turnovers
+8,Simone Fontecchio,DET - F,11.5,Points
+9,Bojan Bogdanovic,NYK - G-F,13.5,Points
+10,Quentin Grimes,DET - G,9.0,Points
+11,Alec Burks,NYK - G,9.5,Points
+12,Isaiah Hartenstein,NYK - C-F,8.0,Points
+13,Andrew Nembhard,IND - G-F,10.0,Points
+14,Gary Trent Jr.,TOR - G,12.0,Points
+15,Bennedict Mathurin,IND - G-F,16.5,Points
+16,Immanuel Quickley,TOR - G,18.5,Points
+17,Myles Turner,IND - C-F,17.5,Points
+18,Jakob Poeltl,TOR - C,11.5,Points
+19,Pascal Siakam,IND - F,22.5,Points
+20,RJ Barrett,TOR - F-G,20.5,Points
+21,Tyrese Haliburton,IND - G,21.5,Points
+22,Scottie Barnes,TOR - G-F,21.0,Points
+23,Obi Toppin,IND - F,8.5,Points
+24,Bruce Brown,TOR - G-F,10.5,Points
+25,T.J. McConnell,IND - G,8.0,Points
+26,Kelly Olynyk,TOR - F-C,8.5,Points
+27,Gradey Dick,TOR - G-F,8.0,Points
+28,Cam Thomas,BKN - G,20.5,Points
+29,Jaren Jackson Jr.,MEM - F-C,23.5,Points
+30,Dorian Finney-Smith,BKN - F,7.5,Points
+31,Luke Kennard,MEM - G-F,11.0,Points
+32,Mikal Bridges,BKN - F,21.0,Points
+33,Santi Aldama,MEM - F,9.5,Points
+34,Nicolas Claxton,BKN - C,11.5,Points
+35,Vince Williams Jr.,MEM - G-F,12.5,Points
+36,GG Jackson II,MEM - F,13.5,Points
+37,Lamar Stevens,MEM - F,7.0,Points
+38,Derrick Rose,MEM - G,6.0,Points
+39,De'Aaron Fox,SAC - G,24.5,Points
+40,Bam Adebayo,MIA - C-F,22.5,Points
+41,Domantas Sabonis,SAC - C,19.0,Points
+42,Keegan Murray,SAC - F,14.0,Points
+43,Harrison Barnes,SAC - F,12.5,Points
+44,Duncan Robinson,MIA - F,17.0,Points
+45,Kevin Huerter,SAC - G-F,11.5,Points
+46,Jaime Jaquez Jr.,MIA - F-G,15.5,Points
+47,Caleb Martin,MIA - F,13.0,Points
+48,Malik Monk,SAC - G,16.5,Points
+49,Ausar Thompson,DET - G-F,17.5,Pts+Rebs+Asts
+50,Donte DiVincenzo,NYK - G,25.5,Pts+Rebs+Asts
+51,Cade Cunningham,DET - G,31.5,Pts+Rebs+Asts
+52,Jalen Brunson,NYK - G,42.5,Pts+Rebs+Asts
+53,Jaden Ivey,DET - G,21.5,Pts+Rebs+Asts
+54,Josh Hart,NYK - G,25.5,Pts+Rebs+Asts
+55,Jalen Duren,DET - C,26.5,Pts+Rebs+Asts
+56,Precious Achiuwa,NYK - F,23.5,Pts+Rebs+Asts
+57,Simone Fontecchio,DET - F,16.5,Pts+Rebs+Asts
+58,Bojan Bogdanovic,NYK - G-F,17.0,Pts+Rebs+Asts
+59,Isaiah Hartenstein,NYK - C-F,18.5,Pts+Rebs+Asts
+60,Andrew Nembhard,IND - G-F,17.5,Pts+Rebs+Asts
+61,Bennedict Mathurin,IND - G-F,23.5,Pts+Rebs+Asts
+62,Immanuel Quickley,TOR - G,28.5,Pts+Rebs+Asts
+63,Myles Turner,IND - C-F,26.5,Pts+Rebs+Asts
+64,Jakob Poeltl,TOR - C,22.5,Pts+Rebs+Asts
+65,Pascal Siakam,IND - F,32.5,Pts+Rebs+Asts
+66,RJ Barrett,TOR - F-G,30.5,Pts+Rebs+Asts
+67,Tyrese Haliburton,IND - G,37.5,Pts+Rebs+Asts
+68,Scottie Barnes,TOR - G-F,35.5,Pts+Rebs+Asts
+69,Bruce Brown,TOR - G-F,16.5,Pts+Rebs+Asts
+70,Kelly Olynyk,TOR - F-C,16.5,Pts+Rebs+Asts
+71,Cam Thomas,BKN - G,26.5,Pts+Rebs+Asts
+72,Jaren Jackson Jr.,MEM - F-C,32.5,Pts+Rebs+Asts
+73,Luke Kennard,MEM - G-F,17.5,Pts+Rebs+Asts
+74,Mikal Bridges,BKN - F,29.5,Pts+Rebs+Asts
+75,Santi Aldama,MEM - F,18.5,Pts+Rebs+Asts
+76,Nicolas Claxton,BKN - C,25.0,Pts+Rebs+Asts
+77,Vince Williams Jr.,MEM - G-F,25.5,Pts+Rebs+Asts
+78,GG Jackson II,MEM - F,19.5,Pts+Rebs+Asts
+79,De'Aaron Fox,SAC - G,34.5,Pts+Rebs+Asts
+80,Bam Adebayo,MIA - C-F,37.5,Pts+Rebs+Asts
+81,Domantas Sabonis,SAC - C,42.5,Pts+Rebs+Asts
+82,Keegan Murray,SAC - F,21.0,Pts+Rebs+Asts
+83,Harrison Barnes,SAC - F,16.5,Pts+Rebs+Asts
+84,Duncan Robinson,MIA - F,24.5,Pts+Rebs+Asts
+85,Kevin Huerter,SAC - G-F,17.5,Pts+Rebs+Asts
+86,Jaime Jaquez Jr.,MIA - F-G,23.5,Pts+Rebs+Asts
+87,Caleb Martin,MIA - F,20.5,Pts+Rebs+Asts
+88,Malik Monk,SAC - G,24.5,Pts+Rebs+Asts
+89,Cade Cunningham,DET - G,7.0,Assists
+90,Jalen Brunson,NYK - G,7.5,Assists
+91,Jaden Ivey,DET - G,3.5,Assists
+92,Josh Hart,NYK - G,4.5,Assists
+93,Immanuel Quickley,TOR - G,5.5,Assists
+94,RJ Barrett,TOR - F-G,3.5,Assists
+95,Tyrese Haliburton,IND - G,12.0,Assists
+96,Scottie Barnes,TOR - G-F,6.5,Assists
+97,T.J. McConnell,IND - G,5.0,Assists
+98,Mikal Bridges,BKN - F,3.5,Assists
+99,Vince Williams Jr.,MEM - G-F,6.0,Assists
+100,De'Aaron Fox,SAC - G,5.0,Assists
+101,Domantas Sabonis,SAC - C,9.0,Assists
+102,Malik Monk,SAC - G,4.5,Assists
+103,Ausar Thompson,DET - G-F,6.0,Rebounds
+104,Cade Cunningham,DET - G,3.5,Rebounds
+105,Jalen Brunson,NYK - G,3.5,Rebounds
+106,Josh Hart,NYK - G,9.0,Rebounds
+107,Jalen Duren,DET - C,11.0,Rebounds
+108,Precious Achiuwa,NYK - F,9.5,Rebounds
+109,Bojan Bogdanovic,NYK - G-F,2.5,Rebounds
+110,Isaiah Hartenstein,NYK - C-F,8.0,Rebounds
+111,Andrew Nembhard,IND - G-F,2.5,Rebounds
+112,Immanuel Quickley,TOR - G,3.5,Rebounds
+113,Myles Turner,IND - C-F,7.5,Rebounds
+114,Jakob Poeltl,TOR - C,9.0,Rebounds
+115,Pascal Siakam,IND - F,6.5,Rebounds
+116,RJ Barrett,TOR - F-G,6.0,Rebounds
+117,Tyrese Haliburton,IND - G,3.5,Rebounds
+118,Scottie Barnes,TOR - G-F,8.0,Rebounds
+119,Kelly Olynyk,TOR - F-C,5.0,Rebounds
+120,Jaren Jackson Jr.,MEM - F-C,5.0,Rebounds
+121,Dorian Finney-Smith,BKN - F,4.5,Rebounds
+122,Mikal Bridges,BKN - F,5.0,Rebounds
+123,Santi Aldama,MEM - F,6.0,Rebounds
+124,Nicolas Claxton,BKN - C,10.5,Rebounds
+125,Vince Williams Jr.,MEM - G-F,6.5,Rebounds
+126,GG Jackson II,MEM - F,5.0,Rebounds
+127,De'Aaron Fox,SAC - G,4.5,Rebounds
+128,Bam Adebayo,MIA - C-F,10.5,Rebounds
+129,Domantas Sabonis,SAC - C,13.5,Rebounds
+130,Kevin Huerter,SAC - G-F,3.5,Rebounds
+131,Jaime Jaquez Jr.,MIA - F-G,4.5,Rebounds
+132,Caleb Martin,MIA - F,5.5,Rebounds
+133,Ausar Thompson,DET - G-F,23.0,Fantasy Score
+134,Donte DiVincenzo,NYK - G,31.5,Fantasy Score
+135,Jalen Brunson,NYK - G,47.5,Fantasy Score
+136,Jaden Ivey,DET - G,25.5,Fantasy Score
+137,Josh Hart,NYK - G,31.0,Fantasy Score
+138,Jalen Duren,DET - C,31.5,Fantasy Score
+139,Precious Achiuwa,NYK - F,31.5,Fantasy Score
+140,Andrew Nembhard,IND - G-F,22.5,Fantasy Score
+141,Bennedict Mathurin,IND - G-F,26.5,Fantasy Score
+142,Immanuel Quickley,TOR - G,32.5,Fantasy Score
+143,Myles Turner,IND - C-F,33.5,Fantasy Score
+144,Jakob Poeltl,TOR - C,30.0,Fantasy Score
+145,Pascal Siakam,IND - F,37.5,Fantasy Score
+146,RJ Barrett,TOR - F-G,33.0,Fantasy Score
+147,Tyrese Haliburton,IND - G,45.5,Fantasy Score
+148,Scottie Barnes,TOR - G-F,43.0,Fantasy Score
+149,Cam Thomas,BKN - G,31.0,Fantasy Score
+150,Jaren Jackson Jr.,MEM - F-C,39.5,Fantasy Score
+151,Dorian Finney-Smith,BKN - F,18.5,Fantasy Score
+152,Luke Kennard,MEM - G-F,20.5,Fantasy Score
+153,Mikal Bridges,BKN - F,34.0,Fantasy Score
+154,Nicolas Claxton,BKN - C,34.5,Fantasy Score
+155,Vince Williams Jr.,MEM - G-F,32.5,Fantasy Score
+156,De'Aaron Fox,SAC - G,41.5,Fantasy Score
+157,Keegan Murray,SAC - F,26.0,Fantasy Score
+158,Duncan Robinson,MIA - F,27.0,Fantasy Score
+159,Jaime Jaquez Jr.,MIA - F-G,27.5,Fantasy Score
+160,Kevin Huerter,SAC - G-F,21.5,Fantasy Score
+161,Caleb Martin,MIA - F,24.5,Fantasy Score
+162,Malik Monk,SAC - G,28.0,Fantasy Score
+163,Immanuel Quickley,TOR - G,2.5,3-PT Made
+164,Kelly Olynyk,TOR - F-C,0.5,3-PT Made
+165,Dorian Finney-Smith,BKN - F,1.5,3-PT Made
+166,Santi Aldama,MEM - F,1.5,3-PT Made
+167,Josh Hart,NYK - G,6.5,Defensive Rebounds
+168,Myles Turner,IND - C-F,6.0,Defensive Rebounds
+169,Jakob Poeltl,TOR - C,6.0,Defensive Rebounds
+170,Pascal Siakam,IND - F,5.0,Defensive Rebounds
+171,Scottie Barnes,TOR - G-F,5.5,Defensive Rebounds
+172,Nicolas Claxton,BKN - C,8.0,Defensive Rebounds
+173,Bam Adebayo,MIA - C-F,8.5,Defensive Rebounds
+174,Domantas Sabonis,SAC - C,9.5,Defensive Rebounds
+175,Jakob Poeltl,TOR - C,3.0,Offensive Rebounds
+176,Pascal Siakam,IND - F,1.5,Offensive Rebounds
+177,Dorian Finney-Smith,BKN - F,1.5,Offensive Rebounds
+178,De'Aaron Fox,SAC - G,0.5,Offensive Rebounds
+179,Donte DiVincenzo,NYK - G,10.5,3-PT Attempted
+180,Jalen Brunson,NYK - G,6.0,3-PT Attempted
+181,Gary Trent Jr.,TOR - G,6.0,3-PT Attempted
+182,Immanuel Quickley,TOR - G,7.0,3-PT Attempted
+183,Tyrese Haliburton,IND - G,8.0,3-PT Attempted
+184,Cam Thomas,BKN - G,6.0,3-PT Attempted
+185,Jaren Jackson Jr.,MEM - F-C,7.0,3-PT Attempted
+186,Luke Kennard,MEM - G-F,6.0,3-PT Attempted
+187,Mikal Bridges,BKN - F,8.0,3-PT Attempted
+188,Vince Williams Jr.,MEM - G-F,5.0,3-PT Attempted
+189,De'Aaron Fox,SAC - G,7.0,3-PT Attempted
+190,Keegan Murray,SAC - F,6.0,3-PT Attempted
+191,Kevin Huerter,SAC - G-F,6.0,3-PT Attempted
+192,Scottie Barnes + Tyrese Haliburton,TOR/IND - G-F/G,42.5,Points (Combo)
+193,Jalen Brunson + Cade Cunningham,NYK/DET - G,52.0,Points (Combo)
+194,Cam Thomas + Jaren Jackson Jr.,BKN/MEM - G/F-C,44.0,Points (Combo)
+195,Jalen Brunson + Tyrese Haliburton,NYK/IND - G,53.5,Points (Combo)
+196,Bam Adebayo + Pascal Siakam,MIA/IND - C-F/F,45.5,Points (Combo)
+197,Scottie Barnes + Tyrese Haliburton,TOR/IND - G-F/G,19.0,Assists (Combo)
+198,Jalen Brunson + Cade Cunningham,NYK/DET - G,14.5,Assists (Combo)
+199,Jalen Brunson + Tyrese Haliburton,NYK/IND - G,19.5,Assists (Combo)
+200,Myles Turner + Jakob Poeltl,IND/TOR - C-F/C,16.5,Rebounds (Combo)
+201,Precious Achiuwa + Jalen Duren,NYK/DET - F/C,20.5,Rebounds (Combo)
+202,Mikal Bridges + Santi Aldama,BKN/MEM - F,10.5,Rebounds (Combo)
+203,Bam Adebayo + Domantas Sabonis,MIA/SAC - C,24.5,Rebounds (Combo)
+204,Bam Adebayo + Myles Turner,MIA/IND - C,18.0,Rebounds (Combo)
+205,Immanuel Quickley + Tyrese Haliburton,TOR/IND - G,6.0,3-PT Made (Combo)
+206,Mikal Bridges + Luke Kennard,BKN/MEM - F/G-F,5.5,3-PT Made (Combo)
+207,Tyrese Haliburton + Donte DiVincenzo,IND/NYK - G,7.0,3-PT Made (Combo)
+208,Cade Cunningham,DET - G,3.0,Free Throws Made
+209,Jalen Brunson,NYK - G,6.5,Free Throws Made
+210,Jaden Ivey,DET - G,2.5,Free Throws Made
+211,Immanuel Quickley,TOR - G,2.5,Free Throws Made
+212,Myles Turner,IND - C-F,3.0,Free Throws Made
+213,Pascal Siakam,IND - F,2.5,Free Throws Made
+214,RJ Barrett,TOR - F-G,3.5,Free Throws Made
+215,Tyrese Haliburton,IND - G,3.0,Free Throws Made
+216,Scottie Barnes,TOR - G-F,4.0,Free Throws Made
+217,Cam Thomas,BKN - G,3.5,Free Throws Made
+218,Jaren Jackson Jr.,MEM - F-C,4.5,Free Throws Made
+219,Luke Kennard,MEM - G-F,0.5,Free Throws Made
+220,Mikal Bridges,BKN - F,3.0,Free Throws Made
+221,Vince Williams Jr.,MEM - G-F,2.5,Free Throws Made
+222,De'Aaron Fox,SAC - G,4.0,Free Throws Made
+223,Bam Adebayo,MIA - C-F,5.0,Free Throws Made
+224,Domantas Sabonis,SAC - C,3.0,Free Throws Made
+225,Keegan Murray,SAC - F,0.5,Free Throws Made
+226,Jalen Brunson,NYK - G,22.0,FG Attempted
+227,Jaden Ivey,DET - G,13.0,FG Attempted
+228,Immanuel Quickley,TOR - G,15.0,FG Attempted
+229,Myles Turner,IND - C-F,12.0,FG Attempted
+230,Pascal Siakam,IND - F,15.5,FG Attempted
+231,RJ Barrett,TOR - F-G,15.0,FG Attempted
+232,Tyrese Haliburton,IND - G,16.0,FG Attempted
+233,Scottie Barnes,TOR - G-F,16.0,FG Attempted
+234,Cam Thomas,BKN - G,18.0,FG Attempted
+235,Jaren Jackson Jr.,MEM - F-C,19.5,FG Attempted
+236,Mikal Bridges,BKN - F,17.5,FG Attempted
+237,De'Aaron Fox,SAC - G,18.5,FG Attempted
+238,Bam Adebayo,MIA - C-F,16.5,FG Attempted
+239,Domantas Sabonis,SAC - C,13.0,FG Attempted
+240,Ausar Thompson,DET - G-F,15.0,Pts+Rebs
+241,Donte DiVincenzo,NYK - G,22.5,Pts+Rebs
+242,Cade Cunningham,DET - G,24.5,Pts+Rebs
+243,Jalen Brunson,NYK - G,35.5,Pts+Rebs
+244,Jaden Ivey,DET - G,18.5,Pts+Rebs
+245,Josh Hart,NYK - G,20.5,Pts+Rebs
+246,Jalen Duren,DET - C,24.5,Pts+Rebs
+247,Precious Achiuwa,NYK - F,22.5,Pts+Rebs
+248,Bojan Bogdanovic,NYK - G-F,16.0,Pts+Rebs
+249,Quentin Grimes,DET - G,11.5,Pts+Rebs
+250,Alec Burks,NYK - G,11.5,Pts+Rebs
+251,Isaiah Hartenstein,NYK - C-F,15.5,Pts+Rebs
+252,Andrew Nembhard,IND - G-F,12.5,Pts+Rebs
+253,Gary Trent Jr.,TOR - G,14.0,Pts+Rebs
+254,Bennedict Mathurin,IND - G-F,21.5,Pts+Rebs
+255,Immanuel Quickley,TOR - G,22.5,Pts+Rebs
+256,Jakob Poeltl,TOR - C,20.5,Pts+Rebs
+257,Pascal Siakam,IND - F,29.0,Pts+Rebs
+258,RJ Barrett,TOR - F-G,26.5,Pts+Rebs
+259,Tyrese Haliburton,IND - G,25.5,Pts+Rebs
+260,Scottie Barnes,TOR - G-F,28.5,Pts+Rebs
+261,Obi Toppin,IND - F,12.5,Pts+Rebs
+262,Bruce Brown,TOR - G-F,14.0,Pts+Rebs
+263,T.J. McConnell,IND - G,11.0,Pts+Rebs
+264,Kelly Olynyk,TOR - F-C,13.5,Pts+Rebs
+265,Cam Thomas,BKN - G,23.5,Pts+Rebs
+266,Jaren Jackson Jr.,MEM - F-C,29.5,Pts+Rebs
+267,Dorian Finney-Smith,BKN - F,12.5,Pts+Rebs
+268,Luke Kennard,MEM - G-F,14.5,Pts+Rebs
+269,Mikal Bridges,BKN - F,25.5,Pts+Rebs
+270,Santi Aldama,MEM - F,15.5,Pts+Rebs
+271,Nicolas Claxton,BKN - C,23.5,Pts+Rebs
+272,Vince Williams Jr.,MEM - G-F,19.5,Pts+Rebs
+273,GG Jackson II,MEM - F,18.5,Pts+Rebs
+274,Lamar Stevens,MEM - F,12.0,Pts+Rebs
+275,De'Aaron Fox,SAC - G,29.5,Pts+Rebs
+276,Bam Adebayo,MIA - C-F,33.5,Pts+Rebs
+277,Domantas Sabonis,SAC - C,33.5,Pts+Rebs
+278,Keegan Murray,SAC - F,19.0,Pts+Rebs
+279,Harrison Barnes,SAC - F,15.5,Pts+Rebs
+280,Duncan Robinson,MIA - F,20.5,Pts+Rebs
+281,Kevin Huerter,SAC - G-F,15.5,Pts+Rebs
+282,Jaime Jaquez Jr.,MIA - F-G,20.5,Pts+Rebs
+283,Caleb Martin,MIA - F,18.5,Pts+Rebs
+284,Malik Monk,SAC - G,19.5,Pts+Rebs
+285,Jalen Duren,DET - C,1.5,Dunks
+286,Jakob Poeltl,TOR - C,0.5,Dunks
+287,Nicolas Claxton,BKN - C,2.0,Dunks
+288,Keegan Murray,SAC - F,0.5,Dunks
+289,Jaime Jaquez Jr.,MIA - F-G,0.5,Dunks
+290,Ausar Thompson,DET - G-F,11.0,Pts+Asts
+291,Donte DiVincenzo,NYK - G,21.5,Pts+Asts
+292,Cade Cunningham,DET - G,27.5,Pts+Asts
+293,Jalen Brunson,NYK - G,38.5,Pts+Asts
+294,Jaden Ivey,DET - G,18.5,Pts+Asts
+295,Josh Hart,NYK - G,16.5,Pts+Asts
+296,Jalen Duren,DET - C,15.5,Pts+Asts
+297,Precious Achiuwa,NYK - F,14.0,Pts+Asts
+298,Simone Fontecchio,DET - F,13.5,Pts+Asts
+299,Bojan Bogdanovic,NYK - G-F,14.5,Pts+Asts
+300,Quentin Grimes,DET - G,10.5,Pts+Asts
+301,Alec Burks,NYK - G,10.5,Pts+Asts
+302,Isaiah Hartenstein,NYK - C-F,10.0,Pts+Asts
+303,Andrew Nembhard,IND - G-F,14.5,Pts+Asts
+304,Gary Trent Jr.,TOR - G,14.0,Pts+Asts
+305,Bennedict Mathurin,IND - G-F,18.5,Pts+Asts
+306,Immanuel Quickley,TOR - G,24.5,Pts+Asts
+307,Myles Turner,IND - C-F,18.5,Pts+Asts
+308,Jakob Poeltl,TOR - C,14.0,Pts+Asts
+309,Pascal Siakam,IND - F,26.5,Pts+Asts
+310,RJ Barrett,TOR - F-G,23.5,Pts+Asts
+311,Tyrese Haliburton,IND - G,33.5,Pts+Asts
+312,Scottie Barnes,TOR - G-F,28.0,Pts+Asts
+313,Bruce Brown,TOR - G-F,13.0,Pts+Asts
+314,T.J. McConnell,IND - G,13.5,Pts+Asts
+315,Kelly Olynyk,TOR - F-C,11.5,Pts+Asts
+316,Cam Thomas,BKN - G,23.5,Pts+Asts
+317,Jaren Jackson Jr.,MEM - F-C,27.5,Pts+Asts
+318,Luke Kennard,MEM - G-F,14.5,Pts+Asts
+319,Mikal Bridges,BKN - F,24.5,Pts+Asts
+320,Santi Aldama,MEM - F,12.5,Pts+Asts
+321,Nicolas Claxton,BKN - C,13.5,Pts+Asts
+322,Vince Williams Jr.,MEM - G-F,19.0,Pts+Asts
+323,GG Jackson II,MEM - F,14.5,Pts+Asts
+324,De'Aaron Fox,SAC - G,29.5,Pts+Asts
+325,Bam Adebayo,MIA - C-F,27.5,Pts+Asts
+326,Domantas Sabonis,SAC - C,28.5,Pts+Asts
+327,Keegan Murray,SAC - F,15.5,Pts+Asts
+328,Harrison Barnes,SAC - F,13.5,Pts+Asts
+329,Duncan Robinson,MIA - F,21.5,Pts+Asts
+330,Kevin Huerter,SAC - G-F,13.5,Pts+Asts
+331,Jaime Jaquez Jr.,MIA - F-G,18.5,Pts+Asts
+332,Caleb Martin,MIA - F,15.5,Pts+Asts
+333,Malik Monk,SAC - G,21.5,Pts+Asts
+334,Jakob Poeltl,TOR - C,1.5,Blocked Shots
+335,Dorian Finney-Smith,BKN - F,0.5,Blocked Shots
+336,GG Jackson II,MEM - F,0.5,Blocked Shots
+337,Lamar Stevens,MEM - F,0.5,Blocked Shots
+338,Donte DiVincenzo,NYK - G,1.5,Steals
+339,Jaden Ivey,DET - G,0.5,Steals
+340,Bojan Bogdanovic,NYK - G-F,0.5,Steals
+341,Myles Turner,IND - C-F,0.5,Steals
+342,Gradey Dick,TOR - G-F,0.5,Steals
+343,Luke Kennard,MEM - G-F,0.5,Steals
+344,Santi Aldama,MEM - F,0.5,Steals
+345,GG Jackson II,MEM - F,0.5,Steals
+346,Lamar Stevens,MEM - F,0.5,Steals
+347,Harrison Barnes,SAC - F,0.5,Steals
+348,Ausar Thompson,DET - G-F,7.5,Rebs+Asts
+349,Donte DiVincenzo,NYK - G,7.5,Rebs+Asts
+350,Cade Cunningham,DET - G,11.0,Rebs+Asts
+351,Jalen Brunson,NYK - G,11.5,Rebs+Asts
+352,Josh Hart,NYK - G,13.5,Rebs+Asts
+353,Jalen Duren,DET - C,13.0,Rebs+Asts
+354,Precious Achiuwa,NYK - F,11.0,Rebs+Asts
+355,Isaiah Hartenstein,NYK - C-F,10.0,Rebs+Asts
+356,Immanuel Quickley,TOR - G,9.5,Rebs+Asts
+357,Myles Turner,IND - C-F,9.0,Rebs+Asts
+358,Jakob Poeltl,TOR - C,11.5,Rebs+Asts
+359,Pascal Siakam,IND - F,10.0,Rebs+Asts
+360,RJ Barrett,TOR - F-G,9.5,Rebs+Asts
+361,Tyrese Haliburton,IND - G,15.5,Rebs+Asts
+362,Scottie Barnes,TOR - G-F,15.0,Rebs+Asts
+363,T.J. McConnell,IND - G,8.0,Rebs+Asts
+364,Kelly Olynyk,TOR - F-C,7.5,Rebs+Asts
+365,Jaren Jackson Jr.,MEM - F-C,8.5,Rebs+Asts
+366,Mikal Bridges,BKN - F,8.5,Rebs+Asts
+367,Santi Aldama,MEM - F,8.5,Rebs+Asts
+368,Nicolas Claxton,BKN - C,13.5,Rebs+Asts
+369,Vince Williams Jr.,MEM - G-F,13.0,Rebs+Asts
+370,De'Aaron Fox,SAC - G,9.5,Rebs+Asts
+371,Bam Adebayo,MIA - C-F,15.0,Rebs+Asts
+372,Domantas Sabonis,SAC - C,23.5,Rebs+Asts
+373,Jaime Jaquez Jr.,MIA - F-G,7.5,Rebs+Asts
+374,Caleb Martin,MIA - F,8.0,Rebs+Asts
+375,Malik Monk,SAC - G,8.0,Rebs+Asts
+376,Josh Hart,NYK - G,1.5,Blks+Stls
+377,Alec Burks,NYK - G,0.5,Blks+Stls
+378,Jaren Jackson Jr.,MEM - F-C,2.5,Blks+Stls
+379,Dorian Finney-Smith,BKN - F,1.5,Blks+Stls
+380,Mikal Bridges,BKN - F,1.5,Blks+Stls
+381,Jalen Duren,DET - C,1.5,Turnovers
+382,Pascal Siakam,IND - F,1.5,Turnovers
+383,Jaren Jackson Jr.,MEM - F-C,3.5,Turnovers
+384,Bam Adebayo,MIA - C-F,2.5,Turnovers

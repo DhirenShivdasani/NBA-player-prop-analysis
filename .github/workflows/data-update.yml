@@ -22,6 +22,12 @@ jobs:
       run: python team_def_vs_pos.py
     - name: Run stats.py
       run: python stats.py
+    - name: Stash changes
+      run: git stash push -u
+    - name: Pull changes from the remote repository
+      run: git pull --rebase
+    - name: Pop stashed changes
+      run: git stash pop
     - name: Commit and push if there are changes
       run: |
         git config user.email "dhiren3102@gmail.com"

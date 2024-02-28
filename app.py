@@ -1066,18 +1066,17 @@ elif view == "Over/Under Stats L10":
         """,
         unsafe_allow_html=True
     )
+    def filter_rows_with_all_odds(row):
+        sportsbooks = ['fanduel', 'draftkings', 'pointsbet', 'mgm']  # Replace 'fourth_sportsbook' with your actual column name
+        return all(pd.notnull(row[book]) for book in sportsbooks)
 
+    # Streamlit widget to enable/disable the filter
+    apply_filter = st.checkbox('Show only rows with odds from all sportsbooks')
 
-    st.dataframe(combined_df)    
-
-    # combined_df.sort_values(by=['opp','Average_Implied_Probability', 'PlayerName'], inplace=True)
-
-    # Display DataFrame Grouped by Team in Streamlit
-
-    # for team, group in combined_df.groupby('opp'):
-    #     # st.subheader(f"Team: {team}")
-    #     group.set_index(['PlayerName', 'Average_Implied_Probability', 'Over_Under'], inplace=True)
-
-    #     st.dataframe(group) 
+    if apply_filter:
+        filtered_df = combined_df[combined_df.apply(filter_rows_with_all_odds, axis=1)]
+    else:
+        filtered_df = combined_df
+    st.dataframe(filtered_df)    
 
 

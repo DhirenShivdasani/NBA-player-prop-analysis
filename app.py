@@ -145,20 +145,47 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
     temp_df = dataframe.copy()
     temp_df['GAME_DATE'] = pd.to_datetime(temp_df['GAME_DATE'], errors='coerce')
 
-    temp_df.sort_values(by=['PlayerName', 'GAME_DATE'], inplace=True)
+    # Ensure sorting by Team and GAME_DATE is correct
+    temp_df.sort_values(by=['Team', 'GAME_DATE'], inplace=True)
+    
+    # Calculate the difference in days for rest days
+    temp_df['Team_Rest_Days'] = temp_df.groupby('Team')['GAME_DATE'].diff().dt.days
 
-    temp_df['Rest_Days'] = temp_df.groupby('PlayerName')['GAME_DATE'].diff().dt.days
+    # Categorize team rest days in the temp_df
+    temp_df['Rest_Days_Category'] = pd.cut(temp_df['Team_Rest_Days'],
+                                           bins=[-1, 0, 2, np.inf],  # Adjusted bins to include 0 as a separate category
+                                           labels=['0 days', '1-2 days', '3+ days'],
+                                           right=True)
 
-    player_data = temp_df[(temp_df['PlayerName'] == player_name)]
+    # Filter to the player's data
+    player_data = temp_df[temp_df['PlayerName'] == player_name]
+
+    # Analyze player performance based on team's rest days
+    performance_by_rest_days = player_data.groupby('Rest_Days_Category')[prop_type_adjusted].mean()
+
+    # Prepare performance by rest days information for output
+    performance_by_rest_info = {category: f"{performance:.2f}" for category, performance in performance_by_rest_days.iteritems()}
+
+    player_data = dataframe[(dataframe['PlayerName'] == player_name)]
     if player_data.empty:
         return f"No data available for player {player_name}."
     
-    player_data['Rest_Days_Category'] = pd.cut(player_data['Rest_Days'],
-                                               bins=[0, 1, 2, np.inf],
-                                               labels=['0 days', '1-2 days', '3+ days'],
-                                               right=False)
-    
-    rest_day_performance = player_data.groupby('Rest_Days_Category')[prop_type_adjusted].mean()
+   
+    temp_df.sort_values(by=['Team', 'GAME_DATE'], inplace=True)
+    temp_df['Team_Rest_Days'] = temp_df.groupby('Team')['GAME_DATE'].diff().dt.days
+
+    # Filter to team analysis (e.g., Lakers)
+    team_data = temp_df[temp_df['Team'] == team]
+
+    # Categorize team rest days
+    team_data['Rest_Days_Category'] = pd.cut(team_data['Team_Rest_Days'],
+                                             bins=[0, 1, 2, np.inf],
+                                             labels=['0 days', '1-2 days', '3+ days'],
+                                             right=False)
+
+    # Check the Lakers' (or specified team's) last game rest situation
+    latest_game_rest_category = team_data.iloc[-1]['Rest_Days_Category']
+
 
 
     all_injured_players_out_dates = set()
@@ -341,8 +368,11 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
 
         rankings_df = pd.DataFrame([rankings_dict], index=[opponent])
 
-        rest_days_analysis = {category: f"{performance:.2f}" for category, performance in rest_day_performance.items()}
-
+        results = {}
+        team_data = temp_df[temp_df['Team'] == team]
+        recent_game_date = team_data['GAME_DATE'].max()
+        latest_game_rest_category = team_data[team_data['GAME_DATE'] == recent_game_date]['Rest_Days_Category'].iloc[0]
+        # results['Team Latest Rest Situation'] = f"The {team}'s rest situation for the latest game was: {latest_game_rest_category}"
 
         # Final results including all factors
         results = {
@@ -360,7 +390,8 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
                 'Average Performance Against Opponent': average_against_opponent,
                 'Average Performance With All Injured Teammates Out': f"{round(player_performance_with_teammates_out, 0)}" if player_performance_with_teammates_out is not None else 'N/A',
                 'Impact on Performance': impact_on_performance,
-                'Rest Day Performance Analysis': rest_days_analysis
+                'Performance Analysis Based on Rest Days': performance_by_rest_info,
+                'Team Rest Days Situation': f"The {team}'s rest situation for the latest game is: {latest_game_rest_category}"
             },
             'Comparative Analysis': {
                 'Above Average Performance (Overall)': 'Yes' if average_overall > value else 'No',

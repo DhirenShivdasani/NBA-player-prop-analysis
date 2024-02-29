@@ -139,10 +139,27 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
     """
     Analyzes a player's prop bet considering various factors including home vs. away performance, 
     opponent's stats, and the impact of multiple teammates' absences.
+
+
     """
-    player_data = dataframe[(dataframe['PlayerName'] == player_name)]
+    temp_df = dataframe.copy()
+    temp_df['GAME_DATE'] = pd.to_datetime(temp_df['GAME_DATE'], errors='coerce')
+
+    temp_df.sort_values(by=['PlayerName', 'GAME_DATE'], inplace=True)
+
+    temp_df['Rest_Days'] = temp_df.groupby('PlayerName')['GAME_DATE'].diff().dt.days
+
+    player_data = temp_df[(temp_df['PlayerName'] == player_name)]
     if player_data.empty:
         return f"No data available for player {player_name}."
+    
+    player_data['Rest_Days_Category'] = pd.cut(player_data['Rest_Days'],
+                                               bins=[0, 1, 2, np.inf],
+                                               labels=['0 days', '1-2 days', '3+ days'],
+                                               right=False)
+    
+    rest_day_performance = player_data.groupby('Rest_Days_Category')[prop_type_adjusted].mean()
+
 
     all_injured_players_out_dates = set()
     for injured_player in injured_players:
@@ -324,6 +341,8 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
 
         rankings_df = pd.DataFrame([rankings_dict], index=[opponent])
 
+        rest_days_analysis = {category: f"{performance:.2f}" for category, performance in rest_day_performance.items()}
+
 
         # Final results including all factors
         results = {
@@ -340,7 +359,8 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
                 'Average Performance (Away)': f"{average_away.round(0)}",
                 'Average Performance Against Opponent': average_against_opponent,
                 'Average Performance With All Injured Teammates Out': f"{round(player_performance_with_teammates_out, 0)}" if player_performance_with_teammates_out is not None else 'N/A',
-                'Impact on Performance': impact_on_performance
+                'Impact on Performance': impact_on_performance,
+                'Rest Day Performance Analysis': rest_days_analysis
             },
             'Comparative Analysis': {
                 'Above Average Performance (Overall)': 'Yes' if average_overall > value else 'No',
@@ -630,6 +650,23 @@ def calculate_ev(row):
     ev = (p_win * (decimal_odds - 1)) - (p_loss * 1)
     return round(ev, 2)  # Round to 2 decimal places for readability
 
+def calculate_over_percentage(row, dataframe):
+    player = row['PlayerName']
+    opponent = row['Opponent']
+    filtered_df = dataframe[(dataframe['PlayerName'] == player) & (dataframe['Opponent'] == opponent)]
+    if not filtered_df.empty:
+        return filtered_df['Over_Percentage'].mean()
+    else:
+        return None
+ # Or appropriate value like 0 or np.nan
+def extract_opponent(matchup):
+    if '@' in matchup:
+        # The opponent is the substring after '@'
+        return matchup.split('@')[-1].strip()
+    else:
+        # The opponent is the substring after 'vs.'
+        return matchup.split('vs.')[-1].strip()
+
 
 odds = pd.read_csv('over_under_odds.csv')
 
@@ -712,6 +749,8 @@ players_with_props = dataframe[dataframe['Prop'].isin(["Points", "Rebounds", 'As
 dataframe['GAME_DATE'] = pd.to_datetime(dataframe['GAME_DATE'], errors='coerce')
 
 most_recent_games = dataframe.sort_values(by='GAME_DATE', ascending=False)
+most_recent_games['Opponent'] = most_recent_games['MATCHUP'].apply(extract_opponent)
+
 most_recent_team_per_player = most_recent_games.drop_duplicates(subset='PlayerName')[['PlayerName', 'Team']]
 
 
@@ -862,7 +901,6 @@ if view == "Player Prop Analysis":
         st.subheader(f'{opponent} Defense vs. Position (Allowed)')
 
         team_def = team_def[(team_def['Opponent'] ==opponent) & (team_def['Position'] == position_team)]
-        print(team_def)
         team_def.set_index(['Position'], inplace = True)
         team_def = team_def[['Points', 'Rebounds', 'Assists']].style.applymap(color_ranking_pos)
         st.dataframe(team_def)
@@ -985,10 +1023,10 @@ elif view == "Over/Under Stats L10":
     over_under_stats = calculate_over_under_stats(most_recent_games)
     # odds['Average_Implied_Probability'] = odds.apply(average_implied_probability, axis=1)
 
-
-  
+    
     combined_df = pd.merge(over_under_stats, odds, on=['PlayerName', 'Prop'])
     # combined_df['Games_Played'] = combined_df['PlayerName'].map(total_games_played_series)
+    # Apply the function to create the Opponent column
 
 
     combined_df.drop(['level_3', 'Exact %'], axis =1, inplace = True)

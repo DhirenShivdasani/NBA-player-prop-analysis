@@ -184,7 +184,7 @@ def analyze_prop_bet_enhanced(dataframe, player_name, team, opponent, injured_pl
                                              right=False)
 
     # Check the Lakers' (or specified team's) last game rest situation
-    latest_game_rest_category = team_data.iloc[-1]['Rest_Days_Category']
+    latest_game_rest_category = team_data.iloc[-2]['Rest_Days_Category']
 
 
 

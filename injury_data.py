@@ -47,7 +47,6 @@ today = datetime.now()
 
 # Format the date as 'month-day-2-digit year'
 date_str = f"{today.month}-{today.day}-{today.strftime('%y')}"
-print(date_str)
 # Construct the URL with the current date
 
 url = f"https://underdognetwork.com/basketball/news-and-lineups/nba-news-and-fantasy-basketball-notes-{date_str}"

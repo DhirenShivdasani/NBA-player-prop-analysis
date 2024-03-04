@@ -1,490 +1,247 @@
 ,Name,Team,Value,Prop
-0,Brandin Podziemski,GSW - G,9.5,Points
-1,Derrick White,BOS - G,15.5,Points
-2,Jonathan Kuminga,GSW - F,18.5,Points
-3,Jaylen Brown,BOS - G-F,24.5,Points
-4,Stephen Curry,GSW - G,26.5,Points
-5,Jayson Tatum,BOS - F-G,29.5,Points
-6,Jrue Holiday,BOS - G,13.5,Points
-7,Anthony Edwards,MIN - G,27.5,Points
-8,Kawhi Leonard,LAC - F,24.5,Points
-9,Karl-Anthony Towns,MIN - C-F,20.5,Points
-10,Paul George,LAC - F,19.5,Points
-11,Rudy Gobert,MIN - C,13.5,Points
-12,James Harden,LAC - G,16.5,Points
-13,Mike Conley,MIN - G,10.5,Points
-14,Ivica Zubac,LAC - C,9.5,Points
-15,Jaden McDaniels,MIN - F,9.5,Points
-16,Terance Mann,LAC - G-F,8.5,Points
-17,Ausar Thompson,DET - G-F,9.5,Points
-18,Franz Wagner,ORL - F,19.5,Points
-19,Cade Cunningham,DET - G,22.5,Points
-20,Gary Harris,ORL - G,7.5,Points
-21,Isaiah Stewart,DET - F-C,10.5,Points
-22,Jalen Suggs,ORL - G,11.0,Points
-23,Jaden Ivey,DET - G,15.5,Points
-24,Paolo Banchero,ORL - F,21.5,Points
-25,Jalen Duren,DET - C,12.5,Points
-26,Wendell Carter Jr.,ORL - C-F,10.5,Points
-27,Cole Anthony,ORL - G,10.0,Points
-28,Moritz Wagner,ORL - F-C,10.5,Points
-29,RJ Barrett,TOR - F-G,22.5,Points
-30,Miles Bridges,CHA - F,23.5,Points
-31,Immanuel Quickley,TOR - G,21.5,Points
-32,Brandon Miller,CHA - F-G,20.5,Points
-33,Gary Trent Jr.,TOR - G,14.0,Points
-34,Tre Mann,CHA - G,14.0,Points
-35,Jakob Poeltl,TOR - C,13.5,Points
-36,Nick Richards,CHA - C,12.5,Points
-37,Donovan Mitchell,CLE - G,25.5,Points
-38,Donte DiVincenzo,NYK - G,17.5,Points
-39,Precious Achiuwa,NYK - F,9.5,Points
-40,Jalen Brunson,NYK - G,29.5,Points
-41,Josh Hart,NYK - G,12.0,Points
-42,Victor Wembanyama,SAS - F-C,24.5,Points
-43,Pascal Siakam,IND - F,21.5,Points
-44,Devin Vassell,SAS - G,22.5,Points
-45,Tyrese Haliburton,IND - G,18.5,Points
-46,Jeremy Sochan,SAS - F,11.5,Points
-47,Myles Turner,IND - C-F,16.5,Points
-48,Tre Jones,SAS - G,9.5,Points
-49,Aaron Nesmith,IND - G-F,12.5,Points
-50,Andrew Nembhard,IND - G-F,10.5,Points
-51,Shai Gilgeous-Alexander,OKC - G,32.0,Points
-52,Jalen Williams,OKC - G-F,19.5,Points
-53,Chet Holmgren,OKC - C-F,16.5,Points
-54,Josh Giddey,OKC - G,9.5,Points
-55,Luguentz Dort,OKC - G,9.5,Points
-56,Brandin Podziemski,GSW - G,19.5,Pts+Rebs+Asts
-57,Derrick White,BOS - G,24.5,Pts+Rebs+Asts
-58,Jonathan Kuminga,GSW - F,27.5,Pts+Rebs+Asts
-59,Jaylen Brown,BOS - G-F,34.5,Pts+Rebs+Asts
-60,Stephen Curry,GSW - G,35.5,Pts+Rebs+Asts
-61,Jayson Tatum,BOS - F-G,44.5,Pts+Rebs+Asts
-62,Jrue Holiday,BOS - G,23.5,Pts+Rebs+Asts
-63,Anthony Edwards,MIN - G,37.5,Pts+Rebs+Asts
-64,Kawhi Leonard,LAC - F,35.5,Pts+Rebs+Asts
-65,Karl-Anthony Towns,MIN - C-F,31.0,Pts+Rebs+Asts
-66,Paul George,LAC - F,28.5,Pts+Rebs+Asts
-67,Rudy Gobert,MIN - C,27.5,Pts+Rebs+Asts
-68,James Harden,LAC - G,29.5,Pts+Rebs+Asts
-69,Mike Conley,MIN - G,18.5,Pts+Rebs+Asts
-70,Ivica Zubac,LAC - C,18.5,Pts+Rebs+Asts
-71,Ausar Thompson,DET - G-F,17.5,Pts+Rebs+Asts
-72,Franz Wagner,ORL - F,29.5,Pts+Rebs+Asts
-73,Cade Cunningham,DET - G,32.5,Pts+Rebs+Asts
-74,Isaiah Stewart,DET - F-C,17.5,Pts+Rebs+Asts
-75,Jaden Ivey,DET - G,21.5,Pts+Rebs+Asts
-76,Paolo Banchero,ORL - F,33.5,Pts+Rebs+Asts
-77,Jalen Duren,DET - C,26.5,Pts+Rebs+Asts
-78,Wendell Carter Jr.,ORL - C-F,18.5,Pts+Rebs+Asts
-79,Cole Anthony,ORL - G,16.5,Pts+Rebs+Asts
-80,Moritz Wagner,ORL - F-C,16.5,Pts+Rebs+Asts
-81,RJ Barrett,TOR - F-G,34.5,Pts+Rebs+Asts
-82,Miles Bridges,CHA - F,37.5,Pts+Rebs+Asts
-83,Immanuel Quickley,TOR - G,33.5,Pts+Rebs+Asts
-84,Brandon Miller,CHA - F-G,28.5,Pts+Rebs+Asts
-85,Gary Trent Jr.,TOR - G,19.0,Pts+Rebs+Asts
-86,Tre Mann,CHA - G,24.5,Pts+Rebs+Asts
-87,Jakob Poeltl,TOR - C,27.5,Pts+Rebs+Asts
-88,Nick Richards,CHA - C,23.5,Pts+Rebs+Asts
-89,Donovan Mitchell,CLE - G,35.5,Pts+Rebs+Asts
-90,Donte DiVincenzo,NYK - G,23.5,Pts+Rebs+Asts
-91,Precious Achiuwa,NYK - F,19.5,Pts+Rebs+Asts
-92,Jalen Brunson,NYK - G,40.5,Pts+Rebs+Asts
-93,Josh Hart,NYK - G,26.5,Pts+Rebs+Asts
-94,Victor Wembanyama,SAS - F-C,40.5,Pts+Rebs+Asts
-95,Pascal Siakam,IND - F,32.5,Pts+Rebs+Asts
-96,Devin Vassell,SAS - G,31.5,Pts+Rebs+Asts
-97,Tyrese Haliburton,IND - G,34.5,Pts+Rebs+Asts
-98,Jeremy Sochan,SAS - F,19.5,Pts+Rebs+Asts
-99,Myles Turner,IND - C-F,25.5,Pts+Rebs+Asts
-100,Tre Jones,SAS - G,20.5,Pts+Rebs+Asts
-101,Aaron Nesmith,IND - G-F,17.5,Pts+Rebs+Asts
-102,Andrew Nembhard,IND - G-F,16.5,Pts+Rebs+Asts
-103,Shai Gilgeous-Alexander,OKC - G,44.5,Pts+Rebs+Asts
-104,Jalen Williams,OKC - G-F,28.5,Pts+Rebs+Asts
-105,Chet Holmgren,OKC - C-F,27.5,Pts+Rebs+Asts
-106,Josh Giddey,OKC - G,18.5,Pts+Rebs+Asts
-107,Derrick White,BOS - G,4.5,Assists
-108,Jonathan Kuminga,GSW - F,2.5,Assists
-109,Jaylen Brown,BOS - G-F,3.5,Assists
-110,Stephen Curry,GSW - G,4.5,Assists
-111,Jayson Tatum,BOS - F-G,5.5,Assists
-112,Jrue Holiday,BOS - G,5.0,Assists
-113,Anthony Edwards,MIN - G,4.5,Assists
-114,Kawhi Leonard,LAC - F,3.5,Assists
-115,James Harden,LAC - G,8.0,Assists
-116,Mike Conley,MIN - G,6.0,Assists
-117,Franz Wagner,ORL - F,4.0,Assists
-118,Cade Cunningham,DET - G,6.5,Assists
-119,Jalen Suggs,ORL - G,2.5,Assists
-120,Paolo Banchero,ORL - F,5.5,Assists
-121,Cole Anthony,ORL - G,2.5,Assists
-122,RJ Barrett,TOR - F-G,4.5,Assists
-123,Immanuel Quickley,TOR - G,7.0,Assists
-124,Donovan Mitchell,CLE - G,5.0,Assists
-125,Donte DiVincenzo,NYK - G,2.5,Assists
-126,Jalen Brunson,NYK - G,7.0,Assists
-127,Josh Hart,NYK - G,5.0,Assists
-128,Devin Vassell,SAS - G,4.5,Assists
-129,Tyrese Haliburton,IND - G,12.0,Assists
-130,Tre Jones,SAS - G,7.0,Assists
-131,Andrew Nembhard,IND - G-F,3.5,Assists
-132,Shai Gilgeous-Alexander,OKC - G,6.5,Assists
-133,Chet Holmgren,OKC - C-F,2.5,Assists
-134,Josh Giddey,OKC - G,3.5,Assists
-135,Brandin Podziemski,GSW - G,5.5,Rebounds
-136,Jonathan Kuminga,GSW - F,5.5,Rebounds
-137,Jaylen Brown,BOS - G-F,6.5,Rebounds
-138,Stephen Curry,GSW - G,4.0,Rebounds
-139,Jayson Tatum,BOS - F-G,9.0,Rebounds
-140,Jrue Holiday,BOS - G,4.5,Rebounds
-141,Anthony Edwards,MIN - G,4.5,Rebounds
-142,Kawhi Leonard,LAC - F,6.0,Rebounds
-143,Karl-Anthony Towns,MIN - C-F,7.0,Rebounds
-144,Paul George,LAC - F,5.0,Rebounds
-145,Rudy Gobert,MIN - C,12.5,Rebounds
-146,James Harden,LAC - G,5.0,Rebounds
-147,Mike Conley,MIN - G,2.5,Rebounds
-148,Ivica Zubac,LAC - C,8.0,Rebounds
-149,Jaden McDaniels,MIN - F,2.5,Rebounds
-150,Terance Mann,LAC - G-F,3.5,Rebounds
-151,Ausar Thompson,DET - G-F,5.5,Rebounds
-152,Franz Wagner,ORL - F,5.0,Rebounds
-153,Cade Cunningham,DET - G,3.5,Rebounds
-154,Isaiah Stewart,DET - F-C,6.0,Rebounds
-155,Paolo Banchero,ORL - F,6.0,Rebounds
-156,Jalen Duren,DET - C,11.0,Rebounds
-157,Wendell Carter Jr.,ORL - C-F,6.5,Rebounds
-158,Moritz Wagner,ORL - F-C,5.0,Rebounds
-159,Miles Bridges,CHA - F,9.5,Rebounds
-160,Immanuel Quickley,TOR - G,4.5,Rebounds
-161,Brandon Miller,CHA - F-G,5.0,Rebounds
-162,Jakob Poeltl,TOR - C,10.5,Rebounds
-163,Nick Richards,CHA - C,9.5,Rebounds
-164,Donovan Mitchell,CLE - G,4.5,Rebounds
-165,Donte DiVincenzo,NYK - G,3.5,Rebounds
-166,Precious Achiuwa,NYK - F,8.5,Rebounds
-167,Jalen Brunson,NYK - G,3.5,Rebounds
-168,Josh Hart,NYK - G,8.5,Rebounds
-169,Victor Wembanyama,SAS - F-C,11.5,Rebounds
-170,Pascal Siakam,IND - F,6.5,Rebounds
-171,Tyrese Haliburton,IND - G,3.5,Rebounds
-172,Jeremy Sochan,SAS - F,6.0,Rebounds
-173,Myles Turner,IND - C-F,7.5,Rebounds
-174,Shai Gilgeous-Alexander,OKC - G,5.5,Rebounds
-175,Jalen Williams,OKC - G-F,4.0,Rebounds
-176,Chet Holmgren,OKC - C-F,8.5,Rebounds
-177,Josh Giddey,OKC - G,5.5,Rebounds
-178,Luguentz Dort,OKC - G,3.5,Rebounds
-179,Derrick White,BOS - G,33.0,Fantasy Score
-180,Jaylen Brown,BOS - G-F,39.5,Fantasy Score
-181,Jayson Tatum,BOS - F-G,50.5,Fantasy Score
-182,Anthony Edwards,MIN - G,41.0,Fantasy Score
-183,Kawhi Leonard,LAC - F,43.0,Fantasy Score
-184,Karl-Anthony Towns,MIN - C-F,33.5,Fantasy Score
-185,Paul George,LAC - F,32.5,Fantasy Score
-186,Rudy Gobert,MIN - C,37.0,Fantasy Score
-187,James Harden,LAC - G,35.0,Fantasy Score
-188,Mike Conley,MIN - G,24.0,Fantasy Score
-189,Ivica Zubac,LAC - C,24.0,Fantasy Score
-190,Jaden McDaniels,MIN - F,16.5,Fantasy Score
-191,Terance Mann,LAC - G-F,16.0,Fantasy Score
-192,Ausar Thompson,DET - G-F,24.5,Fantasy Score
-193,Franz Wagner,ORL - F,34.0,Fantasy Score
-194,Cade Cunningham,DET - G,36.0,Fantasy Score
-195,Gary Harris,ORL - G,15.5,Fantasy Score
-196,Isaiah Stewart,DET - F-C,21.0,Fantasy Score
-197,Jalen Suggs,ORL - G,23.0,Fantasy Score
-198,Jaden Ivey,DET - G,24.0,Fantasy Score
-199,Paolo Banchero,ORL - F,38.5,Fantasy Score
-200,Jalen Duren,DET - C,32.5,Fantasy Score
-201,Wendell Carter Jr.,ORL - C-F,22.0,Fantasy Score
-202,RJ Barrett,TOR - F-G,37.5,Fantasy Score
-203,Miles Bridges,CHA - F,42.5,Fantasy Score
-204,Immanuel Quickley,TOR - G,38.5,Fantasy Score
-205,Brandon Miller,CHA - F-G,33.5,Fantasy Score
-206,Gary Trent Jr.,TOR - G,23.5,Fantasy Score
-207,Tre Mann,CHA - G,31.0,Fantasy Score
-208,Jakob Poeltl,TOR - C,35.5,Fantasy Score
-209,Shai Gilgeous-Alexander,OKC - G,52.0,Fantasy Score
-210,Jalen Williams,OKC - G-F,34.0,Fantasy Score
-211,Chet Holmgren,OKC - C-F,38.0,Fantasy Score
-212,Josh Giddey,OKC - G,22.5,Fantasy Score
-213,Luguentz Dort,OKC - G,18.0,Fantasy Score
-214,Paul George,LAC - F,2.5,3-PT Made
-215,Franz Wagner,ORL - F,1.5,3-PT Made
-216,Jaden Ivey,DET - G,1.5,3-PT Made
-217,Brandon Miller,CHA - F-G,2.5,3-PT Made
-218,Tre Mann,CHA - G,1.5,3-PT Made
-219,Jalen Brunson,NYK - G,2.5,3-PT Made
-220,Devin Vassell,SAS - G,2.5,3-PT Made
-221,Tyrese Haliburton,IND - G,2.5,3-PT Made
-222,Jalen Williams,OKC - G-F,1.5,3-PT Made
-223,Karl-Anthony Towns,MIN - C-F,5.5,Defensive Rebounds
-224,Rudy Gobert,MIN - C,9.0,Defensive Rebounds
-225,Jalen Duren,DET - C,8.0,Defensive Rebounds
-226,Wendell Carter Jr.,ORL - C-F,4.5,Defensive Rebounds
-227,Jakob Poeltl,TOR - C,6.5,Defensive Rebounds
-228,Chet Holmgren,OKC - C-F,7.0,Defensive Rebounds
-229,Derrick White,BOS - G,0.5,Offensive Rebounds
-230,Anthony Edwards,MIN - G,0.5,Offensive Rebounds
-231,Karl-Anthony Towns,MIN - C-F,1.5,Offensive Rebounds
-232,Paul George,LAC - F,0.5,Offensive Rebounds
-233,Rudy Gobert,MIN - C,3.5,Offensive Rebounds
-234,James Harden,LAC - G,0.5,Offensive Rebounds
-235,Ivica Zubac,LAC - C,3.0,Offensive Rebounds
-236,Jaden McDaniels,MIN - F,0.5,Offensive Rebounds
-237,Jalen Duren,DET - C,3.5,Offensive Rebounds
-238,Chet Holmgren,OKC - C-F,1.5,Offensive Rebounds
-239,Anthony Edwards,MIN - G,7.0,3-PT Attempted
-240,Karl-Anthony Towns,MIN - C-F,6.0,3-PT Attempted
-241,James Harden,LAC - G,7.0,3-PT Attempted
-242,Paolo Banchero,ORL - F,4.5,3-PT Attempted
-243,Miles Bridges,CHA - F,7.0,3-PT Attempted
-244,Immanuel Quickley,TOR - G,8.5,3-PT Attempted
-245,Gary Trent Jr.,TOR - G,7.0,3-PT Attempted
-246,Shai Gilgeous-Alexander,OKC - G,3.5,3-PT Attempted
-247,Chet Holmgren,OKC - C-F,4.5,3-PT Attempted
-248,Stephen Curry + Jayson Tatum,GSW/BOS - G/F,56.0,Points (Combo)
-249,Kawhi Leonard + Anthony Edwards,LAC/MIN - F/G,52.5,Points (Combo)
-250,Cade Cunningham + Paolo Banchero,DET/ORL - G/F,43.5,Points (Combo)
-251,Jalen Brunson + Donovan Mitchell,NYK/CLE - G,55.5,Points (Combo)
-252,Tyrese Haliburton + Victor Wembanyama,IND/SAS - G/F,43.5,Points (Combo)
-253,Jalen Brunson + Anthony Edwards,NYK/MIN - G,57.5,Points (Combo)
-254,James Harden + Mike Conley,LAC/MIN - G,14.0,Assists (Combo)
-255,Tyrese Haliburton + Tre Jones,IND/SAS - G,19.0,Assists (Combo)
-256,James Harden + Jalen Brunson,LAC/NYK - G,15.0,Assists (Combo)
-257,Ivica Zubac + Rudy Gobert,LAC/MIN - C,21.0,Rebounds (Combo)
-258,Jalen Duren + Paolo Banchero,DET/ORL - C/F,17.5,Rebounds (Combo)
-259,Myles Turner + Victor Wembanyama,IND/SAS - C/F,19.0,Rebounds (Combo)
-260,Josh Hart + Jalen Duren,NYK/DET - G/C,20.0,Rebounds (Combo)
-261,Paul George + Anthony Edwards,LAC/MIN - F/G,5.0,3-PT Made (Combo)
-262,Brandon Miller + Immanuel Quickley,CHA/TOR - F/G,6.0,3-PT Made (Combo)
-263,Jalen Brunson + Donovan Mitchell,NYK/CLE - G,5.5,3-PT Made (Combo)
-264,Tyrese Haliburton + Devin Vassell,IND/SAS - G,5.5,3-PT Made (Combo)
-265,Stephen Curry + Donovan Mitchell,GSW/CLE - PG/SG,8.0,3-PT Made (Combo)
-266,Anthony Edwards,MIN - G,5.5,Free Throws Made
-267,Karl-Anthony Towns,MIN - C-F,4.5,Free Throws Made
-268,James Harden,LAC - G,4.5,Free Throws Made
-269,Mike Conley,MIN - G,1.5,Free Throws Made
-270,Ivica Zubac,LAC - C,1.5,Free Throws Made
-271,Franz Wagner,ORL - F,4.0,Free Throws Made
-272,Cade Cunningham,DET - G,4.0,Free Throws Made
-273,Gary Harris,ORL - G,0.5,Free Throws Made
-274,Isaiah Stewart,DET - F-C,1.5,Free Throws Made
-275,Jalen Suggs,ORL - G,1.5,Free Throws Made
-276,Jaden Ivey,DET - G,3.5,Free Throws Made
-277,Paolo Banchero,ORL - F,5.0,Free Throws Made
-278,RJ Barrett,TOR - F-G,3.5,Free Throws Made
-279,Shai Gilgeous-Alexander,OKC - G,8.0,Free Throws Made
-280,Jalen Williams,OKC - G-F,2.5,Free Throws Made
-281,Chet Holmgren,OKC - C-F,2.5,Free Throws Made
-282,Josh Giddey,OKC - G,1.5,Free Throws Made
-283,Luguentz Dort,OKC - G,1.5,Free Throws Made
-284,Anthony Edwards,MIN - G,20.5,FG Attempted
-285,Kawhi Leonard,LAC - F,18.0,FG Attempted
-286,Karl-Anthony Towns,MIN - C-F,15.0,FG Attempted
-287,James Harden,LAC - G,12.0,FG Attempted
-288,Paolo Banchero,ORL - F,17.5,FG Attempted
-289,Miles Bridges,CHA - F,18.5,FG Attempted
-290,Immanuel Quickley,TOR - G,17.0,FG Attempted
-291,Shai Gilgeous-Alexander,OKC - G,21.5,FG Attempted
-292,Jalen Williams,OKC - G-F,14.5,FG Attempted
-293,Chet Holmgren,OKC - C-F,13.0,FG Attempted
-294,Brandin Podziemski,GSW - G,15.5,Pts+Rebs
-295,Derrick White,BOS - G,19.5,Pts+Rebs
-296,Jonathan Kuminga,GSW - F,24.5,Pts+Rebs
-297,Jaylen Brown,BOS - G-F,31.5,Pts+Rebs
-298,Jayson Tatum,BOS - F-G,38.5,Pts+Rebs
-299,Jrue Holiday,BOS - G,18.5,Pts+Rebs
-300,Anthony Edwards,MIN - G,32.5,Pts+Rebs
-301,Kawhi Leonard,LAC - F,31.5,Pts+Rebs
-302,Karl-Anthony Towns,MIN - C-F,28.5,Pts+Rebs
-303,Paul George,LAC - F,24.5,Pts+Rebs
-304,Rudy Gobert,MIN - C,26.5,Pts+Rebs
-305,James Harden,LAC - G,21.5,Pts+Rebs
-306,Mike Conley,MIN - G,12.5,Pts+Rebs
-307,Ivica Zubac,LAC - C,17.5,Pts+Rebs
-308,Jaden McDaniels,MIN - F,11.5,Pts+Rebs
-309,Terance Mann,LAC - G-F,12.5,Pts+Rebs
-310,Ausar Thompson,DET - G-F,15.5,Pts+Rebs
-311,Franz Wagner,ORL - F,24.5,Pts+Rebs
-312,Cade Cunningham,DET - G,26.5,Pts+Rebs
-313,Isaiah Stewart,DET - F-C,16.5,Pts+Rebs
-314,Jalen Suggs,ORL - G,14.0,Pts+Rebs
-315,Jaden Ivey,DET - G,18.5,Pts+Rebs
-316,Paolo Banchero,ORL - F,27.5,Pts+Rebs
-317,Jalen Duren,DET - C,24.5,Pts+Rebs
-318,Wendell Carter Jr.,ORL - C-F,17.5,Pts+Rebs
-319,Cole Anthony,ORL - G,13.0,Pts+Rebs
-320,Moritz Wagner,ORL - F-C,15.5,Pts+Rebs
-321,RJ Barrett,TOR - F-G,29.5,Pts+Rebs
-322,Miles Bridges,CHA - F,33.5,Pts+Rebs
-323,Immanuel Quickley,TOR - G,26.5,Pts+Rebs
-324,Brandon Miller,CHA - F-G,25.5,Pts+Rebs
-325,Gary Trent Jr.,TOR - G,17.5,Pts+Rebs
-326,Tre Mann,CHA - G,18.5,Pts+Rebs
-327,Jakob Poeltl,TOR - C,24.5,Pts+Rebs
-328,Nick Richards,CHA - C,21.5,Pts+Rebs
-329,Donovan Mitchell,CLE - G,29.5,Pts+Rebs
-330,Donte DiVincenzo,NYK - G,20.5,Pts+Rebs
-331,Precious Achiuwa,NYK - F,17.5,Pts+Rebs
-332,Jalen Brunson,NYK - G,33.5,Pts+Rebs
-333,Josh Hart,NYK - G,21.5,Pts+Rebs
-334,Victor Wembanyama,SAS - F-C,36.5,Pts+Rebs
-335,Pascal Siakam,IND - F,28.5,Pts+Rebs
-336,Devin Vassell,SAS - G,26.5,Pts+Rebs
-337,Tyrese Haliburton,IND - G,21.5,Pts+Rebs
-338,Jeremy Sochan,SAS - F,17.5,Pts+Rebs
-339,Myles Turner,IND - C-F,24.0,Pts+Rebs
-340,Tre Jones,SAS - G,13.0,Pts+Rebs
-341,Aaron Nesmith,IND - G-F,16.5,Pts+Rebs
-342,Andrew Nembhard,IND - G-F,12.5,Pts+Rebs
-343,Shai Gilgeous-Alexander,OKC - G,37.5,Pts+Rebs
-344,Jalen Williams,OKC - G-F,23.5,Pts+Rebs
-345,Chet Holmgren,OKC - C-F,25.5,Pts+Rebs
-346,Josh Giddey,OKC - G,14.5,Pts+Rebs
-347,Luguentz Dort,OKC - G,13.5,Pts+Rebs
-348,Jaylen Brown,BOS - G-F,0.5,Dunks
-349,Anthony Edwards,MIN - G,0.5,Dunks
-350,Karl-Anthony Towns,MIN - C-F,0.5,Dunks
-351,Rudy Gobert,MIN - C,2.5,Dunks
-352,Ivica Zubac,LAC - C,1.5,Dunks
-353,Paolo Banchero,ORL - F,0.5,Dunks
-354,Shai Gilgeous-Alexander,OKC - G,0.5,Dunks
-355,Chet Holmgren,OKC - C-F,1.5,Dunks
-356,Brandin Podziemski,GSW - G,13.5,Pts+Asts
-357,Derrick White,BOS - G,20.5,Pts+Asts
-358,Jonathan Kuminga,GSW - F,21.5,Pts+Asts
-359,Jaylen Brown,BOS - G-F,28.5,Pts+Asts
-360,Jayson Tatum,BOS - F-G,35.5,Pts+Asts
-361,Jrue Holiday,BOS - G,18.5,Pts+Asts
-362,Anthony Edwards,MIN - G,32.5,Pts+Asts
-363,Kawhi Leonard,LAC - F,28.5,Pts+Asts
-364,Karl-Anthony Towns,MIN - C-F,23.5,Pts+Asts
-365,Paul George,LAC - F,23.5,Pts+Asts
-366,Rudy Gobert,MIN - C,15.5,Pts+Asts
-367,James Harden,LAC - G,24.5,Pts+Asts
-368,Mike Conley,MIN - G,16.5,Pts+Asts
-369,Ivica Zubac,LAC - C,10.5,Pts+Asts
-370,Jaden McDaniels,MIN - F,10.5,Pts+Asts
-371,Terance Mann,LAC - G-F,10.5,Pts+Asts
-372,Ausar Thompson,DET - G-F,11.5,Pts+Asts
-373,Franz Wagner,ORL - F,23.5,Pts+Asts
-374,Cade Cunningham,DET - G,29.5,Pts+Asts
-375,Isaiah Stewart,DET - F-C,11.5,Pts+Asts
-376,Jalen Suggs,ORL - G,13.5,Pts+Asts
-377,Jaden Ivey,DET - G,18.5,Pts+Asts
-378,Paolo Banchero,ORL - F,27.5,Pts+Asts
-379,Jalen Duren,DET - C,15.5,Pts+Asts
-380,Wendell Carter Jr.,ORL - C-F,11.5,Pts+Asts
-381,Cole Anthony,ORL - G,13.0,Pts+Asts
-382,Moritz Wagner,ORL - F-C,11.5,Pts+Asts
-383,RJ Barrett,TOR - F-G,27.5,Pts+Asts
-384,Miles Bridges,CHA - F,27.5,Pts+Asts
-385,Immanuel Quickley,TOR - G,28.5,Pts+Asts
-386,Brandon Miller,CHA - F-G,23.5,Pts+Asts
-387,Gary Trent Jr.,TOR - G,15.5,Pts+Asts
-388,Tre Mann,CHA - G,18.5,Pts+Asts
-389,Jakob Poeltl,TOR - C,16.5,Pts+Asts
-390,Nick Richards,CHA - C,13.5,Pts+Asts
-391,Donovan Mitchell,CLE - G,30.5,Pts+Asts
-392,Donte DiVincenzo,NYK - G,20.5,Pts+Asts
-393,Precious Achiuwa,NYK - F,10.5,Pts+Asts
-394,Jalen Brunson,NYK - G,36.5,Pts+Asts
-395,Josh Hart,NYK - G,17.5,Pts+Asts
-396,Victor Wembanyama,SAS - F-C,29.5,Pts+Asts
-397,Pascal Siakam,IND - F,25.5,Pts+Asts
-398,Devin Vassell,SAS - G,27.5,Pts+Asts
-399,Tyrese Haliburton,IND - G,31.0,Pts+Asts
-400,Jeremy Sochan,SAS - F,13.5,Pts+Asts
-401,Myles Turner,IND - C-F,17.5,Pts+Asts
-402,Tre Jones,SAS - G,17.5,Pts+Asts
-403,Aaron Nesmith,IND - G-F,13.5,Pts+Asts
-404,Andrew Nembhard,IND - G-F,14.5,Pts+Asts
-405,Shai Gilgeous-Alexander,OKC - G,38.5,Pts+Asts
-406,Jalen Williams,OKC - G-F,24.5,Pts+Asts
-407,Chet Holmgren,OKC - C-F,19.5,Pts+Asts
-408,Josh Giddey,OKC - G,12.5,Pts+Asts
-409,Luguentz Dort,OKC - G,10.5,Pts+Asts
-410,Jrue Holiday,BOS - G,0.5,Blocked Shots
-411,Karl-Anthony Towns,MIN - C-F,0.5,Blocked Shots
-412,James Harden,LAC - G,0.5,Blocked Shots
-413,Wendell Carter Jr.,ORL - C-F,0.5,Blocked Shots
-414,Jakob Poeltl,TOR - C,1.5,Blocked Shots
-415,Victor Wembanyama,SAS - F-C,3.5,Blocked Shots
-416,Myles Turner,IND - C-F,1.5,Blocked Shots
-417,Jonathan Kuminga,GSW - F,0.5,Steals
-418,Rudy Gobert,MIN - C,0.5,Steals
-419,Isaiah Stewart,DET - F-C,0.5,Steals
-420,Moritz Wagner,ORL - F-C,0.5,Steals
-421,Jakob Poeltl,TOR - C,0.5,Steals
-422,Victor Wembanyama,SAS - F-C,1.5,Steals
-423,Shai Gilgeous-Alexander,OKC - G,1.5,Steals
-424,Brandin Podziemski,GSW - G,9.5,Rebs+Asts
-425,Derrick White,BOS - G,8.5,Rebs+Asts
-426,Jonathan Kuminga,GSW - F,8.5,Rebs+Asts
-427,Jaylen Brown,BOS - G-F,9.5,Rebs+Asts
-428,Stephen Curry,GSW - G,9.0,Rebs+Asts
-429,Jayson Tatum,BOS - F-G,14.5,Rebs+Asts
-430,Jrue Holiday,BOS - G,10.0,Rebs+Asts
-431,Anthony Edwards,MIN - G,9.5,Rebs+Asts
-432,Kawhi Leonard,LAC - F,10.0,Rebs+Asts
-433,Karl-Anthony Towns,MIN - C-F,10.0,Rebs+Asts
-434,Paul George,LAC - F,8.0,Rebs+Asts
-435,Rudy Gobert,MIN - C,13.5,Rebs+Asts
-436,James Harden,LAC - G,13.0,Rebs+Asts
-437,Mike Conley,MIN - G,8.5,Rebs+Asts
-438,Ivica Zubac,LAC - C,9.5,Rebs+Asts
-439,Ausar Thompson,DET - G-F,7.5,Rebs+Asts
-440,Franz Wagner,ORL - F,9.5,Rebs+Asts
-441,Cade Cunningham,DET - G,10.5,Rebs+Asts
-442,Isaiah Stewart,DET - F-C,7.5,Rebs+Asts
-443,Paolo Banchero,ORL - F,11.5,Rebs+Asts
-444,Jalen Duren,DET - C,13.5,Rebs+Asts
-445,Wendell Carter Jr.,ORL - C-F,8.0,Rebs+Asts
-446,RJ Barrett,TOR - F-G,11.0,Rebs+Asts
-447,Miles Bridges,CHA - F,13.5,Rebs+Asts
-448,Immanuel Quickley,TOR - G,12.0,Rebs+Asts
-449,Brandon Miller,CHA - F-G,8.0,Rebs+Asts
-450,Tre Mann,CHA - G,10.5,Rebs+Asts
-451,Jakob Poeltl,TOR - C,13.5,Rebs+Asts
-452,Nick Richards,CHA - C,10.5,Rebs+Asts
-453,Donovan Mitchell,CLE - G,9.5,Rebs+Asts
-454,Precious Achiuwa,NYK - F,9.5,Rebs+Asts
-455,Jalen Brunson,NYK - G,10.5,Rebs+Asts
-456,Josh Hart,NYK - G,13.5,Rebs+Asts
-457,Victor Wembanyama,SAS - F-C,15.5,Rebs+Asts
-458,Pascal Siakam,IND - F,10.5,Rebs+Asts
-459,Devin Vassell,SAS - G,8.5,Rebs+Asts
-460,Tyrese Haliburton,IND - G,15.5,Rebs+Asts
-461,Jeremy Sochan,SAS - F,8.0,Rebs+Asts
-462,Myles Turner,IND - C-F,8.5,Rebs+Asts
-463,Tre Jones,SAS - G,10.5,Rebs+Asts
-464,Shai Gilgeous-Alexander,OKC - G,12.5,Rebs+Asts
-465,Jalen Williams,OKC - G-F,9.0,Rebs+Asts
-466,Chet Holmgren,OKC - C-F,11.5,Rebs+Asts
-467,Josh Giddey,OKC - G,9.0,Rebs+Asts
-468,Jaylen Brown,BOS - G-F,1.5,Blks+Stls
-469,Kawhi Leonard,LAC - F,2.5,Blks+Stls
-470,Paul George,LAC - F,1.5,Blks+Stls
-471,Rudy Gobert,MIN - C,2.5,Blks+Stls
-472,James Harden,LAC - G,1.5,Blks+Stls
-473,Terance Mann,LAC - G-F,0.5,Blks+Stls
-474,Franz Wagner,ORL - F,1.5,Blks+Stls
-475,Paolo Banchero,ORL - F,1.5,Blks+Stls
-476,Jalen Duren,DET - C,1.5,Blks+Stls
-477,Donte DiVincenzo,NYK - G,1.5,Blks+Stls
-478,Aaron Nesmith,IND - G-F,1.5,Blks+Stls
-479,Jalen Williams,OKC - G-F,1.5,Blks+Stls
-480,Jaylen Brown,BOS - G-F,2.5,Turnovers
-481,Paolo Banchero,ORL - F,2.5,Turnovers
-482,Jalen Brunson,NYK - G,3.5,Turnovers
-483,Pascal Siakam,IND - F,1.5,Turnovers
-484,Jeremy Sochan,SAS - F,1.5,Turnovers
-485,Myles Turner,IND - C-F,1.5,Turnovers
-486,Shai Gilgeous-Alexander,OKC - G,2.5,Turnovers
-487,Chet Holmgren,OKC - C-F,1.5,Turnovers
-488,Josh Giddey,OKC - G,1.5,Turnovers
+0,Mikal Bridges,BKN - F,23.0,Points
+1,Nicolas Claxton,BKN - C,12.5,Points
+2,Cameron Johnson,BKN - F,15.5,Points
+3,Dorian Finney-Smith,BKN - F,8.5,Points
+4,Anthony Edwards,MIN - G,26.5,Points
+5,Deandre Ayton,POR - C,16.5,Points
+6,Karl-Anthony Towns,MIN - C-F,20.5,Points
+7,Rudy Gobert,MIN - C,14.5,Points
+8,Mike Conley,MIN - G,9.5,Points
+9,Jaden McDaniels,MIN - F,9.5,Points
+10,Giannis Antetokounmpo,MIL - F,31.5,Points
+11,Kawhi Leonard,LAC - F,26.5,Points
+12,Malik Beasley,MIL - G,11.5,Points
+13,Paul George,LAC - F,19.5,Points
+14,James Harden,LAC - G,16.5,Points
+15,Kyle Kuzma,WAS - F,23.5,Points
+16,Collin Sexton,UTA - G,22.5,Points
+17,Marvin Bagley III,WAS - F-C,14.0,Points
+18,Keyonte George,UTA - G,17.5,Points
+19,Deni Avdija,WAS - F,14.5,Points
+20,John Collins,UTA - F-C,16.5,Points
+21,Tyus Jones,WAS - G,10.5,Points
+22,Taylor Hendricks,UTA - F,9.5,Points
+23,De'Aaron Fox,SAC - G,24.5,Points
+24,DeMar DeRozan,CHI - G-F,22.5,Points
+25,Coby White,CHI - G,21.5,Points
+26,Nikola Vucevic,CHI - C,19.5,Points
+27,Ayo Dosunmu,CHI - G,14.5,Points
+28,Alex Caruso,CHI - G,8.5,Points
+29,Shai Gilgeous-Alexander,OKC - G,30.5,Points
+30,LeBron James,LAL - F,25.5,Points
+31,Jalen Williams,OKC - G-F,20.5,Points
+32,Anthony Davis,LAL - F-C,26.0,Points
+33,Chet Holmgren,OKC - C-F,16.5,Points
+34,Luguentz Dort,OKC - G,10.5,Points
+35,Josh Giddey,OKC - G,9.5,Points
+36,Mikal Bridges,BKN - F,31.5,Pts+Rebs+Asts
+37,Nicolas Claxton,BKN - C,25.5,Pts+Rebs+Asts
+38,Cameron Johnson,BKN - F,23.5,Pts+Rebs+Asts
+39,Anthony Edwards,MIN - G,36.5,Pts+Rebs+Asts
+40,Deandre Ayton,POR - C,28.5,Pts+Rebs+Asts
+41,Karl-Anthony Towns,MIN - C-F,30.5,Pts+Rebs+Asts
+42,Rudy Gobert,MIN - C,28.5,Pts+Rebs+Asts
+43,Mike Conley,MIN - G,18.5,Pts+Rebs+Asts
+44,Giannis Antetokounmpo,MIL - F,50.5,Pts+Rebs+Asts
+45,Kawhi Leonard,LAC - F,37.5,Pts+Rebs+Asts
+46,Paul George,LAC - F,28.5,Pts+Rebs+Asts
+47,James Harden,LAC - G,30.5,Pts+Rebs+Asts
+48,Kyle Kuzma,WAS - F,33.5,Pts+Rebs+Asts
+49,Collin Sexton,UTA - G,31.5,Pts+Rebs+Asts
+50,Marvin Bagley III,WAS - F-C,23.5,Pts+Rebs+Asts
+51,Keyonte George,UTA - G,26.5,Pts+Rebs+Asts
+52,Deni Avdija,WAS - F,25.0,Pts+Rebs+Asts
+53,John Collins,UTA - F-C,29.5,Pts+Rebs+Asts
+54,Tyus Jones,WAS - G,23.5,Pts+Rebs+Asts
+55,Taylor Hendricks,UTA - F,18.5,Pts+Rebs+Asts
+56,De'Aaron Fox,SAC - G,34.5,Pts+Rebs+Asts
+57,DeMar DeRozan,CHI - G-F,32.5,Pts+Rebs+Asts
+58,Coby White,CHI - G,32.5,Pts+Rebs+Asts
+59,Nikola Vucevic,CHI - C,33.5,Pts+Rebs+Asts
+60,Ayo Dosunmu,CHI - G,22.5,Pts+Rebs+Asts
+61,LeBron James,LAL - F,39.5,Pts+Rebs+Asts
+62,Shai Gilgeous-Alexander,OKC - G,43.5,Pts+Rebs+Asts
+63,Anthony Davis,LAL - F-C,42.5,Pts+Rebs+Asts
+64,Jalen Williams,OKC - G-F,30.5,Pts+Rebs+Asts
+65,Chet Holmgren,OKC - C-F,28.5,Pts+Rebs+Asts
+66,Luguentz Dort,OKC - G,16.5,Pts+Rebs+Asts
+67,Josh Giddey,OKC - G,19.5,Pts+Rebs+Asts
+68,Mikal Bridges,BKN - F,3.5,Assists
+69,Anthony Edwards,MIN - G,4.5,Assists
+70,Mike Conley,MIN - G,6.0,Assists
+71,Giannis Antetokounmpo,MIL - F,6.5,Assists
+72,Kawhi Leonard,LAC - F,4.0,Assists
+73,Paul George,LAC - F,3.5,Assists
+74,James Harden,LAC - G,8.0,Assists
+75,Collin Sexton,UTA - G,5.5,Assists
+76,Keyonte George,UTA - G,5.5,Assists
+77,Deni Avdija,WAS - F,3.5,Assists
+78,Tyus Jones,WAS - G,10.0,Assists
+79,De'Aaron Fox,SAC - G,5.5,Assists
+80,DeMar DeRozan,CHI - G-F,5.0,Assists
+81,Coby White,CHI - G,5.5,Assists
+82,Ayo Dosunmu,CHI - G,4.0,Assists
+83,Alex Caruso,CHI - G,2.5,Assists
+84,Shai Gilgeous-Alexander,OKC - G,6.5,Assists
+85,LeBron James,LAL - F,7.5,Assists
+86,Anthony Davis,LAL - F-C,2.5,Assists
+87,Chet Holmgren,OKC - C-F,2.5,Assists
+88,Josh Giddey,OKC - G,3.5,Assists
+89,Mikal Bridges,BKN - F,4.5,Rebounds
+90,Nicolas Claxton,BKN - C,10.5,Rebounds
+91,Cameron Johnson,BKN - F,4.0,Rebounds
+92,Dorian Finney-Smith,BKN - F,4.5,Rebounds
+93,Anthony Edwards,MIN - G,4.5,Rebounds
+94,Deandre Ayton,POR - C,10.0,Rebounds
+95,Karl-Anthony Towns,MIN - C-F,7.0,Rebounds
+96,Rudy Gobert,MIN - C,13.5,Rebounds
+97,Jaden McDaniels,MIN - F,2.5,Rebounds
+98,Giannis Antetokounmpo,MIL - F,11.5,Rebounds
+99,Kawhi Leonard,LAC - F,7.0,Rebounds
+100,Paul George,LAC - F,5.0,Rebounds
+101,James Harden,LAC - G,5.5,Rebounds
+102,Kyle Kuzma,WAS - F,7.0,Rebounds
+103,Marvin Bagley III,WAS - F-C,7.5,Rebounds
+104,Deni Avdija,WAS - F,7.0,Rebounds
+105,John Collins,UTA - F-C,10.5,Rebounds
+106,Tyus Jones,WAS - G,2.5,Rebounds
+107,Taylor Hendricks,UTA - F,7.0,Rebounds
+108,De'Aaron Fox,SAC - G,4.0,Rebounds
+109,DeMar DeRozan,CHI - G-F,4.0,Rebounds
+110,Coby White,CHI - G,5.0,Rebounds
+111,Nikola Vucevic,CHI - C,10.5,Rebounds
+112,Alex Caruso,CHI - G,3.5,Rebounds
+113,Shai Gilgeous-Alexander,OKC - G,6.0,Rebounds
+114,LeBron James,LAL - F,6.5,Rebounds
+115,Jalen Williams,OKC - G-F,4.5,Rebounds
+116,Anthony Davis,LAL - F-C,13.5,Rebounds
+117,Chet Holmgren,OKC - C-F,8.5,Rebounds
+118,Luguentz Dort,OKC - G,4.0,Rebounds
+119,Josh Giddey,OKC - G,5.5,Rebounds
+120,Cameron Johnson,BKN - F,2.5,3-PT Made
+121,James Harden,LAC - G,2.5,3-PT Made
+122,Keyonte George,UTA - G,2.5,3-PT Made
+123,DeMar DeRozan,CHI - G-F,0.5,3-PT Made
+124,Mikal Bridges,BKN - F,27.5,Pts+Rebs
+125,Nicolas Claxton,BKN - C,22.5,Pts+Rebs
+126,Cameron Johnson,BKN - F,20.5,Pts+Rebs
+127,Dorian Finney-Smith,BKN - F,13.5,Pts+Rebs
+128,Anthony Edwards,MIN - G,31.5,Pts+Rebs
+129,Deandre Ayton,POR - C,26.5,Pts+Rebs
+130,Karl-Anthony Towns,MIN - C-F,27.5,Pts+Rebs
+131,Rudy Gobert,MIN - C,27.5,Pts+Rebs
+132,Mike Conley,MIN - G,12.5,Pts+Rebs
+133,Jaden McDaniels,MIN - F,12.5,Pts+Rebs
+134,Giannis Antetokounmpo,MIL - F,43.5,Pts+Rebs
+135,Kawhi Leonard,LAC - F,33.5,Pts+Rebs
+136,Malik Beasley,MIL - G,14.5,Pts+Rebs
+137,Paul George,LAC - F,25.5,Pts+Rebs
+138,James Harden,LAC - G,22.0,Pts+Rebs
+139,Kyle Kuzma,WAS - F,30.5,Pts+Rebs
+140,Collin Sexton,UTA - G,25.5,Pts+Rebs
+141,Marvin Bagley III,WAS - F-C,21.5,Pts+Rebs
+142,Keyonte George,UTA - G,20.5,Pts+Rebs
+143,Deni Avdija,WAS - F,21.5,Pts+Rebs
+144,John Collins,UTA - F-C,27.5,Pts+Rebs
+145,Tyus Jones,WAS - G,12.5,Pts+Rebs
+146,Taylor Hendricks,UTA - F,17.5,Pts+Rebs
+147,De'Aaron Fox,SAC - G,28.5,Pts+Rebs
+148,DeMar DeRozan,CHI - G-F,27.5,Pts+Rebs
+149,Coby White,CHI - G,26.5,Pts+Rebs
+150,Nikola Vucevic,CHI - C,30.5,Pts+Rebs
+151,Ayo Dosunmu,CHI - G,17.5,Pts+Rebs
+152,Alex Caruso,CHI - G,11.5,Pts+Rebs
+153,LeBron James,LAL - F,32.5,Pts+Rebs
+154,Shai Gilgeous-Alexander,OKC - G,36.5,Pts+Rebs
+155,Anthony Davis,LAL - F-C,39.5,Pts+Rebs
+156,Jalen Williams,OKC - G-F,25.5,Pts+Rebs
+157,Chet Holmgren,OKC - C-F,25.5,Pts+Rebs
+158,Luguentz Dort,OKC - G,14.5,Pts+Rebs
+159,Josh Giddey,OKC - G,15.5,Pts+Rebs
+160,Mikal Bridges,BKN - F,26.5,Pts+Asts
+161,Nicolas Claxton,BKN - C,14.5,Pts+Asts
+162,Cameron Johnson,BKN - F,19.5,Pts+Asts
+163,Dorian Finney-Smith,BKN - F,10.5,Pts+Asts
+164,Anthony Edwards,MIN - G,31.5,Pts+Asts
+165,Deandre Ayton,POR - C,18.5,Pts+Asts
+166,Karl-Anthony Towns,MIN - C-F,23.5,Pts+Asts
+167,Rudy Gobert,MIN - C,15.5,Pts+Asts
+168,Mike Conley,MIN - G,16.5,Pts+Asts
+169,Jaden McDaniels,MIN - F,11.5,Pts+Asts
+170,Giannis Antetokounmpo,MIL - F,38.5,Pts+Asts
+171,Kawhi Leonard,LAC - F,30.5,Pts+Asts
+172,Malik Beasley,MIL - G,12.5,Pts+Asts
+173,Paul George,LAC - F,23.5,Pts+Asts
+174,James Harden,LAC - G,24.5,Pts+Asts
+175,Kyle Kuzma,WAS - F,26.5,Pts+Asts
+176,Collin Sexton,UTA - G,28.5,Pts+Asts
+177,Marvin Bagley III,WAS - F-C,14.5,Pts+Asts
+178,Keyonte George,UTA - G,22.5,Pts+Asts
+179,Deni Avdija,WAS - F,17.5,Pts+Asts
+180,John Collins,UTA - F-C,18.5,Pts+Asts
+181,Tyus Jones,WAS - G,20.5,Pts+Asts
+182,Taylor Hendricks,UTA - F,10.5,Pts+Asts
+183,De'Aaron Fox,SAC - G,30.5,Pts+Asts
+184,DeMar DeRozan,CHI - G-F,27.5,Pts+Asts
+185,Coby White,CHI - G,27.5,Pts+Asts
+186,Nikola Vucevic,CHI - C,22.5,Pts+Asts
+187,Ayo Dosunmu,CHI - G,18.5,Pts+Asts
+188,Alex Caruso,CHI - G,10.5,Pts+Asts
+189,LeBron James,LAL - F,32.5,Pts+Asts
+190,Shai Gilgeous-Alexander,OKC - G,37.5,Pts+Asts
+191,Anthony Davis,LAL - F-C,28.5,Pts+Asts
+192,Jalen Williams,OKC - G-F,25.5,Pts+Asts
+193,Chet Holmgren,OKC - C-F,19.5,Pts+Asts
+194,Luguentz Dort,OKC - G,11.5,Pts+Asts
+195,Josh Giddey,OKC - G,13.5,Pts+Asts
+196,Rudy Gobert,MIN - C,2.5,Blocked Shots
+197,Jaden McDaniels,MIN - F,0.5,Blocked Shots
+198,James Harden,LAC - G,0.5,Blocked Shots
+199,LeBron James,LAL - F,0.5,Blocked Shots
+200,Anthony Davis,LAL - F-C,2.5,Blocked Shots
+201,Kawhi Leonard,LAC - F,1.5,Steals
+202,Shai Gilgeous-Alexander,OKC - G,1.5,Steals
+203,Josh Giddey,OKC - G,0.5,Steals
+204,Mikal Bridges,BKN - F,8.5,Rebs+Asts
+205,Nicolas Claxton,BKN - C,12.5,Rebs+Asts
+206,Cameron Johnson,BKN - F,7.5,Rebs+Asts
+207,Anthony Edwards,MIN - G,9.5,Rebs+Asts
+208,Deandre Ayton,POR - C,11.5,Rebs+Asts
+209,Karl-Anthony Towns,MIN - C-F,10.0,Rebs+Asts
+210,Rudy Gobert,MIN - C,14.5,Rebs+Asts
+211,Mike Conley,MIN - G,8.5,Rebs+Asts
+212,Giannis Antetokounmpo,MIL - F,18.5,Rebs+Asts
+213,Kawhi Leonard,LAC - F,11.0,Rebs+Asts
+214,Paul George,LAC - F,8.5,Rebs+Asts
+215,James Harden,LAC - G,13.5,Rebs+Asts
+216,Kyle Kuzma,WAS - F,10.0,Rebs+Asts
+217,Collin Sexton,UTA - G,9.0,Rebs+Asts
+218,Marvin Bagley III,WAS - F-C,9.0,Rebs+Asts
+219,Keyonte George,UTA - G,9.0,Rebs+Asts
+220,Deni Avdija,WAS - F,10.5,Rebs+Asts
+221,John Collins,UTA - F-C,11.5,Rebs+Asts
+222,Tyus Jones,WAS - G,12.5,Rebs+Asts
+223,Taylor Hendricks,UTA - F,8.0,Rebs+Asts
+224,De'Aaron Fox,SAC - G,10.0,Rebs+Asts
+225,Coby White,CHI - G,10.5,Rebs+Asts
+226,Nikola Vucevic,CHI - C,13.5,Rebs+Asts
+227,Ayo Dosunmu,CHI - G,7.5,Rebs+Asts
+228,Shai Gilgeous-Alexander,OKC - G,12.5,Rebs+Asts
+229,Anthony Davis,LAL - F-C,16.5,Rebs+Asts
+230,Jalen Williams,OKC - G-F,9.5,Rebs+Asts
+231,Chet Holmgren,OKC - C-F,11.5,Rebs+Asts
+232,Josh Giddey,OKC - G,9.5,Rebs+Asts
+233,Cameron Johnson,BKN - F,1.5,Blks+Stls
+234,Kawhi Leonard,LAC - F,2.5,Blks+Stls
+235,James Harden,LAC - G,1.5,Blks+Stls
+236,De'Aaron Fox,SAC - G,2.5,Blks+Stls
+237,Ayo Dosunmu,CHI - G,1.5,Blks+Stls
+238,Alex Caruso,CHI - G,2.5,Blks+Stls
+239,LeBron James,LAL - F,1.5,Blks+Stls
+240,Jalen Williams,OKC - G-F,1.5,Blks+Stls
+241,Anthony Davis,LAL - F-C,3.5,Blks+Stls
+242,Kyle Kuzma,WAS - F,2.5,Turnovers
+243,DeMar DeRozan,CHI - G-F,1.5,Turnovers
+244,Coby White,CHI - G,2.5,Turnovers
+245,Chet Holmgren,OKC - C-F,1.5,Turnovers

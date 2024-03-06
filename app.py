@@ -1091,40 +1091,30 @@ elif view == "Over/Under Stats L10":
     }
 
     # Function to calculate if a base prop should be highlighted
-    def should_highlight(player, base_prop, direction, agg_probs):
-        # Check if the average implied probability is NaN, return False immediately
-        if agg_probs.get((player, base_prop, direction)) is None or np.isnan(agg_probs.get((player, base_prop, direction))):
+    def should_highlight(prop, over_percent, under_percent, agg_prob):
+        """
+        Determines if a player's prop bet should be highlighted based on specific criteria.
+        """
+        # Use the aggregated probability for decision-making
+        if np.isnan(agg_prob):
             return False
 
-        related_props = prop_relations[base_prop]
-        for rel_prop in related_props:
-            # Ensure both Over and Under exist for the related prop
-            if (player, rel_prop, 'Over') in agg_probs and (player, rel_prop, 'Under') in agg_probs:
-                over_prob = agg_probs.get((player, rel_prop, 'Over'))
-                under_prob = agg_probs.get((player, rel_prop, 'Under'))
-                # If either Over or Under implied probability is NaN, do not highlight
-                if np.isnan(over_prob) or np.isnan(under_prob):
-                    return False
-                if direction == 'Over':
-                    if over_prob <= under_prob or over_prob < 0.56:
-                        return False
-                else:  # direction == 'Under'
-                    if under_prob <= over_prob or under_prob < 0.56:
-                        return False
-            else:
-                # If either Over or Under is missing for the related prop, do not highlight
-                return False
-        return True
+        if prop == 'Over':
+            return agg_prob > 0.55 and over_percent >= 70
+        elif prop == 'Under':
+            return agg_prob > 0.55 and under_percent >= 70
+        else:
+            return False
 
     # Step 2: Aggregate implied probabilities
     agg_probs = combined_df.groupby(['PlayerName', 'Prop', 'Over_Under'])['Average_Implied_Probability'].mean()
     agg_probs = agg_probs.to_dict()
 
     # Step 3: Apply highlighting logic
-    combined_df['Highlight'] = combined_df.apply(lambda row: '✅' if should_highlight(row['PlayerName'], row['Prop'], row['Over_Under'], agg_probs) else '', axis=1)
+    combined_df['Highlight'] = combined_df.apply(lambda row: '✅' if should_highlight(row['Over_Under'], row['Over %'], row['Under %'], agg_probs.get((row['PlayerName'], row['Prop'], row['Over_Under']))) else '', axis=1)
 
     combined_df.set_index(['All_Values_Match','Highlight','PlayerName', 'Average_Implied_Probability', 'Over_Under'], inplace=True)
-    
+
     st.markdown(
         """
         <style>
@@ -1146,6 +1136,8 @@ elif view == "Over/Under Stats L10":
         filtered_df = combined_df[combined_df.apply(filter_rows_with_all_odds, axis=1)]
     else:
         filtered_df = combined_df
-    st.dataframe(filtered_df)    
+    st.dataframe(filtered_df)   
+
+
 
 

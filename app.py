@@ -1136,6 +1136,7 @@ elif view == "Over/Under Stats L10":
         filtered_df = combined_df[combined_df.apply(filter_rows_with_all_odds, axis=1)]
     else:
         filtered_df = combined_df
+    print(filtered_df.columns)
     st.dataframe(filtered_df)   
 
 

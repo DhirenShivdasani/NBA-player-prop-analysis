@@ -591,29 +591,30 @@ def extract_value_and_odds(odds_str):
     return None, None
 
 def calculate_implied_probability_for_value(row):
-    odds_list = [row[f'{book}'] for book in ['draftkings', 'fanduel', 'pointsbet']]
+    sportsbooks = ['draftkings', 'fanduel', 'pointsbet']
     valid_probs = []
     any_value_matches = False  # Assume no values match initially
 
-    for odds_str in odds_list:
+    for book in sportsbooks:
+        odds_str = row[book]
         if isinstance(odds_str, str) and '(' in odds_str:
-            split_str = odds_str.split(' ')
-            if len(split_str) > 1:  # Ensuring there's both value and odds
-                value_str, odds = split_str[0].strip('()'), split_str[1]
-                try:
-                    value = float(value_str)
-                    odds_value = float(odds)
+            # Extracting the value and odds from the string
+            try:
+                value_str, odds = odds_str.split(' ')[0].strip('()'), odds_str.split(' ')[1]
+                value = float(value_str)
+                odds_value = float(odds)
+
+                # Check if the extracted value matches the prop line value
+                if value == row['Value']:
                     prob = odds_to_implied_probability(odds_value)
                     if prob is not None:
                         valid_probs.append(prob)
-                    if value == row['Value']:
                         any_value_matches = True  # Found at least one matching value
-                except ValueError:
-                    continue  # Skip if conversion fails
+            except (ValueError, IndexError):
+                continue  # Skip if conversion fails or split is not as expected
 
     avg_prob = None if not valid_probs else sum(valid_probs) / len(valid_probs)
     return avg_prob, any_value_matches
-
 
 def color_ranking(val):
     """
@@ -931,10 +932,45 @@ if view == "Player Prop Analysis":
         
         st.subheader(f'{opponent} Defense vs. Position (Allowed)')
 
-        team_def = team_def[(team_def['Opponent'] ==opponent) & (team_def['Position'] == position_team)]
-        team_def.set_index(['Position'], inplace = True)
-        team_def = team_def[['Points', 'Rebounds', 'Assists']].style.applymap(color_ranking_pos)
-        st.dataframe(team_def)
+        team_defense = team_def[(team_def['Opponent'] ==opponent) & (team_def['Position'] == position_team)]
+        team_defense.set_index(['Position'], inplace = True)
+        team_defense = team_defense[['Points', 'Rebounds', 'Assists']].style.applymap(color_ranking_pos)
+        st.dataframe(team_defense)
+
+        opponent_data = team_def[team_def['Opponent'] == opponent]
+        opponent_data['Points'] = pd.to_numeric(opponent_data['Points'].str.replace('#', ''), errors='coerce')
+        opponent_data['Rebounds'] = pd.to_numeric(opponent_data['Rebounds'].str.replace('#', ''), errors='coerce')
+        opponent_data['Assists'] = pd.to_numeric(opponent_data['Assists'].str.replace('#', ''), errors='coerce')
+
+        print(opponent_data[['Points', 'Rebounds', 'Assists']].dtypes)
+
+
+        worst_points_def = opponent_data.loc[opponent_data['Points'].idxmax()]
+        worst_rebounds_def = opponent_data.loc[opponent_data['Rebounds'].idxmax()]
+        worst_assists_def = opponent_data.loc[opponent_data['Assists'].idxmax()]
+
+        worst_defense_positions = {
+            'Worst Points Defense Position': (worst_points_def['Position'], worst_points_def['Points']),
+            'Worst Rebounds Defense Position': (worst_rebounds_def['Position'], worst_rebounds_def['Rebounds']),
+            'Worst Assists Defense Position': (worst_assists_def['Position'], worst_assists_def['Assists']),
+        }
+
+
+        
+        best_points_def = opponent_data.loc[opponent_data['Points'].idxmin()]
+        best_rebounds_def = opponent_data.loc[opponent_data['Rebounds'].idxmin()]
+        best_assists_def = opponent_data.loc[opponent_data['Assists'].idxmin()]
+
+        best_defense_positions = {
+            'Best Points Defense Position': (best_points_def['Position'], best_points_def['Points']),
+            'Best Rebounds Defense Position': (best_rebounds_def['Position'], best_rebounds_def['Rebounds']),
+            'Best Assists Defense Position': (best_assists_def['Position'], best_assists_def['Assists']),
+        }
+
+
+        st.dataframe(worst_defense_positions)
+        st.dataframe(best_defense_positions)
+
 
         
 

@@ -967,7 +967,6 @@ if view == "Player Prop Analysis":
             'Best Assists Defense Position': (best_assists_def['Position'], best_assists_def['Assists']),
         }
 
-
         st.dataframe(worst_defense_positions)
         st.dataframe(best_defense_positions)
 
@@ -1164,6 +1163,38 @@ elif view == "Over/Under Stats L10":
     def filter_rows_with_all_odds(row):
         sportsbooks = ['fanduel', 'draftkings', 'pointsbet', 'mgm']  # Replace 'fourth_sportsbook' with your actual column name
         return all(pd.notnull(row[book]) for book in sportsbooks)
+    
+    def get_combined_defense_stat(row, worst_def, best_def):
+        components = prop_relations[row['Prop']]  # This should split the combined prop into individual components
+        opponent = row['Opponent']
+        
+        # Initialize a dictionary to hold the defense stats for each component
+        combined_defense_stats = {}
+        
+        for comp in components:
+            if row['Over_Under'] == 'Over':
+                # Look at the worst defense against each component for 'Over' bets
+                defense_stat = worst_def.loc[(opponent, comp), 'Defense Stat']
+            else:
+                # Look at the best defense against each component for 'Under' bets
+                defense_stat = best_def.loc[(opponent, comp), 'Defense Stat']
+            
+            # Store the defense stat for each component
+            combined_defense_stats[comp] = defense_stat
+
+        # Combine these stats to get an overall defense stat for the combined prop
+        # Implementation depends on how you want to combine these stats
+        # For simplicity, you might just take the worst defense stat for 'Over' bets, and the best for 'Under' bets
+        if row['Over_Under'] == 'Over':
+            overall_defense_stat = max(combined_defense_stats.values())
+        else:
+            overall_defense_stat = min(combined_defense_stats.values())
+
+        return overall_defense_stat
+
+        # Applying the modified function across the combined_df
+    combined_df['Relevant_Defense_Stat'] = combined_df.apply(get_combined_defense_stat, args=(worst_defense_positions, best_defense_positions), axis=1)
+
 
     # Streamlit widget to enable/disable the filter
     apply_filter = st.checkbox('Show only rows with odds from all sportsbooks')

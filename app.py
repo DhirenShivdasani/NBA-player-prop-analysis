@@ -1172,6 +1172,11 @@ elif view == "Over/Under Stats L10":
         filtered_df = combined_df[combined_df.apply(filter_rows_with_all_odds, axis=1)]
     else:
         filtered_df = combined_df
+
+    team_list = ['All Teams'] + sorted(combined_df['opp'].unique().tolist())
+    selected_team = st.selectbox("Select a Team", team_list)
+    if selected_team != 'All Teams':
+        filtered_df = filtered_df[filtered_df['opp'] == selected_team]
     print(filtered_df.columns)
     st.dataframe(filtered_df)   
 

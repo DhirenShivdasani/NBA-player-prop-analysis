@@ -82,7 +82,8 @@ for category in categories:
         names = projections.find_element(By.ID, "test-player-name").text
         team = projections.find_element(By.ID, 'test-team-position').text
         value = projections.find_element(By.CSS_SELECTOR, '.flex.flex-1.items-center.pr-2').text.strip()
-        proptype = projections.find_element(By.CSS_SELECTOR, '.text-soClean-140').text.strip()
+        proptype = projections.find_element(By.CSS_SELECTOR, 'div.align-items-center > div.text-soClean-140').text.strip()
+        print(proptype)
         
         players = {
             'Name': names,
@@ -91,7 +92,6 @@ for category in categories:
             'Prop': proptype.replace("<wbr>", "")
         }
         ppPlayers.append(players)
-        print(ppPlayers)
 
 dfProps = pd.DataFrame(ppPlayers)
 # CHANGE THE NAME OF THE FILE TO YOUR LIKING

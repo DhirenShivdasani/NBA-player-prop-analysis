@@ -83,7 +83,6 @@ for category in categories:
         team = projections.find_element(By.ID, 'test-team-position').text
         value = projections.find_element(By.CSS_SELECTOR, '.flex.flex-1.items-center.pr-2').text.strip()
         proptype = projections.find_element(By.CSS_SELECTOR, 'div.align-items-center > div.text-soClean-140').text.strip()
-        print(proptype)
         
         players = {
             'Name': names,

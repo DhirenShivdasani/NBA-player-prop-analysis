@@ -7,17 +7,17 @@ Rank,Player,Team,Pos,Value
 6,Coby White,Chicago Bulls,SG,36.59
 7,Fred VanVleet,Houston Rockets,PG,36.58
 8,Trae Young,Atlanta Hawks,PG,36.51
-9,Anthony Davis,Los Angeles Lakers,PF,35.93
-10,Devin Booker,Phoenix Suns,SG,35.84
-11,Domantas Sabonis,Sacramento Kings,PF,35.84
-12,Jayson Tatum,Boston Celtics,SF,35.81
+9,Jayson Tatum,Boston Celtics,SF,35.95
+10,Anthony Davis,Los Angeles Lakers,PF,35.93
+11,Devin Booker,Phoenix Suns,SG,35.84
+12,Domantas Sabonis,Sacramento Kings,PF,35.84
 13,De'Aaron Fox,Sacramento Kings,PG,35.65
-14,Dejounte Murray,Atlanta Hawks,PG,35.42
+14,Dejounte Murray,Atlanta Hawks,PG,35.58
 15,Mikal Bridges,Brooklyn Nets,SG,35.42
-16,Damian Lillard,Milwaukee Bucks,PG,35.31
-17,LeBron James,Los Angeles Lakers,SF,35.18
-18,Anthony Edwards,Minnesota Timberwolves,SG,35.17
-19,Giannis Antetokounmpo,Milwaukee Bucks,SF,35.15
+16,Damian Lillard,Milwaukee Bucks,PG,35.32
+17,Giannis Antetokounmpo,Milwaukee Bucks,SF,35.20
+18,LeBron James,Los Angeles Lakers,SF,35.18
+19,Anthony Edwards,Minnesota Timberwolves,SG,35.17
 20,Jalen Brunson,New York Knicks,PG,34.96
 21,Scottie Barnes,Toronto Raptors,SF,34.90
 22,Paolo Banchero,Orlando Magic,PF,34.79
@@ -37,19 +37,19 @@ Rank,Player,Team,Pos,Value
 36,Terry Rozier,Miami Heat,PG,33.89
 37,Grayson Allen,Phoenix Suns,SG,33.67
 38,Pascal Siakam,Indiana Pacers,PF,33.64
-39,Jaylen Brown,Boston Celtics,SG,33.47
+39,Jaylen Brown,Boston Celtics,SG,33.55
 40,Cade Cunningham,Detroit Pistons,PG,33.39
 41,Keegan Murray,Sacramento Kings,SF,33.21
-42,Lauri Markkanen,Utah Jazz,PF,33.09
-43,Jrue Holiday,Boston Celtics,PG,33.07
+42,Jrue Holiday,Boston Celtics,PG,33.13
+43,Lauri Markkanen,Utah Jazz,PF,33.09
 44,Brandon Ingram,New Orleans Pelicans,SF,33.01
 45,Devin Vassell,San Antonio Spurs,SG,32.88
 46,Karl-Anthony Towns,Minnesota Timberwolves,C,32.82
 47,Saddiq Bey,Atlanta Hawks,SF,32.72
 48,Josh Hart,New York Knicks,SG,32.72
-49,Stephen Curry,Golden State Warriors,PG,32.70
-50,Franz Wagner,Orlando Magic,SF,32.67
-51,Derrick White,Boston Celtics,PG,32.59
+49,Derrick White,Boston Celtics,PG,32.71
+50,Stephen Curry,Golden State Warriors,PG,32.70
+51,Franz Wagner,Orlando Magic,SF,32.67
 52,Alperen Sengun,Houston Rockets,C,32.47
 53,Kyle Kuzma,Washington Wizards,PF,32.44
 54,D'Angelo Russell,Los Angeles Lakers,PG,32.35
@@ -59,31 +59,31 @@ Rank,Player,Team,Pos,Value
 58,Max Strus,Cleveland Cavaliers,PG,32.07
 59,Brandon Miller,Charlotte Hornets,SF,32.05
 60,Austin Reaves,Los Angeles Lakers,PG,32.00
-61,Kentavious Caldwell-Pope,Denver Nuggets,SG,31.82
-62,Jarrett Allen,Cleveland Cavaliers,C,31.71
-63,CJ McCollum,New Orleans Pelicans,SG,31.71
+61,CJ McCollum,New Orleans Pelicans,SG,31.84
+62,Kentavious Caldwell-Pope,Denver Nuggets,SG,31.82
+63,Jarrett Allen,Cleveland Cavaliers,C,31.71
 64,Michael Porter Jr.,Denver Nuggets,PF,31.70
 65,Jalen Williams,Oklahoma City Thunder,SG,31.69
 66,RJ Barrett,Toronto Raptors,SF,31.62
 67,Jalen Green,Houston Rockets,SG,31.61
 68,Aaron Gordon,Denver Nuggets,PF,31.60
 69,Jabari Smith Jr.,Houston Rockets,PF,31.57
-70,Dillon Brooks,Houston Rockets,SG,31.03
-71,Zion Williamson,New Orleans Pelicans,PF,31.03
+70,Zion Williamson,New Orleans Pelicans,PF,31.06
+71,Dillon Brooks,Houston Rockets,SG,31.03
 72,Dennis Schroder,Brooklyn Nets,PG,31.02
 73,Cam Thomas,Brooklyn Nets,SG,30.81
-74,Brook Lopez,Milwaukee Bucks,C,30.70
+74,Brook Lopez,Milwaukee Bucks,C,30.78
 75,Jordan Clarkson,Utah Jazz,PG,30.59
-76,P.J. Washington,Dallas Mavericks,PF,30.09
-77,Chet Holmgren,Oklahoma City Thunder,C,29.97
-78,Bogdan Bogdanovic,Atlanta Hawks,SG,29.90
+76,Bogdan Bogdanovic,Atlanta Hawks,SG,30.10
+77,P.J. Washington,Dallas Mavericks,PF,30.09
+78,Chet Holmgren,Oklahoma City Thunder,C,29.97
 79,Kelly Oubre Jr.,Philadelphia 76ers,SF,29.87
-80,Jeremy Sochan,San Antonio Spurs,PF,29.81
-81,Nic Claxton,Brooklyn Nets,C,29.78
-82,Malik Beasley,Milwaukee Bucks,SG,29.77
-83,Herbert Jones,New Orleans Pelicans,PF,29.72
-84,Klay Thompson,Golden State Warriors,SG,29.65
-85,Kristaps Porzingis,Boston Celtics,PF,29.60
+80,Herbert Jones,New Orleans Pelicans,PF,29.83
+81,Malik Beasley,Milwaukee Bucks,SG,29.81
+82,Kristaps Porzingis,Boston Celtics,PF,29.81
+83,Jeremy Sochan,San Antonio Spurs,PF,29.81
+84,Nic Claxton,Brooklyn Nets,C,29.78
+85,Klay Thompson,Golden State Warriors,SG,29.65
 86,Jalen Duren,Detroit Pistons,C,29.59
 87,Keldon Johnson,San Antonio Spurs,SF,29.55
 88,Jordan Poole,Washington Wizards,SG,29.53

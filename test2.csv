@@ -1,277 +1,168 @@
 ,Name,Team,Value,Prop
-0,Zion Williamson,NOP - F,26.5,Points
-1,CJ McCollum,NOP - G,22.0,Points
-2,Jaylen Brown,BOS - G-F,21.5,Points
-3,Herbert Jones,NOP - G-F,11.5,Points
-4,Kristaps Porzingis,BOS - F-C,18.5,Points
-5,Trey Murphy III,NOP - G-F,15.5,Points
-6,Derrick White,BOS - G,13.5,Points
-7,Jonas Valanciunas,NOP - C,9.5,Points
-8,Jrue Holiday,BOS - G,10.5,Points
-9,Naji Marshall,NOP - F,7.5,Points
-10,Al Horford,BOS - C-F,6.0,Points
-11,Sam Hauser,BOS - F,6.5,Points
-12,Paolo Banchero,ORL - F,22.5,Points
-13,Jaren Jackson Jr.,MEM - F-C,20.5,Points
-14,Franz Wagner,ORL - F,18.5,Points
-15,GG Jackson II,MEM - F,16.5,Points
-16,Jalen Suggs,ORL - G,12.5,Points
-17,Wendell Carter Jr.,ORL - C-F,9.5,Points
-18,Jake LaRavia,MEM - F,11.0,Points
-19,Luke Kennard,MEM - G-F,10.5,Points
-20,Scotty Pippen Jr.,MEM - G,10.5,Points
-21,Dejounte Murray,ATL - G,26.5,Points
-22,Giannis Antetokounmpo,MIL - F,33.0,Points
-23,Bogdan Bogdanovic,ATL - G,18.5,Points
-24,Khris Middleton,MIL - F,17.5,Points
-25,De'Andre Hunter,ATL - F-G,17.5,Points
-26,Malik Beasley,MIL - G,13.5,Points
-27,Clint Capela,ATL - C,11.5,Points
-28,Brook Lopez,MIL - C,10.5,Points
-29,Bobby Portis,MIL - F,14.5,Points
-30,Zion Williamson,NOP - F,38.5,Pts+Rebs+Asts
-31,Jayson Tatum,BOS - F-G,39.5,Pts+Rebs+Asts
-32,CJ McCollum,NOP - G,31.5,Pts+Rebs+Asts
-33,Jaylen Brown,BOS - G-F,30.5,Pts+Rebs+Asts
-34,Herbert Jones,NOP - G-F,17.5,Pts+Rebs+Asts
-35,Kristaps Porzingis,BOS - F-C,26.5,Pts+Rebs+Asts
-36,Trey Murphy III,NOP - G-F,24.5,Pts+Rebs+Asts
-37,Derrick White,BOS - G,23.5,Pts+Rebs+Asts
-38,Jonas Valanciunas,NOP - C,18.5,Pts+Rebs+Asts
-39,Jrue Holiday,BOS - G,19.5,Pts+Rebs+Asts
-40,Paolo Banchero,ORL - F,35.5,Pts+Rebs+Asts
-41,Jaren Jackson Jr.,MEM - F-C,30.5,Pts+Rebs+Asts
-42,Franz Wagner,ORL - F,27.5,Pts+Rebs+Asts
-43,GG Jackson II,MEM - F,23.5,Pts+Rebs+Asts
-44,Jalen Suggs,ORL - G,19.5,Pts+Rebs+Asts
-45,Wendell Carter Jr.,ORL - C-F,19.5,Pts+Rebs+Asts
-46,Jake LaRavia,MEM - F,18.5,Pts+Rebs+Asts
-47,Luke Kennard,MEM - G-F,17.5,Pts+Rebs+Asts
-48,Scotty Pippen Jr.,MEM - G,18.5,Pts+Rebs+Asts
-49,Dejounte Murray,ATL - G,40.5,Pts+Rebs+Asts
-50,Giannis Antetokounmpo,MIL - F,53.5,Pts+Rebs+Asts
-51,Bogdan Bogdanovic,ATL - G,26.5,Pts+Rebs+Asts
-52,Khris Middleton,MIL - F,29.5,Pts+Rebs+Asts
-53,De'Andre Hunter,ATL - F-G,23.5,Pts+Rebs+Asts
-54,Malik Beasley,MIL - G,18.5,Pts+Rebs+Asts
-55,Clint Capela,ATL - C,23.5,Pts+Rebs+Asts
-56,Brook Lopez,MIL - C,17.5,Pts+Rebs+Asts
-57,Bobby Portis,MIL - F,24.5,Pts+Rebs+Asts
-58,Zion Williamson,NOP - F,6.5,Rebounds
-59,Jayson Tatum,BOS - F-G,8.0,Rebounds
-60,Jaylen Brown,BOS - G-F,5.5,Rebounds
-61,Herbert Jones,NOP - G-F,3.5,Rebounds
-62,Kristaps Porzingis,BOS - F-C,6.0,Rebounds
-63,Trey Murphy III,NOP - G-F,6.0,Rebounds
-64,Derrick White,BOS - G,4.0,Rebounds
-65,Jonas Valanciunas,NOP - C,7.0,Rebounds
-66,Al Horford,BOS - C-F,5.5,Rebounds
-67,Larry Nance Jr.,NOP - F,5.5,Rebounds
-68,Payton Pritchard,BOS - G,2.5,Rebounds
-69,Paolo Banchero,ORL - F,7.5,Rebounds
-70,Jaren Jackson Jr.,MEM - F-C,6.0,Rebounds
-71,Franz Wagner,ORL - F,5.0,Rebounds
-72,GG Jackson II,MEM - F,5.5,Rebounds
-73,Wendell Carter Jr.,ORL - C-F,7.5,Rebounds
-74,Jake LaRavia,MEM - F,5.0,Rebounds
-75,Dejounte Murray,ATL - G,5.0,Rebounds
-76,Giannis Antetokounmpo,MIL - F,12.5,Rebounds
-77,Khris Middleton,MIL - F,5.0,Rebounds
-78,De'Andre Hunter,ATL - F-G,4.0,Rebounds
-79,Clint Capela,ATL - C,10.5,Rebounds
-80,Brook Lopez,MIL - C,5.0,Rebounds
-81,Bobby Portis,MIL - F,8.0,Rebounds
-82,Zion Williamson,NOP - F,43.5,Fantasy Score
-83,Jayson Tatum,BOS - F-G,44.5,Fantasy Score
-84,CJ McCollum,NOP - G,35.0,Fantasy Score
-85,Jaylen Brown,BOS - G-F,36.0,Fantasy Score
-86,Herbert Jones,NOP - G-F,25.0,Fantasy Score
-87,Kristaps Porzingis,BOS - F-C,34.0,Fantasy Score
-88,Trey Murphy III,NOP - G-F,28.0,Fantasy Score
-89,Derrick White,BOS - G,31.0,Fantasy Score
-90,Jonas Valanciunas,NOP - C,21.5,Fantasy Score
-91,Jrue Holiday,BOS - G,25.0,Fantasy Score
-92,Paolo Banchero,ORL - F,41.5,Fantasy Score
-93,Jaren Jackson Jr.,MEM - F-C,38.0,Fantasy Score
-94,Franz Wagner,ORL - F,32.5,Fantasy Score
-95,GG Jackson II,MEM - F,27.0,Fantasy Score
-96,Jalen Suggs,ORL - G,25.5,Fantasy Score
-97,Wendell Carter Jr.,ORL - C-F,24.0,Fantasy Score
-98,Dejounte Murray,ATL - G,48.5,Fantasy Score
-99,Giannis Antetokounmpo,MIL - F,60.5,Fantasy Score
-100,Bogdan Bogdanovic,ATL - G,31.5,Fantasy Score
-101,Khris Middleton,MIL - F,33.5,Fantasy Score
-102,De'Andre Hunter,ATL - F-G,26.5,Fantasy Score
-103,Malik Beasley,MIL - G,21.5,Fantasy Score
-104,Clint Capela,ATL - C,30.5,Fantasy Score
-105,Brook Lopez,MIL - C,25.0,Fantasy Score
-106,Zion Williamson,NOP - F,5.5,Assists
-107,Jayson Tatum,BOS - F-G,5.0,Assists
-108,CJ McCollum,NOP - G,5.0,Assists
-109,Derrick White,BOS - G,5.5,Assists
-110,Paolo Banchero,ORL - F,5.5,Assists
-111,Luke Kennard,MEM - G-F,3.5,Assists
-112,Scotty Pippen Jr.,MEM - G,4.5,Assists
-113,Dejounte Murray,ATL - G,8.5,Assists
-114,Giannis Antetokounmpo,MIL - F,7.0,Assists
-115,Bogdan Bogdanovic,ATL - G,4.0,Assists
-116,Khris Middleton,MIL - F,7.0,Assists
-117,Derrick White,BOS - G,2.5,3-PT Made
-118,Luke Kennard,MEM - G-F,2.5,3-PT Made
-119,Giannis Antetokounmpo,MIL - F,0.5,3-PT Made
-120,Brook Lopez,MIL - C,1.5,3-PT Made
-121,Jayson Tatum,BOS - F-G,6.5,Defensive Rebounds
-122,Paolo Banchero,ORL - F,6.5,Defensive Rebounds
-123,Kristaps Porzingis,BOS - F-C,1.5,Offensive Rebounds
-124,Derrick White,BOS - G,0.5,Offensive Rebounds
-125,Jayson Tatum,BOS - F-G,7.5,3-PT Attempted
-126,CJ McCollum,NOP - G,8.5,3-PT Attempted
-127,Derrick White,BOS - G,6.5,3-PT Attempted
-128,Jaren Jackson Jr.,MEM - F-C,5.5,3-PT Attempted
-129,Dejounte Murray,ATL - G,9.0,3-PT Attempted
-130,Bogdan Bogdanovic,ATL - G,8.0,3-PT Attempted
-131,Khris Middleton,MIL - F,6.0,3-PT Attempted
-132,Malik Beasley,MIL - G,8.5,3-PT Attempted
-133,Jaylen Brown + CJ McCollum,BOS/NOP - G,44.0,Points (Combo)
-134,Jayson Tatum + Zion Williamson,BOS/NOP - F,52.5,Points (Combo)
-135,Jaren Jackson Jr. + Paolo Banchero,MEM/ORL - F,42.5,Points (Combo)
-136,Giannis Antetokounmpo + Dejounte Murray,MIL/ATL - F/G,59.5,Points (Combo)
-137,Giannis Antetokounmpo + Jayson Tatum,MIL/BOS - F/F-G,60.5,Points (Combo)
-138,Zion Williamson + Dejounte Murray,NOP/ATL - F/G,53.0,Points (Combo)
-139,Paolo Banchero + Jaylen Brown,ORL/BOS - F,44.5,Points (Combo)
-140,Derrick White + CJ McCollum,BOS/NOP - G,10.5,Assists (Combo)
-141,Giannis Antetokounmpo + Dejounte Murray,MIL/ATL - F/G,16.0,Assists (Combo)
-142,Dejounte Murray + CJ McCollum,ATL/NOP - G,13.5,Assists (Combo)
-143,Giannis Antetokounmpo + Paolo Banchero,MIL/ORL - F,13.0,Assists (Combo)
-144,Jayson Tatum + Zion Williamson,BOS/NOP - F,14.5,Rebounds (Combo)
-145,Jaren Jackson Jr. + Paolo Banchero,MEM/ORL - F,13.5,Rebounds (Combo)
-146,Giannis Antetokounmpo + Clint Capela,MIL/ATL - F/C,23.5,Rebounds (Combo)
-147,Giannis Antetokounmpo + Jayson Tatum,MIL/BOS - F/F-G,20.5,Rebounds (Combo)
-148,Clint Capela + Zion Williamson,ATL/NOP - C/F,17.5,Rebounds (Combo)
-149,Jayson Tatum + CJ McCollum,BOS/NOP - G/G,6.0,3-PT Made (Combo)
-150,Malik Beasley + Bogdan Bogdanovic,MIL/ATL - G,7.0,3-PT Made (Combo)
-151,Bogdan Bogdanovic + CJ McCollum,ATL/NOP - G,6.0,3-PT Made (Combo)
-152,Jayson Tatum + Dejounte Murray,BOS/ATL - F/G,6.0,3-PT Made (Combo)
-153,Zion Williamson,NOP - F,6.0,Free Throws Made
-154,Jayson Tatum,BOS - F-G,6.0,Free Throws Made
-155,Jaylen Brown,BOS - G-F,3.0,Free Throws Made
-156,Herbert Jones,NOP - G-F,1.5,Free Throws Made
-157,Paolo Banchero,ORL - F,4.5,Free Throws Made
-158,Jaren Jackson Jr.,MEM - F-C,4.5,Free Throws Made
-159,Dejounte Murray,ATL - G,3.0,Free Throws Made
-160,Giannis Antetokounmpo,MIL - F,7.0,Free Throws Made
-161,Bogdan Bogdanovic,ATL - G,1.5,Free Throws Made
-162,Clint Capela,ATL - C,1.5,Free Throws Made
-163,Zion Williamson,NOP - F,17.0,FG Attempted
-164,Jayson Tatum,BOS - F-G,18.5,FG Attempted
-165,CJ McCollum,NOP - G,19.0,FG Attempted
-166,Jaylen Brown,BOS - G-F,17.5,FG Attempted
-167,Paolo Banchero,ORL - F,17.0,FG Attempted
-168,Jaren Jackson Jr.,MEM - F-C,17.5,FG Attempted
-169,Franz Wagner,ORL - F,13.5,FG Attempted
-170,Dejounte Murray,ATL - G,22.0,FG Attempted
-171,Giannis Antetokounmpo,MIL - F,20.5,FG Attempted
-172,Bogdan Bogdanovic,ATL - G,15.5,FG Attempted
-173,Khris Middleton,MIL - F,14.0,FG Attempted
-174,Zion Williamson,NOP - F,32.5,Pts+Rebs
-175,Jayson Tatum,BOS - F-G,34.5,Pts+Rebs
-176,CJ McCollum,NOP - G,26.5,Pts+Rebs
-177,Jaylen Brown,BOS - G-F,27.5,Pts+Rebs
-178,Herbert Jones,NOP - G-F,14.5,Pts+Rebs
-179,Kristaps Porzingis,BOS - F-C,24.5,Pts+Rebs
-180,Trey Murphy III,NOP - G-F,20.5,Pts+Rebs
-181,Derrick White,BOS - G,17.5,Pts+Rebs
-182,Jonas Valanciunas,NOP - C,16.5,Pts+Rebs
-183,Jrue Holiday,BOS - G,14.5,Pts+Rebs
-184,Naji Marshall,NOP - F,11.5,Pts+Rebs
-185,Al Horford,BOS - C-F,11.5,Pts+Rebs
-186,Larry Nance Jr.,NOP - F,11.0,Pts+Rebs
-187,Paolo Banchero,ORL - F,29.5,Pts+Rebs
-188,Jaren Jackson Jr.,MEM - F-C,26.5,Pts+Rebs
-189,Franz Wagner,ORL - F,23.5,Pts+Rebs
-190,GG Jackson II,MEM - F,21.5,Pts+Rebs
-191,Jalen Suggs,ORL - G,16.5,Pts+Rebs
-192,Wendell Carter Jr.,ORL - C-F,18.5,Pts+Rebs
-193,Jake LaRavia,MEM - F,16.5,Pts+Rebs
-194,Luke Kennard,MEM - G-F,13.5,Pts+Rebs
-195,Scotty Pippen Jr.,MEM - G,13.5,Pts+Rebs
-196,Dejounte Murray,ATL - G,31.5,Pts+Rebs
-197,Giannis Antetokounmpo,MIL - F,46.5,Pts+Rebs
-198,Bogdan Bogdanovic,ATL - G,22.5,Pts+Rebs
-199,Khris Middleton,MIL - F,22.5,Pts+Rebs
-200,De'Andre Hunter,ATL - F-G,21.5,Pts+Rebs
-201,Malik Beasley,MIL - G,16.5,Pts+Rebs
-202,Clint Capela,ATL - C,22.5,Pts+Rebs
-203,Brook Lopez,MIL - C,15.5,Pts+Rebs
-204,Bobby Portis,MIL - F,22.5,Pts+Rebs
-205,Kristaps Porzingis,BOS - F-C,1.5,Dunks
-206,Trey Murphy III,NOP - G-F,0.5,Dunks
-207,Paolo Banchero,ORL - F,1.0,Dunks
-208,Jaren Jackson Jr.,MEM - F-C,0.5,Dunks
-209,GG Jackson II,MEM - F,0.5,Dunks
-210,Zion Williamson,NOP - F,31.5,Pts+Asts
-211,Jayson Tatum,BOS - F-G,31.5,Pts+Asts
-212,CJ McCollum,NOP - G,26.5,Pts+Asts
-213,Jaylen Brown,BOS - G-F,24.5,Pts+Asts
-214,Herbert Jones,NOP - G-F,14.5,Pts+Asts
-215,Kristaps Porzingis,BOS - F-C,20.5,Pts+Asts
-216,Trey Murphy III,NOP - G-F,18.5,Pts+Asts
-217,Derrick White,BOS - G,19.5,Pts+Asts
-218,Jonas Valanciunas,NOP - C,10.5,Pts+Asts
-219,Jrue Holiday,BOS - G,15.0,Pts+Asts
-220,Paolo Banchero,ORL - F,27.5,Pts+Asts
-221,Jaren Jackson Jr.,MEM - F-C,23.5,Pts+Asts
-222,Franz Wagner,ORL - F,21.5,Pts+Asts
-223,GG Jackson II,MEM - F,18.5,Pts+Asts
-224,Jalen Suggs,ORL - G,16.5,Pts+Asts
-225,Wendell Carter Jr.,ORL - C-F,11.5,Pts+Asts
-226,Jake LaRavia,MEM - F,13.5,Pts+Asts
-227,Luke Kennard,MEM - G-F,14.5,Pts+Asts
-228,Scotty Pippen Jr.,MEM - G,15.0,Pts+Asts
-229,Dejounte Murray,ATL - G,35.5,Pts+Asts
-230,Giannis Antetokounmpo,MIL - F,41.5,Pts+Asts
-231,Bogdan Bogdanovic,ATL - G,23.5,Pts+Asts
-232,Khris Middleton,MIL - F,24.5,Pts+Asts
-233,De'Andre Hunter,ATL - F-G,18.5,Pts+Asts
-234,Malik Beasley,MIL - G,14.5,Pts+Asts
-235,Clint Capela,ATL - C,13.0,Pts+Asts
-236,Brook Lopez,MIL - C,12.5,Pts+Asts
-237,Bobby Portis,MIL - F,15.5,Pts+Asts
-238,Jrue Holiday,BOS - G,0.5,Blocked Shots
-239,Al Horford,BOS - C-F,0.5,Blocked Shots
-240,Franz Wagner,ORL - F,0.5,Blocked Shots
-241,Brook Lopez,MIL - C,1.5,Blocked Shots
-242,Jalen Suggs,ORL - G,1.5,Steals
-243,Clint Capela,ATL - C,0.5,Steals
-244,Brook Lopez,MIL - C,0.5,Steals
-245,Zion Williamson,NOP - F,12.0,Rebs+Asts
-246,Jayson Tatum,BOS - F-G,13.0,Rebs+Asts
-247,CJ McCollum,NOP - G,9.0,Rebs+Asts
-248,Jaylen Brown,BOS - G-F,9.0,Rebs+Asts
-249,Kristaps Porzingis,BOS - F-C,8.0,Rebs+Asts
-250,Trey Murphy III,NOP - G-F,9.0,Rebs+Asts
-251,Derrick White,BOS - G,9.5,Rebs+Asts
-252,Jonas Valanciunas,NOP - C,8.5,Rebs+Asts
-253,Jrue Holiday,BOS - G,8.5,Rebs+Asts
-254,Larry Nance Jr.,NOP - F,7.5,Rebs+Asts
-255,Paolo Banchero,ORL - F,13.5,Rebs+Asts
-256,Jaren Jackson Jr.,MEM - F-C,9.0,Rebs+Asts
-257,Franz Wagner,ORL - F,8.5,Rebs+Asts
-258,Wendell Carter Jr.,ORL - C-F,9.0,Rebs+Asts
-259,Scotty Pippen Jr.,MEM - G,7.5,Rebs+Asts
-260,Dejounte Murray,ATL - G,14.0,Rebs+Asts
-261,Giannis Antetokounmpo,MIL - F,19.5,Rebs+Asts
-262,Bogdan Bogdanovic,ATL - G,8.0,Rebs+Asts
-263,Khris Middleton,MIL - F,11.5,Rebs+Asts
-264,Clint Capela,ATL - C,12.0,Rebs+Asts
-265,Bobby Portis,MIL - F,9.5,Rebs+Asts
-266,Wendell Carter Jr.,ORL - C-F,1.5,Blks+Stls
-267,Jake LaRavia,MEM - F,1.5,Blks+Stls
-268,Jayson Tatum,BOS - F-G,2.5,Turnovers
-269,Kristaps Porzingis,BOS - F-C,1.5,Turnovers
-270,Larry Nance Jr.,NOP - F,0.5,Turnovers
-271,Payton Pritchard,BOS - G,0.5,Turnovers
-272,Paolo Banchero,ORL - F,3.5,Turnovers
-273,Jake LaRavia,MEM - F,1.5,Turnovers
-274,Giannis Antetokounmpo,MIL - F,3.5,Turnovers
-275,Bogdan Bogdanovic,ATL - G,1.5,Turnovers
+0,Franz Wagner,ORL - F,18.5,Points
+1,GG Jackson II,MEM - F,16.5,Points
+2,Wendell Carter Jr.,ORL - C-F,9.5,Points
+3,Jake LaRavia,MEM - F,11.0,Points
+4,Luke Kennard,MEM - G-F,10.5,Points
+5,Moritz Wagner,ORL - F-C,10.5,Points
+6,Scotty Pippen Jr.,MEM - G,10.5,Points
+7,Markelle Fultz,ORL - G,6.5,Points
+8,Cole Anthony,ORL - G,11.5,Points
+9,Giannis Antetokounmpo,MIL - F,33.0,Points
+10,De'Andre Hunter,ATL - F-G,18.5,Points
+11,Vit Krejci,ATL - G,6.5,Points
+12,Bobby Portis,MIL - F,14.5,Points
+13,Garrison Mathews,ATL - G,6.5,Points
+14,Bruno Fernando,ATL - F-C,8.5,Points
+15,Paolo Banchero,ORL - F,35.5,Pts+Rebs+Asts
+16,Jaren Jackson Jr.,MEM - F-C,29.5,Pts+Rebs+Asts
+17,Franz Wagner,ORL - F,27.5,Pts+Rebs+Asts
+18,GG Jackson II,MEM - F,23.5,Pts+Rebs+Asts
+19,Jalen Suggs,ORL - G,19.5,Pts+Rebs+Asts
+20,Wendell Carter Jr.,ORL - C-F,19.5,Pts+Rebs+Asts
+21,Jake LaRavia,MEM - F,18.5,Pts+Rebs+Asts
+22,Luke Kennard,MEM - G-F,17.5,Pts+Rebs+Asts
+23,Moritz Wagner,ORL - F-C,16.5,Pts+Rebs+Asts
+24,Scotty Pippen Jr.,MEM - G,18.5,Pts+Rebs+Asts
+25,Cole Anthony,ORL - G,19.5,Pts+Rebs+Asts
+26,Dejounte Murray,ATL - G,42.5,Pts+Rebs+Asts
+27,Giannis Antetokounmpo,MIL - F,53.5,Pts+Rebs+Asts
+28,Bogdan Bogdanovic,ATL - G,27.5,Pts+Rebs+Asts
+29,De'Andre Hunter,ATL - F-G,24.5,Pts+Rebs+Asts
+30,Malik Beasley,MIL - G,19.0,Pts+Rebs+Asts
+31,Clint Capela,ATL - C,25.5,Pts+Rebs+Asts
+32,Brook Lopez,MIL - C,17.5,Pts+Rebs+Asts
+33,Bobby Portis,MIL - F,24.5,Pts+Rebs+Asts
+34,Paolo Banchero,ORL - F,7.5,Rebounds
+35,GG Jackson II,MEM - F,5.5,Rebounds
+36,Wendell Carter Jr.,ORL - C-F,7.5,Rebounds
+37,Jake LaRavia,MEM - F,5.0,Rebounds
+38,Markelle Fultz,ORL - G,2.5,Rebounds
+39,Cole Anthony,ORL - G,4.5,Rebounds
+40,Dejounte Murray,ATL - G,5.5,Rebounds
+41,Giannis Antetokounmpo,MIL - F,12.5,Rebounds
+42,Vit Krejci,ATL - G,3.5,Rebounds
+43,Bobby Portis,MIL - F,8.0,Rebounds
+44,Bruno Fernando,ATL - F-C,6.0,Rebounds
+45,Paolo Banchero,ORL - F,41.5,Fantasy Score
+46,Jaren Jackson Jr.,MEM - F-C,38.0,Fantasy Score
+47,Franz Wagner,ORL - F,33.5,Fantasy Score
+48,GG Jackson II,MEM - F,27.0,Fantasy Score
+49,Jalen Suggs,ORL - G,25.5,Fantasy Score
+50,Wendell Carter Jr.,ORL - C-F,24.0,Fantasy Score
+51,Dejounte Murray,ATL - G,50.0,Fantasy Score
+52,Giannis Antetokounmpo,MIL - F,60.5,Fantasy Score
+53,Bogdan Bogdanovic,ATL - G,32.5,Fantasy Score
+54,Khris Middleton,MIL - F,33.5,Fantasy Score
+55,Malik Beasley,MIL - G,21.5,Fantasy Score
+56,Clint Capela,ATL - C,31.5,Fantasy Score
+57,Brook Lopez,MIL - C,25.0,Fantasy Score
+58,Paolo Banchero,ORL - F,5.5,Assists
+59,Luke Kennard,MEM - G-F,3.5,Assists
+60,Scotty Pippen Jr.,MEM - G,5.0,Assists
+61,Cole Anthony,ORL - G,2.5,Assists
+62,Giannis Antetokounmpo,MIL - F,7.0,Assists
+63,Luke Kennard,MEM - G-F,2.5,3-PT Made
+64,Cole Anthony,ORL - G,1.5,3-PT Made
+65,Giannis Antetokounmpo,MIL - F,0.5,3-PT Made
+66,Paolo Banchero,ORL - F,6.5,Defensive Rebounds
+67,Giannis Antetokounmpo,MIL - F,10.0,Defensive Rebounds
+68,Clint Capela,ATL - C,6.0,Defensive Rebounds
+69,Dejounte Murray,ATL - G,0.5,Offensive Rebounds
+70,Bogdan Bogdanovic,ATL - G,0.5,Offensive Rebounds
+71,Khris Middleton,MIL - F,0.5,Offensive Rebounds
+72,Clint Capela,ATL - C,4.5,Offensive Rebounds
+73,Jaren Jackson Jr.,MEM - F-C,5.5,3-PT Attempted
+74,Dejounte Murray,ATL - G,9.0,3-PT Attempted
+75,Bogdan Bogdanovic,ATL - G,8.0,3-PT Attempted
+76,Khris Middleton,MIL - F,6.0,3-PT Attempted
+77,Malik Beasley,MIL - G,8.5,3-PT Attempted
+78,Jaren Jackson Jr. + Paolo Banchero,MEM/ORL - F,42.5,Points (Combo)
+79,Giannis Antetokounmpo + Dejounte Murray,MIL/ATL - F/G,60.5,Points (Combo)
+80,Giannis Antetokounmpo + Dejounte Murray,MIL/ATL - F/G,16.0,Assists (Combo)
+81,Giannis Antetokounmpo + Paolo Banchero,MIL/ORL - F,13.0,Assists (Combo)
+82,Jaren Jackson Jr. + Paolo Banchero,MEM/ORL - F,13.5,Rebounds (Combo)
+83,Giannis Antetokounmpo + Clint Capela,MIL/ATL - F/C,24.0,Rebounds (Combo)
+84,Malik Beasley + Bogdan Bogdanovic,MIL/ATL - G,7.0,3-PT Made (Combo)
+85,Paolo Banchero,ORL - F,4.5,Free Throws Made
+86,Jaren Jackson Jr.,MEM - F-C,4.5,Free Throws Made
+87,Dejounte Murray,ATL - G,3.0,Free Throws Made
+88,Giannis Antetokounmpo,MIL - F,7.0,Free Throws Made
+89,Bogdan Bogdanovic,ATL - G,1.5,Free Throws Made
+90,Clint Capela,ATL - C,1.5,Free Throws Made
+91,Paolo Banchero,ORL - F,17.0,FG Attempted
+92,Jaren Jackson Jr.,MEM - F-C,17.5,FG Attempted
+93,Franz Wagner,ORL - F,13.5,FG Attempted
+94,Dejounte Murray,ATL - G,22.0,FG Attempted
+95,Giannis Antetokounmpo,MIL - F,20.5,FG Attempted
+96,Bogdan Bogdanovic,ATL - G,15.5,FG Attempted
+97,Khris Middleton,MIL - F,14.0,FG Attempted
+98,Paolo Banchero,ORL - F,30.5,Pts+Rebs
+99,Jaren Jackson Jr.,MEM - F-C,26.5,Pts+Rebs
+100,Franz Wagner,ORL - F,23.5,Pts+Rebs
+101,GG Jackson II,MEM - F,21.5,Pts+Rebs
+102,Jalen Suggs,ORL - G,16.5,Pts+Rebs
+103,Wendell Carter Jr.,ORL - C-F,18.5,Pts+Rebs
+104,Jake LaRavia,MEM - F,16.5,Pts+Rebs
+105,Luke Kennard,MEM - G-F,13.5,Pts+Rebs
+106,Moritz Wagner,ORL - F-C,14.5,Pts+Rebs
+107,Scotty Pippen Jr.,MEM - G,13.5,Pts+Rebs
+108,Cole Anthony,ORL - G,16.5,Pts+Rebs
+109,Dejounte Murray,ATL - G,33.5,Pts+Rebs
+110,Giannis Antetokounmpo,MIL - F,46.5,Pts+Rebs
+111,Bogdan Bogdanovic,ATL - G,23.5,Pts+Rebs
+112,Khris Middleton,MIL - F,22.5,Pts+Rebs
+113,De'Andre Hunter,ATL - F-G,23.5,Pts+Rebs
+114,Malik Beasley,MIL - G,16.5,Pts+Rebs
+115,Brook Lopez,MIL - C,15.5,Pts+Rebs
+116,Vit Krejci,ATL - G,10.5,Pts+Rebs
+117,Bobby Portis,MIL - F,22.5,Pts+Rebs
+118,Bruno Fernando,ATL - F-C,14.5,Pts+Rebs
+119,Paolo Banchero,ORL - F,1.0,Dunks
+120,Jaren Jackson Jr.,MEM - F-C,0.5,Dunks
+121,GG Jackson II,MEM - F,0.5,Dunks
+122,Giannis Antetokounmpo,MIL - F,3.5,Dunks
+123,Clint Capela,ATL - C,1.5,Dunks
+124,Paolo Banchero,ORL - F,27.5,Pts+Asts
+125,Jaren Jackson Jr.,MEM - F-C,23.5,Pts+Asts
+126,Franz Wagner,ORL - F,21.5,Pts+Asts
+127,GG Jackson II,MEM - F,18.5,Pts+Asts
+128,Jalen Suggs,ORL - G,16.5,Pts+Asts
+129,Wendell Carter Jr.,ORL - C-F,11.5,Pts+Asts
+130,Jake LaRavia,MEM - F,13.5,Pts+Asts
+131,Luke Kennard,MEM - G-F,14.5,Pts+Asts
+132,Moritz Wagner,ORL - F-C,11.5,Pts+Asts
+133,Scotty Pippen Jr.,MEM - G,15.0,Pts+Asts
+134,Cole Anthony,ORL - G,14.5,Pts+Asts
+135,Dejounte Murray,ATL - G,36.5,Pts+Asts
+136,Giannis Antetokounmpo,MIL - F,41.0,Pts+Asts
+137,Bogdan Bogdanovic,ATL - G,23.5,Pts+Asts
+138,Khris Middleton,MIL - F,24.5,Pts+Asts
+139,De'Andre Hunter,ATL - F-G,20.5,Pts+Asts
+140,Brook Lopez,MIL - C,12.5,Pts+Asts
+141,Bobby Portis,MIL - F,15.5,Pts+Asts
+142,Franz Wagner,ORL - F,0.5,Blocked Shots
+143,Brook Lopez,MIL - C,1.5,Blocked Shots
+144,Jalen Suggs,ORL - G,1.5,Steals
+145,Moritz Wagner,ORL - F-C,0.5,Steals
+146,Joe Ingles,ORL - F-G,0.5,Steals
+147,Clint Capela,ATL - C,0.5,Steals
+148,Brook Lopez,MIL - C,0.5,Steals
+149,Paolo Banchero,ORL - F,13.5,Rebs+Asts
+150,Jaren Jackson Jr.,MEM - F-C,9.0,Rebs+Asts
+151,Franz Wagner,ORL - F,8.5,Rebs+Asts
+152,Wendell Carter Jr.,ORL - C-F,9.5,Rebs+Asts
+153,Dejounte Murray,ATL - G,14.5,Rebs+Asts
+154,Giannis Antetokounmpo,MIL - F,19.5,Rebs+Asts
+155,Bogdan Bogdanovic,ATL - G,8.0,Rebs+Asts
+156,Khris Middleton,MIL - F,12.0,Rebs+Asts
+157,Clint Capela,ATL - C,13.0,Rebs+Asts
+158,Bobby Portis,MIL - F,9.5,Rebs+Asts
+159,Wendell Carter Jr.,ORL - C-F,1.5,Blks+Stls
+160,Jake LaRavia,MEM - F,1.5,Blks+Stls
+161,Cole Anthony,ORL - G,1.5,Blks+Stls
+162,Bruno Fernando,ATL - F-C,1.5,Blks+Stls
+163,Paolo Banchero,ORL - F,3.5,Turnovers
+164,Jake LaRavia,MEM - F,1.5,Turnovers
+165,Giannis Antetokounmpo,MIL - F,3.5,Turnovers
+166,Bogdan Bogdanovic,ATL - G,1.5,Turnovers

@@ -38,6 +38,9 @@ BOS,Jaylen Brown,Out
 BOS,Derrick White,Out
 BOS,Jaden Springer,Out
 BOS,JD Davison,Not on injury report
+NYK,Jalen Brunson,Probable
+NYK,Josh Hart,Probable
+NYK,OG Anunoby,questionable
 NYK,Julius Randle,Out for season
 NYK,OG Anunoby,Injured
 CHI,Torrey Craig,Probable
@@ -50,7 +53,8 @@ MIA,Tyler Herro,Questionable
 MIA,Terry Rozier,Probable
 MIA,Duncan Robinson,Probable
 MIA,Josh Richardson,Out for season
-HOU,Amen Thompson,TBD
+HOU,Amen Thompson,Out
+HOU,Jae'Sean Tate,Out
 HOU,Alperen Sengun,Injured
 HOU,Tari Eason,Out for season
 HOU,Steven Adams,Out for season
@@ -83,11 +87,11 @@ TOR,Jontay Porter,Out
 TOR,Scottie Barnes,Injured
 TOR,Jakob Poeltl,Injured
 TOR,Chris Boucher,Injured
-MIL,Giannis Antetokounmpo,Questionable
+MIL,Giannis Antetokounmpo,Doubtful
 MIL,Damian Lillard,In
 MIL,Khris Middleton,Available
-MIL,Patrick Beverley,Questionable
-MIL,MarJon Beauchamp,Doubtful
+MIL,Patrick Beverley,Doubtful
+MIL,MarJon Beauchamp,Out
 MIL,Jaylin Galloway,Out
 SAS,Keldon Johnson,Out
 SAS,Dominick Barlow,Out
@@ -98,10 +102,13 @@ SAS,Charles Bassey,Out for season
 NOP,Zion Williamson,Questionable
 NOP,Jose Alvarado,Out
 NOP,Brandon Ingram,Injured
-GSW,Andrew Wiggins,TBD
-GSW,Jonathan Kuminga,TBD
-GSW,Dario Saric,TBD
-DAL,Greg Brown III,TBD
+GSW,Andrew Wiggins,Questionable
+GSW,Jonathan Kuminga,Questionable
+GSW,Gary Payton II,Questionable
+GSW,Dario Saric,Out
+DAL,Greg Brown III,Out
+DAL,Luka Doncic,Questionable
+DAL,Maxi Kleber,Questionable
 DAL,Dereck Lively II,Injured
 DAL,Josh Green,Injured
 MIN,Mike Conley,Available

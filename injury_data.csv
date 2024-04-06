@@ -1,10 +1,10 @@
 Team,Player,Status
-CLE,Craig Porter Jr.,Probable
+CLE,Craig Porter Jr.,Available
 CLE,Isaac Okoro,Out
 CLE,Dean Wade,Injured
 CLE,Ty Jerome,Injured
-LAL,LeBron James,Questionable
-LAL,Anthony Davis,Questionable
+LAL,LeBron James,Available
+LAL,Anthony Davis,Available
 LAL,Jarred Vanderbilt,Injured
 LAL,Christian Wood,Injured
 LAL,Jalen Hood-Schifino,Injured
@@ -28,12 +28,15 @@ PHI,Nicolas Batum,Questionable
 PHI,Mo Bamba,Questionable
 PHI,De'Anthony Melton,Injured
 PHI,Robert Covington,Injured
-MEM,Jaren Jackson Jr.,TBD
-MEM,Desmond Bane,TBD
-MEM,Luke Kennard,TBD
-MEM,John Konchar,TBD
-MEM,Santi Aldama,TBD
-MEM,Yuta Watanabe,TBD
+MEM,Brandon Clarke,Questionable
+MEM,Jake LaRavia,Doubtful
+MEM,Lamar Stevens,Doubtful
+MEM,Jaren Jackson Jr.,Out
+MEM,Desmond Bane,Out
+MEM,Luke Kennard,Questionable
+MEM,John Konchar,Out
+MEM,Santi Aldama,Out
+MEM,Yuta Watanabe,Out
 MEM,Marcus Smart,Injured
 MEM,Vince Williams,Injured
 MEM,Derrick Rose,Injured
@@ -45,6 +48,7 @@ ATL,Onyeka Okongwu,Injured
 ATL,AJ Griffin,Injured
 ATL,Saddiq Bey,Out for season
 DEN,Nikola Jokic,Probable
-DEN,Aaron Gordon,Probable
+DEN,Aaron Gordon,Questionable
 DEN,Jamal Murray,Questionable
+DEN,Reggie Jackson,Questionable
 DEN,Vlatko Cancar,Injured

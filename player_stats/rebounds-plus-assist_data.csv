@@ -1,10 +1,10 @@
 Rank,Player,Team,Pos,Value
 1,Domantas Sabonis,Sacramento Kings,PF,21.96
-2,Nikola Jokic,Denver Nuggets,C,21.38
+2,Nikola Jokic,Denver Nuggets,C,21.43
 3,Luka Doncic,Dallas Mavericks,SF,18.99
 4,Giannis Antetokounmpo,Milwaukee Bucks,SF,18.01
-5,Anthony Davis,Los Angeles Lakers,PF,16.37
-6,LeBron James,Los Angeles Lakers,SF,15.37
+5,Anthony Davis,Los Angeles Lakers,PF,16.38
+6,LeBron James,Los Angeles Lakers,SF,15.39
 7,Tyrese Haliburton,Indiana Pacers,PG,14.85
 8,Jusuf Nurkic,Phoenix Suns,C,14.82
 9,Bam Adebayo,Miami Heat,C,14.64
@@ -15,19 +15,19 @@ Rank,Player,Team,Pos,Value
 14,Nikola Vucevic,Chicago Bulls,C,14.07
 15,Jalen Duren,Detroit Pistons,C,14.05
 16,James Harden,Los Angeles Clippers,SG,13.83
-17,Jarrett Allen,Cleveland Cavaliers,C,13.26
+17,Jarrett Allen,Cleveland Cavaliers,C,13.29
 18,Jayson Tatum,Boston Celtics,SF,13.10
-19,Jalen Johnson,Atlanta Hawks,SF,12.41
+19,Jalen Johnson,Atlanta Hawks,SF,12.36
 20,Josh Hart,New York Knicks,SG,12.17
 21,Paolo Banchero,Orlando Magic,PF,12.12
 22,Nic Claxton,Brooklyn Nets,C,11.97
 23,Kevin Durant,Phoenix Suns,SF,11.91
-24,Clint Capela,Atlanta Hawks,C,11.87
+23,Clint Capela,Atlanta Hawks,C,11.91
 25,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,11.85
 26,Cade Cunningham,Detroit Pistons,PG,11.81
 27,Fred VanVleet,Houston Rockets,PG,11.80
-28,Devin Booker,Phoenix Suns,SG,11.68
-29,Dejounte Murray,Atlanta Hawks,PG,11.66
+28,Dejounte Murray,Atlanta Hawks,PG,11.69
+29,Devin Booker,Phoenix Suns,SG,11.68
 30,Pascal Siakam,Indiana Pacers,PF,11.47
 31,Damian Lillard,Milwaukee Bucks,PG,11.43
 32,Karl-Anthony Towns,Minnesota Timberwolves,C,11.38
@@ -37,8 +37,8 @@ Rank,Player,Team,Pos,Value
 36,Kyle Kuzma,Washington Wizards,PF,10.86
 37,Miles Bridges,Charlotte Hornets,SF,10.85
 38,Brandon Ingram,New Orleans Pelicans,SF,10.83
-39,Jamal Murray,Denver Nuggets,SG,10.78
-40,Zion Williamson,New Orleans Pelicans,PF,10.75
+39,Zion Williamson,New Orleans Pelicans,PF,10.75
+40,Jamal Murray,Denver Nuggets,SG,10.75
 41,Anthony Edwards,Minnesota Timberwolves,SG,10.66
 42,Isaiah Hartenstein,New York Knicks,C,10.66
 43,Ivica Zubac,Los Angeles Clippers,C,10.62
@@ -50,9 +50,9 @@ Rank,Player,Team,Pos,Value
 49,Jimmy Butler,Miami Heat,PF,10.15
 50,Kyrie Irving,Dallas Mavericks,PG,10.11
 51,Tyus Jones,Washington Wizards,PG,10.06
-52,Tyrese Maxey,Philadelphia 76ers,PG,10.03
-53,Aaron Gordon,Denver Nuggets,PF,9.97
-54,Austin Reaves,Los Angeles Lakers,PG,9.96
+52,Aaron Gordon,Denver Nuggets,PF,9.97
+53,Tyrese Maxey,Philadelphia 76ers,PG,9.97
+54,Austin Reaves,Los Angeles Lakers,PG,9.94
 55,Jeremy Sochan,San Antonio Spurs,PF,9.80
 56,Coby White,Chicago Bulls,SG,9.78
 57,Terry Rozier,Miami Heat,PG,9.75
@@ -67,30 +67,30 @@ Rank,Player,Team,Pos,Value
 66,Brandin Podziemski,Golden State Warriors,SG,9.51
 67,Tobias Harris,Philadelphia 76ers,SF,9.48
 68,Stephen Curry,Golden State Warriors,PG,9.44
-69,D'Angelo Russell,Los Angeles Lakers,PG,9.40
-70,Daniel Gafford,Dallas Mavericks,PF,9.39
+69,Daniel Gafford,Dallas Mavericks,PF,9.39
+70,D'Angelo Russell,Los Angeles Lakers,PG,9.37
 71,Russell Westbrook,Los Angeles Clippers,PG,9.32
-72,Caris LeVert,Cleveland Cavaliers,SG,9.30
+72,Caris LeVert,Cleveland Cavaliers,SG,9.29
 73,Jaylen Brown,Boston Celtics,SG,9.16
 74,Kristaps Porzingis,Boston Celtics,PF,9.15
 75,Franz Wagner,Orlando Magic,SF,9.07
 76,Al Horford,Boston Celtics,C,9.03
 77,Nick Richards,Charlotte Hornets,C,9.02
-78,Dennis Schroder,Brooklyn Nets,PG,8.96
+78,Dennis Schroder,Brooklyn Nets,PG,8.99
 79,CJ McCollum,New Orleans Pelicans,SG,8.89
 80,Mike Conley,Minnesota Timberwolves,PG,8.79
 81,Amen Thompson,Houston Rockets,SG,8.74
 82,Paul George,Los Angeles Clippers,SF,8.70
 83,Jalen Green,Houston Rockets,SG,8.69
-84,Michael Porter Jr.,Denver Nuggets,PF,8.62
-85,Jalen Williams,Oklahoma City Thunder,SG,8.58
-86,RJ Barrett,Toronto Raptors,SF,8.56
-87,Max Strus,Cleveland Cavaliers,PG,8.55
+84,Jalen Williams,Oklahoma City Thunder,SG,8.58
+85,Max Strus,Cleveland Cavaliers,PG,8.58
+86,Michael Porter Jr.,Denver Nuggets,PF,8.57
+87,RJ Barrett,Toronto Raptors,SF,8.56
 88,Bobby Portis,Milwaukee Bucks,PF,8.55
 89,Jordan Clarkson,Utah Jazz,PG,8.45
 90,Walker Kessler,Utah Jazz,C,8.45
-91,Mikal Bridges,Brooklyn Nets,SG,8.40
-92,Immanuel Quickley,Toronto Raptors,SG,8.38
+91,Immanuel Quickley,Toronto Raptors,SG,8.38
+92,Mikal Bridges,Brooklyn Nets,SG,8.36
 93,Keldon Johnson,San Antonio Spurs,SF,8.34
 94,Ausar Thompson,Detroit Pistons,SG,8.29
 95,T.J. McConnell,Indiana Pacers,PG,8.22

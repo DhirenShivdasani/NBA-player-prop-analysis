@@ -1,6 +1,9 @@
 Team,Player,Status
-CHI,Ayo Dosunmu,TBD
-CHI,Andre Drummond,TBD
+CHI,DeMar DeRozan,Questionable
+CHI,Nikola Vucevic,Questionable
+CHI,Alex Caruso,Questionable
+CHI,Ayo Dosunmu,Out
+CHI,Andre Drummond,Out
 CHI,Julian Phillips,Injured
 CHI,Zach LaVine,Out for season
 CHI,Patrick Williams,Out for season
@@ -21,8 +24,9 @@ PHI,Kyle Lowry,Questionable
 PHI,KJ Martin,Questionable
 PHI,Tyrese Maxey,Not on injury report
 PHI,Robert Covington,Injured
-BKN,Cam Johnson,Questionable
-BKN,Day'Ron Sharpe,Questionable
+BKN,Cam Johnson,Doubtful
+BKN,Dennis Schroder,Questionable
+BKN,Day'Ron Sharpe,Doubtful
 BKN,Jacob Gilyard,Probable
 BKN,Dorian Finney-Smith,Out
 BKN,Dennis Smith Jr.,Out
@@ -30,6 +34,9 @@ BKN,Jaylen Martin,Out
 BKN,Ben Simmons,Out for season
 BKN,Keita Bates-Diop,Out for season
 BKN,Dariq Whitehead,Out for season
+NYK,Jalen Brunson,Probable
+NYK,Miles McBride,Questionable
+NYK,Isaiah Hartenstein,Out
 NYK,Julius Randle,Out for season
 CHA,Grant Williams,Questionable
 CHA,Nick Richards,Questionable
@@ -57,6 +64,7 @@ ATL,Seth Lundy,Out
 ATL,Jalen Johnson,Injured
 ATL,Onyeka Okongwu,Injured
 ATL,Saddiq Bey,Out for season
+MIN,Anthony Edwards,Questionable
 MIN,Karl-Anthony Towns,Expected to play
 MIN,Jaylen Clark,Injured
 DEN,Nikola Jokic,Probable
@@ -92,10 +100,10 @@ MEM,Vince Williams,Injured
 MEM,Derrick Rose,Injured
 MEM,Ziaire Williams,Injured
 MEM,Ja Morant,Out for season
-MIL,Damian Lillard,Doubtful
-MIL,Khris Middleton,Questionable
-MIL,Brook Lopez,Questionable
-MIL,Bobby Portis,Questionable
+MIL,Damian Lillard,Out
+MIL,Khris Middleton,Available
+MIL,Brook Lopez,Available
+MIL,Bobby Portis,Available
 MIL,MarJon Beauchamp,Questionable
 MIL,Thanasis Antetokounmpo,Probable
 MIL,AJ Green,Out
@@ -128,8 +136,8 @@ DAL,Luka Doncic,Questionable
 DAL,Kyrie Irving,Out
 DAL,Greg Brown III,Out
 DAL,Dereck Lively II,Injured
-HOU,Alperen Sengun,Injured
 HOU,Jae'Sean Tate,Injured
+HOU,Alperen Sengun,Out for season
 HOU,Tari Eason,Out for season
 HOU,Steven Adams,Out for season
 POR,Dalano Banton,TBD

@@ -1,504 +1,230 @@
 ,Name,Team,Value,Prop
-0,Joel Embiid,PHI - C-F,45.5,Pts+Rebs+Asts
-1,Cam Thomas,BKN - G,31.5,Pts+Rebs+Asts
-2,Tyrese Maxey,PHI - G,33.5,Pts+Rebs+Asts
-3,Nicolas Claxton,BKN - C,23.5,Pts+Rebs+Asts
-4,Tobias Harris,PHI - F,22.5,Pts+Rebs+Asts
-5,Kelly Oubre Jr.,PHI - F-G,20.5,Pts+Rebs+Asts
-6,Noah Clowney,BKN - F-C,19.5,Pts+Rebs+Asts
-7,Pascal Siakam,IND - F,31.5,Pts+Rebs+Asts
-8,Tyrese Haliburton,IND - G,33.5,Pts+Rebs+Asts
-9,Myles Turner,IND - C-F,23.5,Pts+Rebs+Asts
-10,Aaron Nesmith,IND - G-F,19.5,Pts+Rebs+Asts
-11,T.J. McConnell,IND - G,21.5,Pts+Rebs+Asts
-12,Payton Pritchard,BOS - G,35.5,Pts+Rebs+Asts
-13,Sam Hauser,BOS - F,25.5,Pts+Rebs+Asts
-14,Bobby Portis,MIL - F,29.5,Pts+Rebs+Asts
-15,Franz Wagner,ORL - F,29.5,Pts+Rebs+Asts
-16,Brook Lopez,MIL - C,17.5,Pts+Rebs+Asts
-17,Jalen Suggs,ORL - G,21.5,Pts+Rebs+Asts
-18,Damian Lillard,MIL - G,38.5,Pts+Rebs+Asts
-19,Paolo Banchero,ORL - F,35.5,Pts+Rebs+Asts
-20,Khris Middleton,MIL - F,26.5,Pts+Rebs+Asts
-21,Wendell Carter Jr.,ORL - C-F,18.5,Pts+Rebs+Asts
-22,Patrick Beverley,MIL - G,16.5,Pts+Rebs+Asts
-23,Bam Adebayo,MIA - C-F,32.5,Pts+Rebs+Asts
-24,Caleb Martin,MIA - F,19.5,Pts+Rebs+Asts
-25,Jimmy Butler,MIA - F,29.5,Pts+Rebs+Asts
-26,Tyler Herro,MIA - G,30.5,Pts+Rebs+Asts
-27,Nikola Jovic,MIA - F,16.5,Pts+Rebs+Asts
-28,Jaime Jaquez Jr.,MIA - F-G,19.5,Pts+Rebs+Asts
-29,Donte DiVincenzo,NYK - G,24.5,Pts+Rebs+Asts
-30,Isaiah Hartenstein,NYK - C-F,20.5,Pts+Rebs+Asts
-31,Jalen Brunson,NYK - G,42.5,Pts+Rebs+Asts
-32,Josh Hart,NYK - G,28.5,Pts+Rebs+Asts
-33,OG Anunoby,NYK - G-F,19.5,Pts+Rebs+Asts
-34,Zion Williamson,NOP - F,36.5,Pts+Rebs+Asts
-35,LeBron James,LAL - F,41.5,Pts+Rebs+Asts
-36,CJ McCollum,NOP - G,32.5,Pts+Rebs+Asts
-37,Anthony Davis,LAL - F-C,40.5,Pts+Rebs+Asts
-38,Jonas Valanciunas,NOP - C,17.5,Pts+Rebs+Asts
-39,Austin Reaves,LAL - G,23.5,Pts+Rebs+Asts
-40,D'Angelo Russell,LAL - G,25.0,Pts+Rebs+Asts
-41,Rui Hachimura,LAL - F,19.0,Pts+Rebs+Asts
-42,GG Jackson II,MEM - F,28.5,Pts+Rebs+Asts
-43,Jake LaRavia,MEM - F,26.5,Pts+Rebs+Asts
-44,De'Aaron Fox,SAC - G,36.5,Pts+Rebs+Asts
-45,Deandre Ayton,POR - C,34.5,Pts+Rebs+Asts
-46,Domantas Sabonis,SAC - C,39.5,Pts+Rebs+Asts
-47,Scoot Henderson,POR - G,31.5,Pts+Rebs+Asts
-48,Keegan Murray,SAC - F,23.0,Pts+Rebs+Asts
-49,Stephen Curry,GSW - G,39.5,Pts+Rebs+Asts
-50,Jaden Ivey,DET - G,26.5,Pts+Rebs+Asts
-51,Anthony Edwards,MIN - G,35.5,Pts+Rebs+Asts
-52,Bradley Beal,PHX - G,25.5,Pts+Rebs+Asts
-53,Devin Booker,PHX - G,35.5,Pts+Rebs+Asts
-54,Karl-Anthony Towns,MIN - C-F,26.0,Pts+Rebs+Asts
-55,Grayson Allen,PHX - G,18.0,Pts+Rebs+Asts
-56,Mike Conley,MIN - G,20.5,Pts+Rebs+Asts
-57,Jusuf Nurkic,PHX - C,22.5,Pts+Rebs+Asts
-58,Naz Reid,MIN - C,20.5,Pts+Rebs+Asts
-59,Kevin Durant,PHX - F,35.5,Pts+Rebs+Asts
-60,Rudy Gobert,MIN - C,28.5,Pts+Rebs+Asts
-61,Chet Holmgren,OKC - C-F,24.5,Pts+Rebs+Asts
-62,Jalen Williams,OKC - G-F,24.5,Pts+Rebs+Asts
-63,Josh Giddey,OKC - G,25.5,Pts+Rebs+Asts
-64,Shai Gilgeous-Alexander,OKC - G,37.5,Pts+Rebs+Asts
-65,Joel Embiid,PHI - C-F,29.5,Points
-66,Cam Thomas,BKN - G,24.5,Points
-67,Tyrese Maxey,PHI - G,23.5,Points
-68,Nicolas Claxton,BKN - C,11.5,Points
-69,Tobias Harris,PHI - F,13.5,Points
-70,Kelly Oubre Jr.,PHI - F-G,13.5,Points
-71,Noah Clowney,BKN - F-C,10.5,Points
-72,Pascal Siakam,IND - F,20.5,Points
-73,Tyrese Haliburton,IND - G,18.5,Points
-74,Myles Turner,IND - C-F,15.5,Points
-75,Aaron Nesmith,IND - G-F,13.5,Points
-76,T.J. McConnell,IND - G,12.5,Points
-77,Obi Toppin,IND - F,9.5,Points
-78,Andrew Nembhard,IND - G-F,9.0,Points
-79,Payton Pritchard,BOS - G,22.5,Points
-80,Sam Hauser,BOS - F,17.5,Points
-81,Bobby Portis,MIL - F,17.5,Points
-82,Cole Anthony,ORL - G,8.5,Points
-83,Brook Lopez,MIL - C,11.5,Points
-84,Franz Wagner,ORL - F,20.5,Points
-85,Damian Lillard,MIL - G,27.0,Points
-86,Khris Middleton,MIL - F,16.5,Points
-87,Jalen Suggs,ORL - G,14.5,Points
-88,Malik Beasley,MIL - G,8.5,Points
-89,Paolo Banchero,ORL - F,22.5,Points
-90,Patrick Beverley,MIL - G,8.0,Points
-91,Wendell Carter Jr.,ORL - C-F,9.5,Points
-92,Bam Adebayo,MIA - C-F,17.5,Points
-93,Caleb Martin,MIA - F,11.5,Points
-94,Jimmy Butler,MIA - F,19.5,Points
-95,Tyler Herro,MIA - G,20.5,Points
-96,Nikola Jovic,MIA - F,9.5,Points
-97,Kevin Love,MIA - F-C,7.5,Points
-98,Jaime Jaquez Jr.,MIA - F-G,11.5,Points
-99,Haywood Highsmith,MIA - F,8.0,Points
-100,Donte DiVincenzo,NYK - G,17.5,Points
-101,Isaiah Hartenstein,NYK - C-F,8.5,Points
-102,Jalen Brunson,NYK - G,31.5,Points
-103,Josh Hart,NYK - G,11.5,Points
-104,OG Anunoby,NYK - G-F,14.5,Points
-105,Zion Williamson,NOP - F,25.5,Points
-106,LeBron James,LAL - F,26.5,Points
-107,CJ McCollum,NOP - G,23.0,Points
-108,Anthony Davis,LAL - F-C,24.5,Points
-109,Jonas Valanciunas,NOP - C,9.5,Points
-110,Austin Reaves,LAL - G,14.0,Points
-111,Herbert Jones,NOP - G-F,9.0,Points
-112,D'Angelo Russell,LAL - G,15.5,Points
-113,Rui Hachimura,LAL - F,13.5,Points
-114,GG Jackson II,MEM - F,21.5,Points
-115,Jake LaRavia,MEM - F,17.5,Points
-116,De'Aaron Fox,SAC - G,25.5,Points
-117,Deandre Ayton,POR - C,20.5,Points
-118,Domantas Sabonis,SAC - C,18.5,Points
-119,Scoot Henderson,POR - G,19.5,Points
-120,Harrison Barnes,SAC - F,11.5,Points
-121,Keegan Murray,SAC - F,15.5,Points
-122,Keon Ellis,SAC - G,6.5,Points
-123,Stephen Curry,GSW - G,28.5,Points
-124,Jaden Ivey,DET - G,18.5,Points
-125,Anthony Edwards,MIN - G,24.5,Points
-126,Bradley Beal,PHX - G,15.5,Points
-127,Jaden McDaniels,MIN - F,9.5,Points
-128,Devin Booker,PHX - G,25.5,Points
-129,Karl-Anthony Towns,MIN - C-F,16.5,Points
-130,Grayson Allen,PHX - G,12.5,Points
-131,Mike Conley,MIN - G,11.5,Points
-132,Jusuf Nurkic,PHX - C,8.0,Points
-133,Naz Reid,MIN - C,13.5,Points
-134,Kevin Durant,PHX - F,25.5,Points
-135,Rudy Gobert,MIN - C,13.5,Points
-136,Chet Holmgren,OKC - C-F,14.5,Points
-137,Jalen Williams,OKC - G-F,16.5,Points
-138,Josh Giddey,OKC - G,12.5,Points
-139,Luguentz Dort,OKC - G,10.5,Points
-140,Shai Gilgeous-Alexander,OKC - G,26.5,Points
-141,Joel Embiid,PHI - C-F,11.0,Rebounds
-142,Tyrese Maxey,PHI - G,3.5,Rebounds
-143,Nicolas Claxton,BKN - C,9.5,Rebounds
-144,Tobias Harris,PHI - F,6.0,Rebounds
-145,Kelly Oubre Jr.,PHI - F-G,5.0,Rebounds
-146,Noah Clowney,BKN - F-C,7.5,Rebounds
-147,Pascal Siakam,IND - F,8.0,Rebounds
-148,Tyrese Haliburton,IND - G,4.5,Rebounds
-149,Myles Turner,IND - C-F,6.5,Rebounds
-150,Aaron Nesmith,IND - G-F,4.5,Rebounds
-151,Obi Toppin,IND - F,4.0,Rebounds
-152,Sam Hauser,BOS - F,5.5,Rebounds
-153,Bobby Portis,MIL - F,10.5,Rebounds
-154,Brook Lopez,MIL - C,5.0,Rebounds
-155,Franz Wagner,ORL - F,5.5,Rebounds
-156,Damian Lillard,MIL - G,4.0,Rebounds
-157,Khris Middleton,MIL - F,5.0,Rebounds
-158,Paolo Banchero,ORL - F,7.0,Rebounds
-159,Patrick Beverley,MIL - G,4.5,Rebounds
-160,Wendell Carter Jr.,ORL - C-F,7.5,Rebounds
-161,Bam Adebayo,MIA - C-F,10.5,Rebounds
-162,Jimmy Butler,MIA - F,5.0,Rebounds
-163,Nikola Jovic,MIA - F,4.5,Rebounds
-164,Jaime Jaquez Jr.,MIA - F-G,4.0,Rebounds
-165,Haywood Highsmith,MIA - F,4.5,Rebounds
-166,Donte DiVincenzo,NYK - G,4.5,Rebounds
-167,Isaiah Hartenstein,NYK - C-F,8.5,Rebounds
-168,Jalen Brunson,NYK - G,3.5,Rebounds
-169,Josh Hart,NYK - G,10.5,Rebounds
-170,Zion Williamson,NOP - F,6.0,Rebounds
-171,LeBron James,LAL - F,7.0,Rebounds
-172,Anthony Davis,LAL - F-C,13.0,Rebounds
-173,Jonas Valanciunas,NOP - C,7.0,Rebounds
-174,Austin Reaves,LAL - G,4.0,Rebounds
-175,Herbert Jones,NOP - G-F,3.5,Rebounds
-176,Rui Hachimura,LAL - F,4.5,Rebounds
-177,Taurean Prince,LAL - F,2.5,Rebounds
-178,GG Jackson II,MEM - F,5.0,Rebounds
-179,Jake LaRavia,MEM - F,6.0,Rebounds
-180,De'Aaron Fox,SAC - G,4.5,Rebounds
-181,Deandre Ayton,POR - C,11.5,Rebounds
-182,Domantas Sabonis,SAC - C,13.5,Rebounds
-183,Keegan Murray,SAC - F,5.5,Rebounds
-184,Stephen Curry,GSW - G,4.5,Rebounds
-185,Anthony Edwards,MIN - G,5.0,Rebounds
-186,Devin Booker,PHX - G,4.0,Rebounds
-187,Karl-Anthony Towns,MIN - C-F,6.0,Rebounds
-188,Jusuf Nurkic,PHX - C,10.5,Rebounds
-189,Naz Reid,MIN - C,5.0,Rebounds
-190,Kevin Durant,PHX - F,6.0,Rebounds
-191,Chet Holmgren,OKC - C-F,8.0,Rebounds
-192,Jalen Williams,OKC - G-F,3.5,Rebounds
-193,Josh Giddey,OKC - G,7.5,Rebounds
-194,Shai Gilgeous-Alexander,OKC - G,5.5,Rebounds
-195,Tyrese Maxey,PHI - G,5.5,Assists
-196,Tyrese Haliburton,IND - G,10.5,Assists
-197,T.J. McConnell,IND - G,5.5,Assists
-198,Payton Pritchard,BOS - G,8.0,Assists
-199,Damian Lillard,MIL - G,6.5,Assists
-200,Khris Middleton,MIL - F,5.0,Assists
-201,Paolo Banchero,ORL - F,6.0,Assists
-202,Bam Adebayo,MIA - C-F,4.0,Assists
-203,Tyler Herro,MIA - G,4.5,Assists
-204,Jalen Brunson,NYK - G,7.0,Assists
-205,Josh Hart,NYK - G,6.0,Assists
-206,Zion Williamson,NOP - F,5.0,Assists
-207,LeBron James,LAL - F,8.0,Assists
-208,CJ McCollum,NOP - G,5.0,Assists
-209,Austin Reaves,LAL - G,5.0,Assists
-210,Herbert Jones,NOP - G-F,2.5,Assists
-211,D'Angelo Russell,LAL - G,5.5,Assists
-212,De'Aaron Fox,SAC - G,6.0,Assists
-213,Scoot Henderson,POR - G,7.0,Assists
-214,Domantas Sabonis,SAC - C,7.0,Assists
-215,Stephen Curry,GSW - G,6.0,Assists
-216,Jaden Ivey,DET - G,5.0,Assists
-217,Anthony Edwards,MIN - G,5.0,Assists
-218,Bradley Beal,PHX - G,5.0,Assists
-219,Devin Booker,PHX - G,6.5,Assists
-220,Mike Conley,MIN - G,5.5,Assists
-221,Jusuf Nurkic,PHX - C,3.5,Assists
-222,Jalen Williams,OKC - G-F,4.0,Assists
-223,Josh Giddey,OKC - G,5.0,Assists
-224,Shai Gilgeous-Alexander,OKC - G,4.5,Assists
-225,Noah Clowney,BKN - F-C,0.5,3-PT Made
-226,Myles Turner,IND - C-F,1.5,3-PT Made
-227,Caleb Martin,MIA - F,1.5,3-PT Made
-228,Kevin Love,MIA - F-C,1.5,3-PT Made
-229,Anthony Davis,LAL - F-C,0.5,3-PT Made
-230,Rui Hachimura,LAL - F,1.5,3-PT Made
-231,Gabe Vincent,LAL - G,0.5,3-PT Made
-232,Harrison Barnes,SAC - F,1.5,3-PT Made
-233,Bradley Beal,PHX - G,1.5,3-PT Made
-234,Kevin Durant,PHX - F,2.5,3-PT Made
-235,Cam Thomas + Joel Embiid,BKN/PHI - G/C,54.5,Points (Combo)
-236,Damian Lillard + Paolo Banchero,MIL/ORL - G/F,49.5,Points (Combo)
-237,LeBron James + Zion Williamson,LAL/NOP - F,52.5,Points (Combo)
-238,Anthony Davis + CJ McCollum,LAL/NOP - F-C/G,47.5,Points (Combo)
-239,Scoot Henderson + De'Aaron Fox,POR/SAC - G,44.5,Points (Combo)
-240,Devin Booker + Anthony Edwards,PHX/MIN - G,49.5,Points (Combo)
-241,Kevin Durant + Karl-Anthony Towns,PHX/MIN - F/C-F,42.5,Points (Combo)
-242,Damian Lillard + Paolo Banchero,MIL/ORL - G/F,12.5,Assists (Combo)
-243,LeBron James + CJ McCollum,LAL/NOP - F/G,13.5,Assists (Combo)
-244,Devin Booker + Mike Conley,PHX/MIN - G,12.0,Assists (Combo)
-245,Nicolas Claxton + Joel Embiid,BKN/PHI - C,20.5,Rebounds (Combo)
-246,Anthony Davis + Jonas Valanciunas,LAL/NOP - F-C/C,20.0,Rebounds (Combo)
-247,Deandre Ayton + Domantas Sabonis,POR/SAC - C,25.0,Rebounds (Combo)
-248,Jusuf Nurkic + Rudy Gobert,PHX/MIN - C,23.5,Rebounds (Combo)
-249,Cam Thomas + Tyrese Maxey,BKN/PHI - G,5.5,3-PT Made (Combo)
-250,Damian Lillard + Jalen Suggs,MIL/ORL - G,5.5,3-PT Made (Combo)
-251,D'Angelo Russell + CJ McCollum,LAL/NOP - G,6.5,3-PT Made (Combo)
-252,Devin Booker + Anthony Edwards,PHX/MIN - G,4.5,3-PT Made (Combo)
-253,Joel Embiid,PHI - C-F,40.5,Pts+Rebs
-254,Cam Thomas,BKN - G,27.5,Pts+Rebs
-255,Tyrese Maxey,PHI - G,27.5,Pts+Rebs
-256,Nicolas Claxton,BKN - C,20.5,Pts+Rebs
-257,Tobias Harris,PHI - F,19.5,Pts+Rebs
-258,Kelly Oubre Jr.,PHI - F-G,18.5,Pts+Rebs
-259,Noah Clowney,BKN - F-C,17.5,Pts+Rebs
-260,Pascal Siakam,IND - F,28.5,Pts+Rebs
-261,Tyrese Haliburton,IND - G,23.5,Pts+Rebs
-262,Myles Turner,IND - C-F,22.5,Pts+Rebs
-263,Aaron Nesmith,IND - G-F,17.5,Pts+Rebs
-264,T.J. McConnell,IND - G,15.5,Pts+Rebs
-265,Obi Toppin,IND - F,13.5,Pts+Rebs
-266,Andrew Nembhard,IND - G-F,11.5,Pts+Rebs
-267,Payton Pritchard,BOS - G,27.5,Pts+Rebs
-268,Sam Hauser,BOS - F,22.5,Pts+Rebs
-269,Bobby Portis,MIL - F,28.5,Pts+Rebs
-270,Cole Anthony,ORL - G,11.5,Pts+Rebs
-271,Brook Lopez,MIL - C,16.5,Pts+Rebs
-272,Franz Wagner,ORL - F,26.5,Pts+Rebs
-273,Damian Lillard,MIL - G,31.5,Pts+Rebs
-274,Khris Middleton,MIL - F,21.5,Pts+Rebs
-275,Jalen Suggs,ORL - G,18.5,Pts+Rebs
-276,Malik Beasley,MIL - G,10.5,Pts+Rebs
-277,Paolo Banchero,ORL - F,29.5,Pts+Rebs
-278,Patrick Beverley,MIL - G,12.5,Pts+Rebs
-279,Wendell Carter Jr.,ORL - C-F,16.5,Pts+Rebs
-280,Bam Adebayo,MIA - C-F,28.5,Pts+Rebs
-281,Caleb Martin,MIA - F,16.5,Pts+Rebs
-282,Jimmy Butler,MIA - F,24.5,Pts+Rebs
-283,Tyler Herro,MIA - G,25.5,Pts+Rebs
-284,Nikola Jovic,MIA - F,14.5,Pts+Rebs
-285,Kevin Love,MIA - F-C,12.5,Pts+Rebs
-286,Jaime Jaquez Jr.,MIA - F-G,16.5,Pts+Rebs
-287,Haywood Highsmith,MIA - F,12.5,Pts+Rebs
-288,Donte DiVincenzo,NYK - G,21.5,Pts+Rebs
-289,Isaiah Hartenstein,NYK - C-F,17.5,Pts+Rebs
-290,Jalen Brunson,NYK - G,35.5,Pts+Rebs
-291,Josh Hart,NYK - G,22.5,Pts+Rebs
-292,OG Anunoby,NYK - G-F,18.0,Pts+Rebs
-293,Zion Williamson,NOP - F,31.5,Pts+Rebs
-294,LeBron James,LAL - F,33.5,Pts+Rebs
-295,CJ McCollum,NOP - G,27.5,Pts+Rebs
-296,Anthony Davis,LAL - F-C,37.5,Pts+Rebs
-297,Jonas Valanciunas,NOP - C,16.5,Pts+Rebs
-298,Austin Reaves,LAL - G,18.0,Pts+Rebs
-299,Herbert Jones,NOP - G-F,12.5,Pts+Rebs
-300,D'Angelo Russell,LAL - G,19.5,Pts+Rebs
-301,Rui Hachimura,LAL - F,17.5,Pts+Rebs
-302,GG Jackson II,MEM - F,26.5,Pts+Rebs
-303,Jake LaRavia,MEM - F,23.5,Pts+Rebs
-304,Deandre Ayton,POR - C,32.5,Pts+Rebs
-305,Domantas Sabonis,SAC - C,32.5,Pts+Rebs
-306,Scoot Henderson,POR - G,23.5,Pts+Rebs
-307,Harrison Barnes,SAC - F,14.5,Pts+Rebs
-308,Keegan Murray,SAC - F,20.5,Pts+Rebs
-309,Keon Ellis,SAC - G,10.5,Pts+Rebs
-310,Stephen Curry,GSW - G,33.5,Pts+Rebs
-311,Jaden Ivey,DET - G,21.5,Pts+Rebs
-312,Anthony Edwards,MIN - G,30.5,Pts+Rebs
-313,Bradley Beal,PHX - G,19.5,Pts+Rebs
-314,Devin Booker,PHX - G,29.5,Pts+Rebs
-315,Grayson Allen,PHX - G,15.5,Pts+Rebs
-316,Mike Conley,MIN - G,14.5,Pts+Rebs
-317,Jusuf Nurkic,PHX - C,18.5,Pts+Rebs
-318,Naz Reid,MIN - C,18.5,Pts+Rebs
-319,Kevin Durant,PHX - F,31.5,Pts+Rebs
-320,Rudy Gobert,MIN - C,26.5,Pts+Rebs
-321,Chet Holmgren,OKC - C-F,23.5,Pts+Rebs
-322,Jalen Williams,OKC - G-F,20.5,Pts+Rebs
-323,Josh Giddey,OKC - G,20.5,Pts+Rebs
-324,Luguentz Dort,OKC - G,13.5,Pts+Rebs
-325,Shai Gilgeous-Alexander,OKC - G,32.5,Pts+Rebs
-326,Joel Embiid,PHI - C-F,34.5,Pts+Asts
-327,Cam Thomas,BKN - G,28.5,Pts+Asts
-328,Tyrese Maxey,PHI - G,29.0,Pts+Asts
-329,Nicolas Claxton,BKN - C,13.5,Pts+Asts
-330,Tobias Harris,PHI - F,16.5,Pts+Asts
-331,Kelly Oubre Jr.,PHI - F-G,14.5,Pts+Asts
-332,Noah Clowney,BKN - F-C,12.5,Pts+Asts
-333,Pascal Siakam,IND - F,23.5,Pts+Asts
-334,Tyrese Haliburton,IND - G,29.5,Pts+Asts
-335,Myles Turner,IND - C-F,17.5,Pts+Asts
-336,Aaron Nesmith,IND - G-F,15.5,Pts+Asts
-337,T.J. McConnell,IND - G,18.5,Pts+Asts
-338,Obi Toppin,IND - F,10.5,Pts+Asts
-339,Andrew Nembhard,IND - G-F,12.5,Pts+Asts
-340,Payton Pritchard,BOS - G,30.5,Pts+Asts
-341,Sam Hauser,BOS - F,19.5,Pts+Asts
-342,Cole Anthony,ORL - G,10.5,Pts+Asts
-343,Franz Wagner,ORL - F,23.5,Pts+Asts
-344,Damian Lillard,MIL - G,33.5,Pts+Asts
-345,Khris Middleton,MIL - F,21.5,Pts+Asts
-346,Jalen Suggs,ORL - G,18.5,Pts+Asts
-347,Paolo Banchero,ORL - F,28.5,Pts+Asts
-348,Patrick Beverley,MIL - G,11.5,Pts+Asts
-349,Bam Adebayo,MIA - C-F,21.5,Pts+Asts
-350,Caleb Martin,MIA - F,14.5,Pts+Asts
-351,Jimmy Butler,MIA - F,24.5,Pts+Asts
-352,Tyler Herro,MIA - G,25.5,Pts+Asts
-353,Nikola Jovic,MIA - F,12.5,Pts+Asts
-354,Jaime Jaquez Jr.,MIA - F-G,15.5,Pts+Asts
-355,Donte DiVincenzo,NYK - G,20.5,Pts+Asts
-356,Isaiah Hartenstein,NYK - C-F,12.5,Pts+Asts
-357,Jalen Brunson,NYK - G,39.5,Pts+Asts
-358,Josh Hart,NYK - G,17.5,Pts+Asts
-359,OG Anunoby,NYK - G-F,15.5,Pts+Asts
-360,Zion Williamson,NOP - F,30.5,Pts+Asts
-361,LeBron James,LAL - F,34.5,Pts+Asts
-362,CJ McCollum,NOP - G,28.5,Pts+Asts
-363,Anthony Davis,LAL - F-C,27.5,Pts+Asts
-364,Jonas Valanciunas,NOP - C,10.5,Pts+Asts
-365,Herbert Jones,NOP - G-F,11.5,Pts+Asts
-366,D'Angelo Russell,LAL - G,21.5,Pts+Asts
-367,Rui Hachimura,LAL - F,14.5,Pts+Asts
-368,GG Jackson II,MEM - F,23.5,Pts+Asts
-369,Jake LaRavia,MEM - F,20.5,Pts+Asts
-370,De'Aaron Fox,SAC - G,31.0,Pts+Asts
-371,Deandre Ayton,POR - C,22.5,Pts+Asts
-372,Domantas Sabonis,SAC - C,26.5,Pts+Asts
-373,Scoot Henderson,POR - G,26.5,Pts+Asts
-374,Harrison Barnes,SAC - F,12.5,Pts+Asts
-375,Keegan Murray,SAC - F,17.5,Pts+Asts
-376,Stephen Curry,GSW - G,34.5,Pts+Asts
-377,Jaden Ivey,DET - G,23.5,Pts+Asts
-378,Anthony Edwards,MIN - G,30.5,Pts+Asts
-379,Bradley Beal,PHX - G,20.5,Pts+Asts
-380,Devin Booker,PHX - G,31.5,Pts+Asts
-381,Karl-Anthony Towns,MIN - C-F,19.5,Pts+Asts
-382,Grayson Allen,PHX - G,14.5,Pts+Asts
-383,Mike Conley,MIN - G,17.5,Pts+Asts
-384,Jusuf Nurkic,PHX - C,12.0,Pts+Asts
-385,Kevin Durant,PHX - F,29.5,Pts+Asts
-386,Chet Holmgren,OKC - C-F,16.5,Pts+Asts
-387,Jalen Williams,OKC - G-F,20.5,Pts+Asts
-388,Josh Giddey,OKC - G,18.0,Pts+Asts
-389,Luguentz Dort,OKC - G,12.5,Pts+Asts
-390,Shai Gilgeous-Alexander,OKC - G,31.5,Pts+Asts
-391,Tyrese Haliburton,IND - G,0.5,Blocked Shots
-392,Myles Turner,IND - C-F,1.5,Blocked Shots
-393,Caleb Martin,MIA - F,0.5,Blocked Shots
-394,Haywood Highsmith,MIA - F,0.5,Blocked Shots
-395,OG Anunoby,NYK - G-F,0.5,Blocked Shots
-396,Herbert Jones,NOP - G-F,0.5,Blocked Shots
-397,Domantas Sabonis,SAC - C,0.5,Blocked Shots
-398,Karl-Anthony Towns,MIN - C-F,0.5,Blocked Shots
-399,Jalen Williams,OKC - G-F,0.5,Blocked Shots
-400,Nicolas Claxton,BKN - C,0.5,Steals
-401,Kyle Lowry,PHI - G,0.5,Steals
-402,Noah Clowney,BKN - F-C,0.5,Steals
-403,Tyrese Haliburton,IND - G,1.5,Steals
-404,Myles Turner,IND - C-F,0.5,Steals
-405,Cole Anthony,ORL - G,0.5,Steals
-406,Jae Crowder,MIL - F,0.5,Steals
-407,Jalen Suggs,ORL - G,1.5,Steals
-408,Malik Beasley,MIL - G,0.5,Steals
-409,Pat Connaughton,MIL - G,0.5,Steals
-410,Austin Reaves,LAL - G,0.5,Steals
-411,Herbert Jones,NOP - G-F,1.5,Steals
-412,Harrison Barnes,SAC - F,0.5,Steals
-413,Anthony Edwards,MIN - G,1.5,Steals
-414,Chet Holmgren,OKC - C-F,0.5,Steals
-415,Shai Gilgeous-Alexander,OKC - G,1.5,Steals
-416,Joel Embiid,PHI - C-F,15.5,Rebs+Asts
-417,Tyrese Maxey,PHI - G,9.5,Rebs+Asts
-418,Nicolas Claxton,BKN - C,11.5,Rebs+Asts
-419,Tobias Harris,PHI - F,9.0,Rebs+Asts
-420,Noah Clowney,BKN - F-C,9.0,Rebs+Asts
-421,Pascal Siakam,IND - F,11.5,Rebs+Asts
-422,Tyrese Haliburton,IND - G,15.0,Rebs+Asts
-423,Myles Turner,IND - C-F,7.5,Rebs+Asts
-424,T.J. McConnell,IND - G,8.5,Rebs+Asts
-425,Payton Pritchard,BOS - G,12.5,Rebs+Asts
-426,Sam Hauser,BOS - F,7.5,Rebs+Asts
-427,Bobby Portis,MIL - F,12.0,Rebs+Asts
-428,Franz Wagner,ORL - F,9.0,Rebs+Asts
-429,Damian Lillard,MIL - G,11.0,Rebs+Asts
-430,Khris Middleton,MIL - F,10.5,Rebs+Asts
-431,Paolo Banchero,ORL - F,13.5,Rebs+Asts
-432,Patrick Beverley,MIL - G,8.0,Rebs+Asts
-433,Wendell Carter Jr.,ORL - C-F,9.0,Rebs+Asts
-434,Bam Adebayo,MIA - C-F,14.5,Rebs+Asts
-435,Caleb Martin,MIA - F,7.5,Rebs+Asts
-436,Jimmy Butler,MIA - F,10.5,Rebs+Asts
-437,Tyler Herro,MIA - G,9.5,Rebs+Asts
-438,Kevin Love,MIA - F-C,7.0,Rebs+Asts
-439,Jaime Jaquez Jr.,MIA - F-G,7.0,Rebs+Asts
-440,Donte DiVincenzo,NYK - G,7.5,Rebs+Asts
-441,Isaiah Hartenstein,NYK - C-F,11.5,Rebs+Asts
-442,Jalen Brunson,NYK - G,11.0,Rebs+Asts
-443,Josh Hart,NYK - G,16.5,Rebs+Asts
-444,Zion Williamson,NOP - F,11.0,Rebs+Asts
-445,LeBron James,LAL - F,15.5,Rebs+Asts
-446,CJ McCollum,NOP - G,9.5,Rebs+Asts
-447,Anthony Davis,LAL - F-C,15.5,Rebs+Asts
-448,Jonas Valanciunas,NOP - C,8.5,Rebs+Asts
-449,Austin Reaves,LAL - G,8.5,Rebs+Asts
-450,D'Angelo Russell,LAL - G,9.0,Rebs+Asts
-451,Jake LaRavia,MEM - F,8.5,Rebs+Asts
-452,De'Aaron Fox,SAC - G,11.0,Rebs+Asts
-453,Deandre Ayton,POR - C,13.5,Rebs+Asts
-454,Domantas Sabonis,SAC - C,21.0,Rebs+Asts
-455,Scoot Henderson,POR - G,11.0,Rebs+Asts
-456,Keegan Murray,SAC - F,7.5,Rebs+Asts
-457,Stephen Curry,GSW - G,10.5,Rebs+Asts
-458,Jaden Ivey,DET - G,8.5,Rebs+Asts
-459,Anthony Edwards,MIN - G,10.5,Rebs+Asts
-460,Bradley Beal,PHX - G,9.5,Rebs+Asts
-461,Devin Booker,PHX - G,11.0,Rebs+Asts
-462,Karl-Anthony Towns,MIN - C-F,9.5,Rebs+Asts
-463,Mike Conley,MIN - G,8.0,Rebs+Asts
-464,Jusuf Nurkic,PHX - C,14.5,Rebs+Asts
-465,Kevin Durant,PHX - F,10.5,Rebs+Asts
-466,Rudy Gobert,MIN - C,14.5,Rebs+Asts
-467,Chet Holmgren,OKC - C-F,10.0,Rebs+Asts
-468,Jalen Williams,OKC - G-F,7.5,Rebs+Asts
-469,Josh Giddey,OKC - G,13.0,Rebs+Asts
-470,Shai Gilgeous-Alexander,OKC - G,10.5,Rebs+Asts
-471,Nicolas Claxton,BKN - C,2.5,Blks+Stls
-472,Tobias Harris,PHI - F,1.5,Blks+Stls
-473,Bobby Portis,MIL - F,1.5,Blks+Stls
-474,Joe Ingles,ORL - F-G,0.5,Blks+Stls
-475,Patrick Beverley,MIL - G,1.5,Blks+Stls
-476,Caleb Martin,MIA - F,1.5,Blks+Stls
-477,Kevin Love,MIA - F-C,0.5,Blks+Stls
-478,Jaime Jaquez Jr.,MIA - F-G,1.5,Blks+Stls
-479,Haywood Highsmith,MIA - F,1.5,Blks+Stls
-480,LeBron James,LAL - F,1.5,Blks+Stls
-481,Anthony Davis,LAL - F-C,3.5,Blks+Stls
-482,Keon Ellis,SAC - G,1.5,Blks+Stls
-483,Chet Holmgren,OKC - C-F,2.5,Blks+Stls
-484,Jalen Williams,OKC - G-F,1.5,Blks+Stls
-485,Noah Clowney,BKN - F-C,1.5,Turnovers
-486,Pascal Siakam,IND - F,1.5,Turnovers
-487,T.J. McConnell,IND - G,1.5,Turnovers
-488,Damian Lillard,MIL - G,3.5,Turnovers
-489,Franz Wagner,ORL - F,1.5,Turnovers
-490,Malik Beasley,MIL - G,0.5,Turnovers
-491,Gary Harris,ORL - G,0.5,Turnovers
-492,Pat Connaughton,MIL - G,0.5,Turnovers
-493,Jalen Suggs,ORL - G,1.5,Turnovers
-494,Jimmy Butler,MIA - F,1.5,Turnovers
-495,Haywood Highsmith,MIA - F,0.5,Turnovers
-496,Josh Hart,NYK - G,1.5,Turnovers
-497,OG Anunoby,NYK - G-F,1.5,Turnovers
-498,De'Aaron Fox,SAC - G,2.5,Turnovers
-499,Harrison Barnes,SAC - F,0.5,Turnovers
-500,Keon Ellis,SAC - G,0.5,Turnovers
-501,Stephen Curry,GSW - G,2.5,Turnovers
-502,Bradley Beal,PHX - G,2.5,Turnovers
+1,CJ McCollum,NOP - G,23.0,Points
+2,Anthony Davis,LAL - F-C,24.5,Points
+3,Herbert Jones,NOP - G-F,10.5,Points
+4,D'Angelo Russell,LAL - G,16.5,Points
+5,Zion Williamson,NOP - F,24.5,Points
+6,LeBron James,LAL - F,26.5,Points
+7,Brandon Ingram,NOP - F,18.5,Points
+8,Rui Hachimura,LAL - F,13.5,Points
+9,Austin Reaves,LAL - G,14.5,Points
+10,Jonas Valanciunas,NOP - C,6.5,Points
+11,Trey Murphy III,NOP - G-F,12.5,Points
+12,Zion Williamson,NOP - F,24.5,Points
+13,De'Aaron Fox,SAC - G,28.5,Points
+14,Andrew Wiggins,GSW - F,15.0,Points
+15,Domantas Sabonis,SAC - C,18.5,Points
+16,Draymond Green,GSW - F,7.5,Points
+17,Harrison Barnes,SAC - F,13.5,Points
+18,Klay Thompson,GSW - G,19.5,Points
+19,Keegan Murray,SAC - F,18.5,Points
+20,Stephen Curry,GSW - G,29.5,Points
+21,Keon Ellis,SAC - G,9.5,Points
+22,Chris Paul,GSW - G,7.5,Points
+23,Davion Mitchell,SAC - G,7.5,Points
+24,Trayce Jackson-Davis,GSW - F,8.5,Points
+25,Jonathan Kuminga,GSW - F,14.0,Points
+26,CJ McCollum,NOP - G,33.0,Pts+Rebs+Asts
+27,Anthony Davis,LAL - F-C,40.5,Pts+Rebs+Asts
+28,Herbert Jones,NOP - G-F,16.5,Pts+Rebs+Asts
+29,D'Angelo Russell,LAL - G,25.5,Pts+Rebs+Asts
+30,Zion Williamson,NOP - F,37.5,Pts+Rebs+Asts
+31,LeBron James,LAL - F,44.0,Pts+Rebs+Asts
+32,Brandon Ingram,NOP - F,28.5,Pts+Rebs+Asts
+33,Rui Hachimura,LAL - F,20.0,Pts+Rebs+Asts
+34,Austin Reaves,LAL - G,23.0,Pts+Rebs+Asts
+35,Jonas Valanciunas,NOP - C,12.5,Pts+Rebs+Asts
+36,Trey Murphy III,NOP - G-F,19.0,Pts+Rebs+Asts
+37,De'Aaron Fox,SAC - G,41.5,Pts+Rebs+Asts
+38,Andrew Wiggins,GSW - F,22.0,Pts+Rebs+Asts
+39,Domantas Sabonis,SAC - C,40.5,Pts+Rebs+Asts
+40,Draymond Green,GSW - F,22.0,Pts+Rebs+Asts
+41,Harrison Barnes,SAC - F,19.5,Pts+Rebs+Asts
+42,Klay Thompson,GSW - G,25.5,Pts+Rebs+Asts
+43,Keegan Murray,SAC - F,26.5,Pts+Rebs+Asts
+44,Stephen Curry,GSW - G,39.5,Pts+Rebs+Asts
+45,Keon Ellis,SAC - G,15.5,Pts+Rebs+Asts
+46,Chris Paul,GSW - G,17.5,Pts+Rebs+Asts
+47,Davion Mitchell,SAC - G,12.5,Pts+Rebs+Asts
+48,Trayce Jackson-Davis,GSW - F,17.5,Pts+Rebs+Asts
+49,Jonathan Kuminga,GSW - F,20.5,Pts+Rebs+Asts
+50,CJ McCollum,NOP - G,4.5,Rebounds
+51,Anthony Davis,LAL - F-C,13.0,Rebounds
+52,Herbert Jones,NOP - G-F,3.5,Rebounds
+53,Zion Williamson,NOP - F,7.0,Rebounds
+54,LeBron James,LAL - F,8.0,Rebounds
+55,Brandon Ingram,NOP - F,5.0,Rebounds
+56,Rui Hachimura,LAL - F,5.0,Rebounds
+57,Austin Reaves,LAL - G,3.5,Rebounds
+58,Jonas Valanciunas,NOP - C,5.0,Rebounds
+59,Trey Murphy III,NOP - G-F,4.5,Rebounds
+60,Dyson Daniels,NOP - G,2.5,Rebounds
+61,De'Aaron Fox,SAC - G,5.5,Rebounds
+62,Andrew Wiggins,GSW - F,5.0,Rebounds
+63,Domantas Sabonis,SAC - C,13.5,Rebounds
+64,Draymond Green,GSW - F,7.5,Rebounds
+65,Harrison Barnes,SAC - F,4.0,Rebounds
+66,Klay Thompson,GSW - G,3.5,Rebounds
+67,Keegan Murray,SAC - F,6.0,Rebounds
+68,Stephen Curry,GSW - G,5.0,Rebounds
+69,Keon Ellis,SAC - G,4.0,Rebounds
+70,Chris Paul,GSW - G,3.5,Rebounds
+71,Trayce Jackson-Davis,GSW - F,7.0,Rebounds
+72,Trey Lyles,SAC - F,4.0,Rebounds
+73,Jonathan Kuminga,GSW - F,4.5,Rebounds
+74,CJ McCollum,NOP - G,38.5,Fantasy Score
+75,Anthony Davis,LAL - F-C,52.5,Fantasy Score
+76,Herbert Jones,NOP - G-F,23.5,Fantasy Score
+77,D'Angelo Russell,LAL - G,31.0,Fantasy Score
+78,Zion Williamson,NOP - F,45.5,Fantasy Score
+79,LeBron James,LAL - F,51.0,Fantasy Score
+80,Brandon Ingram,NOP - F,32.5,Fantasy Score
+81,Rui Hachimura,LAL - F,23.0,Fantasy Score
+82,Austin Reaves,LAL - G,27.0,Fantasy Score
+83,Trey Murphy III,NOP - G-F,23.5,Fantasy Score
+84,De'Aaron Fox,SAC - G,50.0,Fantasy Score
+85,Andrew Wiggins,GSW - F,26.0,Fantasy Score
+86,Domantas Sabonis,SAC - C,49.0,Fantasy Score
+87,Draymond Green,GSW - F,30.0,Fantasy Score
+88,Harrison Barnes,SAC - F,23.0,Fantasy Score
+89,Klay Thompson,GSW - G,29.0,Fantasy Score
+90,Keegan Murray,SAC - F,34.0,Fantasy Score
+91,Stephen Curry,GSW - G,43.5,Fantasy Score
+92,Keon Ellis,SAC - G,23.5,Fantasy Score
+93,Chris Paul,GSW - G,22.0,Fantasy Score
+94,Trayce Jackson-Davis,GSW - F,24.5,Fantasy Score
+95,Jonathan Kuminga,GSW - F,23.5,Fantasy Score
+96,CJ McCollum,NOP - G,5.0,Assists
+97,D'Angelo Russell,LAL - G,5.5,Assists
+98,Zion Williamson,NOP - F,6.0,Assists
+99,LeBron James,LAL - F,9.0,Assists
+100,Brandon Ingram,NOP - F,4.5,Assists
+101,Austin Reaves,LAL - G,4.5,Assists
+102,De'Aaron Fox,SAC - G,6.5,Assists
+103,Domantas Sabonis,SAC - C,8.5,Assists
+104,Draymond Green,GSW - F,6.5,Assists
+105,Stephen Curry,GSW - G,5.5,Assists
+106,Chris Paul,GSW - G,5.5,Assists
+107,Davion Mitchell,SAC - G,2.5,Assists
+108,Anthony Davis,LAL - F-C,0.5,3-PT Made
+109,Herbert Jones,NOP - G-F,1.5,3-PT Made
+110,Rui Hachimura,LAL - F,1.5,3-PT Made
+111,Trey Murphy III,NOP - G-F,2.5,3-PT Made
+112,Andrew Wiggins,GSW - F,1.5,3-PT Made
+113,Draymond Green,GSW - F,0.5,3-PT Made
+114,Stephen Curry,GSW - G,5.0,3-PT Made
+115,Brandin Podziemski,GSW - G,0.5,3-PT Made
+116,Jonathan Kuminga,GSW - F,0.5,3-PT Made
+117,Domantas Sabonis,SAC - C,10.0,Defensive Rebounds
+118,De'Aaron Fox,SAC - G,0.5,Offensive Rebounds
+119,Andrew Wiggins,GSW - F,1.5,Offensive Rebounds
+120,Domantas Sabonis,SAC - C,3.5,Offensive Rebounds
+121,Klay Thompson,GSW - G,0.5,Offensive Rebounds
+122,Stephen Curry,GSW - G,0.5,Offensive Rebounds
+123,De'Aaron Fox,SAC - G,9.0,3-PT Attempted
+124,Klay Thompson,GSW - G,9.5,3-PT Attempted
+125,Keegan Murray,SAC - F,8.0,3-PT Attempted
+126,Stephen Curry,GSW - G,12.5,3-PT Attempted
+127,LeBron James + Zion Williamson,LAL/NOP - F,51.5,Points (Combo)
+128,Anthony Davis + CJ McCollum,LAL/NOP - F-C/G,47.5,Points (Combo)
+129,Stephen Curry + De'Aaron Fox,GSW/SAC - G,58.5,Points (Combo)
+130,Klay Thompson + Domantas Sabonis,GSW/SAC - G/F,38.5,Points (Combo)
+131,LeBron James + Stephen Curry,LAL/GSW - PF/PG,56.5,Points (Combo)
+132,LeBron James + CJ McCollum,LAL/NOP - F/G,14.5,Assists (Combo)
+133,Draymond Green + Domantas Sabonis,GSW/SAC - F,15.0,Assists (Combo)
+134,LeBron James + Draymond Green,LAL/GSW - F,15.5,Assists (Combo)
+135,Anthony Davis + Zion Williamson,LAL/NOP - F-C/F,19.5,Rebounds (Combo)
+136,Draymond Green + Domantas Sabonis,GSW/SAC - F,21.0,Rebounds (Combo)
+137,Anthony Davis + Domantas Sabonis,LAL/SAC - F,26.5,Rebounds (Combo)
+138,D'Angelo Russell + CJ McCollum,LAL/NOP - G,7.0,3-PT Made (Combo)
+139,Stephen Curry + De'Aaron Fox,GSW/SAC - G,8.5,3-PT Made (Combo)
+140,Klay Thompson + Keegan Murray,GSW/SAC - F,7.0,3-PT Made (Combo)
+141,Stephen Curry + CJ McCollum,GSW/NOP - G,9.0,3-PT Made (Combo)
+142,De'Aaron Fox,SAC - G,5.0,Free Throws Made
+143,Andrew Wiggins,GSW - F,2.5,Free Throws Made
+144,Domantas Sabonis,SAC - C,4.0,Free Throws Made
+145,Klay Thompson,GSW - G,1.5,Free Throws Made
+146,Keegan Murray,SAC - F,1.5,Free Throws Made
+147,Stephen Curry,GSW - G,4.5,Free Throws Made
+148,Keon Ellis,SAC - G,0.5,Free Throws Made
+149,Jonathan Kuminga,GSW - F,2.5,Free Throws Made
+150,De'Aaron Fox,SAC - G,22.0,FG Attempted
+151,Andrew Wiggins,GSW - F,12.0,FG Attempted
+152,Domantas Sabonis,SAC - C,13.0,FG Attempted
+153,Klay Thompson,GSW - G,16.0,FG Attempted
+154,Stephen Curry,GSW - G,21.0,FG Attempted
+155,CJ McCollum,NOP - G,27.5,Pts+Rebs
+156,Anthony Davis,LAL - F-C,37.5,Pts+Rebs
+157,Herbert Jones,NOP - G-F,14.5,Pts+Rebs
+158,D'Angelo Russell,LAL - G,19.5,Pts+Rebs
+159,Zion Williamson,NOP - F,31.5,Pts+Rebs
+160,LeBron James,LAL - F,34.5,Pts+Rebs
+161,Brandon Ingram,NOP - F,23.5,Pts+Rebs
+162,Rui Hachimura,LAL - F,18.5,Pts+Rebs
+163,Austin Reaves,LAL - G,18.5,Pts+Rebs
+164,Jonas Valanciunas,NOP - C,11.5,Pts+Rebs
+165,Trey Murphy III,NOP - G-F,17.0,Pts+Rebs
+166,De'Aaron Fox,SAC - G,34.5,Pts+Rebs
+167,Andrew Wiggins,GSW - F,20.5,Pts+Rebs
+168,Domantas Sabonis,SAC - C,31.5,Pts+Rebs
+169,Draymond Green,GSW - F,15.5,Pts+Rebs
+170,Harrison Barnes,SAC - F,18.0,Pts+Rebs
+171,Klay Thompson,GSW - G,23.0,Pts+Rebs
+172,Keegan Murray,SAC - F,24.5,Pts+Rebs
+173,Stephen Curry,GSW - G,34.5,Pts+Rebs
+174,Keon Ellis,SAC - G,13.5,Pts+Rebs
+175,Chris Paul,GSW - G,11.5,Pts+Rebs
+176,Trayce Jackson-Davis,GSW - F,16.0,Pts+Rebs
+177,Jonathan Kuminga,GSW - F,18.5,Pts+Rebs
+178,Andrew Wiggins,GSW - F,0.5,Dunks
+179,Domantas Sabonis,SAC - C,1.5,Dunks
+180,Keegan Murray,SAC - F,0.5,Dunks
+181,Trayce Jackson-Davis,GSW - F,1.5,Dunks
+182,CJ McCollum,NOP - G,28.5,Pts+Asts
+183,Anthony Davis,LAL - F-C,27.5,Pts+Asts
+184,Herbert Jones,NOP - G-F,12.5,Pts+Asts
+185,D'Angelo Russell,LAL - G,22.5,Pts+Asts
+186,Zion Williamson,NOP - F,30.5,Pts+Asts
+187,LeBron James,LAL - F,35.5,Pts+Asts
+188,Brandon Ingram,NOP - F,23.5,Pts+Asts
+189,Rui Hachimura,LAL - F,14.5,Pts+Asts
+190,Austin Reaves,LAL - G,19.0,Pts+Asts
+191,Trey Murphy III,NOP - G-F,14.0,Pts+Asts
+192,De'Aaron Fox,SAC - G,35.5,Pts+Asts
+193,Andrew Wiggins,GSW - F,16.5,Pts+Asts
+194,Domantas Sabonis,SAC - C,26.5,Pts+Asts
+195,Draymond Green,GSW - F,14.5,Pts+Asts
+196,Harrison Barnes,SAC - F,15.5,Pts+Asts
+197,Klay Thompson,GSW - G,21.5,Pts+Asts
+198,Keegan Murray,SAC - F,20.5,Pts+Asts
+199,Stephen Curry,GSW - G,34.5,Pts+Asts
+200,Keon Ellis,SAC - G,11.5,Pts+Asts
+201,Chris Paul,GSW - G,13.5,Pts+Asts
+202,Davion Mitchell,SAC - G,10.5,Pts+Asts
+203,Trayce Jackson-Davis,GSW - F,10.5,Pts+Asts
+204,Jonathan Kuminga,GSW - F,15.5,Pts+Asts
+205,Domantas Sabonis,SAC - C,0.5,Blocked Shots
+206,Herbert Jones,NOP - G-F,1.5,Steals
+207,Brandon Ingram,NOP - F,0.5,Steals
+208,Rui Hachimura,LAL - F,0.5,Steals
+209,Keon Ellis,SAC - G,1.5,Steals
+210,CJ McCollum,NOP - G,9.5,Rebs+Asts
+211,Anthony Davis,LAL - F-C,15.5,Rebs+Asts
+212,D'Angelo Russell,LAL - G,8.5,Rebs+Asts
+213,Zion Williamson,NOP - F,13.0,Rebs+Asts
+214,LeBron James,LAL - F,17.0,Rebs+Asts
+215,Brandon Ingram,NOP - F,9.5,Rebs+Asts
+216,De'Aaron Fox,SAC - G,12.5,Rebs+Asts
+217,Domantas Sabonis,SAC - C,21.5,Rebs+Asts
+218,Draymond Green,GSW - F,14.5,Rebs+Asts
+219,Keegan Murray,SAC - F,8.0,Rebs+Asts
+220,Stephen Curry,GSW - G,10.5,Rebs+Asts
+221,Chris Paul,GSW - G,9.5,Rebs+Asts
+222,Anthony Davis,LAL - F-C,3.5,Blks+Stls
+223,Zion Williamson,NOP - F,2.5,Blks+Stls
+224,De'Aaron Fox,SAC - G,2.5,Blks+Stls
+225,Davion Mitchell,SAC - G,0.5,Blks+Stls
+226,Andrew Wiggins,GSW - F,1.5,Turnovers
+227,Draymond Green,GSW - F,2.5,Turnovers
+228,Stephen Curry,GSW - G,3.5,Turnovers
+229,Trey Lyles,SAC - F,0.5,Turnovers

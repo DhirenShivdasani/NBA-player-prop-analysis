@@ -1,213 +1,199 @@
 ,Name,Team,Value,Prop
-0,Joel Embiid,PHI - C-F,30.5,Points
+0,Joel Embiid,PHI - C-F,30.0,Points
 1,Bam Adebayo,MIA - C-F,17.5,Points
-2,Tyrese Maxey,PHI - G,24.0,Points
+2,Tyrese Maxey,PHI - G,24.5,Points
 3,Jimmy Butler,MIA - F,23.5,Points
 4,Kelly Oubre Jr.,PHI - F-G,13.5,Points
 5,Tyler Herro,MIA - G,20.5,Points
 6,Tobias Harris,PHI - F,14.5,Points
 7,Nikola Jovic,MIA - F,6.5,Points
 8,Buddy Hield,PHI - G,7.5,Points
-9,Caleb Martin,MIA - F,9.5,Points
-10,Jaime Jaquez Jr.,MIA - F-G,6.5,Points
+9,Jaime Jaquez Jr.,MIA - F-G,6.5,Points
+10,Haywood Highsmith,MIA - F,4.5,Points
 11,Duncan Robinson,MIA - F,6.5,Points
 12,Alex Caruso,CHI - G,11.0,Points
 13,Bogdan Bogdanovic,ATL - G,17.5,Points
 14,Coby White,CHI - G,19.5,Points
-15,Clint Capela,ATL - C,13.0,Points
+15,Clint Capela,ATL - C,12.5,Points
 16,DeMar DeRozan,CHI - G-F,29.5,Points
 17,De'Andre Hunter,ATL - F-G,16.5,Points
 18,Nikola Vucevic,CHI - C,20.0,Points
-19,Dejounte Murray,ATL - G,23.5,Points
+19,Dejounte Murray,ATL - G,22.5,Points
 20,Trae Young,ATL - G,22.5,Points
-21,Ayo Dosunmu,CHI - G,14.0,Points
-22,Joel Embiid,PHI - C-F,47.5,Pts+Rebs+Asts
+21,Ayo Dosunmu,CHI - G,14.5,Points
+22,Joel Embiid,PHI - C-F,46.5,Pts+Rebs+Asts
 23,Bam Adebayo,MIA - C-F,32.5,Pts+Rebs+Asts
-24,Tyrese Maxey,PHI - G,34.0,Pts+Rebs+Asts
+24,Tyrese Maxey,PHI - G,34.5,Pts+Rebs+Asts
 25,Jimmy Butler,MIA - F,35.0,Pts+Rebs+Asts
-26,Kelly Oubre Jr.,PHI - F-G,20.5,Pts+Rebs+Asts
+26,Kelly Oubre Jr.,PHI - F-G,20.0,Pts+Rebs+Asts
 27,Tyler Herro,MIA - G,30.0,Pts+Rebs+Asts
 28,Tobias Harris,PHI - F,24.5,Pts+Rebs+Asts
-29,Caleb Martin,MIA - F,16.5,Pts+Rebs+Asts
+29,Caleb Martin,MIA - F,16.0,Pts+Rebs+Asts
 30,Alex Caruso,CHI - G,21.5,Pts+Rebs+Asts
 31,Bogdan Bogdanovic,ATL - G,24.0,Pts+Rebs+Asts
 32,Coby White,CHI - G,29.5,Pts+Rebs+Asts
 33,Clint Capela,ATL - C,27.0,Pts+Rebs+Asts
 34,DeMar DeRozan,CHI - G-F,40.5,Pts+Rebs+Asts
-35,De'Andre Hunter,ATL - F-G,23.5,Pts+Rebs+Asts
+35,De'Andre Hunter,ATL - F-G,23.0,Pts+Rebs+Asts
 36,Nikola Vucevic,CHI - C,35.5,Pts+Rebs+Asts
-37,Dejounte Murray,ATL - G,36.0,Pts+Rebs+Asts
-38,Trae Young,ATL - G,37.5,Pts+Rebs+Asts
-39,Ayo Dosunmu,CHI - G,21.5,Pts+Rebs+Asts
-40,Joel Embiid,PHI - C-F,11.5,Rebounds
-41,Bam Adebayo,MIA - C-F,11.0,Rebounds
-42,Tyrese Maxey,PHI - G,3.5,Rebounds
-43,Jimmy Butler,MIA - F,5.5,Rebounds
-44,Kelly Oubre Jr.,PHI - F-G,5.0,Rebounds
-45,Tyler Herro,MIA - G,5.0,Rebounds
-46,Tobias Harris,PHI - F,7.0,Rebounds
-47,Buddy Hield,PHI - G,2.5,Rebounds
-48,Nicolas Batum,PHI - G-F,3.5,Rebounds
-49,Jaime Jaquez Jr.,MIA - F-G,2.5,Rebounds
-50,Kyle Lowry,PHI - G,2.5,Rebounds
-51,Alex Caruso,CHI - G,5.0,Rebounds
-52,Bogdan Bogdanovic,ATL - G,4.0,Rebounds
-53,Coby White,CHI - G,4.5,Rebounds
-54,Clint Capela,ATL - C,12.5,Rebounds
-55,DeMar DeRozan,CHI - G-F,5.0,Rebounds
-56,De'Andre Hunter,ATL - F-G,5.0,Rebounds
-57,Nikola Vucevic,CHI - C,12.0,Rebounds
-58,Dejounte Murray,ATL - G,6.5,Rebounds
-59,Bruno Fernando,ATL - F-C,5.0,Rebounds
-60,Ayo Dosunmu,CHI - G,3.5,Rebounds
-61,Joel Embiid,PHI - C-F,55.0,Fantasy Score
-62,Bam Adebayo,MIA - C-F,39.5,Fantasy Score
-63,Tyrese Maxey,PHI - G,39.0,Fantasy Score
-64,Jimmy Butler,MIA - F,42.5,Fantasy Score
-65,Kelly Oubre Jr.,PHI - F-G,25.0,Fantasy Score
-66,Tyler Herro,MIA - G,32.5,Fantasy Score
-67,Alex Caruso,CHI - G,31.5,Fantasy Score
-68,Bogdan Bogdanovic,ATL - G,29.0,Fantasy Score
-69,Coby White,CHI - G,32.5,Fantasy Score
-70,Clint Capela,ATL - C,35.0,Fantasy Score
-71,DeMar DeRozan,CHI - G-F,47.0,Fantasy Score
-72,De'Andre Hunter,ATL - F-G,26.0,Fantasy Score
-73,Nikola Vucevic,CHI - C,41.5,Fantasy Score
-74,Dejounte Murray,ATL - G,43.5,Fantasy Score
-75,Trae Young,ATL - G,42.0,Fantasy Score
-76,Ayo Dosunmu,CHI - G,26.5,Fantasy Score
-77,Joel Embiid,PHI - C-F,5.0,Assists
-78,Tyrese Maxey,PHI - G,6.0,Assists
-79,Jimmy Butler,MIA - F,5.5,Assists
-80,Tyler Herro,MIA - G,4.5,Assists
-81,Kyle Lowry,PHI - G,3.5,Assists
-82,Alex Caruso,CHI - G,5.0,Assists
-83,Coby White,CHI - G,4.5,Assists
-84,DeMar DeRozan,CHI - G-F,5.5,Assists
-85,Dejounte Murray,ATL - G,5.5,Assists
-86,Trae Young,ATL - G,10.5,Assists
-87,Joel Embiid,PHI - C-F,1.5,3-PT Made
-88,Kelly Oubre Jr.,PHI - F-G,1.5,3-PT Made
-89,Tobias Harris,PHI - F,1.5,3-PT Made
-90,Caleb Martin,MIA - F,1.5,3-PT Made
-91,Jaime Jaquez Jr.,MIA - F-G,0.5,3-PT Made
-92,Joel Embiid,PHI - C-F,9.5,Defensive Rebounds
-93,Bam Adebayo,MIA - C-F,8.0,Defensive Rebounds
-94,Jimmy Butler,MIA - F,3.5,Defensive Rebounds
-95,Tobias Harris,PHI - F,5.5,Defensive Rebounds
-96,Clint Capela,ATL - C,7.5,Defensive Rebounds
-97,Nikola Vucevic,CHI - C,8.5,Defensive Rebounds
-98,Bam Adebayo,MIA - C-F,2.5,Offensive Rebounds
-99,Clint Capela,ATL - C,5.0,Offensive Rebounds
-100,Dejounte Murray,ATL - G,0.5,Offensive Rebounds
-101,Bogdan Bogdanovic,ATL - G,8.0,3-PT Attempted
-102,Coby White,CHI - G,6.5,3-PT Attempted
-103,De'Andre Hunter,ATL - F-G,6.0,3-PT Attempted
-104,Nikola Vucevic,CHI - C,4.5,3-PT Attempted
-105,Dejounte Murray,ATL - G,7.5,3-PT Attempted
-106,Trae Young,ATL - G,8.0,3-PT Attempted
-107,Jimmy Butler + Joel Embiid,MIA/PHI - F/C,54.5,Points (Combo)
-108,Bam Adebayo + Tyrese Maxey,MIA/PHI - C/G,41.5,Points (Combo)
-109,DeMar DeRozan + Dejounte Murray,CHI/ATL - G,52.5,Points (Combo)
-110,Coby White + Trae Young,CHI/ATL - G,43.0,Points (Combo)
-111,Joel Embiid + DeMar DeRozan,PHI/CHI - C/SF,60.5,Points (Combo)
-112,Jimmy Butler + Tyrese Maxey,MIA/PHI - F/G,11.5,Assists (Combo)
-113,DeMar DeRozan + Trae Young,CHI/ATL - G,16.0,Assists (Combo)
-114,Tyrese Maxey + Trae Young,PHI/ATL - G,16.5,Assists (Combo)
-115,Bam Adebayo + Joel Embiid,MIA/PHI - C,22.5,Rebounds (Combo)
-116,Nikola Vucevic + Clint Capela,CHI/ATL - C,24.0,Rebounds (Combo)
-117,Joel Embiid + Clint Capela,PHI/ATL - C-F/C,24.0,Rebounds (Combo)
-118,Tyrese Maxey + Trae Young,PHI/ATL - G,6.0,3-PT Made (Combo)
-119,Tyrese Maxey,PHI - G,4.0,Free Throws Made
-120,Coby White,CHI - G,2.5,Free Throws Made
-121,DeMar DeRozan,CHI - G-F,7.5,Free Throws Made
-122,De'Andre Hunter,ATL - F-G,2.5,Free Throws Made
-123,Dejounte Murray,ATL - G,2.5,Free Throws Made
-124,Trae Young,ATL - G,5.5,Free Throws Made
-125,Joel Embiid,PHI - C-F,21.0,FG Attempted
-126,Bam Adebayo,MIA - C-F,13.5,FG Attempted
-127,Tyrese Maxey,PHI - G,19.0,FG Attempted
-128,Jimmy Butler,MIA - F,15.5,FG Attempted
-129,Bogdan Bogdanovic,ATL - G,14.0,FG Attempted
-130,Coby White,CHI - G,16.5,FG Attempted
-131,DeMar DeRozan,CHI - G-F,21.0,FG Attempted
-132,Nikola Vucevic,CHI - C,17.0,FG Attempted
-133,Dejounte Murray,ATL - G,19.5,FG Attempted
-134,Trae Young,ATL - G,18.0,FG Attempted
-135,Joel Embiid,PHI - C-F,42.5,Pts+Rebs
-136,Bam Adebayo,MIA - C-F,28.5,Pts+Rebs
-137,Tyrese Maxey,PHI - G,27.5,Pts+Rebs
-138,Jimmy Butler,MIA - F,29.5,Pts+Rebs
-139,Kelly Oubre Jr.,PHI - F-G,18.5,Pts+Rebs
-140,Tyler Herro,MIA - G,25.5,Pts+Rebs
-141,Tobias Harris,PHI - F,21.5,Pts+Rebs
-142,Nikola Jovic,MIA - F,11.5,Pts+Rebs
-143,Buddy Hield,PHI - G,10.5,Pts+Rebs
-144,Caleb Martin,MIA - F,13.5,Pts+Rebs
-145,Alex Caruso,CHI - G,16.5,Pts+Rebs
-146,Bogdan Bogdanovic,ATL - G,21.5,Pts+Rebs
-147,Coby White,CHI - G,24.5,Pts+Rebs
-148,Clint Capela,ATL - C,25.5,Pts+Rebs
-149,DeMar DeRozan,CHI - G-F,34.5,Pts+Rebs
-150,De'Andre Hunter,ATL - F-G,21.5,Pts+Rebs
-151,Nikola Vucevic,CHI - C,32.5,Pts+Rebs
-152,Dejounte Murray,ATL - G,30.5,Pts+Rebs
-153,Bruno Fernando,ATL - F-C,10.5,Pts+Rebs
-154,Trae Young,ATL - G,26.5,Pts+Rebs
-155,Ayo Dosunmu,CHI - G,17.5,Pts+Rebs
-156,Jimmy Butler,MIA - F,0.5,Dunks
-157,Kelly Oubre Jr.,PHI - F-G,15.5,Pts+Asts
-158,Joel Embiid,PHI - C-F,35.5,Pts+Asts
-159,Bam Adebayo,MIA - C-F,21.5,Pts+Asts
-160,Tyrese Maxey,PHI - G,30.0,Pts+Asts
-161,Jimmy Butler,MIA - F,29.5,Pts+Asts
-162,Tyler Herro,MIA - G,25.0,Pts+Asts
-163,Tobias Harris,PHI - F,17.5,Pts+Asts
-164,Caleb Martin,MIA - F,12.5,Pts+Asts
-165,Alex Caruso,CHI - G,16.5,Pts+Asts
-166,Coby White,CHI - G,24.5,Pts+Asts
-167,Clint Capela,ATL - C,14.0,Pts+Asts
-168,DeMar DeRozan,CHI - G-F,35.5,Pts+Asts
-169,De'Andre Hunter,ATL - F-G,17.5,Pts+Asts
-170,Nikola Vucevic,CHI - C,23.5,Pts+Asts
-171,Dejounte Murray,ATL - G,29.5,Pts+Asts
-172,Trae Young,ATL - G,33.5,Pts+Asts
-173,Ayo Dosunmu,CHI - G,17.5,Pts+Asts
-174,Bogdan Bogdanovic,ATL - G,19.5,Pts+Asts
-175,Tobias Harris,PHI - F,0.5,Blocked Shots
-176,Clint Capela,ATL - C,1.5,Blocked Shots
-177,Bruno Fernando,ATL - F-C,0.5,Blocked Shots
-178,Jimmy Butler,MIA - F,1.5,Steals
-179,Nikola Vucevic,CHI - C,0.5,Steals
-180,Tyler Herro,MIA - G,0.5,Steals
-181,Nikola Jovic,MIA - F,0.5,Steals
-182,Buddy Hield,PHI - G,0.5,Steals
-183,Jaime Jaquez Jr.,MIA - F-G,0.5,Steals
-184,Haywood Highsmith,MIA - F,0.5,Steals
-185,Bruno Fernando,ATL - F-C,0.5,Steals
-186,Bam Adebayo,MIA - C-F,14.5,Rebs+Asts
-187,Jimmy Butler,MIA - F,11.5,Rebs+Asts
-188,Tobias Harris,PHI - F,9.5,Rebs+Asts
-189,Joel Embiid,PHI - C-F,16.5,Rebs+Asts
-190,Tyrese Maxey,PHI - G,10.0,Rebs+Asts
-191,Tyler Herro,MIA - G,9.5,Rebs+Asts
-192,Alex Caruso,CHI - G,10.5,Rebs+Asts
-193,Coby White,CHI - G,9.5,Rebs+Asts
-194,DeMar DeRozan,CHI - G-F,10.5,Rebs+Asts
-195,Nikola Vucevic,CHI - C,15.5,Rebs+Asts
-196,Dejounte Murray,ATL - G,12.0,Rebs+Asts
-197,Trae Young,ATL - G,14.0,Rebs+Asts
-198,Caleb Martin,MIA - F,1.5,Blks+Stls
-199,Joel Embiid,PHI - C-F,2.5,Blks+Stls
-200,Duncan Robinson,MIA - F,0.5,Blks+Stls
-201,Bogdan Bogdanovic,ATL - G,1.5,Blks+Stls
-202,Nikola Vucevic,CHI - C,1.5,Blks+Stls
-203,Ayo Dosunmu,CHI - G,1.5,Blks+Stls
-204,Garrison Mathews,ATL - G,0.5,Blks+Stls
-205,Nicolas Batum,PHI - G-F,0.5,Turnovers
-206,Coby White,CHI - G,2.5,Turnovers
-207,DeMar DeRozan,CHI - G-F,2.5,Turnovers
-208,Tyler Herro,MIA - G,2.5,Turnovers
-209,Haywood Highsmith,MIA - F,0.5,Turnovers
-210,De'Andre Hunter,ATL - F-G,1.5,Turnovers
-211,Trae Young,ATL - G,4.5,Turnovers
+37,Dejounte Murray,ATL - G,35.0,Pts+Rebs+Asts
+38,Ayo Dosunmu,CHI - G,21.5,Pts+Rebs+Asts
+39,Joel Embiid,PHI - C-F,11.0,Rebounds
+40,Bam Adebayo,MIA - C-F,10.5,Rebounds
+41,Tyrese Maxey,PHI - G,3.5,Rebounds
+42,Jimmy Butler,MIA - F,5.5,Rebounds
+43,Kelly Oubre Jr.,PHI - F-G,5.0,Rebounds
+44,Tyler Herro,MIA - G,5.0,Rebounds
+45,Tobias Harris,PHI - F,7.0,Rebounds
+46,Kyle Lowry,PHI - G,2.5,Rebounds
+47,Alex Caruso,CHI - G,5.0,Rebounds
+48,Bogdan Bogdanovic,ATL - G,4.0,Rebounds
+49,Coby White,CHI - G,4.5,Rebounds
+50,Clint Capela,ATL - C,12.5,Rebounds
+51,DeMar DeRozan,CHI - G-F,5.0,Rebounds
+52,De'Andre Hunter,ATL - F-G,5.0,Rebounds
+53,Nikola Vucevic,CHI - C,12.0,Rebounds
+54,Dejounte Murray,ATL - G,6.0,Rebounds
+55,Bruno Fernando,ATL - F-C,5.0,Rebounds
+56,Ayo Dosunmu,CHI - G,3.5,Rebounds
+57,Joel Embiid,PHI - C-F,55.0,Fantasy Score
+58,Bam Adebayo,MIA - C-F,39.5,Fantasy Score
+59,Jimmy Butler,MIA - F,42.5,Fantasy Score
+60,Kelly Oubre Jr.,PHI - F-G,24.5,Fantasy Score
+61,Tyler Herro,MIA - G,32.5,Fantasy Score
+62,Alex Caruso,CHI - G,31.5,Fantasy Score
+63,Bogdan Bogdanovic,ATL - G,29.0,Fantasy Score
+64,Coby White,CHI - G,32.5,Fantasy Score
+65,Clint Capela,ATL - C,35.0,Fantasy Score
+66,DeMar DeRozan,CHI - G-F,47.0,Fantasy Score
+67,De'Andre Hunter,ATL - F-G,26.0,Fantasy Score
+68,Nikola Vucevic,CHI - C,41.5,Fantasy Score
+69,Dejounte Murray,ATL - G,43.0,Fantasy Score
+70,Trae Young,ATL - G,42.0,Fantasy Score
+71,Ayo Dosunmu,CHI - G,26.5,Fantasy Score
+72,Joel Embiid,PHI - C-F,5.0,Assists
+73,Tyrese Maxey,PHI - G,6.0,Assists
+74,Jimmy Butler,MIA - F,5.5,Assists
+75,Tyler Herro,MIA - G,4.5,Assists
+76,Alex Caruso,CHI - G,5.0,Assists
+77,Coby White,CHI - G,5.0,Assists
+78,DeMar DeRozan,CHI - G-F,5.5,Assists
+79,Dejounte Murray,ATL - G,5.5,Assists
+80,Trae Young,ATL - G,10.5,Assists
+81,Kelly Oubre Jr.,PHI - F-G,1.5,3-PT Made
+82,Tobias Harris,PHI - F,1.5,3-PT Made
+83,Jaime Jaquez Jr.,MIA - F-G,0.5,3-PT Made
+84,Joel Embiid,PHI - C-F,9.5,Defensive Rebounds
+85,Bam Adebayo,MIA - C-F,8.0,Defensive Rebounds
+86,Tobias Harris,PHI - F,5.5,Defensive Rebounds
+87,Clint Capela,ATL - C,7.5,Defensive Rebounds
+88,Nikola Vucevic,CHI - C,8.5,Defensive Rebounds
+89,Bam Adebayo,MIA - C-F,2.5,Offensive Rebounds
+90,Clint Capela,ATL - C,4.5,Offensive Rebounds
+91,Dejounte Murray,ATL - G,0.5,Offensive Rebounds
+92,Bogdan Bogdanovic,ATL - G,8.0,3-PT Attempted
+93,Coby White,CHI - G,6.5,3-PT Attempted
+94,De'Andre Hunter,ATL - F-G,6.0,3-PT Attempted
+95,Nikola Vucevic,CHI - C,4.5,3-PT Attempted
+96,Dejounte Murray,ATL - G,7.5,3-PT Attempted
+97,Trae Young,ATL - G,8.0,3-PT Attempted
+98,Jimmy Butler + Joel Embiid,MIA/PHI - F/C,52.5,Points (Combo)
+99,Bam Adebayo + Tyrese Maxey,MIA/PHI - C/G,41.5,Points (Combo)
+100,DeMar DeRozan + Dejounte Murray,CHI/ATL - G,52.5,Points (Combo)
+101,Coby White + Trae Young,CHI/ATL - G,42.0,Points (Combo)
+102,Joel Embiid + DeMar DeRozan,PHI/CHI - C/SF,60.5,Points (Combo)
+103,Jimmy Butler + Tyrese Maxey,MIA/PHI - F/G,12.0,Assists (Combo)
+104,DeMar DeRozan + Trae Young,CHI/ATL - G,16.5,Assists (Combo)
+105,Tyrese Maxey + Trae Young,PHI/ATL - G,16.5,Assists (Combo)
+106,Bam Adebayo + Joel Embiid,MIA/PHI - C,22.0,Rebounds (Combo)
+107,Nikola Vucevic + Clint Capela,CHI/ATL - C,24.5,Rebounds (Combo)
+108,Joel Embiid + Clint Capela,PHI/ATL - C-F/C,24.0,Rebounds (Combo)
+109,Tyrese Maxey + Trae Young,PHI/ATL - G,6.0,3-PT Made (Combo)
+110,Tyrese Maxey,PHI - G,4.0,Free Throws Made
+111,Coby White,CHI - G,2.5,Free Throws Made
+112,DeMar DeRozan,CHI - G-F,7.5,Free Throws Made
+113,De'Andre Hunter,ATL - F-G,2.5,Free Throws Made
+114,Dejounte Murray,ATL - G,2.5,Free Throws Made
+115,Trae Young,ATL - G,5.5,Free Throws Made
+116,Joel Embiid,PHI - C-F,20.5,FG Attempted
+117,Bam Adebayo,MIA - C-F,13.5,FG Attempted
+118,Tyrese Maxey,PHI - G,19.5,FG Attempted
+119,Jimmy Butler,MIA - F,15.5,FG Attempted
+120,Bogdan Bogdanovic,ATL - G,14.0,FG Attempted
+121,Coby White,CHI - G,16.5,FG Attempted
+122,DeMar DeRozan,CHI - G-F,20.5,FG Attempted
+123,Nikola Vucevic,CHI - C,17.0,FG Attempted
+124,Dejounte Murray,ATL - G,19.5,FG Attempted
+125,Trae Young,ATL - G,17.5,FG Attempted
+126,Joel Embiid,PHI - C-F,41.5,Pts+Rebs
+127,Bam Adebayo,MIA - C-F,28.5,Pts+Rebs
+128,Tyrese Maxey,PHI - G,28.5,Pts+Rebs
+129,Jimmy Butler,MIA - F,29.0,Pts+Rebs
+130,Kelly Oubre Jr.,PHI - F-G,17.5,Pts+Rebs
+131,Tyler Herro,MIA - G,25.5,Pts+Rebs
+132,Tobias Harris,PHI - F,21.5,Pts+Rebs
+133,Nikola Jovic,MIA - F,10.5,Pts+Rebs
+134,Buddy Hield,PHI - G,10.5,Pts+Rebs
+135,Caleb Martin,MIA - F,13.5,Pts+Rebs
+136,Alex Caruso,CHI - G,15.5,Pts+Rebs
+137,Bogdan Bogdanovic,ATL - G,21.5,Pts+Rebs
+138,Coby White,CHI - G,24.5,Pts+Rebs
+139,Clint Capela,ATL - C,25.5,Pts+Rebs
+140,DeMar DeRozan,CHI - G-F,34.5,Pts+Rebs
+141,De'Andre Hunter,ATL - F-G,21.5,Pts+Rebs
+142,Nikola Vucevic,CHI - C,32.5,Pts+Rebs
+143,Dejounte Murray,ATL - G,29.5,Pts+Rebs
+144,Bruno Fernando,ATL - F-C,11.5,Pts+Rebs
+145,Trae Young,ATL - G,26.5,Pts+Rebs
+146,Ayo Dosunmu,CHI - G,17.5,Pts+Rebs
+147,Jimmy Butler,MIA - F,0.5,Dunks
+148,Clint Capela,ATL - C,1.5,Dunks
+149,Kelly Oubre Jr.,PHI - F-G,14.5,Pts+Asts
+150,Joel Embiid,PHI - C-F,34.5,Pts+Asts
+151,Bam Adebayo,MIA - C-F,21.5,Pts+Asts
+152,Tyrese Maxey,PHI - G,31.5,Pts+Asts
+153,Tyler Herro,MIA - G,25.0,Pts+Asts
+154,Tobias Harris,PHI - F,17.5,Pts+Asts
+155,Caleb Martin,MIA - F,11.5,Pts+Asts
+156,Alex Caruso,CHI - G,16.5,Pts+Asts
+157,Coby White,CHI - G,24.5,Pts+Asts
+158,Clint Capela,ATL - C,14.5,Pts+Asts
+159,DeMar DeRozan,CHI - G-F,35.5,Pts+Asts
+160,De'Andre Hunter,ATL - F-G,17.5,Pts+Asts
+161,Nikola Vucevic,CHI - C,23.5,Pts+Asts
+162,Dejounte Murray,ATL - G,28.5,Pts+Asts
+163,Trae Young,ATL - G,33.5,Pts+Asts
+164,Ayo Dosunmu,CHI - G,18.0,Pts+Asts
+165,Clint Capela,ATL - C,1.5,Blocked Shots
+166,Bruno Fernando,ATL - F-C,0.5,Blocked Shots
+167,Jimmy Butler,MIA - F,1.5,Steals
+168,Nikola Vucevic,CHI - C,0.5,Steals
+169,Tyler Herro,MIA - G,0.5,Steals
+170,Nikola Jovic,MIA - F,0.5,Steals
+171,Haywood Highsmith,MIA - F,0.5,Steals
+172,Bruno Fernando,ATL - F-C,0.5,Steals
+173,Bam Adebayo,MIA - C-F,14.5,Rebs+Asts
+174,Jimmy Butler,MIA - F,11.5,Rebs+Asts
+175,Tobias Harris,PHI - F,10.0,Rebs+Asts
+176,Joel Embiid,PHI - C-F,16.5,Rebs+Asts
+177,Tyrese Maxey,PHI - G,10.0,Rebs+Asts
+178,Tyler Herro,MIA - G,9.5,Rebs+Asts
+179,Alex Caruso,CHI - G,10.0,Rebs+Asts
+180,Coby White,CHI - G,9.5,Rebs+Asts
+181,DeMar DeRozan,CHI - G-F,10.5,Rebs+Asts
+182,Nikola Vucevic,CHI - C,15.5,Rebs+Asts
+183,Dejounte Murray,ATL - G,12.0,Rebs+Asts
+184,Trae Young,ATL - G,14.0,Rebs+Asts
+185,Caleb Martin,MIA - F,1.5,Blks+Stls
+186,Joel Embiid,PHI - C-F,2.5,Blks+Stls
+187,Duncan Robinson,MIA - F,0.5,Blks+Stls
+188,Bogdan Bogdanovic,ATL - G,1.5,Blks+Stls
+189,Nikola Vucevic,CHI - C,1.5,Blks+Stls
+190,Ayo Dosunmu,CHI - G,1.5,Blks+Stls
+191,Garrison Mathews,ATL - G,0.5,Blks+Stls
+192,Nicolas Batum,PHI - G-F,0.5,Turnovers
+193,DeMar DeRozan,CHI - G-F,2.5,Turnovers
+194,Tyler Herro,MIA - G,2.5,Turnovers
+195,Haywood Highsmith,MIA - F,0.5,Turnovers
+196,De'Andre Hunter,ATL - F-G,1.5,Turnovers
+197,Trae Young,ATL - G,4.5,Turnovers

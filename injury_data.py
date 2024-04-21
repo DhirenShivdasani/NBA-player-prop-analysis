@@ -67,16 +67,17 @@ for team_header in soup.find_all('h2'):
     # Find the next <ul> sibling of the current <h2> tag, which contains the players
     players_list = team_header.find_next_sibling('ul')
 
+    if players_list is not None:
     # Iterate through all <li> tags within the <ul> to extract player names and statuses
-    for player_item in players_list.find_all('li'):
-        player_text = player_item.text
-        # Use regular expression to remove text in parentheses including the parentheses
-        cleaned_player_text = re.sub(r'\s*\([^)]*\)', '', player_text)
-        # Now split the cleaned text to separate the player name from the status
-        player_name, player_status = cleaned_player_text.rsplit(' — ', 1)
-        # Append the player data to the list
-        players_data.append({'Team': team_name, 'Player': player_name.strip(), 'Status': player_status.strip()})
-    # Convert the list of dictionaries to a DataFrame
+        for player_item in players_list.find_all('li'):
+            player_text = player_item.text
+            # Use regular expression to remove text in parentheses including the parentheses
+            cleaned_player_text = re.sub(r'\s*\([^)]*\)', '', player_text)
+            # Now split the cleaned text to separate the player name from the status
+            player_name, player_status = cleaned_player_text.rsplit(' — ', 1)
+            # Append the player data to the list
+            players_data.append({'Team': team_name, 'Player': player_name.strip(), 'Status': player_status.strip()})
+        # Convert the list of dictionaries to a DataFrame
 df_players = pd.DataFrame(players_data)
 
 df_players['Team'] = df_players['Team'].map(team_abbreviations)

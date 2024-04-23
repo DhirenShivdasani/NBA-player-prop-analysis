@@ -1097,7 +1097,7 @@ elif view == "Over/Under Stats L10":
 
     combined_df.drop(['level_3', 'Exact %'], axis =1, inplace = True)
 
-    sportsbooks = ['pointsbet']  # Add or remove sportsbook columns as necessary
+    sportsbooks = ['fanduel', 'draftkings', 'pointsbet']  # Add or remove sportsbook columns as necessary
 
 
     for book in sportsbooks:
@@ -1147,6 +1147,8 @@ elif view == "Over/Under Stats L10":
 
     # Step 3: Apply highlighting logic
     combined_df['Highlight'] = combined_df.apply(lambda row: '✅' if should_highlight(row['Over_Under'], row['Over %'], row['Under %'], agg_probs.get((row['PlayerName'], row['Prop'], row['Over_Under']))) else '', axis=1)
+    
+
 
     combined_df.set_index(['All_Values_Match','Highlight','PlayerName', 'Average_Implied_Probability', 'Over_Under'], inplace=True)
 

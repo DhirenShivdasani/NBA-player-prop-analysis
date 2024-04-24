@@ -1,256 +1,266 @@
 ,Name,Team,Value,Prop
-0,Jayson Tatum,BOS - F-G,40.5,Pts+Rebs+Asts
-1,Tyler Herro,MIA - G,30.5,Pts+Rebs+Asts
-2,Jaylen Brown,BOS - G-F,29.5,Pts+Rebs+Asts
-3,Bam Adebayo,MIA - C-F,31.5,Pts+Rebs+Asts
-4,Kristaps Porzingis,BOS - F-C,27.5,Pts+Rebs+Asts
-5,Jaime Jaquez Jr.,MIA - F-G,23.5,Pts+Rebs+Asts
-6,Derrick White,BOS - G,21.5,Pts+Rebs+Asts
-7,Jrue Holiday,BOS - G,20.5,Pts+Rebs+Asts
-8,Shai Gilgeous-Alexander,OKC - G,40.5,Pts+Rebs+Asts
-9,CJ McCollum,NOP - G,30.5,Pts+Rebs+Asts
-10,Chet Holmgren,OKC - C-F,27.5,Pts+Rebs+Asts
-11,Brandon Ingram,NOP - F,30.5,Pts+Rebs+Asts
-12,Jalen Williams,OKC - G-F,28.5,Pts+Rebs+Asts
-13,Trey Murphy III,NOP - G-F,26.0,Pts+Rebs+Asts
-14,Josh Giddey,OKC - G,20.5,Pts+Rebs+Asts
-15,Herbert Jones,NOP - G-F,16.5,Pts+Rebs+Asts
-16,Jonas Valanciunas,NOP - C,26.5,Pts+Rebs+Asts
-17,Jayson Tatum,BOS - F-G,25.5,Points
-18,Tyler Herro,MIA - G,20.5,Points
-19,Jaylen Brown,BOS - G-F,20.5,Points
-20,Bam Adebayo,MIA - C-F,18.5,Points
-21,Kristaps Porzingis,BOS - F-C,18.5,Points
-22,Jaime Jaquez Jr.,MIA - F-G,14.5,Points
-23,Derrick White,BOS - G,13.0,Points
-24,Caleb Martin,MIA - F,8.0,Points
-25,Jrue Holiday,BOS - G,10.5,Points
-26,Nikola Jovic,MIA - F,7.5,Points
-27,Payton Pritchard,BOS - G,7.5,Points
-28,Al Horford,BOS - C-F,6.5,Points
-29,Duncan Robinson,MIA - F,6.0,Points
-30,Shai Gilgeous-Alexander,OKC - G,29.5,Points
-31,CJ McCollum,NOP - G,20.5,Points
-32,Chet Holmgren,OKC - C-F,16.0,Points
-33,Brandon Ingram,NOP - F,19.5,Points
-34,Jalen Williams,OKC - G-F,19.5,Points
-35,Trey Murphy III,NOP - G-F,17.5,Points
-36,Josh Giddey,OKC - G,9.5,Points
-37,Herbert Jones,NOP - G-F,9.5,Points
-38,Luguentz Dort,OKC - G,10.5,Points
-39,Jose Alvarado,NOP - G,6.5,Points
-40,Jonas Valanciunas,NOP - C,13.0,Points
-41,Larry Nance Jr.,NOP - F,6.5,Points
-42,Jayson Tatum,BOS - F-G,9.0,Rebounds
-43,Tyler Herro,MIA - G,5.0,Rebounds
-44,Jaylen Brown,BOS - G-F,6.0,Rebounds
-45,Bam Adebayo,MIA - C-F,9.0,Rebounds
-46,Kristaps Porzingis,BOS - F-C,7.0,Rebounds
-47,Jaime Jaquez Jr.,MIA - F-G,4.5,Rebounds
-48,Jrue Holiday,BOS - G,5.0,Rebounds
-49,Nikola Jovic,MIA - F,4.5,Rebounds
-50,Haywood Highsmith,MIA - F,3.5,Rebounds
-51,Al Horford,BOS - C-F,5.5,Rebounds
-52,Shai Gilgeous-Alexander,OKC - G,6.0,Rebounds
-53,Chet Holmgren,OKC - C-F,9.0,Rebounds
-54,CJ McCollum,NOP - G,4.0,Rebounds
-55,Brandon Ingram,NOP - F,5.5,Rebounds
-56,Jalen Williams,OKC - G-F,4.5,Rebounds
-57,Trey Murphy III,NOP - G-F,6.0,Rebounds
-58,Josh Giddey,OKC - G,6.0,Rebounds
-59,Luguentz Dort,OKC - G,3.5,Rebounds
-60,Jonas Valanciunas,NOP - C,11.5,Rebounds
-61,Larry Nance Jr.,NOP - F,5.5,Rebounds
-62,Jayson Tatum,BOS - F-G,47.0,Fantasy Score
-63,Tyler Herro,MIA - G,33.5,Fantasy Score
-64,Jaylen Brown,BOS - G-F,34.5,Fantasy Score
-65,Bam Adebayo,MIA - C-F,37.5,Fantasy Score
-66,Kristaps Porzingis,BOS - F-C,36.0,Fantasy Score
-67,Jaime Jaquez Jr.,MIA - F-G,27.0,Fantasy Score
-68,Derrick White,BOS - G,27.5,Fantasy Score
-69,Jrue Holiday,BOS - G,27.5,Fantasy Score
-70,Brandon Ingram,NOP - F,35.0,Fantasy Score
-71,Chet Holmgren,OKC - C-F,38.5,Fantasy Score
-72,CJ McCollum,NOP - G,35.0,Fantasy Score
-73,Jalen Williams,OKC - G-F,36.0,Fantasy Score
-74,Herbert Jones,NOP - G-F,23.0,Fantasy Score
-75,Josh Giddey,OKC - G,25.0,Fantasy Score
-76,Jonas Valanciunas,NOP - C,31.0,Fantasy Score
-77,Luguentz Dort,OKC - G,20.5,Fantasy Score
-78,Shai Gilgeous-Alexander,OKC - G,48.5,Fantasy Score
-79,Larry Nance Jr.,NOP - F,18.5,Fantasy Score
-80,Trey Murphy III,NOP - G-F,31.5,Fantasy Score
-81,Jayson Tatum,BOS - F-G,6.0,Assists
-82,Tyler Herro,MIA - G,5.0,Assists
-83,Jaime Jaquez Jr.,MIA - F-G,3.5,Assists
-84,Derrick White,BOS - G,4.5,Assists
-85,Delon Wright,MIA - G,2.5,Assists
-86,Shai Gilgeous-Alexander,OKC - G,5.5,Assists
-87,CJ McCollum,NOP - G,5.0,Assists
-88,Brandon Ingram,NOP - F,5.5,Assists
-89,Jalen Williams,OKC - G-F,4.5,Assists
-90,Herbert Jones,NOP - G-F,2.5,Assists
-91,Josh Giddey,OKC - G,4.5,Assists
-92,Derrick White,BOS - G,2.5,3-PT Made
-93,Payton Pritchard,BOS - G,1.5,3-PT Made
-94,Al Horford,BOS - C-F,1.5,3-PT Made
-95,Duncan Robinson,MIA - F,1.5,3-PT Made
-96,CJ McCollum,NOP - G,3.5,3-PT Made
-97,Chet Holmgren,OKC - C-F,1.5,3-PT Made
-98,Trey Murphy III,NOP - G-F,3.5,3-PT Made
-99,Aaron Wiggins,OKC - G,0.5,3-PT Made
-100,Jayson Tatum,BOS - F-G,7.5,Defensive Rebounds
-101,Bam Adebayo,MIA - C-F,7.5,Defensive Rebounds
-102,Kristaps Porzingis,BOS - F-C,5.5,Defensive Rebounds
-103,Chet Holmgren,OKC - C-F,7.5,Defensive Rebounds
-104,Jonas Valanciunas,NOP - C,8.5,Defensive Rebounds
-105,Kristaps Porzingis,BOS - F-C,1.5,Offensive Rebounds
-106,Derrick White,BOS - G,0.5,Offensive Rebounds
-107,Nikola Jovic,MIA - F,0.5,Offensive Rebounds
-108,Brandon Ingram,NOP - F,0.5,Offensive Rebounds
-109,Chet Holmgren,OKC - C-F,1.5,Offensive Rebounds
-110,CJ McCollum,NOP - G,0.5,Offensive Rebounds
-111,Jonas Valanciunas,NOP - C,3.0,Offensive Rebounds
-112,Jayson Tatum,BOS - F-G,8.0,3-PT Attempted
-113,Tyler Herro,MIA - G,8.5,3-PT Attempted
-114,Jaylen Brown,BOS - G-F,6.0,3-PT Attempted
-115,Kristaps Porzingis,BOS - F-C,6.0,3-PT Attempted
-116,Derrick White,BOS - G,6.0,3-PT Attempted
-117,Chet Holmgren,OKC - C-F,4.5,3-PT Attempted
-118,CJ McCollum,NOP - G,9.0,3-PT Attempted
-119,Shai Gilgeous-Alexander,OKC - G,3.5,3-PT Attempted
-120,Trey Murphy III,NOP - G-F,8.5,3-PT Attempted
-121,Jayson Tatum + Tyler Herro,BOS/MIA - F/G,45.5,Points (Combo)
-122,Jaylen Brown + Bam Adebayo,BOS/MIA - G/C,39.5,Points (Combo)
-123,Shai Gilgeous-Alexander + CJ McCollum,OKC/NOP - G,49.5,Points (Combo)
-124,Jalen Williams + Brandon Ingram,OKC/NOP - F,39.5,Points (Combo)
-125,Jayson Tatum + Shai Gilgeous-Alexander,BOS/OKC - F/G,53.5,Points (Combo)
-126,Jaylen Brown + Jalen Williams,BOS/OKC - G/F,40.5,Points (Combo)
-127,Tyler Herro + CJ McCollum,MIA/NOP - G,41.5,Points (Combo)
-128,Bam Adebayo + Brandon Ingram,MIA/NOP - C/F,38.5,Points (Combo)
-129,Shai Gilgeous-Alexander + CJ McCollum,OKC/NOP - G,10.5,Assists (Combo)
-130,Jayson Tatum + Bam Adebayo,BOS/MIA - F/C,18.0,Rebounds (Combo)
-131,Chet Holmgren + Jonas Valanciunas,OKC/NOP - F/C,20.5,Rebounds (Combo)
-132,Jayson Tatum + Chet Holmgren,BOS/OKC - F,18.0,Rebounds (Combo)
-133,Bam Adebayo + Jonas Valanciunas,MIA/NOP - C,20.5,Rebounds (Combo)
-134,Jayson Tatum + Tyler Herro,BOS/MIA - F/G,6.0,3-PT Made (Combo)
-135,Jayson Tatum + CJ McCollum,BOS/NOP - F/G,6.5,3-PT Made (Combo)
-136,Jayson Tatum,BOS - F-G,5.5,Free Throws Made
-137,Jaylen Brown,BOS - G-F,2.5,Free Throws Made
-138,Bam Adebayo,MIA - C-F,4.0,Free Throws Made
-139,Derrick White,BOS - G,1.5,Free Throws Made
-140,Jrue Holiday,BOS - G,0.5,Free Throws Made
-141,Brandon Ingram,NOP - F,4.0,Free Throws Made
-142,Chet Holmgren,OKC - C-F,2.5,Free Throws Made
-143,CJ McCollum,NOP - G,1.5,Free Throws Made
-144,Jalen Williams,OKC - G-F,2.5,Free Throws Made
-145,Herbert Jones,NOP - G-F,1.5,Free Throws Made
-146,Josh Giddey,OKC - G,1.5,Free Throws Made
-147,Luguentz Dort,OKC - G,1.5,Free Throws Made
-148,Shai Gilgeous-Alexander,OKC - G,7.0,Free Throws Made
-149,Jayson Tatum,BOS - F-G,18.5,FG Attempted
-150,Tyler Herro,MIA - G,17.5,FG Attempted
-151,Jaylen Brown,BOS - G-F,16.0,FG Attempted
-152,Bam Adebayo,MIA - C-F,15.0,FG Attempted
-153,Kristaps Porzingis,BOS - F-C,13.0,FG Attempted
-154,Jaime Jaquez Jr.,MIA - F-G,12.5,FG Attempted
-155,Derrick White,BOS - G,10.0,FG Attempted
-156,Chet Holmgren,OKC - C-F,12.5,FG Attempted
-157,CJ McCollum,NOP - G,18.0,FG Attempted
-158,Jalen Williams,OKC - G-F,15.0,FG Attempted
-159,Shai Gilgeous-Alexander,OKC - G,20.5,FG Attempted
-160,Jayson Tatum,BOS - F-G,34.5,Pts+Rebs
-161,Tyler Herro,MIA - G,25.5,Pts+Rebs
-162,Jaylen Brown,BOS - G-F,26.5,Pts+Rebs
-163,Bam Adebayo,MIA - C-F,27.5,Pts+Rebs
-164,Kristaps Porzingis,BOS - F-C,25.5,Pts+Rebs
-165,Jaime Jaquez Jr.,MIA - F-G,19.5,Pts+Rebs
-166,Derrick White,BOS - G,17.0,Pts+Rebs
-167,Caleb Martin,MIA - F,11.5,Pts+Rebs
-168,Jrue Holiday,BOS - G,15.5,Pts+Rebs
-169,Nikola Jovic,MIA - F,12.5,Pts+Rebs
-170,Payton Pritchard,BOS - G,10.5,Pts+Rebs
-171,Al Horford,BOS - C-F,12.5,Pts+Rebs
-172,Shai Gilgeous-Alexander,OKC - G,35.5,Pts+Rebs
-173,CJ McCollum,NOP - G,25.0,Pts+Rebs
-174,Chet Holmgren,OKC - C-F,25.5,Pts+Rebs
-175,Brandon Ingram,NOP - F,24.5,Pts+Rebs
-176,Jalen Williams,OKC - G-F,24.0,Pts+Rebs
-177,Trey Murphy III,NOP - G-F,23.5,Pts+Rebs
-178,Josh Giddey,OKC - G,16.5,Pts+Rebs
-179,Herbert Jones,NOP - G-F,13.5,Pts+Rebs
-180,Luguentz Dort,OKC - G,14.5,Pts+Rebs
-181,Jonas Valanciunas,NOP - C,24.5,Pts+Rebs
-182,Larry Nance Jr.,NOP - F,12.5,Pts+Rebs
-183,Kristaps Porzingis,BOS - F-C,1.5,Dunks
-184,Chet Holmgren,OKC - C-F,1.5,Dunks
-185,Jalen Williams,OKC - G-F,0.5,Dunks
-186,Herbert Jones,NOP - G-F,0.5,Dunks
-187,Jonas Valanciunas,NOP - C,0.5,Dunks
-188,Larry Nance Jr.,NOP - F,0.5,Dunks
-189,Trey Murphy III,NOP - G-F,0.5,Dunks
-190,Jayson Tatum,BOS - F-G,31.5,Pts+Asts
-191,Tyler Herro,MIA - G,25.5,Pts+Asts
-192,Jaylen Brown,BOS - G-F,23.5,Pts+Asts
-193,Bam Adebayo,MIA - C-F,22.5,Pts+Asts
-194,Kristaps Porzingis,BOS - F-C,20.5,Pts+Asts
-195,Jaime Jaquez Jr.,MIA - F-G,18.5,Pts+Asts
-196,Derrick White,BOS - G,17.5,Pts+Asts
-197,Jrue Holiday,BOS - G,14.5,Pts+Asts
-198,Payton Pritchard,BOS - G,10.5,Pts+Asts
-199,Shai Gilgeous-Alexander,OKC - G,34.5,Pts+Asts
-200,CJ McCollum,NOP - G,26.5,Pts+Asts
-201,Chet Holmgren,OKC - C-F,18.0,Pts+Asts
-202,Brandon Ingram,NOP - F,24.5,Pts+Asts
-203,Jalen Williams,OKC - G-F,23.5,Pts+Asts
-204,Trey Murphy III,NOP - G-F,19.5,Pts+Asts
-205,Josh Giddey,OKC - G,14.5,Pts+Asts
-206,Herbert Jones,NOP - G-F,12.5,Pts+Asts
-207,Luguentz Dort,OKC - G,12.5,Pts+Asts
-208,Jonas Valanciunas,NOP - C,15.5,Pts+Asts
-209,Jayson Tatum,BOS - F-G,0.5,Blocked Shots
-210,Al Horford,BOS - C-F,0.5,Blocked Shots
-211,Chet Holmgren,OKC - C-F,2.5,Blocked Shots
-212,Brandon Ingram,NOP - F,0.5,Blocked Shots
-213,Herbert Jones,NOP - G-F,0.5,Blocked Shots
-214,Jonas Valanciunas,NOP - C,0.5,Blocked Shots
-215,Trey Murphy III,NOP - G-F,0.5,Blocked Shots
-216,Tyler Herro,MIA - G,0.5,Steals
-217,Caleb Martin,MIA - F,0.5,Steals
-218,Nikola Jovic,MIA - F,0.5,Steals
-219,Al Horford,BOS - C-F,0.5,Steals
-220,Brandon Ingram,NOP - F,0.5,Steals
-221,Josh Giddey,OKC - G,0.5,Steals
-222,Herbert Jones,NOP - G-F,1.5,Steals
-223,Aaron Wiggins,OKC - G,0.5,Steals
-224,Jayson Tatum,BOS - F-G,15.0,Rebs+Asts
-225,Tyler Herro,MIA - G,10.5,Rebs+Asts
-226,Jaylen Brown,BOS - G-F,9.0,Rebs+Asts
-227,Bam Adebayo,MIA - C-F,13.5,Rebs+Asts
-228,Kristaps Porzingis,BOS - F-C,9.0,Rebs+Asts
-229,Jaime Jaquez Jr.,MIA - F-G,8.5,Rebs+Asts
-230,Derrick White,BOS - G,8.5,Rebs+Asts
-231,Jrue Holiday,BOS - G,9.5,Rebs+Asts
-232,Al Horford,BOS - C-F,7.5,Rebs+Asts
-233,Shai Gilgeous-Alexander,OKC - G,11.5,Rebs+Asts
-234,CJ McCollum,NOP - G,9.5,Rebs+Asts
-235,Chet Holmgren,OKC - C-F,11.5,Rebs+Asts
-236,Jalen Williams,OKC - G-F,9.5,Rebs+Asts
-237,Trey Murphy III,NOP - G-F,8.5,Rebs+Asts
-238,Josh Giddey,OKC - G,10.5,Rebs+Asts
-239,Jonas Valanciunas,NOP - C,13.5,Rebs+Asts
-240,Larry Nance Jr.,NOP - F,8.0,Rebs+Asts
-241,Payton Pritchard,BOS - G,0.5,Blks+Stls
-242,Sam Hauser,BOS - F,0.5,Blks+Stls
-243,Delon Wright,MIA - G,1.5,Blks+Stls
-244,Shai Gilgeous-Alexander,OKC - G,2.5,Blks+Stls
-245,Chet Holmgren,OKC - C-F,3.5,Blks+Stls
-246,Luguentz Dort,OKC - G,1.5,Blks+Stls
-247,Isaiah Joe,OKC - G,0.5,Blks+Stls
-248,Tyler Herro,MIA - G,3.5,Turnovers
-249,Jaylen Brown,BOS - G-F,2.5,Turnovers
-250,Kristaps Porzingis,BOS - F-C,1.5,Turnovers
-251,Derrick White,BOS - G,1.5,Turnovers
-252,Jrue Holiday,BOS - G,1.5,Turnovers
-253,Payton Pritchard,BOS - G,0.5,Turnovers
-254,Shai Gilgeous-Alexander,OKC - G,2.5,Turnovers
+0,Jaime Jaquez Jr.,MIA - F-G,14.5,Points
+1,Jonas Valanciunas,NOP - C,11.0,Rebounds
+2,Payton Pritchard,BOS - G,1.5,3-PT Made
+3,Nikola Jovic,MIA - F,4.5,Rebounds
+4,Bam Adebayo,MIA - C-F,13.5,Rebs+Asts
+5,Al Horford,BOS - C-F,6.5,Points
+6,Payton Pritchard,BOS - G,10.5,Pts+Asts
+7,Jayson Tatum,BOS - F-G,25.5,Points
+8,Derrick White,BOS - G,13.0,Points
+9,Bam Adebayo,MIA - C-F,9.0,Rebounds
+10,Jayson Tatum,BOS - F-G,40.5,Pts+Rebs+Asts
+11,Tyler Herro,MIA - G,20.5,Points
+12,Payton Pritchard,BOS - G,7.5,Points
+13,Kristaps Porzingis,BOS - F-C,9.0,Rebs+Asts
+14,Jaylen Brown,BOS - G-F,20.5,Points
+15,Jayson Tatum,BOS - F-G,5.5,Assists
+16,Bam Adebayo,MIA - C-F,18.5,Points
+17,Jayson Tatum,BOS - F-G,40.5,Pts+Rebs+Asts
+18,Tyler Herro,MIA - G,30.5,Pts+Rebs+Asts
+19,Jaylen Brown,BOS - G-F,29.5,Pts+Rebs+Asts
+20,Bam Adebayo,MIA - C-F,32.5,Pts+Rebs+Asts
+21,Kristaps Porzingis,BOS - F-C,27.5,Pts+Rebs+Asts
+22,Jaime Jaquez Jr.,MIA - F-G,23.0,Pts+Rebs+Asts
+23,Derrick White,BOS - G,21.5,Pts+Rebs+Asts
+24,Jrue Holiday,BOS - G,20.5,Pts+Rebs+Asts
+25,Shai Gilgeous-Alexander,OKC - G,40.5,Pts+Rebs+Asts
+26,CJ McCollum,NOP - G,30.5,Pts+Rebs+Asts
+27,Chet Holmgren,OKC - C-F,27.5,Pts+Rebs+Asts
+28,Brandon Ingram,NOP - F,30.5,Pts+Rebs+Asts
+29,Jalen Williams,OKC - G-F,28.5,Pts+Rebs+Asts
+30,Trey Murphy III,NOP - G-F,26.0,Pts+Rebs+Asts
+31,Josh Giddey,OKC - G,20.5,Pts+Rebs+Asts
+32,Herbert Jones,NOP - G-F,16.0,Pts+Rebs+Asts
+33,Jonas Valanciunas,NOP - C,26.0,Pts+Rebs+Asts
+34,Jayson Tatum,BOS - F-G,25.5,Points
+35,Tyler Herro,MIA - G,20.5,Points
+36,Jaylen Brown,BOS - G-F,20.5,Points
+37,Bam Adebayo,MIA - C-F,18.5,Points
+38,Kristaps Porzingis,BOS - F-C,18.0,Points
+39,Jaime Jaquez Jr.,MIA - F-G,14.5,Points
+40,Derrick White,BOS - G,13.0,Points
+41,Caleb Martin,MIA - F,8.0,Points
+42,Jrue Holiday,BOS - G,10.5,Points
+43,Nikola Jovic,MIA - F,7.5,Points
+44,Payton Pritchard,BOS - G,7.5,Points
+45,Kevin Love,MIA - F-C,6.0,Points
+46,Al Horford,BOS - C-F,6.5,Points
+47,Sam Hauser,BOS - F,6.0,Points
+48,Haywood Highsmith,MIA - F,5.5,Points
+49,Delon Wright,MIA - G,5.5,Points
+50,Duncan Robinson,MIA - F,6.0,Points
+51,Shai Gilgeous-Alexander,OKC - G,29.5,Points
+52,CJ McCollum,NOP - G,20.5,Points
+53,Chet Holmgren,OKC - C-F,16.0,Points
+54,Brandon Ingram,NOP - F,19.5,Points
+55,Jalen Williams,OKC - G-F,19.5,Points
+56,Trey Murphy III,NOP - G-F,17.5,Points
+57,Josh Giddey,OKC - G,9.5,Points
+58,Herbert Jones,NOP - G-F,10.0,Points
+59,Luguentz Dort,OKC - G,10.5,Points
+60,Jose Alvarado,NOP - G,6.5,Points
+61,Jonas Valanciunas,NOP - C,13.0,Points
+62,Larry Nance Jr.,NOP - F,6.0,Points
+63,Jayson Tatum,BOS - F-G,9.0,Rebounds
+64,Tyler Herro,MIA - G,5.0,Rebounds
+65,Jaylen Brown,BOS - G-F,6.0,Rebounds
+66,Bam Adebayo,MIA - C-F,9.0,Rebounds
+67,Kristaps Porzingis,BOS - F-C,7.0,Rebounds
+68,Jaime Jaquez Jr.,MIA - F-G,4.5,Rebounds
+69,Jrue Holiday,BOS - G,5.0,Rebounds
+70,Nikola Jovic,MIA - F,4.5,Rebounds
+71,Haywood Highsmith,MIA - F,3.5,Rebounds
+72,Al Horford,BOS - C-F,5.5,Rebounds
+73,Shai Gilgeous-Alexander,OKC - G,6.0,Rebounds
+74,Chet Holmgren,OKC - C-F,9.0,Rebounds
+75,CJ McCollum,NOP - G,4.0,Rebounds
+76,Brandon Ingram,NOP - F,5.5,Rebounds
+77,Jalen Williams,OKC - G-F,4.5,Rebounds
+78,Trey Murphy III,NOP - G-F,6.0,Rebounds
+79,Josh Giddey,OKC - G,6.0,Rebounds
+80,Luguentz Dort,OKC - G,3.5,Rebounds
+81,Jonas Valanciunas,NOP - C,11.0,Rebounds
+82,Larry Nance Jr.,NOP - F,5.5,Rebounds
+83,Jayson Tatum,BOS - F-G,47.0,Fantasy Score
+84,Tyler Herro,MIA - G,34.0,Fantasy Score
+85,Jaylen Brown,BOS - G-F,34.5,Fantasy Score
+86,Bam Adebayo,MIA - C-F,37.5,Fantasy Score
+87,Kristaps Porzingis,BOS - F-C,36.0,Fantasy Score
+88,Jaime Jaquez Jr.,MIA - F-G,27.0,Fantasy Score
+89,Jrue Holiday,BOS - G,27.5,Fantasy Score
+90,Brandon Ingram,NOP - F,35.0,Fantasy Score
+91,Chet Holmgren,OKC - C-F,38.5,Fantasy Score
+92,CJ McCollum,NOP - G,35.0,Fantasy Score
+93,Jalen Williams,OKC - G-F,36.0,Fantasy Score
+94,Herbert Jones,NOP - G-F,23.0,Fantasy Score
+95,Josh Giddey,OKC - G,25.0,Fantasy Score
+96,Jonas Valanciunas,NOP - C,31.0,Fantasy Score
+97,Luguentz Dort,OKC - G,20.5,Fantasy Score
+98,Shai Gilgeous-Alexander,OKC - G,48.5,Fantasy Score
+99,Larry Nance Jr.,NOP - F,18.5,Fantasy Score
+100,Trey Murphy III,NOP - G-F,31.5,Fantasy Score
+101,Jayson Tatum,BOS - F-G,5.5,Assists
+102,Tyler Herro,MIA - G,5.0,Assists
+103,Derrick White,BOS - G,4.5,Assists
+104,Delon Wright,MIA - G,2.5,Assists
+105,Shai Gilgeous-Alexander,OKC - G,5.5,Assists
+106,CJ McCollum,NOP - G,5.0,Assists
+107,Herbert Jones,NOP - G-F,2.5,Assists
+108,Derrick White,BOS - G,2.5,3-PT Made
+109,Payton Pritchard,BOS - G,1.5,3-PT Made
+110,Duncan Robinson,MIA - F,1.5,3-PT Made
+111,CJ McCollum,NOP - G,3.5,3-PT Made
+112,Chet Holmgren,OKC - C-F,1.5,3-PT Made
+113,Aaron Wiggins,OKC - G,0.5,3-PT Made
+114,Jayson Tatum,BOS - F-G,7.5,Defensive Rebounds
+115,Bam Adebayo,MIA - C-F,7.5,Defensive Rebounds
+116,Kristaps Porzingis,BOS - F-C,5.5,Defensive Rebounds
+117,Chet Holmgren,OKC - C-F,7.5,Defensive Rebounds
+118,Jonas Valanciunas,NOP - C,8.5,Defensive Rebounds
+119,Kristaps Porzingis,BOS - F-C,1.5,Offensive Rebounds
+120,Derrick White,BOS - G,0.5,Offensive Rebounds
+121,Nikola Jovic,MIA - F,0.5,Offensive Rebounds
+122,Brandon Ingram,NOP - F,0.5,Offensive Rebounds
+123,Chet Holmgren,OKC - C-F,1.5,Offensive Rebounds
+124,CJ McCollum,NOP - G,0.5,Offensive Rebounds
+125,Jonas Valanciunas,NOP - C,3.0,Offensive Rebounds
+126,Jayson Tatum,BOS - F-G,8.0,3-PT Attempted
+127,Tyler Herro,MIA - G,9.0,3-PT Attempted
+128,Jaylen Brown,BOS - G-F,6.0,3-PT Attempted
+129,Kristaps Porzingis,BOS - F-C,6.0,3-PT Attempted
+130,Derrick White,BOS - G,6.5,3-PT Attempted
+131,Chet Holmgren,OKC - C-F,4.5,3-PT Attempted
+132,CJ McCollum,NOP - G,9.0,3-PT Attempted
+133,Shai Gilgeous-Alexander,OKC - G,3.5,3-PT Attempted
+134,Trey Murphy III,NOP - G-F,9.5,3-PT Attempted
+135,Jayson Tatum + Tyler Herro,BOS/MIA - F/G,45.5,Points (Combo)
+136,Jaylen Brown + Bam Adebayo,BOS/MIA - G/C,39.5,Points (Combo)
+137,Shai Gilgeous-Alexander + CJ McCollum,OKC/NOP - G,50.0,Points (Combo)
+138,Jalen Williams + Brandon Ingram,OKC/NOP - F,39.0,Points (Combo)
+139,Jayson Tatum + Shai Gilgeous-Alexander,BOS/OKC - F/G,53.5,Points (Combo)
+140,Jaylen Brown + Jalen Williams,BOS/OKC - G/F,40.5,Points (Combo)
+141,Tyler Herro + CJ McCollum,MIA/NOP - G,41.5,Points (Combo)
+142,Bam Adebayo + Brandon Ingram,MIA/NOP - C/F,38.5,Points (Combo)
+143,Shai Gilgeous-Alexander + CJ McCollum,OKC/NOP - G,10.5,Assists (Combo)
+144,Jayson Tatum + Bam Adebayo,BOS/MIA - F/C,18.0,Rebounds (Combo)
+145,Chet Holmgren + Jonas Valanciunas,OKC/NOP - F/C,20.5,Rebounds (Combo)
+146,Jayson Tatum + Chet Holmgren,BOS/OKC - F,18.0,Rebounds (Combo)
+147,Bam Adebayo + Jonas Valanciunas,MIA/NOP - C,20.5,Rebounds (Combo)
+148,Jayson Tatum + Tyler Herro,BOS/MIA - F/G,6.0,3-PT Made (Combo)
+149,Jayson Tatum + CJ McCollum,BOS/NOP - F/G,6.5,3-PT Made (Combo)
+150,Jayson Tatum,BOS - F-G,5.5,Free Throws Made
+151,Jaylen Brown,BOS - G-F,2.5,Free Throws Made
+152,Bam Adebayo,MIA - C-F,4.0,Free Throws Made
+153,Derrick White,BOS - G,1.5,Free Throws Made
+154,Brandon Ingram,NOP - F,4.0,Free Throws Made
+155,Chet Holmgren,OKC - C-F,2.5,Free Throws Made
+156,CJ McCollum,NOP - G,1.5,Free Throws Made
+157,Jalen Williams,OKC - G-F,2.5,Free Throws Made
+158,Herbert Jones,NOP - G-F,1.5,Free Throws Made
+159,Luguentz Dort,OKC - G,1.5,Free Throws Made
+160,Shai Gilgeous-Alexander,OKC - G,7.0,Free Throws Made
+161,Jayson Tatum,BOS - F-G,19.0,FG Attempted
+162,Tyler Herro,MIA - G,17.5,FG Attempted
+163,Jaylen Brown,BOS - G-F,16.5,FG Attempted
+164,Bam Adebayo,MIA - C-F,15.5,FG Attempted
+165,Kristaps Porzingis,BOS - F-C,13.5,FG Attempted
+166,Jaime Jaquez Jr.,MIA - F-G,13.5,FG Attempted
+167,Derrick White,BOS - G,10.5,FG Attempted
+168,Chet Holmgren,OKC - C-F,13.5,FG Attempted
+169,CJ McCollum,NOP - G,18.5,FG Attempted
+170,Jalen Williams,OKC - G-F,16.0,FG Attempted
+171,Shai Gilgeous-Alexander,OKC - G,21.5,FG Attempted
+172,Jayson Tatum,BOS - F-G,34.5,Pts+Rebs
+173,Tyler Herro,MIA - G,25.5,Pts+Rebs
+174,Jaylen Brown,BOS - G-F,27.5,Pts+Rebs
+175,Bam Adebayo,MIA - C-F,27.5,Pts+Rebs
+176,Kristaps Porzingis,BOS - F-C,25.5,Pts+Rebs
+177,Jaime Jaquez Jr.,MIA - F-G,19.5,Pts+Rebs
+178,Derrick White,BOS - G,16.5,Pts+Rebs
+179,Caleb Martin,MIA - F,12.0,Pts+Rebs
+180,Jrue Holiday,BOS - G,15.5,Pts+Rebs
+181,Nikola Jovic,MIA - F,12.5,Pts+Rebs
+182,Payton Pritchard,BOS - G,10.5,Pts+Rebs
+183,Al Horford,BOS - C-F,12.5,Pts+Rebs
+184,Sam Hauser,BOS - F,8.0,Pts+Rebs
+185,Haywood Highsmith,MIA - F,9.5,Pts+Rebs
+186,Delon Wright,MIA - G,8.5,Pts+Rebs
+187,Duncan Robinson,MIA - F,8.5,Pts+Rebs
+188,Shai Gilgeous-Alexander,OKC - G,35.5,Pts+Rebs
+189,CJ McCollum,NOP - G,25.5,Pts+Rebs
+190,Chet Holmgren,OKC - C-F,25.5,Pts+Rebs
+191,Brandon Ingram,NOP - F,24.5,Pts+Rebs
+192,Jalen Williams,OKC - G-F,24.5,Pts+Rebs
+193,Trey Murphy III,NOP - G-F,23.5,Pts+Rebs
+194,Josh Giddey,OKC - G,16.5,Pts+Rebs
+195,Herbert Jones,NOP - G-F,13.5,Pts+Rebs
+196,Luguentz Dort,OKC - G,14.5,Pts+Rebs
+197,Jonas Valanciunas,NOP - C,24.5,Pts+Rebs
+198,Larry Nance Jr.,NOP - F,11.5,Pts+Rebs
+199,Kristaps Porzingis,BOS - F-C,1.5,Dunks
+200,Chet Holmgren,OKC - C-F,1.5,Dunks
+201,Jalen Williams,OKC - G-F,0.5,Dunks
+202,Herbert Jones,NOP - G-F,0.5,Dunks
+203,Jonas Valanciunas,NOP - C,0.5,Dunks
+204,Larry Nance Jr.,NOP - F,0.5,Dunks
+205,Trey Murphy III,NOP - G-F,0.5,Dunks
+206,Jayson Tatum,BOS - F-G,31.5,Pts+Asts
+207,Tyler Herro,MIA - G,25.5,Pts+Asts
+208,Jaylen Brown,BOS - G-F,23.5,Pts+Asts
+209,Bam Adebayo,MIA - C-F,22.5,Pts+Asts
+210,Kristaps Porzingis,BOS - F-C,20.5,Pts+Asts
+211,Jaime Jaquez Jr.,MIA - F-G,17.5,Pts+Asts
+212,Derrick White,BOS - G,17.5,Pts+Asts
+213,Jrue Holiday,BOS - G,14.5,Pts+Asts
+214,Payton Pritchard,BOS - G,10.5,Pts+Asts
+215,Shai Gilgeous-Alexander,OKC - G,34.5,Pts+Asts
+216,CJ McCollum,NOP - G,26.5,Pts+Asts
+217,Chet Holmgren,OKC - C-F,18.0,Pts+Asts
+218,Brandon Ingram,NOP - F,24.5,Pts+Asts
+219,Jalen Williams,OKC - G-F,23.5,Pts+Asts
+220,Trey Murphy III,NOP - G-F,19.5,Pts+Asts
+221,Josh Giddey,OKC - G,14.5,Pts+Asts
+222,Herbert Jones,NOP - G-F,12.5,Pts+Asts
+223,Luguentz Dort,OKC - G,12.5,Pts+Asts
+224,Jonas Valanciunas,NOP - C,15.5,Pts+Asts
+225,Jayson Tatum,BOS - F-G,0.5,Blocked Shots
+226,Al Horford,BOS - C-F,0.5,Blocked Shots
+227,Chet Holmgren,OKC - C-F,2.5,Blocked Shots
+228,Brandon Ingram,NOP - F,0.5,Blocked Shots
+229,Herbert Jones,NOP - G-F,0.5,Blocked Shots
+230,Jonas Valanciunas,NOP - C,0.5,Blocked Shots
+231,Trey Murphy III,NOP - G-F,0.5,Blocked Shots
+232,Tyler Herro,MIA - G,0.5,Steals
+233,Caleb Martin,MIA - F,0.5,Steals
+234,Al Horford,BOS - C-F,0.5,Steals
+235,Brandon Ingram,NOP - F,0.5,Steals
+236,Josh Giddey,OKC - G,0.5,Steals
+237,Herbert Jones,NOP - G-F,1.5,Steals
+238,Aaron Wiggins,OKC - G,0.5,Steals
+239,Jayson Tatum,BOS - F-G,15.0,Rebs+Asts
+240,Tyler Herro,MIA - G,10.0,Rebs+Asts
+241,Jaylen Brown,BOS - G-F,9.0,Rebs+Asts
+242,Bam Adebayo,MIA - C-F,13.5,Rebs+Asts
+243,Kristaps Porzingis,BOS - F-C,9.0,Rebs+Asts
+244,Derrick White,BOS - G,8.5,Rebs+Asts
+245,Jrue Holiday,BOS - G,9.5,Rebs+Asts
+246,Al Horford,BOS - C-F,7.5,Rebs+Asts
+247,Shai Gilgeous-Alexander,OKC - G,11.5,Rebs+Asts
+248,CJ McCollum,NOP - G,9.5,Rebs+Asts
+249,Chet Holmgren,OKC - C-F,11.5,Rebs+Asts
+250,Jalen Williams,OKC - G-F,9.5,Rebs+Asts
+251,Trey Murphy III,NOP - G-F,8.5,Rebs+Asts
+252,Josh Giddey,OKC - G,10.5,Rebs+Asts
+253,Jonas Valanciunas,NOP - C,13.5,Rebs+Asts
+254,Larry Nance Jr.,NOP - F,8.0,Rebs+Asts
+255,Payton Pritchard,BOS - G,0.5,Blks+Stls
+256,Sam Hauser,BOS - F,0.5,Blks+Stls
+257,Delon Wright,MIA - G,1.5,Blks+Stls
+258,Shai Gilgeous-Alexander,OKC - G,2.5,Blks+Stls
+259,Chet Holmgren,OKC - C-F,3.5,Blks+Stls
+260,Luguentz Dort,OKC - G,1.5,Blks+Stls
+261,Isaiah Joe,OKC - G,0.5,Blks+Stls
+262,Kristaps Porzingis,BOS - F-C,1.5,Turnovers
+263,Payton Pritchard,BOS - G,0.5,Turnovers
+264,Shai Gilgeous-Alexander,OKC - G,2.5,Turnovers

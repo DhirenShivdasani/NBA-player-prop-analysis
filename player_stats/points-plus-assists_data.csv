@@ -1,7 +1,7 @@
 Rank,Player,Team,Pos,Value
 1,Luka Doncic,Dallas Mavericks,SF,43.56
 2,Giannis Antetokounmpo,Milwaukee Bucks,SF,36.96
-3,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,36.20
+3,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,36.22
 4,Nikola Jokic,Denver Nuggets,C,35.42
 5,Jalen Brunson,New York Knicks,PG,35.32
 6,LeBron James,Los Angeles Lakers,SF,33.92
@@ -9,7 +9,7 @@ Rank,Player,Team,Pos,Value
 8,De'Aaron Fox,Sacramento Kings,PG,32.29
 9,Tyrese Maxey,Philadelphia 76ers,PG,32.27
 10,Kevin Durant,Phoenix Suns,SF,31.97
-11,Jayson Tatum,Boston Celtics,SF,31.79
+11,Jayson Tatum,Boston Celtics,SF,31.78
 12,Damian Lillard,Milwaukee Bucks,PG,31.47
 13,Stephen Curry,Golden State Warriors,PG,31.45
 14,Anthony Edwards,Minnesota Timberwolves,SG,31.06
@@ -24,10 +24,10 @@ Rank,Player,Team,Pos,Value
 23,Jamal Murray,Denver Nuggets,SG,27.72
 24,Domantas Sabonis,Sacramento Kings,PF,27.61
 25,Kawhi Leonard,Los Angeles Clippers,SF,27.16
-26,Jaylen Brown,Boston Celtics,SG,26.46
+26,Jaylen Brown,Boston Celtics,SG,26.57
 27,Kyle Kuzma,Washington Wizards,PF,26.41
 28,Pascal Siakam,Indiana Pacers,PF,26.34
-29,Brandon Ingram,New Orleans Pelicans,SF,26.19
+29,Brandon Ingram,New Orleans Pelicans,SF,26.12
 30,Paul George,Los Angeles Clippers,SF,26.11
 31,Alperen Sengun,Houston Rockets,C,26.08
 32,Scottie Barnes,Toronto Raptors,SF,25.90
@@ -42,9 +42,9 @@ Rank,Player,Team,Pos,Value
 41,Darius Garland,Cleveland Cavaliers,PG,24.44
 42,Coby White,Chicago Bulls,SG,24.43
 43,Miles Bridges,Charlotte Hornets,SF,24.35
-44,CJ McCollum,New Orleans Pelicans,SG,24.32
-45,D'Angelo Russell,Los Angeles Lakers,PG,24.29
-46,Jalen Williams,Oklahoma City Thunder,SG,23.61
+44,D'Angelo Russell,Los Angeles Lakers,PG,24.29
+45,CJ McCollum,New Orleans Pelicans,SG,24.24
+46,Jalen Williams,Oklahoma City Thunder,SG,23.67
 47,Collin Sexton,Utah Jazz,PG,23.60
 48,Devin Vassell,San Antonio Spurs,SG,23.53
 49,RJ Barrett,Toronto Raptors,SF,23.50
@@ -52,13 +52,13 @@ Rank,Player,Team,Pos,Value
 51,Mikal Bridges,Brooklyn Nets,SG,23.23
 52,Jalen Green,Houston Rockets,SG,23.18
 53,Bam Adebayo,Miami Heat,C,22.97
-54,Kristaps Porzingis,Boston Celtics,PF,22.05
-55,Immanuel Quickley,Toronto Raptors,SG,21.87
+54,Immanuel Quickley,Toronto Raptors,SG,21.87
+55,Kristaps Porzingis,Boston Celtics,PF,21.85
 56,Jordan Poole,Washington Wizards,SG,21.78
 57,Nikola Vucevic,Chicago Bulls,C,21.42
 58,Austin Reaves,Los Angeles Lakers,PG,21.28
 59,Malik Monk,Sacramento Kings,SG,20.56
-60,Derrick White,Boston Celtics,PG,20.38
+60,Derrick White,Boston Celtics,PG,20.33
 61,Dennis Schroder,Brooklyn Nets,PG,20.13
 62,Bogdan Bogdanovic,Atlanta Hawks,SG,20.06
 63,Tobias Harris,Philadelphia 76ers,SF,19.95
@@ -68,7 +68,7 @@ Rank,Player,Team,Pos,Value
 67,Tyus Jones,Washington Wizards,PG,19.32
 68,Jaden Ivey,Detroit Pistons,PG,19.23
 69,Jarrett Allen,Cleveland Cavaliers,C,19.22
-70,Chet Holmgren,Oklahoma City Thunder,C,18.96
+70,Chet Holmgren,Oklahoma City Thunder,C,19.06
 71,Caris LeVert,Cleveland Cavaliers,SG,18.77
 72,Keldon Johnson,San Antonio Spurs,SF,18.54
 73,Deni Avdija,Washington Wizards,SF,18.51
@@ -79,11 +79,11 @@ Rank,Player,Team,Pos,Value
 78,Aaron Gordon,Denver Nuggets,PF,17.44
 79,Keyonte George,Utah Jazz,SG,17.41
 80,Mike Conley,Minnesota Timberwolves,PG,17.32
-81,Jrue Holiday,Boston Celtics,PG,17.17
-82,Trey Murphy III,New Orleans Pelicans,SF,17.08
-83,De'Andre Hunter,Atlanta Hawks,PF,17.07
-84,Keegan Murray,Sacramento Kings,SF,17.05
-85,Josh Giddey,Oklahoma City Thunder,SG,17.00
+81,Jrue Holiday,Boston Celtics,PG,17.08
+82,De'Andre Hunter,Atlanta Hawks,PF,17.07
+83,Keegan Murray,Sacramento Kings,SF,17.05
+84,Josh Giddey,Oklahoma City Thunder,SG,16.99
+85,Trey Murphy III,New Orleans Pelicans,SF,16.97
 86,Bojan Bogdanovic,New York Knicks,SF,16.73
 87,Kelly Oubre Jr.,Philadelphia 76ers,SF,16.62
 88,Bennedict Mathurin,Indiana Pacers,SG,16.58
@@ -97,5 +97,5 @@ Rank,Player,Team,Pos,Value
 96,Cameron Johnson,Brooklyn Nets,PF,15.76
 97,T.J. McConnell,Indiana Pacers,PG,15.61
 98,Russell Westbrook,Los Angeles Clippers,PG,15.53
-99,Duncan Robinson,Miami Heat,SF,15.47
-100,Ayo Dosunmu,Chicago Bulls,PG,15.41
+99,Ayo Dosunmu,Chicago Bulls,PG,15.41
+100,Gary Trent Jr.,Toronto Raptors,SG,15.39

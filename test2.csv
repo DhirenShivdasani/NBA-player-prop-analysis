@@ -1,358 +1,240 @@
 ,Name,Team,Value,Prop
-0,Anthony Davis,LAL - F-C,26.5,Points
-2,Al Horford,BOS - C-F,5.5,Rebounds
-3,Tyler Herro,MIA - G,6.0,Assists
-4,Luguentz Dort,OKC - G,1.5,3-PT Made
-5,Jaylen Brown,BOS - G-F,21.5,Points
+1,Al Horford,BOS - C-F,5.5,Rebounds
+2,Tyler Herro,MIA - G,6.0,Assists
+3,Anthony Davis,LAL - F-C,26.5,Points
+4,Jaylen Brown,BOS - G-F,21.5,Points
 6,LeBron James,LAL - F,26.5,Points
-7,Nikola Jokic,DEN - C,9.0,Assists
+7,Michael Porter Jr.,DEN - F,9.0,Rebs+Asts
 8,Michael Porter Jr.,DEN - F,7.5,Rebounds
-9,Michael Porter Jr.,DEN - F,9.0,Rebs+Asts
+9,Caleb Martin,MIA - F,10.5,Points
 10,Anthony Davis,LAL - F-C,43.5,Pts+Rebs+Asts
-11,Shai Gilgeous-Alexander,OKC - G,39.5,Pts+Rebs+Asts
-13,Brandon Ingram,NOP - F,20.5,Points
-14,Chet Holmgren,OKC - C-F,16.5,Points
-15,CJ McCollum,NOP - G,21.5,Points
-16,Jalen Williams,OKC - G-F,19.5,Points
-17,Herbert Jones,NOP - G-F,11.0,Points
-18,Josh Giddey,OKC - G,9.5,Points
-19,Jonas Valanciunas,NOP - C,13.5,Points
-20,Luguentz Dort,OKC - G,9.5,Points
-21,Trey Murphy III,NOP - G-F,16.5,Points
-22,Shai Gilgeous-Alexander,OKC - G,28.5,Points
-23,Bam Adebayo,MIA - C-F,19.0,Points
-24,Derrick White,BOS - G,12.5,Points
-25,Caleb Martin,MIA - F,10.0,Points
-26,Jaylen Brown,BOS - G-F,21.5,Points
-27,Nikola Jovic,MIA - F,7.5,Points
-28,Jayson Tatum,BOS - F-G,26.5,Points
-29,Tyler Herro,MIA - G,20.5,Points
-30,Jrue Holiday,BOS - G,10.0,Points
-31,Duncan Robinson,MIA - F,6.5,Points
-32,Kristaps Porzingis,BOS - F-C,16.5,Points
-33,Haywood Highsmith,MIA - F,6.5,Points
-34,Al Horford,BOS - C-F,6.5,Points
-35,Jaime Jaquez Jr.,MIA - F-G,14.5,Points
-36,Anthony Davis,LAL - F-C,26.5,Points
-37,Nikola Jokic,DEN - C,27.5,Points
-38,LeBron James,LAL - F,26.5,Points
-39,Jamal Murray,DEN - G,23.5,Points
-40,Austin Reaves,LAL - G,14.5,Points
-41,Michael Porter Jr.,DEN - F,17.5,Points
-42,D'Angelo Russell,LAL - G,14.5,Points
-43,Aaron Gordon,DEN - F,14.5,Points
-44,Rui Hachimura,LAL - F,9.5,Points
-45,Kentavious Caldwell-Pope,DEN - G,9.5,Points
-46,Taurean Prince,LAL - F,6.5,Points
-47,Brandon Ingram,NOP - F,32.5,Pts+Rebs+Asts
-48,Chet Holmgren,OKC - C-F,28.5,Pts+Rebs+Asts
-49,Jalen Williams,OKC - G-F,29.5,Pts+Rebs+Asts
-50,Herbert Jones,NOP - G-F,18.0,Pts+Rebs+Asts
-51,Jonas Valanciunas,NOP - C,27.5,Pts+Rebs+Asts
-52,Trey Murphy III,NOP - G-F,25.5,Pts+Rebs+Asts
-53,Shai Gilgeous-Alexander,OKC - G,39.5,Pts+Rebs+Asts
-54,Bam Adebayo,MIA - C-F,33.0,Pts+Rebs+Asts
-55,Derrick White,BOS - G,20.5,Pts+Rebs+Asts
-56,Jaylen Brown,BOS - G-F,31.5,Pts+Rebs+Asts
-57,Tyler Herro,MIA - G,32.5,Pts+Rebs+Asts
-58,Jrue Holiday,BOS - G,19.0,Pts+Rebs+Asts
-59,Jaime Jaquez Jr.,MIA - F-G,22.5,Pts+Rebs+Asts
-60,Anthony Davis,LAL - F-C,43.5,Pts+Rebs+Asts
-61,Nikola Jokic,DEN - C,49.5,Pts+Rebs+Asts
-62,LeBron James,LAL - F,43.5,Pts+Rebs+Asts
-63,Jamal Murray,DEN - G,35.5,Pts+Rebs+Asts
-64,Austin Reaves,LAL - G,24.0,Pts+Rebs+Asts
-65,Michael Porter Jr.,DEN - F,26.5,Pts+Rebs+Asts
-66,Aaron Gordon,DEN - F,26.5,Pts+Rebs+Asts
-67,Chet Holmgren,OKC - C-F,9.5,Rebounds
-68,CJ McCollum,NOP - G,5.0,Rebounds
-69,Josh Giddey,OKC - G,6.0,Rebounds
-70,Jonas Valanciunas,NOP - C,11.0,Rebounds
-71,Trey Murphy III,NOP - G-F,6.0,Rebounds
-72,Shai Gilgeous-Alexander,OKC - G,5.5,Rebounds
-73,Larry Nance Jr.,NOP - F,5.5,Rebounds
-74,Bam Adebayo,MIA - C-F,9.5,Rebounds
-75,Derrick White,BOS - G,3.5,Rebounds
-76,Caleb Martin,MIA - F,4.0,Rebounds
-77,Jaylen Brown,BOS - G-F,6.5,Rebounds
-78,Jayson Tatum,BOS - F-G,9.0,Rebounds
-79,Tyler Herro,MIA - G,5.0,Rebounds
-80,Jrue Holiday,BOS - G,5.0,Rebounds
-81,Kristaps Porzingis,BOS - F-C,7.5,Rebounds
-82,Haywood Highsmith,MIA - F,3.5,Rebounds
-83,Al Horford,BOS - C-F,5.5,Rebounds
-84,Payton Pritchard,BOS - G,2.5,Rebounds
-85,Delon Wright,MIA - G,2.5,Rebounds
-86,Anthony Davis,LAL - F-C,13.5,Rebounds
-87,Nikola Jokic,DEN - C,13.0,Rebounds
-88,LeBron James,LAL - F,8.0,Rebounds
-89,Jamal Murray,DEN - G,4.5,Rebounds
-90,Austin Reaves,LAL - G,4.5,Rebounds
-91,Michael Porter Jr.,DEN - F,7.5,Rebounds
-92,Aaron Gordon,DEN - F,7.0,Rebounds
-93,Rui Hachimura,LAL - F,4.0,Rebounds
-94,Taurean Prince,LAL - F,2.5,Rebounds
-95,Brandon Ingram,NOP - F,37.0,Fantasy Score
-96,Chet Holmgren,OKC - C-F,38.0,Fantasy Score
-97,CJ McCollum,NOP - G,37.0,Fantasy Score
-98,Jalen Williams,OKC - G-F,35.5,Fantasy Score
-99,Herbert Jones,NOP - G-F,24.0,Fantasy Score
-100,Josh Giddey,OKC - G,23.0,Fantasy Score
-101,Jonas Valanciunas,NOP - C,31.5,Fantasy Score
-102,Luguentz Dort,OKC - G,19.5,Fantasy Score
-103,Trey Murphy III,NOP - G-F,32.0,Fantasy Score
-104,Shai Gilgeous-Alexander,OKC - G,47.5,Fantasy Score
-105,Bam Adebayo,MIA - C-F,39.0,Fantasy Score
-106,Derrick White,BOS - G,27.5,Fantasy Score
-107,Caleb Martin,MIA - F,20.5,Fantasy Score
-108,Jaylen Brown,BOS - G-F,35.5,Fantasy Score
-109,Nikola Jovic,MIA - F,19.5,Fantasy Score
-110,Jayson Tatum,BOS - F-G,46.5,Fantasy Score
-111,Tyler Herro,MIA - G,35.5,Fantasy Score
-112,Jrue Holiday,BOS - G,27.0,Fantasy Score
-113,Jaime Jaquez Jr.,MIA - F-G,27.0,Fantasy Score
-114,Kristaps Porzingis,BOS - F-C,35.0,Fantasy Score
-115,Anthony Davis,LAL - F-C,53.5,Fantasy Score
-116,Nikola Jokic,DEN - C,59.0,Fantasy Score
-117,LeBron James,LAL - F,51.5,Fantasy Score
-118,Jamal Murray,DEN - G,43.0,Fantasy Score
-119,Austin Reaves,LAL - G,29.0,Fantasy Score
-120,Michael Porter Jr.,DEN - F,31.0,Fantasy Score
-121,D'Angelo Russell,LAL - G,26.0,Fantasy Score
-122,Aaron Gordon,DEN - F,31.0,Fantasy Score
-123,Rui Hachimura,LAL - F,20.0,Fantasy Score
-124,Kentavious Caldwell-Pope,DEN - G,19.5,Fantasy Score
-125,Brandon Ingram,NOP - F,5.0,Assists
-126,CJ McCollum,NOP - G,5.0,Assists
-127,Jalen Williams,OKC - G-F,4.5,Assists
-128,Trey Murphy III,NOP - G-F,2.5,Assists
-129,Shai Gilgeous-Alexander,OKC - G,5.0,Assists
-130,Bam Adebayo,MIA - C-F,3.5,Assists
-131,Jaylen Brown,BOS - G-F,2.5,Assists
-132,Jayson Tatum,BOS - F-G,5.0,Assists
-133,Tyler Herro,MIA - G,6.0,Assists
-134,Delon Wright,MIA - G,2.5,Assists
-135,Nikola Jokic,DEN - C,9.0,Assists
-136,LeBron James,LAL - F,9.0,Assists
-137,Jamal Murray,DEN - G,7.0,Assists
-138,D'Angelo Russell,LAL - G,4.5,Assists
-139,Luguentz Dort,OKC - G,1.5,3-PT Made
-140,Caleb Martin,MIA - F,1.5,3-PT Made
-141,Jrue Holiday,BOS - G,1.5,3-PT Made
-142,Duncan Robinson,MIA - F,1.5,3-PT Made
-143,Jamal Murray,DEN - G,2.5,3-PT Made
-144,Aaron Gordon,DEN - F,0.5,3-PT Made
-145,Kentavious Caldwell-Pope,DEN - G,1.5,3-PT Made
-146,Brandon Ingram,NOP - F,4.5,Defensive Rebounds
-147,Chet Holmgren,OKC - C-F,7.5,Defensive Rebounds
-148,Jonas Valanciunas,NOP - C,8.0,Defensive Rebounds
-149,Bam Adebayo,MIA - C-F,7.5,Defensive Rebounds
-150,Jayson Tatum,BOS - F-G,7.5,Defensive Rebounds
-151,Kristaps Porzingis,BOS - F-C,5.5,Defensive Rebounds
-152,Al Horford,BOS - C-F,4.5,Defensive Rebounds
-153,Anthony Davis,LAL - F-C,10.0,Defensive Rebounds
-154,Nikola Jokic,DEN - C,10.0,Defensive Rebounds
-155,CJ McCollum,NOP - G,0.5,Offensive Rebounds
-156,Jalen Williams,OKC - G-F,0.5,Offensive Rebounds
-157,Jonas Valanciunas,NOP - C,3.0,Offensive Rebounds
-158,Larry Nance Jr.,NOP - F,1.5,Offensive Rebounds
-159,Derrick White,BOS - G,0.5,Offensive Rebounds
-160,Nikola Jovic,MIA - F,0.5,Offensive Rebounds
-161,Anthony Davis,LAL - F-C,3.5,Offensive Rebounds
-162,Nikola Jokic,DEN - C,3.0,Offensive Rebounds
-163,Jamal Murray,DEN - G,0.5,Offensive Rebounds
-164,Austin Reaves,LAL - G,0.5,Offensive Rebounds
-165,Chet Holmgren,OKC - C-F,4.5,3-PT Attempted
-166,CJ McCollum,NOP - G,7.5,3-PT Attempted
-167,Luguentz Dort,OKC - G,4.5,3-PT Attempted
-168,Derrick White,BOS - G,6.0,3-PT Attempted
-169,Jaylen Brown,BOS - G-F,6.5,3-PT Attempted
-170,Jayson Tatum,BOS - F-G,7.5,3-PT Attempted
-171,Tyler Herro,MIA - G,8.5,3-PT Attempted
-172,Kristaps Porzingis,BOS - F-C,4.5,3-PT Attempted
-173,Anthony Davis,LAL - F-C,1.5,3-PT Attempted
-174,Jamal Murray,DEN - G,7.0,3-PT Attempted
-175,Michael Porter Jr.,DEN - F,7.5,3-PT Attempted
-176,D'Angelo Russell,LAL - G,7.5,3-PT Attempted
-177,Shai Gilgeous-Alexander + CJ McCollum,OKC/NOP - G,50.5,Points (Combo)
-178,Jalen Williams + Brandon Ingram,OKC/NOP - F,40.5,Points (Combo)
-179,Jayson Tatum + Tyler Herro,BOS/MIA - F/G,47.5,Points (Combo)
-180,Jaylen Brown + Bam Adebayo,BOS/MIA - G/C,41.5,Points (Combo)
-181,Nikola Jokic + LeBron James,DEN/LAL - C/F,53.5,Points (Combo)
-182,Jamal Murray + Anthony Davis,DEN/LAL - G/F-C,50.5,Points (Combo)
-183,Jayson Tatum + Shai Gilgeous-Alexander,BOS/OKC - F/G,55.5,Points (Combo)
-184,Jaylen Brown + Jalen Williams,BOS/OKC - G/F,41.5,Points (Combo)
-185,Tyler Herro + CJ McCollum,MIA/NOP - G,42.5,Points (Combo)
-186,Bam Adebayo + Brandon Ingram,MIA/NOP - C/F,39.5,Points (Combo)
-187,LeBron James + Jayson Tatum,LAL/BOS - F/F-G,53.5,Points (Combo)
-188,Anthony Davis + Jaylen Brown,LAL/BOS - C/F,48.5,Points (Combo)
-189,Shai Gilgeous-Alexander + CJ McCollum,OKC/NOP - G,10.0,Assists (Combo)
-190,Nikola Jokic + LeBron James,DEN/LAL - C/F,18.0,Assists (Combo)
-191,Chet Holmgren + Jonas Valanciunas,OKC/NOP - F/C,20.5,Rebounds (Combo)
-192,Jayson Tatum + Bam Adebayo,BOS/MIA - F/C,18.5,Rebounds (Combo)
-193,Nikola Jokic + Anthony Davis,DEN/LAL - C/F-C,26.0,Rebounds (Combo)
-194,Jayson Tatum + Chet Holmgren,BOS/OKC - F,18.0,Rebounds (Combo)
-195,Bam Adebayo + Jonas Valanciunas,MIA/NOP - C,20.5,Rebounds (Combo)
-196,Anthony Davis + Jayson Tatum,LAL/BOS - C/F,22.0,Rebounds (Combo)
-197,Jayson Tatum + Tyler Herro,BOS/MIA - F/G,6.5,3-PT Made (Combo)
-198,Jamal Murray + D'Angelo Russell,DEN/LAL - G,5.5,3-PT Made (Combo)
-199,Jayson Tatum + CJ McCollum,BOS/NOP - F/G,6.0,3-PT Made (Combo)
-200,Brandon Ingram,NOP - F,4.0,Free Throws Made
-201,Chet Holmgren,OKC - C-F,2.5,Free Throws Made
-202,Herbert Jones,NOP - G-F,1.5,Free Throws Made
-203,Shai Gilgeous-Alexander,OKC - G,6.5,Free Throws Made
-204,Bam Adebayo,MIA - C-F,3.5,Free Throws Made
-205,Jaylen Brown,BOS - G-F,2.5,Free Throws Made
-206,Nikola Jovic,MIA - F,0.5,Free Throws Made
-207,Jayson Tatum,BOS - F-G,6.0,Free Throws Made
-208,Tyler Herro,MIA - G,2.5,Free Throws Made
-209,Jrue Holiday,BOS - G,0.5,Free Throws Made
-210,Anthony Davis,LAL - F-C,5.5,Free Throws Made
-211,Nikola Jokic,DEN - C,4.5,Free Throws Made
-212,LeBron James,LAL - F,4.5,Free Throws Made
-213,Jamal Murray,DEN - G,2.5,Free Throws Made
-214,Rui Hachimura,LAL - F,1.5,Free Throws Made
-215,Brandon Ingram,NOP - F,16.0,FG Attempted
-216,Chet Holmgren,OKC - C-F,12.5,FG Attempted
-217,CJ McCollum,NOP - G,18.0,FG Attempted
-218,Jalen Williams,OKC - G-F,15.5,FG Attempted
-219,Shai Gilgeous-Alexander,OKC - G,20.5,FG Attempted
-220,Bam Adebayo,MIA - C-F,15.0,FG Attempted
-221,Jaylen Brown,BOS - G-F,17.0,FG Attempted
-222,Jayson Tatum,BOS - F-G,18.5,FG Attempted
-223,Tyler Herro,MIA - G,17.0,FG Attempted
-224,Jaime Jaquez Jr.,MIA - F-G,12.5,FG Attempted
-225,Anthony Davis,LAL - F-C,19.0,FG Attempted
-226,Nikola Jokic,DEN - C,18.5,FG Attempted
-227,LeBron James,LAL - F,19.0,FG Attempted
-228,Jamal Murray,DEN - G,20.5,FG Attempted
-229,Austin Reaves,LAL - G,12.0,FG Attempted
-230,Michael Porter Jr.,DEN - F,15.0,FG Attempted
-231,D'Angelo Russell,LAL - G,12.5,FG Attempted
-232,Brandon Ingram,NOP - F,26.5,Pts+Rebs
-233,Chet Holmgren,OKC - C-F,26.5,Pts+Rebs
-234,CJ McCollum,NOP - G,26.5,Pts+Rebs
-235,Jalen Williams,OKC - G-F,25.5,Pts+Rebs
-236,Herbert Jones,NOP - G-F,14.5,Pts+Rebs
-237,Jonas Valanciunas,NOP - C,24.5,Pts+Rebs
-238,Luguentz Dort,OKC - G,12.5,Pts+Rebs
-239,Trey Murphy III,NOP - G-F,22.5,Pts+Rebs
-240,Shai Gilgeous-Alexander,OKC - G,33.5,Pts+Rebs
-241,Larry Nance Jr.,NOP - F,11.5,Pts+Rebs
-242,Bam Adebayo,MIA - C-F,29.5,Pts+Rebs
-243,Derrick White,BOS - G,16.0,Pts+Rebs
-244,Caleb Martin,MIA - F,14.5,Pts+Rebs
-245,Jaylen Brown,BOS - G-F,28.5,Pts+Rebs
-246,Nikola Jovic,MIA - F,13.0,Pts+Rebs
-247,Jayson Tatum,BOS - F-G,35.5,Pts+Rebs
-248,Tyler Herro,MIA - G,26.5,Pts+Rebs
-249,Jrue Holiday,BOS - G,15.5,Pts+Rebs
-250,Kristaps Porzingis,BOS - F-C,24.0,Pts+Rebs
-251,Haywood Highsmith,MIA - F,10.5,Pts+Rebs
-252,Al Horford,BOS - C-F,12.5,Pts+Rebs
-253,Jaime Jaquez Jr.,MIA - F-G,19.5,Pts+Rebs
-254,Anthony Davis,LAL - F-C,40.5,Pts+Rebs
-255,Nikola Jokic,DEN - C,40.5,Pts+Rebs
-256,LeBron James,LAL - F,34.5,Pts+Rebs
-257,Jamal Murray,DEN - G,28.5,Pts+Rebs
-258,Austin Reaves,LAL - G,19.5,Pts+Rebs
-259,Michael Porter Jr.,DEN - F,24.5,Pts+Rebs
-260,D'Angelo Russell,LAL - G,17.5,Pts+Rebs
-261,Aaron Gordon,DEN - F,22.5,Pts+Rebs
-262,Rui Hachimura,LAL - F,14.5,Pts+Rebs
-263,Kentavious Caldwell-Pope,DEN - G,11.5,Pts+Rebs
-264,Chet Holmgren,OKC - C-F,1.5,Dunks
-265,Trey Murphy III,NOP - G-F,0.5,Dunks
-266,Jayson Tatum,BOS - F-G,1.0,Dunks
-267,Anthony Davis,LAL - F-C,2.5,Dunks
-268,Michael Porter Jr.,DEN - F,0.5,Dunks
-269,Brandon Ingram,NOP - F,26.5,Pts+Asts
-270,Chet Holmgren,OKC - C-F,18.5,Pts+Asts
-271,CJ McCollum,NOP - G,26.5,Pts+Asts
-272,Jalen Williams,OKC - G-F,24.5,Pts+Asts
-273,Herbert Jones,NOP - G-F,14.0,Pts+Asts
-274,Josh Giddey,OKC - G,13.5,Pts+Asts
-275,Jonas Valanciunas,NOP - C,15.5,Pts+Asts
-276,Luguentz Dort,OKC - G,10.5,Pts+Asts
-277,Trey Murphy III,NOP - G-F,19.5,Pts+Asts
-278,Shai Gilgeous-Alexander,OKC - G,33.5,Pts+Asts
-279,Bam Adebayo,MIA - C-F,23.5,Pts+Asts
-280,Derrick White,BOS - G,16.5,Pts+Asts
-281,Caleb Martin,MIA - F,12.5,Pts+Asts
-282,Jaylen Brown,BOS - G-F,24.5,Pts+Asts
-283,Jayson Tatum,BOS - F-G,32.5,Pts+Asts
-284,Tyler Herro,MIA - G,27.5,Pts+Asts
-285,Jrue Holiday,BOS - G,14.0,Pts+Asts
-286,Kristaps Porzingis,BOS - F-C,18.5,Pts+Asts
-287,Jaime Jaquez Jr.,MIA - F-G,18.5,Pts+Asts
-288,Anthony Davis,LAL - F-C,29.5,Pts+Asts
-289,Nikola Jokic,DEN - C,36.5,Pts+Asts
-290,LeBron James,LAL - F,35.5,Pts+Asts
-291,Jamal Murray,DEN - G,31.0,Pts+Asts
-292,Austin Reaves,LAL - G,19.5,Pts+Asts
-293,Michael Porter Jr.,DEN - F,19.5,Pts+Asts
-294,D'Angelo Russell,LAL - G,19.5,Pts+Asts
-295,Aaron Gordon,DEN - F,19.0,Pts+Asts
-296,Rui Hachimura,LAL - F,11.5,Pts+Asts
-297,Kentavious Caldwell-Pope,DEN - G,11.5,Pts+Asts
-298,Jalen Williams,OKC - G-F,0.5,Blocked Shots
-299,Herbert Jones,NOP - G-F,0.5,Blocked Shots
-300,Jonas Valanciunas,NOP - C,0.5,Blocked Shots
-301,Shai Gilgeous-Alexander,OKC - G,0.5,Blocked Shots
-302,Jayson Tatum,BOS - F-G,0.5,Blocked Shots
-303,Al Horford,BOS - C-F,0.5,Blocked Shots
-304,LeBron James,LAL - F,0.5,Blocked Shots
-305,Jamal Murray,DEN - G,0.5,Blocked Shots
-306,Shai Gilgeous-Alexander,OKC - G,1.5,Steals
-307,Larry Nance Jr.,NOP - F,0.5,Steals
-308,Aaron Wiggins,OKC - G,0.5,Steals
-309,Jrue Holiday,BOS - G,1.5,Steals
-310,Al Horford,BOS - C-F,0.5,Steals
-311,Payton Pritchard,BOS - G,0.5,Steals
-312,LeBron James,LAL - F,1.5,Steals
-313,Rui Hachimura,LAL - F,0.5,Steals
-314,Kentavious Caldwell-Pope,DEN - G,1.5,Steals
-315,Brandon Ingram,NOP - F,11.0,Rebs+Asts
-316,Chet Holmgren,OKC - C-F,11.5,Rebs+Asts
-317,CJ McCollum,NOP - G,10.0,Rebs+Asts
-318,Jalen Williams,OKC - G-F,9.5,Rebs+Asts
-319,Jonas Valanciunas,NOP - C,13.5,Rebs+Asts
-320,Trey Murphy III,NOP - G-F,8.5,Rebs+Asts
-321,Larry Nance Jr.,NOP - F,7.5,Rebs+Asts
-322,Bam Adebayo,MIA - C-F,13.5,Rebs+Asts
-323,Derrick White,BOS - G,8.0,Rebs+Asts
-324,Jaylen Brown,BOS - G-F,9.5,Rebs+Asts
-325,Nikola Jovic,MIA - F,7.5,Rebs+Asts
-326,Jayson Tatum,BOS - F-G,14.0,Rebs+Asts
-327,Tyler Herro,MIA - G,11.5,Rebs+Asts
-328,Kristaps Porzingis,BOS - F-C,9.5,Rebs+Asts
-329,Al Horford,BOS - C-F,7.5,Rebs+Asts
-330,Jaime Jaquez Jr.,MIA - F-G,7.5,Rebs+Asts
-331,Anthony Davis,LAL - F-C,16.5,Rebs+Asts
-332,Nikola Jokic,DEN - C,22.0,Rebs+Asts
-333,LeBron James,LAL - F,16.5,Rebs+Asts
-334,Jamal Murray,DEN - G,11.5,Rebs+Asts
-335,Austin Reaves,LAL - G,8.5,Rebs+Asts
-336,Michael Porter Jr.,DEN - F,9.0,Rebs+Asts
-337,D'Angelo Russell,LAL - G,7.5,Rebs+Asts
-338,Aaron Gordon,DEN - F,11.5,Rebs+Asts
-339,Brandon Ingram,NOP - F,1.5,Blks+Stls
-340,CJ McCollum,NOP - G,1.5,Blks+Stls
-341,Isaiah Joe,OKC - G,0.5,Blks+Stls
-342,Payton Pritchard,BOS - G,0.5,Blks+Stls
-343,Delon Wright,MIA - G,1.5,Blks+Stls
-344,Sam Hauser,BOS - F,0.5,Blks+Stls
-345,Jalen Williams,OKC - G-F,2.5,Turnovers
-346,Jose Alvarado,NOP - G,0.5,Turnovers
-347,Naji Marshall,NOP - F,0.5,Turnovers
-348,Isaiah Joe,OKC - G,0.5,Turnovers
-349,Jaylen Brown,BOS - G-F,2.5,Turnovers
-350,Jrue Holiday,BOS - G,1.5,Turnovers
-351,Kristaps Porzingis,BOS - F-C,1.5,Turnovers
-352,Haywood Highsmith,MIA - F,0.5,Turnovers
-353,Al Horford,BOS - C-F,0.5,Turnovers
-354,Payton Pritchard,BOS - G,0.5,Turnovers
-355,Jamal Murray,DEN - G,2.5,Turnovers
-356,Austin Reaves,LAL - G,1.5,Turnovers
-357,Rui Hachimura,LAL - F,0.5,Turnovers
-358,Taurean Prince,LAL - F,0.5,Turnovers
+11,LeBron James,LAL - F,0.5,Blocked Shots
+12,Nikola Jovic,MIA - F,8.0,Points
+13,Nikola Jokic,DEN - C,13.0,Rebounds
+14,Bam Adebayo,MIA - C-F,19.0,Points
+15,Derrick White,BOS - G,12.5,Points
+17,Bam Adebayo,MIA - C-F,19.0,Points
+18,Derrick White,BOS - G,12.5,Points
+19,Caleb Martin,MIA - F,10.5,Points
+20,Jaylen Brown,BOS - G-F,21.5,Points
+21,Nikola Jovic,MIA - F,8.0,Points
+22,Jayson Tatum,BOS - F-G,26.5,Points
+23,Tyler Herro,MIA - G,21.5,Points
+24,Jrue Holiday,BOS - G,10.0,Points
+25,Duncan Robinson,MIA - F,7.5,Points
+26,Kristaps Porzingis,BOS - F-C,16.5,Points
+27,Haywood Highsmith,MIA - F,6.5,Points
+28,Al Horford,BOS - C-F,6.5,Points
+29,Jaime Jaquez Jr.,MIA - F-G,14.5,Points
+30,Anthony Davis,LAL - F-C,26.5,Points
+31,Nikola Jokic,DEN - C,27.5,Points
+32,LeBron James,LAL - F,26.5,Points
+33,Jamal Murray,DEN - G,24.5,Points
+34,Austin Reaves,LAL - G,14.5,Points
+35,Michael Porter Jr.,DEN - F,17.5,Points
+36,D'Angelo Russell,LAL - G,14.5,Points
+37,Aaron Gordon,DEN - F,14.5,Points
+38,Rui Hachimura,LAL - F,9.5,Points
+39,Kentavious Caldwell-Pope,DEN - G,9.5,Points
+40,Taurean Prince,LAL - F,6.0,Points
+41,Austin Reaves,LAL - G,"24.0
+19.5",Pts+Rebs+Asts
+42,Bam Adebayo,MIA - C-F,33.5,Pts+Rebs+Asts
+43,Derrick White,BOS - G,20.5,Pts+Rebs+Asts
+44,Jaylen Brown,BOS - G-F,31.5,Pts+Rebs+Asts
+45,Tyler Herro,MIA - G,33.5,Pts+Rebs+Asts
+46,Jaime Jaquez Jr.,MIA - F-G,22.5,Pts+Rebs+Asts
+47,Anthony Davis,LAL - F-C,43.5,Pts+Rebs+Asts
+48,Nikola Jokic,DEN - C,49.5,Pts+Rebs+Asts
+49,LeBron James,LAL - F,43.5,Pts+Rebs+Asts
+50,Jamal Murray,DEN - G,36.5,Pts+Rebs+Asts
+51,Austin Reaves,LAL - G,24.0,Pts+Rebs+Asts
+52,Michael Porter Jr.,DEN - F,26.5,Pts+Rebs+Asts
+53,Aaron Gordon,DEN - F,26.5,Pts+Rebs+Asts
+54,Bam Adebayo,MIA - C-F,10.0,Rebounds
+55,Caleb Martin,MIA - F,4.5,Rebounds
+56,Jaylen Brown,BOS - G-F,6.5,Rebounds
+57,Jayson Tatum,BOS - F-G,9.0,Rebounds
+58,Tyler Herro,MIA - G,5.5,Rebounds
+59,Jrue Holiday,BOS - G,5.0,Rebounds
+60,Kevin Love,MIA - F-C,4.0,Rebounds
+61,Kristaps Porzingis,BOS - F-C,7.5,Rebounds
+62,Al Horford,BOS - C-F,5.5,Rebounds
+63,Payton Pritchard,BOS - G,2.5,Rebounds
+64,Anthony Davis,LAL - F-C,13.5,Rebounds
+65,Nikola Jokic,DEN - C,13.0,Rebounds
+66,LeBron James,LAL - F,8.0,Rebounds
+67,Jamal Murray,DEN - G,4.5,Rebounds
+68,Austin Reaves,LAL - G,4.5,Rebounds
+69,Michael Porter Jr.,DEN - F,7.5,Rebounds
+70,Aaron Gordon,DEN - F,7.0,Rebounds
+71,Rui Hachimura,LAL - F,4.0,Rebounds
+72,Taurean Prince,LAL - F,2.5,Rebounds
+73,Bam Adebayo,MIA - C-F,39.0,Fantasy Score
+74,Derrick White,BOS - G,27.5,Fantasy Score
+75,Caleb Martin,MIA - F,20.5,Fantasy Score
+76,Jaylen Brown,BOS - G-F,35.5,Fantasy Score
+77,Nikola Jovic,MIA - F,19.5,Fantasy Score
+78,Jayson Tatum,BOS - F-G,46.5,Fantasy Score
+79,Tyler Herro,MIA - G,35.5,Fantasy Score
+80,Jrue Holiday,BOS - G,27.0,Fantasy Score
+81,Jaime Jaquez Jr.,MIA - F-G,27.0,Fantasy Score
+82,Kristaps Porzingis,BOS - F-C,35.0,Fantasy Score
+83,Anthony Davis,LAL - F-C,53.5,Fantasy Score
+84,Nikola Jokic,DEN - C,59.0,Fantasy Score
+85,LeBron James,LAL - F,52.5,Fantasy Score
+86,Jamal Murray,DEN - G,43.0,Fantasy Score
+87,Austin Reaves,LAL - G,29.0,Fantasy Score
+88,Michael Porter Jr.,DEN - F,31.0,Fantasy Score
+89,D'Angelo Russell,LAL - G,26.0,Fantasy Score
+90,Aaron Gordon,DEN - F,31.0,Fantasy Score
+91,Rui Hachimura,LAL - F,20.0,Fantasy Score
+92,Kentavious Caldwell-Pope,DEN - G,19.5,Fantasy Score
+93,Bam Adebayo,MIA - C-F,4.0,Assists
+94,Jaylen Brown,BOS - G-F,2.5,Assists
+95,Jayson Tatum,BOS - F-G,5.0,Assists
+96,Tyler Herro,MIA - G,6.0,Assists
+97,LeBron James,LAL - F,9.0,Assists
+98,Jamal Murray,DEN - G,7.0,Assists
+99,D'Angelo Russell,LAL - G,4.5,Assists
+100,Caleb Martin,MIA - F,1.5,3-PT Made
+101,Jrue Holiday,BOS - G,1.5,3-PT Made
+102,Jamal Murray,DEN - G,2.5,3-PT Made
+103,Aaron Gordon,DEN - F,0.5,3-PT Made
+104,Kentavious Caldwell-Pope,DEN - G,1.5,3-PT Made
+105,Bam Adebayo,MIA - C-F,7.5,Defensive Rebounds
+106,Jayson Tatum,BOS - F-G,7.5,Defensive Rebounds
+107,Kristaps Porzingis,BOS - F-C,5.5,Defensive Rebounds
+108,Al Horford,BOS - C-F,4.5,Defensive Rebounds
+109,Anthony Davis,LAL - F-C,10.0,Defensive Rebounds
+110,Nikola Jokic,DEN - C,10.0,Defensive Rebounds
+111,Derrick White,BOS - G,0.5,Offensive Rebounds
+112,Nikola Jovic,MIA - F,0.5,Offensive Rebounds
+113,Anthony Davis,LAL - F-C,3.5,Offensive Rebounds
+114,Nikola Jokic,DEN - C,3.0,Offensive Rebounds
+115,Jamal Murray,DEN - G,0.5,Offensive Rebounds
+116,Austin Reaves,LAL - G,0.5,Offensive Rebounds
+117,Derrick White,BOS - G,6.0,3-PT Attempted
+118,Jaylen Brown,BOS - G-F,6.5,3-PT Attempted
+119,Jayson Tatum,BOS - F-G,7.5,3-PT Attempted
+120,Tyler Herro,MIA - G,9.0,3-PT Attempted
+121,Kristaps Porzingis,BOS - F-C,4.5,3-PT Attempted
+122,Anthony Davis,LAL - F-C,1.5,3-PT Attempted
+123,Jamal Murray,DEN - G,7.0,3-PT Attempted
+124,Michael Porter Jr.,DEN - F,7.5,3-PT Attempted
+125,D'Angelo Russell,LAL - G,7.5,3-PT Attempted
+126,Jayson Tatum + Tyler Herro,BOS/MIA - F/G,48.5,Points (Combo)
+127,Jaylen Brown + Bam Adebayo,BOS/MIA - G/C,41.5,Points (Combo)
+128,Nikola Jokic + LeBron James,DEN/LAL - C/F,53.5,Points (Combo)
+129,Jamal Murray + Anthony Davis,DEN/LAL - G/F-C,50.5,Points (Combo)
+130,LeBron James + Jayson Tatum,LAL/BOS - F/F-G,53.5,Points (Combo)
+131,Anthony Davis + Jaylen Brown,LAL/BOS - C/F,48.5,Points (Combo)
+132,Nikola Jokic + LeBron James,DEN/LAL - C/F,18.0,Assists (Combo)
+133,Jayson Tatum + Bam Adebayo,BOS/MIA - F/C,19.0,Rebounds (Combo)
+134,Nikola Jokic + Anthony Davis,DEN/LAL - C/F-C,26.0,Rebounds (Combo)
+135,Anthony Davis + Jayson Tatum,LAL/BOS - C/F,22.0,Rebounds (Combo)
+136,Jayson Tatum + Tyler Herro,BOS/MIA - F/G,6.5,3-PT Made (Combo)
+137,Jamal Murray + D'Angelo Russell,DEN/LAL - G,5.5,3-PT Made (Combo)
+138,Bam Adebayo,MIA - C-F,3.5,Free Throws Made
+139,Jaylen Brown,BOS - G-F,2.5,Free Throws Made
+140,Nikola Jovic,MIA - F,0.5,Free Throws Made
+141,Jayson Tatum,BOS - F-G,6.0,Free Throws Made
+142,Tyler Herro,MIA - G,2.5,Free Throws Made
+143,Jrue Holiday,BOS - G,0.5,Free Throws Made
+144,Anthony Davis,LAL - F-C,5.5,Free Throws Made
+145,Nikola Jokic,DEN - C,4.5,Free Throws Made
+146,LeBron James,LAL - F,4.5,Free Throws Made
+147,Jamal Murray,DEN - G,2.5,Free Throws Made
+148,Rui Hachimura,LAL - F,1.5,Free Throws Made
+149,Bam Adebayo,MIA - C-F,15.0,FG Attempted
+150,Jaylen Brown,BOS - G-F,17.0,FG Attempted
+151,Jayson Tatum,BOS - F-G,18.5,FG Attempted
+152,Tyler Herro,MIA - G,17.0,FG Attempted
+153,Jaime Jaquez Jr.,MIA - F-G,13.0,FG Attempted
+154,Anthony Davis,LAL - F-C,19.0,FG Attempted
+155,Nikola Jokic,DEN - C,18.5,FG Attempted
+156,LeBron James,LAL - F,19.0,FG Attempted
+157,Jamal Murray,DEN - G,20.5,FG Attempted
+158,Austin Reaves,LAL - G,12.0,FG Attempted
+159,Michael Porter Jr.,DEN - F,15.0,FG Attempted
+160,D'Angelo Russell,LAL - G,12.5,FG Attempted
+161,Bam Adebayo,MIA - C-F,29.5,Pts+Rebs
+162,Derrick White,BOS - G,16.0,Pts+Rebs
+163,Caleb Martin,MIA - F,14.5,Pts+Rebs
+164,Jaylen Brown,BOS - G-F,28.5,Pts+Rebs
+165,Nikola Jovic,MIA - F,13.5,Pts+Rebs
+166,Jayson Tatum,BOS - F-G,36.5,Pts+Rebs
+167,Tyler Herro,MIA - G,26.5,Pts+Rebs
+168,Jrue Holiday,BOS - G,15.5,Pts+Rebs
+169,Kristaps Porzingis,BOS - F-C,24.0,Pts+Rebs
+170,Haywood Highsmith,MIA - F,10.5,Pts+Rebs
+171,Al Horford,BOS - C-F,12.5,Pts+Rebs
+172,Jaime Jaquez Jr.,MIA - F-G,19.5,Pts+Rebs
+173,Anthony Davis,LAL - F-C,40.5,Pts+Rebs
+174,Nikola Jokic,DEN - C,40.5,Pts+Rebs
+175,LeBron James,LAL - F,34.5,Pts+Rebs
+176,Jamal Murray,DEN - G,28.5,Pts+Rebs
+177,Austin Reaves,LAL - G,19.5,Pts+Rebs
+178,Michael Porter Jr.,DEN - F,24.5,Pts+Rebs
+179,D'Angelo Russell,LAL - G,17.5,Pts+Rebs
+180,Aaron Gordon,DEN - F,22.5,Pts+Rebs
+181,Rui Hachimura,LAL - F,14.5,Pts+Rebs
+182,Kentavious Caldwell-Pope,DEN - G,11.5,Pts+Rebs
+183,Jayson Tatum,BOS - F-G,1.0,Dunks
+184,Anthony Davis,LAL - F-C,2.5,Dunks
+185,Michael Porter Jr.,DEN - F,0.5,Dunks
+186,Bam Adebayo,MIA - C-F,23.5,Pts+Asts
+187,Derrick White,BOS - G,16.5,Pts+Asts
+188,Caleb Martin,MIA - F,12.5,Pts+Asts
+189,Jaylen Brown,BOS - G-F,24.5,Pts+Asts
+190,Jayson Tatum,BOS - F-G,32.5,Pts+Asts
+191,Tyler Herro,MIA - G,27.5,Pts+Asts
+192,Jrue Holiday,BOS - G,14.0,Pts+Asts
+193,Kristaps Porzingis,BOS - F-C,18.5,Pts+Asts
+194,Jaime Jaquez Jr.,MIA - F-G,18.5,Pts+Asts
+195,Anthony Davis,LAL - F-C,29.5,Pts+Asts
+196,Nikola Jokic,DEN - C,36.5,Pts+Asts
+197,LeBron James,LAL - F,35.5,Pts+Asts
+198,Jamal Murray,DEN - G,31.0,Pts+Asts
+199,Austin Reaves,LAL - G,19.5,Pts+Asts
+200,Michael Porter Jr.,DEN - F,19.5,Pts+Asts
+201,D'Angelo Russell,LAL - G,19.5,Pts+Asts
+202,Aaron Gordon,DEN - F,19.0,Pts+Asts
+203,Rui Hachimura,LAL - F,11.5,Pts+Asts
+204,Kentavious Caldwell-Pope,DEN - G,11.5,Pts+Asts
+205,Jayson Tatum,BOS - F-G,0.5,Blocked Shots
+206,Al Horford,BOS - C-F,0.5,Blocked Shots
+207,LeBron James,LAL - F,0.5,Blocked Shots
+208,Jamal Murray,DEN - G,0.5,Blocked Shots
+209,Jrue Holiday,BOS - G,1.5,Steals
+210,Al Horford,BOS - C-F,0.5,Steals
+211,Payton Pritchard,BOS - G,0.5,Steals
+212,LeBron James,LAL - F,1.5,Steals
+213,Rui Hachimura,LAL - F,0.5,Steals
+214,Bam Adebayo,MIA - C-F,14.5,Rebs+Asts
+215,Derrick White,BOS - G,8.0,Rebs+Asts
+216,Jaylen Brown,BOS - G-F,9.0,Rebs+Asts
+217,Nikola Jovic,MIA - F,7.5,Rebs+Asts
+218,Jayson Tatum,BOS - F-G,14.0,Rebs+Asts
+219,Tyler Herro,MIA - G,11.5,Rebs+Asts
+220,Kristaps Porzingis,BOS - F-C,9.5,Rebs+Asts
+221,Al Horford,BOS - C-F,7.5,Rebs+Asts
+222,Jaime Jaquez Jr.,MIA - F-G,8.0,Rebs+Asts
+223,Anthony Davis,LAL - F-C,16.5,Rebs+Asts
+224,Nikola Jokic,DEN - C,22.0,Rebs+Asts
+225,LeBron James,LAL - F,16.5,Rebs+Asts
+226,Jamal Murray,DEN - G,11.5,Rebs+Asts
+227,Austin Reaves,LAL - G,8.5,Rebs+Asts
+228,Michael Porter Jr.,DEN - F,9.0,Rebs+Asts
+229,D'Angelo Russell,LAL - G,7.5,Rebs+Asts
+230,Aaron Gordon,DEN - F,11.5,Rebs+Asts
+231,Payton Pritchard,BOS - G,0.5,Blks+Stls
+232,Sam Hauser,BOS - F,0.5,Blks+Stls
+233,Jaylen Brown,BOS - G-F,2.5,Turnovers
+234,Kevin Love,MIA - F-C,0.5,Turnovers
+235,Kristaps Porzingis,BOS - F-C,1.5,Turnovers
+236,Al Horford,BOS - C-F,0.5,Turnovers
+237,Jamal Murray,DEN - G,2.5,Turnovers
+238,Austin Reaves,LAL - G,1.5,Turnovers
+239,Rui Hachimura,LAL - F,0.5,Turnovers
+240,Taurean Prince,LAL - F,0.5,Turnovers

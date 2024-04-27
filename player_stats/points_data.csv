@@ -3,15 +3,15 @@ Rank,Player,Team,Pos,Value
 2,Giannis Antetokounmpo,Milwaukee Bucks,SF,30.44
 3,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,30.06
 4,Jalen Brunson,New York Knicks,PG,28.71
-5,Kevin Durant,Phoenix Suns,SF,27.03
-6,Devin Booker,Phoenix Suns,SG,26.84
-7,Jayson Tatum,Boston Celtics,SF,26.82
+5,Kevin Durant,Phoenix Suns,SF,27.00
+6,Jayson Tatum,Boston Celtics,SF,26.82
+7,Devin Booker,Phoenix Suns,SG,26.79
 8,De'Aaron Fox,Sacramento Kings,PG,26.64
 9,Nikola Jokic,Denver Nuggets,C,26.44
 10,Stephen Curry,Golden State Warriors,PG,26.37
 11,Donovan Mitchell,Cleveland Cavaliers,SG,26.36
 12,Tyrese Maxey,Philadelphia 76ers,PG,26.05
-13,Anthony Edwards,Minnesota Timberwolves,SG,25.89
+13,Anthony Edwards,Minnesota Timberwolves,SG,26.01
 14,LeBron James,Los Angeles Lakers,SF,25.63
 15,Kyrie Irving,Dallas Mavericks,PG,25.61
 16,Anthony Davis,Los Angeles Lakers,PF,25.11
@@ -28,7 +28,7 @@ Rank,Player,Team,Pos,Value
 27,Paul George,Los Angeles Clippers,SF,22.36
 28,Kyle Kuzma,Washington Wizards,PF,22.19
 29,Pascal Siakam,Indiana Pacers,PF,22.01
-30,Karl-Anthony Towns,Minnesota Timberwolves,C,21.56
+30,Karl-Anthony Towns,Minnesota Timberwolves,C,21.51
 31,Victor Wembanyama,San Antonio Spurs,PF,21.44
 32,Jamal Murray,Denver Nuggets,SG,21.19
 33,Alperen Sengun,Houston Rockets,C,21.13
@@ -82,9 +82,9 @@ Rank,Player,Team,Pos,Value
 81,Deni Avdija,Washington Wizards,SF,14.69
 82,Bennedict Mathurin,Indiana Pacers,SG,14.60
 83,Tim Hardaway Jr.,Dallas Mavericks,SG,14.14
-84,Aaron Gordon,Denver Nuggets,PF,14.05
-85,Dennis Schroder,Brooklyn Nets,PG,14.03
-86,Rudy Gobert,Minnesota Timberwolves,C,14.01
+84,Rudy Gobert,Minnesota Timberwolves,C,14.08
+85,Aaron Gordon,Denver Nuggets,PF,14.05
+86,Dennis Schroder,Brooklyn Nets,PG,14.03
 87,Scoot Henderson,Portland Trail Blazers,PG,14.00
 88,Bobby Portis,Milwaukee Bucks,PF,13.84
 89,Caris LeVert,Cleveland Cavaliers,SG,13.80
@@ -95,7 +95,7 @@ Rank,Player,Team,Pos,Value
 94,Saddiq Bey,Atlanta Hawks,SF,13.70
 95,Cameron Johnson,Brooklyn Nets,PF,13.38
 96,Corey Kispert,Washington Wizards,SF,13.38
-97,Naz Reid,Minnesota Timberwolves,C,13.34
+97,Naz Reid,Minnesota Timberwolves,C,13.33
 98,Grayson Allen,Phoenix Suns,SG,13.26
 99,Andrew Wiggins,Golden State Warriors,SF,13.21
 100,Rui Hachimura,Los Angeles Lakers,PF,13.03

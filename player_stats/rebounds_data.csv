@@ -1,11 +1,11 @@
 Rank,Player,Team,Pos,Value
 1,Domantas Sabonis,Sacramento Kings,PF,13.64
-2,Rudy Gobert,Minnesota Timberwolves,C,12.91
+2,Rudy Gobert,Minnesota Timberwolves,C,12.92
 3,Anthony Davis,Los Angeles Lakers,PF,12.79
 4,Nikola Jokic,Denver Nuggets,C,12.48
 5,Jalen Duren,Detroit Pistons,C,11.62
 6,Giannis Antetokounmpo,Milwaukee Bucks,SF,11.52
-7,Jusuf Nurkic,Phoenix Suns,C,10.96
+7,Jusuf Nurkic,Phoenix Suns,C,10.91
 8,Clint Capela,Atlanta Hawks,C,10.72
 9,Jarrett Allen,Cleveland Cavaliers,C,10.71
 10,Victor Wembanyama,San Antonio Spurs,PF,10.63
@@ -19,7 +19,7 @@ Rank,Player,Team,Pos,Value
 18,Andre Drummond,Chicago Bulls,C,8.84
 19,John Collins,Utah Jazz,PF,8.46
 20,Josh Hart,New York Knicks,SG,8.44
-21,Karl-Anthony Towns,Minnesota Timberwolves,C,8.28
+21,Karl-Anthony Towns,Minnesota Timberwolves,C,8.35
 22,Isaiah Hartenstein,New York Knicks,C,8.27
 23,Scottie Barnes,Toronto Raptors,SF,8.23
 24,Jayson Tatum,Boston Celtics,SF,8.14
@@ -42,9 +42,9 @@ Rank,Player,Team,Pos,Value
 40,Dereck Lively II,Dallas Mavericks,C,6.78
 42,Aaron Gordon,Denver Nuggets,PF,6.63
 43,Kyle Kuzma,Washington Wizards,PF,6.63
-44,Kevin Durant,Phoenix Suns,SF,6.60
-45,Amen Thompson,Houston Rockets,SG,6.60
-46,Tobias Harris,Philadelphia 76ers,SF,6.57
+44,Amen Thompson,Houston Rockets,SG,6.60
+45,Tobias Harris,Philadelphia 76ers,SF,6.57
+46,Kevin Durant,Phoenix Suns,SF,6.56
 47,Saddiq Bey,Atlanta Hawks,SF,6.52
 48,Precious Achiuwa,New York Knicks,PF,6.49
 49,Jeremy Sochan,San Antonio Spurs,PF,6.43
@@ -62,9 +62,9 @@ Rank,Player,Team,Pos,Value
 61,P.J. Washington,Dallas Mavericks,PF,5.64
 62,Jaylen Brown,Boston Celtics,SG,5.60
 63,Jaren Jackson Jr.,Memphis Grizzlies,PF,5.53
-64,Keegan Murray,Sacramento Kings,SF,5.52
-65,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,5.51
-66,Anthony Edwards,Minnesota Timberwolves,SG,5.48
+64,Anthony Edwards,Minnesota Timberwolves,SG,5.52
+65,Keegan Murray,Sacramento Kings,SF,5.52
+66,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,5.51
 67,Jalen Smith,Indiana Pacers,PF,5.48
 68,Keldon Johnson,San Antonio Spurs,SF,5.46
 69,RJ Barrett,Toronto Raptors,SF,5.43
@@ -78,8 +78,8 @@ Rank,Player,Team,Pos,Value
 77,Paul George,Los Angeles Clippers,SF,5.21
 78,Larry Nance Jr.,New Orleans Pelicans,SF,5.18
 79,Jalen Green,Houston Rockets,SG,5.16
-80,Naz Reid,Minnesota Timberwolves,C,5.14
-81,Brook Lopez,Milwaukee Bucks,C,5.10
+80,Brook Lopez,Milwaukee Bucks,C,5.10
+81,Naz Reid,Minnesota Timberwolves,C,5.10
 82,Donovan Mitchell,Cleveland Cavaliers,SG,5.09
 83,Brandon Ingram,New Orleans Pelicans,SF,5.06
 84,Russell Westbrook,Los Angeles Clippers,PG,5.06
@@ -92,7 +92,7 @@ Rank,Player,Team,Pos,Value
 91,Max Strus,Cleveland Cavaliers,PG,4.89
 92,Khris Middleton,Milwaukee Bucks,SF,4.86
 93,Jonathan Kuminga,Golden State Warriors,PF,4.83
-94,Royce O'Neale,Phoenix Suns,SF,4.75
+94,Royce O'Neale,Phoenix Suns,SF,4.76
 95,Dorian Finney-Smith,Brooklyn Nets,SF,4.66
 96,De'Aaron Fox,Sacramento Kings,PG,4.62
 97,Goga Bitadze,Orlando Magic,C,4.59

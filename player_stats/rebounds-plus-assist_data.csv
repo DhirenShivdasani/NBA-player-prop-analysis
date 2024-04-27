@@ -6,11 +6,11 @@ Rank,Player,Team,Pos,Value
 5,Anthony Davis,Los Angeles Lakers,PF,16.26
 6,LeBron James,Los Angeles Lakers,SF,15.64
 7,Tyrese Haliburton,Indiana Pacers,PG,14.96
-8,Jusuf Nurkic,Phoenix Suns,C,14.88
+8,Jusuf Nurkic,Phoenix Suns,C,14.80
 9,Victor Wembanyama,San Antonio Spurs,PF,14.49
 10,Alperen Sengun,Houston Rockets,C,14.30
 11,Scottie Barnes,Toronto Raptors,SF,14.28
-12,Rudy Gobert,Minnesota Timberwolves,C,14.27
+12,Rudy Gobert,Minnesota Timberwolves,C,14.28
 13,Bam Adebayo,Miami Heat,C,14.09
 14,Jalen Duren,Detroit Pistons,C,14.03
 15,Nikola Vucevic,Chicago Bulls,C,13.95
@@ -25,10 +25,10 @@ Rank,Player,Team,Pos,Value
 24,Cade Cunningham,Detroit Pistons,PG,11.81
 25,Dejounte Murray,Atlanta Hawks,PG,11.80
 26,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,11.66
-27,Kevin Durant,Phoenix Suns,SF,11.55
+27,Kevin Durant,Phoenix Suns,SF,11.51
 28,Pascal Siakam,Indiana Pacers,PF,11.47
-29,Devin Booker,Phoenix Suns,SG,11.36
-30,Karl-Anthony Towns,Minnesota Timberwolves,C,11.31
+29,Karl-Anthony Towns,Minnesota Timberwolves,C,11.37
+30,Devin Booker,Phoenix Suns,SG,11.35
 31,Damian Lillard,Milwaukee Bucks,PG,11.25
 32,Josh Giddey,Oklahoma City Thunder,SG,11.16
 33,Donovan Mitchell,Cleveland Cavaliers,SG,11.07
@@ -38,8 +38,8 @@ Rank,Player,Team,Pos,Value
 37,Kyle Kuzma,Washington Wizards,PF,10.86
 38,Isaiah Hartenstein,New York Knicks,C,10.78
 39,Jamal Murray,Denver Nuggets,SG,10.71
-40,Miles Bridges,Charlotte Hornets,SF,10.67
-41,Anthony Edwards,Minnesota Timberwolves,SG,10.65
+40,Anthony Edwards,Minnesota Timberwolves,SG,10.70
+41,Miles Bridges,Charlotte Hornets,SF,10.67
 42,Ivica Zubac,Los Angeles Clippers,C,10.65
 43,Brandon Ingram,New Orleans Pelicans,SF,10.63
 44,Chris Paul,Golden State Warriors,PG,10.53
@@ -83,7 +83,7 @@ Rank,Player,Team,Pos,Value
 82,Daniel Gafford,Dallas Mavericks,PF,8.87
 83,Nick Richards,Charlotte Hornets,C,8.85
 84,Max Strus,Cleveland Cavaliers,PG,8.85
-85,Mike Conley,Minnesota Timberwolves,PG,8.78
+85,Mike Conley,Minnesota Timberwolves,PG,8.81
 86,Paul George,Los Angeles Clippers,SF,8.77
 87,RJ Barrett,Toronto Raptors,SF,8.76
 88,Jalen Green,Houston Rockets,SG,8.71

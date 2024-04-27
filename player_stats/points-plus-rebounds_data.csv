@@ -5,19 +5,19 @@ Rank,Player,Team,Pos,Value
 4,Anthony Davis,Los Angeles Lakers,PF,37.90
 5,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,35.57
 6,Jayson Tatum,Boston Celtics,SF,34.96
-7,Kevin Durant,Phoenix Suns,SF,33.62
+7,Kevin Durant,Phoenix Suns,SF,33.56
 8,Domantas Sabonis,Sacramento Kings,PF,33.07
 9,LeBron James,Los Angeles Lakers,SF,32.97
 10,Jalen Brunson,New York Knicks,PG,32.40
 11,Victor Wembanyama,San Antonio Spurs,PF,32.07
-12,Donovan Mitchell,Cleveland Cavaliers,SG,31.45
-13,Anthony Edwards,Minnesota Timberwolves,SG,31.37
-14,Devin Booker,Phoenix Suns,SG,31.31
-15,De'Aaron Fox,Sacramento Kings,PG,31.26
+12,Anthony Edwards,Minnesota Timberwolves,SG,31.54
+13,Donovan Mitchell,Cleveland Cavaliers,SG,31.45
+14,De'Aaron Fox,Sacramento Kings,PG,31.26
+15,Devin Booker,Phoenix Suns,SG,31.24
 16,Stephen Curry,Golden State Warriors,PG,30.83
 17,Kyrie Irving,Dallas Mavericks,PG,30.64
 18,Alperen Sengun,Houston Rockets,C,30.48
-19,Karl-Anthony Towns,Minnesota Timberwolves,C,29.84
+19,Karl-Anthony Towns,Minnesota Timberwolves,C,29.86
 20,Tyrese Maxey,Philadelphia 76ers,PG,29.78
 21,Paolo Banchero,Orlando Magic,PF,29.61
 22,Kawhi Leonard,Los Angeles Clippers,SF,29.56
@@ -35,9 +35,9 @@ Rank,Player,Team,Pos,Value
 34,Dejounte Murray,Atlanta Hawks,PG,27.92
 35,Paul George,Los Angeles Clippers,SF,27.57
 36,Jarrett Allen,Cleveland Cavaliers,C,27.19
-37,Cade Cunningham,Detroit Pistons,PG,26.98
-38,Kristaps Porzingis,Boston Celtics,PF,26.95
-39,Rudy Gobert,Minnesota Timberwolves,C,26.92
+37,Rudy Gobert,Minnesota Timberwolves,C,27.00
+38,Cade Cunningham,Detroit Pistons,PG,26.98
+39,Kristaps Porzingis,Boston Celtics,PF,26.95
 40,Jimmy Butler,Miami Heat,PF,26.02
 41,Cam Thomas,Brooklyn Nets,SG,25.70
 42,RJ Barrett,Toronto Raptors,SF,25.60
@@ -62,8 +62,8 @@ Rank,Player,Team,Pos,Value
 61,Deni Avdija,Washington Wizards,SF,21.89
 61,James Harden,Los Angeles Clippers,SG,21.89
 63,Jabari Smith Jr.,Houston Rockets,PF,21.84
-64,Jusuf Nurkic,Phoenix Suns,C,21.83
-65,Nic Claxton,Brooklyn Nets,C,21.79
+64,Nic Claxton,Brooklyn Nets,C,21.79
+65,Jusuf Nurkic,Phoenix Suns,C,21.68
 66,Brandon Miller,Charlotte Hornets,SF,21.54
 67,Bobby Portis,Milwaukee Bucks,PF,21.45
 68,Collin Sexton,Utah Jazz,PG,21.32
@@ -92,7 +92,7 @@ Rank,Player,Team,Pos,Value
 91,Josh Giddey,Oklahoma City Thunder,SG,18.59
 92,Bennedict Mathurin,Indiana Pacers,SG,18.53
 93,P.J. Washington,Dallas Mavericks,PF,18.51
-94,Naz Reid,Minnesota Timberwolves,C,18.48
+94,Naz Reid,Minnesota Timberwolves,C,18.43
 95,Malik Monk,Sacramento Kings,SG,18.36
 96,Josh Hart,New York Knicks,SG,18.25
 97,Daniel Gafford,Dallas Mavericks,PF,18.08

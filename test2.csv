@@ -1,288 +1,334 @@
 ,Name,Team,Value,Prop
-0,Myles Turner,IND - C-F,31.5,Pts+Rebs+Asts
-1,Donovan Mitchell,CLE - G,24.5,Points
-2,Wendell Carter Jr.,ORL - C-F,0.5,Steals
-3,Tyrese Maxey,PHI - G,36.0,Pts+Rebs+Asts
-4,Josh Hart,NYK - G,12.0,Rebounds
-5,Jalen Brunson,NYK - G,33.5,Points
-6,Bobby Portis,MIL - F,36.5,Pts+Rebs+Asts
-7,Jarrett Allen,CLE - C,12.0,Rebounds
-8,Jalen Brunson,NYK - G,46.5,Pts+Rebs+Asts
-9,Paolo Banchero,ORL - F,21.5,Points
-10,Jalen Brunson,NYK - G,12.5,Rebs+Asts
+1,Myles Turner,IND - C-F,31.5,Pts+Rebs+Asts
+2,Jalen Brunson,NYK - G,13.0,Rebs+Asts
+3,Donovan Mitchell,CLE - G,24.5,Points
+4,Bobby Portis,MIL - F,36.5,Pts+Rebs+Asts
+5,Josh Hart,NYK - G,12.0,Rebounds
+6,Moritz Wagner,ORL - F-C,4.0,Rebounds
+7,Tyrese Maxey,PHI - G,36.0,Pts+Rebs+Asts
+8,Khris Middleton,MIL - F,6.5,Assists
+9,Jalen Brunson,NYK - G,33.5,Points
+10,Paolo Banchero,ORL - F,22.0,Points
 11,Joel Embiid,PHI - C-F,32.5,Points
-12,Donte DiVincenzo,NYK - G,12.5,Points
-13,Kelly Oubre Jr.,PHI - F-G,12.5,Points
-14,Moritz Wagner,ORL - F-C,4.0,Rebounds
-15,Evan Mobley,CLE - C,0.5,3-PT Made
+12,Jalen Brunson,NYK - G,46.5,Pts+Rebs+Asts
+13,Jarrett Allen,CLE - C,12.0,Rebounds
+14,Donte DiVincenzo,NYK - G,12.5,Points
+15,Kelly Oubre Jr.,PHI - F-G,12.5,Points
 16,Joel Embiid,PHI - C-F,48.0,Pts+Rebs+Asts
-18,Khris Middleton,MIL - F,6.5,Assists
-19,Donte DiVincenzo,NYK - G,18.5,Pts+Rebs+Asts
-21,Jalen Brunson,NYK - G,33.5,Points
-22,Joel Embiid,PHI - C-F,32.5,Points
-23,OG Anunoby,NYK - G-F,14.5,Points
-24,Tyrese Maxey,PHI - G,25.5,Points
-25,Josh Hart,NYK - G,14.5,Points
-26,Kelly Oubre Jr.,PHI - F-G,12.5,Points
-27,Donte DiVincenzo,NYK - G,12.5,Points
-28,Tobias Harris,PHI - F,10.5,Points
-29,Isaiah Hartenstein,NYK - C-F,8.5,Points
-30,Kyle Lowry,PHI - G,7.5,Points
-31,Miles McBride,NYK - G,8.5,Points
-32,Donovan Mitchell,CLE - G,24.5,Points
-33,Paolo Banchero,ORL - F,21.5,Points
-34,Jarrett Allen,CLE - C,16.5,Points
-35,Franz Wagner,ORL - F,19.5,Points
-36,Evan Mobley,CLE - C,15.5,Points
-37,Jalen Suggs,ORL - G,12.5,Points
-38,Darius Garland,CLE - G,15.0,Points
-39,Wendell Carter Jr.,ORL - C-F,7.5,Points
-40,Max Strus,CLE - G-F,8.5,Points
-41,Caris LeVert,CLE - G,8.5,Points
-42,Moritz Wagner,ORL - F-C,7.5,Points
-43,Jonathan Isaac,ORL - F,7.5,Points
-44,Bobby Portis,MIL - F,21.0,Points
-45,Pascal Siakam,IND - F,24.5,Points
-46,Brook Lopez,MIL - C,15.5,Points
-47,Myles Turner,IND - C-F,20.5,Points
-48,Khris Middleton,MIL - F,26.0,Points
-49,Tyrese Haliburton,IND - G,18.5,Points
-50,Patrick Beverley,MIL - G,9.0,Points
-51,Aaron Nesmith,IND - G-F,12.0,Points
-52,Malik Beasley,MIL - G,11.5,Points
-53,Andrew Nembhard,IND - G-F,11.0,Points
-54,Obi Toppin,IND - F,8.5,Points
-55,T.J. McConnell,IND - G,7.5,Points
-56,Jalen Brunson,NYK - G,46.5,Pts+Rebs+Asts
-57,Joel Embiid,PHI - C-F,48.0,Pts+Rebs+Asts
-58,OG Anunoby,NYK - G-F,22.5,Pts+Rebs+Asts
-59,Tyrese Maxey,PHI - G,36.0,Pts+Rebs+Asts
-60,Josh Hart,NYK - G,31.5,Pts+Rebs+Asts
-61,Kelly Oubre Jr.,PHI - F-G,18.5,Pts+Rebs+Asts
-62,Donte DiVincenzo,NYK - G,18.5,Pts+Rebs+Asts
-63,Tobias Harris,PHI - F,19.5,Pts+Rebs+Asts
-64,Isaiah Hartenstein,NYK - C-F,19.0,Pts+Rebs+Asts
-65,Donovan Mitchell,CLE - G,34.5,Pts+Rebs+Asts
-66,Paolo Banchero,ORL - F,34.0,Pts+Rebs+Asts
-67,Jarrett Allen,CLE - C,30.5,Pts+Rebs+Asts
-68,Franz Wagner,ORL - F,30.5,Pts+Rebs+Asts
-69,Evan Mobley,CLE - C,27.5,Pts+Rebs+Asts
-70,Jalen Suggs,ORL - G,20.5,Pts+Rebs+Asts
-71,Darius Garland,CLE - G,24.5,Pts+Rebs+Asts
-72,Max Strus,CLE - G-F,16.5,Pts+Rebs+Asts
-73,Bobby Portis,MIL - F,36.5,Pts+Rebs+Asts
-74,Pascal Siakam,IND - F,37.5,Pts+Rebs+Asts
-75,Brook Lopez,MIL - C,24.5,Pts+Rebs+Asts
-76,Myles Turner,IND - C-F,31.5,Pts+Rebs+Asts
-77,Khris Middleton,MIL - F,39.5,Pts+Rebs+Asts
-78,Tyrese Haliburton,IND - G,33.5,Pts+Rebs+Asts
-79,Patrick Beverley,MIL - G,19.5,Pts+Rebs+Asts
-80,Aaron Nesmith,IND - G-F,19.5,Pts+Rebs+Asts
-81,Malik Beasley,MIL - G,17.5,Pts+Rebs+Asts
-82,Andrew Nembhard,IND - G-F,18.5,Pts+Rebs+Asts
-83,Jalen Brunson,NYK - G,4.0,Rebounds
-84,Joel Embiid,PHI - C-F,10.0,Rebounds
-85,OG Anunoby,NYK - G-F,6.0,Rebounds
-86,Josh Hart,NYK - G,12.0,Rebounds
-87,Kelly Oubre Jr.,PHI - F-G,4.5,Rebounds
-88,Donte DiVincenzo,NYK - G,3.5,Rebounds
-89,Tobias Harris,PHI - F,7.0,Rebounds
-90,Isaiah Hartenstein,NYK - C-F,7.5,Rebounds
-91,Kyle Lowry,PHI - G,3.5,Rebounds
-92,Donovan Mitchell,CLE - G,4.5,Rebounds
-93,Jarrett Allen,CLE - C,12.0,Rebounds
-94,Evan Mobley,CLE - C,9.0,Rebounds
-95,Wendell Carter Jr.,ORL - C-F,5.5,Rebounds
-96,Max Strus,CLE - G-F,4.5,Rebounds
-97,Moritz Wagner,ORL - F-C,4.0,Rebounds
-98,Jonathan Isaac,ORL - F,5.0,Rebounds
-99,Bobby Portis,MIL - F,12.5,Rebounds
-100,Pascal Siakam,IND - F,9.5,Rebounds
-101,Brook Lopez,MIL - C,5.5,Rebounds
-102,Myles Turner,IND - C-F,8.5,Rebounds
-103,Tyrese Haliburton,IND - G,5.0,Rebounds
-104,Patrick Beverley,MIL - G,5.0,Rebounds
-105,Malik Beasley,MIL - G,3.5,Rebounds
-106,Obi Toppin,IND - F,4.0,Rebounds
-107,T.J. McConnell,IND - G,2.5,Rebounds
-108,Bobby Portis,MIL - F,41.0,Fantasy Score
-109,Pascal Siakam,IND - F,43.5,Fantasy Score
-110,Brook Lopez,MIL - C,31.5,Fantasy Score
-111,Myles Turner,IND - C-F,39.5,Fantasy Score
-112,Khris Middleton,MIL - F,43.5,Fantasy Score
-113,Tyrese Haliburton,IND - G,43.5,Fantasy Score
-114,Patrick Beverley,MIL - G,25.5,Fantasy Score
-115,Aaron Nesmith,IND - G-F,25.5,Fantasy Score
-116,Andrew Nembhard,IND - G-F,21.5,Fantasy Score
-117,Jalen Brunson,NYK - G,8.0,Assists
-118,Joel Embiid,PHI - C-F,5.0,Assists
-119,Tyrese Maxey,PHI - G,6.0,Assists
-120,Josh Hart,NYK - G,4.5,Assists
-121,Isaiah Hartenstein,NYK - C-F,2.5,Assists
-122,Donovan Mitchell,CLE - G,5.0,Assists
-123,Paolo Banchero,ORL - F,5.0,Assists
-124,Evan Mobley,CLE - C,2.5,Assists
-125,Jalen Suggs,ORL - G,3.5,Assists
-126,Darius Garland,CLE - G,6.0,Assists
-127,Khris Middleton,MIL - F,6.5,Assists
-128,Tyrese Haliburton,IND - G,10.5,Assists
-129,Patrick Beverley,MIL - G,4.5,Assists
-130,Jalen Brunson,NYK - G,2.5,3-PT Made
-131,OG Anunoby,NYK - G-F,1.5,3-PT Made
-132,Kelly Oubre Jr.,PHI - F-G,1.5,3-PT Made
-133,Donte DiVincenzo,NYK - G,2.5,3-PT Made
-134,Kyle Lowry,PHI - G,1.5,3-PT Made
-135,Paolo Banchero,ORL - F,1.5,3-PT Made
-136,Franz Wagner,ORL - F,1.5,3-PT Made
-137,Evan Mobley,CLE - C,0.5,3-PT Made
-138,Isaac Okoro,CLE - F-G,0.5,3-PT Made
-139,Malik Beasley,MIL - G,2.5,3-PT Made
-140,Pat Connaughton,MIL - G,0.5,3-PT Made
-141,Bobby Portis,MIL - F,10.5,Defensive Rebounds
-142,Pascal Siakam,IND - F,7.0,Defensive Rebounds
-143,Myles Turner,IND - C-F,7.0,Defensive Rebounds
-144,Khris Middleton,MIL - F,6.0,Defensive Rebounds
-145,Brook Lopez,MIL - C,1.5,Offensive Rebounds
-146,Myles Turner,IND - C-F,1.5,Offensive Rebounds
-147,Myles Turner,IND - C-F,7.0,3-PT Attempted
-148,Tyrese Haliburton,IND - G,7.5,3-PT Attempted
-149,Jalen Brunson + Joel Embiid,NYK/PHI - G/C,66.5,Points (Combo)
-150,Jalen Brunson + Tyrese Maxey,NYK/PHI - G,59.5,Points (Combo)
-151,Khris Middleton + Pascal Siakam,MIL/IND - F,49.5,Points (Combo)
-152,Jalen Brunson + Tyrese Maxey,NYK/PHI - G,14.0,Assists (Combo)
-153,Josh Hart + Joel Embiid,NYK/PHI - G/C-F,22.0,Rebounds (Combo)
-154,Jalen Brunson + Tyrese Maxey,NYK/PHI - G,5.5,3-PT Made (Combo)
-155,Bobby Portis,MIL - F,1.5,Free Throws Made
-156,Pascal Siakam,IND - F,3.5,Free Throws Made
-157,Myles Turner,IND - C-F,3.5,Free Throws Made
-158,Khris Middleton,MIL - F,3.5,Free Throws Made
-159,Bobby Portis,MIL - F,17.0,FG Attempted
-160,Pascal Siakam,IND - F,18.0,FG Attempted
-161,Myles Turner,IND - C-F,15.0,FG Attempted
-162,Khris Middleton,MIL - F,21.0,FG Attempted
-163,Tyrese Haliburton,IND - G,14.0,FG Attempted
-164,Jalen Brunson,NYK - G,38.5,Pts+Rebs
-165,Joel Embiid,PHI - C-F,42.5,Pts+Rebs
-166,OG Anunoby,NYK - G-F,20.5,Pts+Rebs
-167,Tyrese Maxey,PHI - G,30.0,Pts+Rebs
-168,Josh Hart,NYK - G,26.5,Pts+Rebs
-169,Kelly Oubre Jr.,PHI - F-G,17.0,Pts+Rebs
-170,Donte DiVincenzo,NYK - G,15.5,Pts+Rebs
-171,Tobias Harris,PHI - F,17.5,Pts+Rebs
-172,Isaiah Hartenstein,NYK - C-F,16.5,Pts+Rebs
-173,Kyle Lowry,PHI - G,11.5,Pts+Rebs
-174,Miles McBride,NYK - G,10.5,Pts+Rebs
-175,Donovan Mitchell,CLE - G,28.5,Pts+Rebs
-176,Paolo Banchero,ORL - F,28.5,Pts+Rebs
-177,Jarrett Allen,CLE - C,28.5,Pts+Rebs
-178,Franz Wagner,ORL - F,26.5,Pts+Rebs
-179,Evan Mobley,CLE - C,24.5,Pts+Rebs
-180,Jalen Suggs,ORL - G,16.5,Pts+Rebs
-181,Darius Garland,CLE - G,17.5,Pts+Rebs
-182,Wendell Carter Jr.,ORL - C-F,13.5,Pts+Rebs
-183,Max Strus,CLE - G-F,13.5,Pts+Rebs
-184,Caris LeVert,CLE - G,11.5,Pts+Rebs
-185,Moritz Wagner,ORL - F-C,12.5,Pts+Rebs
-186,Jonathan Isaac,ORL - F,12.5,Pts+Rebs
-187,Bobby Portis,MIL - F,33.5,Pts+Rebs
-188,Pascal Siakam,IND - F,33.5,Pts+Rebs
-189,Brook Lopez,MIL - C,21.5,Pts+Rebs
-190,Myles Turner,IND - C-F,29.5,Pts+Rebs
-191,Khris Middleton,MIL - F,33.5,Pts+Rebs
-192,Tyrese Haliburton,IND - G,23.5,Pts+Rebs
-193,Patrick Beverley,MIL - G,14.5,Pts+Rebs
-194,Aaron Nesmith,IND - G-F,17.5,Pts+Rebs
-195,Malik Beasley,MIL - G,15.5,Pts+Rebs
-196,Andrew Nembhard,IND - G-F,14.5,Pts+Rebs
-197,Obi Toppin,IND - F,12.5,Pts+Rebs
-198,T.J. McConnell,IND - G,10.5,Pts+Rebs
-199,Jalen Brunson,NYK - G,42.5,Pts+Asts
-200,Joel Embiid,PHI - C-F,37.5,Pts+Asts
-201,OG Anunoby,NYK - G-F,16.0,Pts+Asts
-202,Tyrese Maxey,PHI - G,31.5,Pts+Asts
-203,Josh Hart,NYK - G,19.5,Pts+Asts
-204,Kelly Oubre Jr.,PHI - F-G,13.5,Pts+Asts
-205,Donte DiVincenzo,NYK - G,14.5,Pts+Asts
-206,Tobias Harris,PHI - F,12.5,Pts+Asts
-207,Isaiah Hartenstein,NYK - C-F,11.5,Pts+Asts
-208,Kyle Lowry,PHI - G,11.0,Pts+Asts
-209,Miles McBride,NYK - G,10.5,Pts+Asts
-210,Donovan Mitchell,CLE - G,29.5,Pts+Asts
-211,Paolo Banchero,ORL - F,27.5,Pts+Asts
-212,Jarrett Allen,CLE - C,18.5,Pts+Asts
-213,Franz Wagner,ORL - F,23.5,Pts+Asts
-214,Evan Mobley,CLE - C,18.5,Pts+Asts
-215,Jalen Suggs,ORL - G,16.5,Pts+Asts
-216,Darius Garland,CLE - G,21.5,Pts+Asts
-217,Max Strus,CLE - G-F,12.5,Pts+Asts
-218,Caris LeVert,CLE - G,11.5,Pts+Asts
-219,Bobby Portis,MIL - F,23.5,Pts+Asts
-220,Pascal Siakam,IND - F,27.5,Pts+Asts
-221,Brook Lopez,MIL - C,18.5,Pts+Asts
-222,Myles Turner,IND - C-F,22.5,Pts+Asts
-223,Khris Middleton,MIL - F,32.5,Pts+Asts
-224,Tyrese Haliburton,IND - G,28.5,Pts+Asts
-225,Patrick Beverley,MIL - G,13.5,Pts+Asts
-226,Aaron Nesmith,IND - G-F,14.5,Pts+Asts
-227,Malik Beasley,MIL - G,13.5,Pts+Asts
-228,Andrew Nembhard,IND - G-F,14.5,Pts+Asts
-229,T.J. McConnell,IND - G,11.5,Pts+Asts
-230,Josh Hart,NYK - G,0.5,Blocked Shots
-231,Paolo Banchero,ORL - F,0.5,Blocked Shots
-232,Franz Wagner,ORL - F,0.5,Blocked Shots
-233,Jalen Suggs,ORL - G,0.5,Blocked Shots
-234,Bobby Portis,MIL - F,0.5,Blocked Shots
-235,Pascal Siakam,IND - F,0.5,Blocked Shots
-236,Tyrese Haliburton,IND - G,0.5,Blocked Shots
-237,Kelly Oubre Jr.,PHI - F-G,1.5,Steals
-238,Miles McBride,NYK - G,0.5,Steals
-239,Donovan Mitchell,CLE - G,1.5,Steals
-240,Jalen Suggs,ORL - G,1.5,Steals
-241,Wendell Carter Jr.,ORL - C-F,0.5,Steals
-242,Markelle Fultz,ORL - G,0.5,Steals
-243,Georges Niang,CLE - F,0.5,Steals
-244,Cole Anthony,ORL - G,0.5,Steals
-245,Moritz Wagner,ORL - F-C,0.5,Steals
-246,Pat Connaughton,MIL - G,0.5,Steals
-247,T.J. McConnell,IND - G,0.5,Steals
-248,Jalen Brunson,NYK - G,12.5,Rebs+Asts
-249,Joel Embiid,PHI - C-F,15.5,Rebs+Asts
-250,Tyrese Maxey,PHI - G,10.5,Rebs+Asts
-251,Josh Hart,NYK - G,16.5,Rebs+Asts
-252,Tobias Harris,PHI - F,9.0,Rebs+Asts
-253,Isaiah Hartenstein,NYK - C-F,10.5,Rebs+Asts
-254,Donovan Mitchell,CLE - G,9.5,Rebs+Asts
-255,Paolo Banchero,ORL - F,12.0,Rebs+Asts
-256,Jarrett Allen,CLE - C,14.5,Rebs+Asts
-257,Franz Wagner,ORL - F,10.5,Rebs+Asts
-258,Evan Mobley,CLE - C,11.5,Rebs+Asts
-259,Darius Garland,CLE - G,9.0,Rebs+Asts
-260,Max Strus,CLE - G-F,7.5,Rebs+Asts
-261,Bobby Portis,MIL - F,15.0,Rebs+Asts
-262,Pascal Siakam,IND - F,13.5,Rebs+Asts
-263,Brook Lopez,MIL - C,8.0,Rebs+Asts
-264,Myles Turner,IND - C-F,10.5,Rebs+Asts
-265,Khris Middleton,MIL - F,13.5,Rebs+Asts
-266,Tyrese Haliburton,IND - G,15.5,Rebs+Asts
-267,Patrick Beverley,MIL - G,9.5,Rebs+Asts
-268,Kelly Oubre Jr.,PHI - F-G,2.5,Blks+Stls
-269,Kyle Lowry,PHI - G,1.5,Blks+Stls
-270,Paolo Banchero,ORL - F,1.5,Blks+Stls
-271,Franz Wagner,ORL - F,1.5,Blks+Stls
-272,Jonathan Isaac,ORL - F,2.5,Blks+Stls
-273,Bobby Portis,MIL - F,1.5,Blks+Stls
-274,Pascal Siakam,IND - F,1.5,Blks+Stls
-275,Malik Beasley,MIL - G,0.5,Blks+Stls
-276,Ben Sheppard,IND - G,0.5,Blks+Stls
-277,Jalen Brunson,NYK - G,3.5,Turnovers
-278,OG Anunoby,NYK - G-F,1.5,Turnovers
-279,Tyrese Maxey,PHI - G,2.5,Turnovers
-280,Miles McBride,NYK - G,0.5,Turnovers
-281,Jarrett Allen,CLE - C,1.5,Turnovers
-282,Evan Mobley,CLE - C,1.5,Turnovers
-283,Georges Niang,CLE - F,0.5,Turnovers
-284,Jonathan Isaac,ORL - F,0.5,Turnovers
-285,Brook Lopez,MIL - C,1.5,Turnovers
-286,Khris Middleton,MIL - F,3.5,Turnovers
-287,Pat Connaughton,MIL - G,0.5,Turnovers
-288,Obi Toppin,IND - F,0.5,Turnovers
+17,Tyrese Maxey,PHI - G,25.5,Points
+19,Jalen Brunson,NYK - G,33.5,Points
+20,Joel Embiid,PHI - C-F,32.5,Points
+21,OG Anunoby,NYK - G-F,14.5,Points
+22,Tyrese Maxey,PHI - G,25.5,Points
+23,Josh Hart,NYK - G,14.5,Points
+24,Kelly Oubre Jr.,PHI - F-G,12.5,Points
+25,Donte DiVincenzo,NYK - G,12.5,Points
+26,Tobias Harris,PHI - F,10.5,Points
+27,Isaiah Hartenstein,NYK - C-F,8.5,Points
+28,Kyle Lowry,PHI - G,7.5,Points
+29,Miles McBride,NYK - G,8.5,Points
+30,Donovan Mitchell,CLE - G,24.5,Points
+31,Paolo Banchero,ORL - F,22.0,Points
+32,Franz Wagner,ORL - F,19.5,Points
+33,Evan Mobley,CLE - C,15.5,Points
+34,Jalen Suggs,ORL - G,12.5,Points
+35,Darius Garland,CLE - G,15.0,Points
+36,Wendell Carter Jr.,ORL - C-F,7.5,Points
+37,Max Strus,CLE - G-F,8.5,Points
+38,Caris LeVert,CLE - G,9.5,Points
+39,Moritz Wagner,ORL - F-C,7.5,Points
+40,Jonathan Isaac,ORL - F,7.0,Points
+41,Bobby Portis,MIL - F,21.0,Points
+42,Pascal Siakam,IND - F,24.5,Points
+43,Brook Lopez,MIL - C,15.5,Points
+44,Myles Turner,IND - C-F,20.5,Points
+45,Khris Middleton,MIL - F,26.0,Points
+46,Tyrese Haliburton,IND - G,18.5,Points
+47,Patrick Beverley,MIL - G,9.0,Points
+48,Aaron Nesmith,IND - G-F,12.0,Points
+49,Malik Beasley,MIL - G,11.5,Points
+50,Andrew Nembhard,IND - G-F,11.0,Points
+51,Obi Toppin,IND - F,8.5,Points
+52,T.J. McConnell,IND - G,8.5,Points
+53,Jalen Brunson,NYK - G,46.5,Pts+Rebs+Asts
+54,Joel Embiid,PHI - C-F,48.0,Pts+Rebs+Asts
+55,OG Anunoby,NYK - G-F,22.5,Pts+Rebs+Asts
+56,Tyrese Maxey,PHI - G,36.0,Pts+Rebs+Asts
+57,Josh Hart,NYK - G,31.5,Pts+Rebs+Asts
+58,Kelly Oubre Jr.,PHI - F-G,18.5,Pts+Rebs+Asts
+59,Donte DiVincenzo,NYK - G,18.5,Pts+Rebs+Asts
+60,Tobias Harris,PHI - F,19.5,Pts+Rebs+Asts
+61,Isaiah Hartenstein,NYK - C-F,19.0,Pts+Rebs+Asts
+62,Donovan Mitchell,CLE - G,34.5,Pts+Rebs+Asts
+63,Paolo Banchero,ORL - F,34.0,Pts+Rebs+Asts
+64,Jarrett Allen,CLE - C,30.5,Pts+Rebs+Asts
+65,Franz Wagner,ORL - F,30.5,Pts+Rebs+Asts
+66,Evan Mobley,CLE - C,27.5,Pts+Rebs+Asts
+67,Jalen Suggs,ORL - G,20.5,Pts+Rebs+Asts
+68,Darius Garland,CLE - G,24.5,Pts+Rebs+Asts
+69,Max Strus,CLE - G-F,16.5,Pts+Rebs+Asts
+70,Bobby Portis,MIL - F,36.5,Pts+Rebs+Asts
+71,Pascal Siakam,IND - F,37.5,Pts+Rebs+Asts
+72,Brook Lopez,MIL - C,24.5,Pts+Rebs+Asts
+73,Myles Turner,IND - C-F,31.5,Pts+Rebs+Asts
+74,Khris Middleton,MIL - F,39.5,Pts+Rebs+Asts
+75,Tyrese Haliburton,IND - G,33.5,Pts+Rebs+Asts
+76,Patrick Beverley,MIL - G,19.0,Pts+Rebs+Asts
+77,Aaron Nesmith,IND - G-F,19.5,Pts+Rebs+Asts
+78,Malik Beasley,MIL - G,17.5,Pts+Rebs+Asts
+79,Andrew Nembhard,IND - G-F,18.5,Pts+Rebs+Asts
+80,Jalen Brunson,NYK - G,4.0,Rebounds
+81,Joel Embiid,PHI - C-F,10.0,Rebounds
+82,OG Anunoby,NYK - G-F,6.5,Rebounds
+83,Josh Hart,NYK - G,12.0,Rebounds
+84,Kelly Oubre Jr.,PHI - F-G,4.5,Rebounds
+85,Donte DiVincenzo,NYK - G,3.5,Rebounds
+86,Tobias Harris,PHI - F,7.0,Rebounds
+87,Isaiah Hartenstein,NYK - C-F,7.5,Rebounds
+88,Kyle Lowry,PHI - G,3.5,Rebounds
+89,Donovan Mitchell,CLE - G,4.5,Rebounds
+90,Jarrett Allen,CLE - C,12.0,Rebounds
+91,Evan Mobley,CLE - C,9.0,Rebounds
+92,Wendell Carter Jr.,ORL - C-F,6.0,Rebounds
+93,Max Strus,CLE - G-F,4.5,Rebounds
+94,Moritz Wagner,ORL - F-C,4.0,Rebounds
+95,Bobby Portis,MIL - F,12.5,Rebounds
+96,Pascal Siakam,IND - F,9.5,Rebounds
+97,Brook Lopez,MIL - C,5.5,Rebounds
+98,Myles Turner,IND - C-F,9.0,Rebounds
+99,Tyrese Haliburton,IND - G,5.0,Rebounds
+100,Patrick Beverley,MIL - G,5.0,Rebounds
+101,Malik Beasley,MIL - G,3.5,Rebounds
+102,Obi Toppin,IND - F,4.0,Rebounds
+103,Andre Jackson Jr.,MIL - G,3.5,Rebounds
+104,Jalen Brunson,NYK - G,51.0,Fantasy Score
+105,Joel Embiid,PHI - C-F,56.5,Fantasy Score
+106,OG Anunoby,NYK - G-F,29.0,Fantasy Score
+107,Tyrese Maxey,PHI - G,40.5,Fantasy Score
+108,Josh Hart,NYK - G,39.0,Fantasy Score
+109,Kelly Oubre Jr.,PHI - F-G,25.5,Fantasy Score
+110,Donte DiVincenzo,NYK - G,23.5,Fantasy Score
+111,Tobias Harris,PHI - F,26.0,Fantasy Score
+112,Isaiah Hartenstein,NYK - C-F,27.0,Fantasy Score
+113,Donovan Mitchell,CLE - G,41.0,Fantasy Score
+114,Paolo Banchero,ORL - F,37.0,Fantasy Score
+115,Jarrett Allen,CLE - C,37.5,Fantasy Score
+116,Franz Wagner,ORL - F,35.5,Fantasy Score
+117,Evan Mobley,CLE - C,35.5,Fantasy Score
+118,Jalen Suggs,ORL - G,27.0,Fantasy Score
+119,Darius Garland,CLE - G,28.0,Fantasy Score
+120,Wendell Carter Jr.,ORL - C-F,18.5,Fantasy Score
+121,Max Strus,CLE - G-F,20.5,Fantasy Score
+122,Caris LeVert,CLE - G,20.5,Fantasy Score
+123,Bobby Portis,MIL - F,41.0,Fantasy Score
+124,Pascal Siakam,IND - F,43.5,Fantasy Score
+125,Brook Lopez,MIL - C,31.5,Fantasy Score
+126,Myles Turner,IND - C-F,39.5,Fantasy Score
+127,Khris Middleton,MIL - F,43.5,Fantasy Score
+128,Tyrese Haliburton,IND - G,43.5,Fantasy Score
+129,Patrick Beverley,MIL - G,25.5,Fantasy Score
+130,Aaron Nesmith,IND - G-F,25.5,Fantasy Score
+131,Andrew Nembhard,IND - G-F,21.5,Fantasy Score
+132,Jalen Brunson,NYK - G,8.0,Assists
+133,Joel Embiid,PHI - C-F,5.0,Assists
+134,Tyrese Maxey,PHI - G,6.0,Assists
+135,Josh Hart,NYK - G,4.5,Assists
+136,Isaiah Hartenstein,NYK - C-F,2.5,Assists
+137,Paolo Banchero,ORL - F,5.0,Assists
+138,Evan Mobley,CLE - C,2.5,Assists
+139,Darius Garland,CLE - G,6.0,Assists
+140,Khris Middleton,MIL - F,6.5,Assists
+141,Tyrese Haliburton,IND - G,10.5,Assists
+142,Patrick Beverley,MIL - G,4.5,Assists
+143,Jalen Brunson,NYK - G,2.5,3-PT Made
+144,OG Anunoby,NYK - G-F,1.5,3-PT Made
+145,Kelly Oubre Jr.,PHI - F-G,1.5,3-PT Made
+146,Donte DiVincenzo,NYK - G,2.5,3-PT Made
+147,Paolo Banchero,ORL - F,1.5,3-PT Made
+148,Franz Wagner,ORL - F,1.5,3-PT Made
+149,Isaac Okoro,CLE - F-G,0.5,3-PT Made
+150,Malik Beasley,MIL - G,2.5,3-PT Made
+151,Pat Connaughton,MIL - G,0.5,3-PT Made
+152,Jae Crowder,MIL - F,0.5,3-PT Made
+153,Joel Embiid,PHI - C-F,7.5,Defensive Rebounds
+154,Josh Hart,NYK - G,9.5,Defensive Rebounds
+155,Tobias Harris,PHI - F,5.5,Defensive Rebounds
+156,Jarrett Allen,CLE - C,8.5,Defensive Rebounds
+157,Evan Mobley,CLE - C,6.5,Defensive Rebounds
+158,Bobby Portis,MIL - F,10.5,Defensive Rebounds
+159,Pascal Siakam,IND - F,7.0,Defensive Rebounds
+160,Myles Turner,IND - C-F,7.0,Defensive Rebounds
+161,Khris Middleton,MIL - F,6.0,Defensive Rebounds
+162,Jalen Brunson,NYK - G,0.5,Offensive Rebounds
+163,Donte DiVincenzo,NYK - G,0.5,Offensive Rebounds
+164,Isaiah Hartenstein,NYK - C-F,3.0,Offensive Rebounds
+165,Jarrett Allen,CLE - C,3.5,Offensive Rebounds
+166,Evan Mobley,CLE - C,2.5,Offensive Rebounds
+167,Max Strus,CLE - G-F,0.5,Offensive Rebounds
+168,Caris LeVert,CLE - G,0.5,Offensive Rebounds
+169,Brook Lopez,MIL - C,1.5,Offensive Rebounds
+170,Myles Turner,IND - C-F,1.5,Offensive Rebounds
+171,Jalen Brunson,NYK - G,7.0,3-PT Attempted
+172,Tyrese Maxey,PHI - G,8.5,3-PT Attempted
+173,Josh Hart,NYK - G,4.5,3-PT Attempted
+174,Donte DiVincenzo,NYK - G,7.0,3-PT Attempted
+175,Paolo Banchero,ORL - F,5.5,3-PT Attempted
+176,Franz Wagner,ORL - F,4.5,3-PT Attempted
+177,Jalen Suggs,ORL - G,5.5,3-PT Attempted
+178,Myles Turner,IND - C-F,7.0,3-PT Attempted
+179,Tyrese Haliburton,IND - G,7.5,3-PT Attempted
+180,Jalen Brunson + Joel Embiid,NYK/PHI - G/C,66.5,Points (Combo)
+181,Jalen Brunson + Tyrese Maxey,NYK/PHI - G,59.5,Points (Combo)
+182,Khris Middleton + Pascal Siakam,MIL/IND - F,49.5,Points (Combo)
+183,Jalen Brunson + Tyrese Maxey,NYK/PHI - G,14.0,Assists (Combo)
+184,Josh Hart + Joel Embiid,NYK/PHI - G/C-F,22.0,Rebounds (Combo)
+185,Jalen Brunson + Tyrese Maxey,NYK/PHI - G,6.0,3-PT Made (Combo)
+186,Jalen Brunson,NYK - G,7.0,Free Throws Made
+187,Joel Embiid,PHI - C-F,10.0,Free Throws Made
+188,Tyrese Maxey,PHI - G,4.0,Free Throws Made
+189,Donovan Mitchell,CLE - G,4.5,Free Throws Made
+190,Paolo Banchero,ORL - F,4.5,Free Throws Made
+191,Jarrett Allen,CLE - C,3.5,Free Throws Made
+192,Franz Wagner,ORL - F,4.0,Free Throws Made
+193,Evan Mobley,CLE - C,2.5,Free Throws Made
+194,Max Strus,CLE - G-F,1.5,Free Throws Made
+195,Bobby Portis,MIL - F,1.5,Free Throws Made
+196,Pascal Siakam,IND - F,3.5,Free Throws Made
+197,Myles Turner,IND - C-F,3.5,Free Throws Made
+198,Joel Embiid,PHI - C-F,21.0,FG Attempted
+199,OG Anunoby,NYK - G-F,11.5,FG Attempted
+200,Tyrese Maxey,PHI - G,21.0,FG Attempted
+201,Josh Hart,NYK - G,12.0,FG Attempted
+202,Donte DiVincenzo,NYK - G,11.0,FG Attempted
+203,Donovan Mitchell,CLE - G,19.5,FG Attempted
+204,Paolo Banchero,ORL - F,19.0,FG Attempted
+205,Jarrett Allen,CLE - C,10.5,FG Attempted
+206,Franz Wagner,ORL - F,15.5,FG Attempted
+207,Evan Mobley,CLE - C,12.5,FG Attempted
+208,Jalen Suggs,ORL - G,11.0,FG Attempted
+209,Darius Garland,CLE - G,12.0,FG Attempted
+210,Bobby Portis,MIL - F,17.0,FG Attempted
+211,Pascal Siakam,IND - F,18.0,FG Attempted
+212,Myles Turner,IND - C-F,15.5,FG Attempted
+213,Khris Middleton,MIL - F,21.5,FG Attempted
+214,Tyrese Haliburton,IND - G,14.5,FG Attempted
+215,Jalen Brunson,NYK - G,38.5,Pts+Rebs
+216,Joel Embiid,PHI - C-F,42.5,Pts+Rebs
+217,OG Anunoby,NYK - G-F,20.5,Pts+Rebs
+218,Tyrese Maxey,PHI - G,30.0,Pts+Rebs
+219,Josh Hart,NYK - G,26.5,Pts+Rebs
+220,Kelly Oubre Jr.,PHI - F-G,17.0,Pts+Rebs
+221,Donte DiVincenzo,NYK - G,16.5,Pts+Rebs
+222,Tobias Harris,PHI - F,17.5,Pts+Rebs
+223,Isaiah Hartenstein,NYK - C-F,16.5,Pts+Rebs
+224,Kyle Lowry,PHI - G,11.5,Pts+Rebs
+225,Miles McBride,NYK - G,10.5,Pts+Rebs
+226,Donovan Mitchell,CLE - G,29.5,Pts+Rebs
+227,Paolo Banchero,ORL - F,29.5,Pts+Rebs
+228,Jarrett Allen,CLE - C,28.5,Pts+Rebs
+229,Franz Wagner,ORL - F,26.5,Pts+Rebs
+230,Evan Mobley,CLE - C,25.0,Pts+Rebs
+231,Jalen Suggs,ORL - G,16.5,Pts+Rebs
+232,Darius Garland,CLE - G,18.5,Pts+Rebs
+233,Wendell Carter Jr.,ORL - C-F,13.5,Pts+Rebs
+234,Max Strus,CLE - G-F,13.5,Pts+Rebs
+235,Caris LeVert,CLE - G,12.5,Pts+Rebs
+236,Moritz Wagner,ORL - F-C,12.5,Pts+Rebs
+237,Bobby Portis,MIL - F,34.5,Pts+Rebs
+238,Pascal Siakam,IND - F,33.5,Pts+Rebs
+239,Brook Lopez,MIL - C,21.5,Pts+Rebs
+240,Myles Turner,IND - C-F,29.5,Pts+Rebs
+241,Khris Middleton,MIL - F,32.5,Pts+Rebs
+242,Tyrese Haliburton,IND - G,23.5,Pts+Rebs
+243,Patrick Beverley,MIL - G,14.5,Pts+Rebs
+244,Aaron Nesmith,IND - G-F,17.5,Pts+Rebs
+245,Malik Beasley,MIL - G,15.5,Pts+Rebs
+246,Andrew Nembhard,IND - G-F,14.5,Pts+Rebs
+247,Obi Toppin,IND - F,12.5,Pts+Rebs
+248,T.J. McConnell,IND - G,11.5,Pts+Rebs
+249,OG Anunoby,NYK - G-F,1.5,Dunks
+250,Jalen Brunson,NYK - G,42.5,Pts+Asts
+251,Joel Embiid,PHI - C-F,37.5,Pts+Asts
+252,OG Anunoby,NYK - G-F,16.0,Pts+Asts
+253,Tyrese Maxey,PHI - G,31.5,Pts+Asts
+254,Josh Hart,NYK - G,19.5,Pts+Asts
+255,Kelly Oubre Jr.,PHI - F-G,13.5,Pts+Asts
+256,Tobias Harris,PHI - F,12.5,Pts+Asts
+257,Isaiah Hartenstein,NYK - C-F,11.5,Pts+Asts
+258,Kyle Lowry,PHI - G,11.0,Pts+Asts
+259,Miles McBride,NYK - G,10.5,Pts+Asts
+260,Donovan Mitchell,CLE - G,29.5,Pts+Asts
+261,Paolo Banchero,ORL - F,27.5,Pts+Asts
+262,Jarrett Allen,CLE - C,18.5,Pts+Asts
+263,Franz Wagner,ORL - F,23.5,Pts+Asts
+264,Evan Mobley,CLE - C,18.5,Pts+Asts
+265,Jalen Suggs,ORL - G,16.5,Pts+Asts
+266,Darius Garland,CLE - G,21.5,Pts+Asts
+267,Max Strus,CLE - G-F,12.5,Pts+Asts
+268,Caris LeVert,CLE - G,12.5,Pts+Asts
+269,Bobby Portis,MIL - F,23.5,Pts+Asts
+270,Pascal Siakam,IND - F,27.5,Pts+Asts
+271,Brook Lopez,MIL - C,18.5,Pts+Asts
+272,Myles Turner,IND - C-F,22.5,Pts+Asts
+273,Khris Middleton,MIL - F,32.5,Pts+Asts
+274,Tyrese Haliburton,IND - G,28.5,Pts+Asts
+275,Patrick Beverley,MIL - G,13.5,Pts+Asts
+276,Aaron Nesmith,IND - G-F,14.5,Pts+Asts
+277,Malik Beasley,MIL - G,13.5,Pts+Asts
+278,Andrew Nembhard,IND - G-F,14.5,Pts+Asts
+279,T.J. McConnell,IND - G,12.5,Pts+Asts
+280,Josh Hart,NYK - G,0.5,Blocked Shots
+281,Paolo Banchero,ORL - F,0.5,Blocked Shots
+282,Jalen Suggs,ORL - G,0.5,Blocked Shots
+283,Bobby Portis,MIL - F,0.5,Blocked Shots
+284,Pascal Siakam,IND - F,0.5,Blocked Shots
+285,Tyrese Haliburton,IND - G,0.5,Blocked Shots
+286,Kelly Oubre Jr.,PHI - F-G,1.5,Steals
+287,Miles McBride,NYK - G,0.5,Steals
+288,Donovan Mitchell,CLE - G,1.5,Steals
+289,Jalen Suggs,ORL - G,1.5,Steals
+290,Markelle Fultz,ORL - G,0.5,Steals
+291,Georges Niang,CLE - F,0.5,Steals
+292,Cole Anthony,ORL - G,0.5,Steals
+293,Moritz Wagner,ORL - F-C,0.5,Steals
+294,Pat Connaughton,MIL - G,0.5,Steals
+295,Andre Jackson Jr.,MIL - G,0.5,Steals
+296,Jalen Brunson,NYK - G,13.0,Rebs+Asts
+297,Joel Embiid,PHI - C-F,15.5,Rebs+Asts
+298,Tyrese Maxey,PHI - G,10.5,Rebs+Asts
+299,Josh Hart,NYK - G,16.5,Rebs+Asts
+300,Tobias Harris,PHI - F,9.0,Rebs+Asts
+301,Isaiah Hartenstein,NYK - C-F,10.5,Rebs+Asts
+302,Donovan Mitchell,CLE - G,10.0,Rebs+Asts
+303,Paolo Banchero,ORL - F,12.0,Rebs+Asts
+304,Jarrett Allen,CLE - C,14.5,Rebs+Asts
+305,Franz Wagner,ORL - F,10.5,Rebs+Asts
+306,Evan Mobley,CLE - C,12.0,Rebs+Asts
+307,Darius Garland,CLE - G,9.0,Rebs+Asts
+308,Max Strus,CLE - G-F,7.5,Rebs+Asts
+309,Bobby Portis,MIL - F,15.0,Rebs+Asts
+310,Pascal Siakam,IND - F,13.5,Rebs+Asts
+311,Myles Turner,IND - C-F,11.0,Rebs+Asts
+312,Khris Middleton,MIL - F,13.5,Rebs+Asts
+313,Tyrese Haliburton,IND - G,15.5,Rebs+Asts
+314,Patrick Beverley,MIL - G,9.5,Rebs+Asts
+315,Kelly Oubre Jr.,PHI - F-G,2.5,Blks+Stls
+316,Kyle Lowry,PHI - G,1.5,Blks+Stls
+317,Paolo Banchero,ORL - F,1.5,Blks+Stls
+318,Franz Wagner,ORL - F,1.5,Blks+Stls
+319,Jonathan Isaac,ORL - F,2.5,Blks+Stls
+320,Bobby Portis,MIL - F,1.5,Blks+Stls
+321,Pascal Siakam,IND - F,1.5,Blks+Stls
+322,Malik Beasley,MIL - G,0.5,Blks+Stls
+323,Ben Sheppard,IND - G,0.5,Blks+Stls
+324,Jalen Brunson,NYK - G,3.5,Turnovers
+325,OG Anunoby,NYK - G-F,1.5,Turnovers
+326,Tyrese Maxey,PHI - G,2.5,Turnovers
+327,Miles McBride,NYK - G,0.5,Turnovers
+328,Evan Mobley,CLE - C,1.5,Turnovers
+329,Jonathan Isaac,ORL - F,0.5,Turnovers
+330,Brook Lopez,MIL - C,1.5,Turnovers
+331,Khris Middleton,MIL - F,3.5,Turnovers
+332,Pat Connaughton,MIL - G,0.5,Turnovers
+333,Obi Toppin,IND - F,0.5,Turnovers
+334,Andre Jackson Jr.,MIL - G,0.5,Turnovers

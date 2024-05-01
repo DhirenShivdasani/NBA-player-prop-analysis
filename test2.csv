@@ -1,212 +1,218 @@
 ,Name,Team,Value,Prop
-1,Kyrie Irving,DAL - G,26.5,Points
-2,Luka Doncic,DAL - F-G,52.5,Pts+Rebs+Asts
-3,Jayson Tatum,BOS - F-G,42.5,Pts+Rebs+Asts
-4,Bam Adebayo,MIA - C-F,1.5,Blks+Stls
+1,Luka Doncic,DAL - F-G,52.5,Pts+Rebs+Asts
+2,Kyrie Irving,DAL - G,26.5,Points
+3,Al Horford,BOS - C-F,21.0,Pts+Rebs+Asts
+4,Jayson Tatum,BOS - F-G,42.5,Pts+Rebs+Asts
 5,Derrick White,BOS - G,16.5,Points
 6,Luka Doncic,DAL - F-G,33.5,Points
 7,Jrue Holiday,BOS - G,11.5,Points
 8,Paul George,LAC - F,24.5,Points
-9,Al Horford,BOS - C-F,20.5,Pts+Rebs+Asts
-10,Jayson Tatum,BOS - F-G,27.5,Points
-11,Al Horford,BOS - C-F,8.0,Rebounds
-12,Bam Adebayo,MIA - C-F,21.5,Points
-13,Bam Adebayo,MIA - C-F,11.0,Rebounds
-14,Derrick White,BOS - G,25.5,Pts+Rebs+Asts
-15,James Harden,LAC - G,22.0,Points
-16,Tyler Herro,MIA - G,5.5,Assists
-17,Maxi Kleber,DAL - F,0.5,3-PT Made
-18,Paul George,LAC - F,35.0,Pts+Rebs+Asts
-19,Kyrie Irving,DAL - G,36.5,Pts+Rebs+Asts
-21,Derrick White,BOS - G,16.5,Points
-22,Bam Adebayo,MIA - C-F,21.5,Points
-23,Jaylen Brown,BOS - G-F,23.5,Points
-24,Caleb Martin,MIA - F,12.5,Points
-25,Jayson Tatum,BOS - F-G,27.5,Points
-26,Tyler Herro,MIA - G,21.0,Points
-27,Jrue Holiday,BOS - G,11.5,Points
-28,Nikola Jovic,MIA - F,8.5,Points
-29,Al Horford,BOS - C-F,9.5,Points
-30,Payton Pritchard,BOS - G,6.5,Points
-31,Haywood Highsmith,MIA - F,6.5,Points
-32,Ivica Zubac,LAC - C,14.5,Points
-33,Daniel Gafford,DAL - F-C,7.5,Points
-34,James Harden,LAC - G,22.0,Points
-35,Dereck Lively II,DAL - C,7.0,Points
-36,Paul George,LAC - F,24.5,Points
-37,Derrick Jones Jr.,DAL - F,9.5,Points
-38,Norman Powell,LAC - G,11.5,Points
-39,Kyrie Irving,DAL - G,26.5,Points
-40,Terance Mann,LAC - G-F,9.5,Points
-41,Luka Doncic,DAL - F-G,33.5,Points
-42,Russell Westbrook,LAC - G,8.0,Points
-43,P.J. Washington,DAL - F,11.0,Points
-44,Derrick White,BOS - G,25.5,Pts+Rebs+Asts
-45,Bam Adebayo,MIA - C-F,37.0,Pts+Rebs+Asts
-46,Jaylen Brown,BOS - G-F,33.5,Pts+Rebs+Asts
-47,Caleb Martin,MIA - F,19.5,Pts+Rebs+Asts
-48,Jayson Tatum,BOS - F-G,42.5,Pts+Rebs+Asts
-49,Tyler Herro,MIA - G,31.5,Pts+Rebs+Asts
-50,Jrue Holiday,BOS - G,21.5,Pts+Rebs+Asts
-51,Al Horford,BOS - C-F,20.5,Pts+Rebs+Asts
-52,Nikola Jovic,MIA - F,16.5,Pts+Rebs+Asts
-53,Ivica Zubac,LAC - C,26.5,Pts+Rebs+Asts
-54,James Harden,LAC - G,36.5,Pts+Rebs+Asts
-55,Paul George,LAC - F,35.0,Pts+Rebs+Asts
-56,Kyrie Irving,DAL - G,36.5,Pts+Rebs+Asts
-57,Luka Doncic,DAL - F-G,52.5,Pts+Rebs+Asts
-58,P.J. Washington,DAL - F,18.5,Pts+Rebs+Asts
-59,Derrick White,BOS - G,4.5,Rebounds
-60,Bam Adebayo,MIA - C-F,11.0,Rebounds
-61,Jaylen Brown,BOS - G-F,7.0,Rebounds
-62,Caleb Martin,MIA - F,4.5,Rebounds
-63,Jayson Tatum,BOS - F-G,10.0,Rebounds
-64,Tyler Herro,MIA - G,4.5,Rebounds
-65,Nikola Jovic,MIA - F,5.5,Rebounds
-66,Al Horford,BOS - C-F,8.0,Rebounds
-67,Ivica Zubac,LAC - C,10.5,Rebounds
-68,Daniel Gafford,DAL - F-C,5.0,Rebounds
-69,James Harden,LAC - G,5.5,Rebounds
-70,Dereck Lively II,DAL - C,5.0,Rebounds
-71,Paul George,LAC - F,6.0,Rebounds
-72,Norman Powell,LAC - G,2.5,Rebounds
-73,Amir Coffey,LAC - G-F,2.5,Rebounds
-74,Luka Doncic,DAL - F-G,9.5,Rebounds
+9,Maxi Kleber,DAL - F,0.5,3-PT Made
+10,Bam Adebayo,MIA - C-F,21.5,Points
+11,Jayson Tatum,BOS - F-G,27.5,Points
+12,Al Horford,BOS - C-F,8.0,Rebounds
+13,Derrick White,BOS - G,24.5,Pts+Rebs+Asts
+14,Bam Adebayo,MIA - C-F,11.0,Rebounds
+15,Tyler Herro,MIA - G,5.0,Assists
+16,James Harden,LAC - G,22.0,Points
+17,Kyrie Irving,DAL - G,36.5,Pts+Rebs+Asts
+18,Bam Adebayo,MIA - C-F,36.0,Pts+Rebs+Asts
+20,Derrick White,BOS - G,16.5,Points
+21,Bam Adebayo,MIA - C-F,21.5,Points
+22,Jaylen Brown,BOS - G-F,23.5,Points
+23,Caleb Martin,MIA - F,12.5,Points
+24,Jayson Tatum,BOS - F-G,27.5,Points
+25,Tyler Herro,MIA - G,21.0,Points
+26,Jrue Holiday,BOS - G,11.5,Points
+27,Nikola Jovic,MIA - F,8.5,Points
+28,Al Horford,BOS - C-F,9.5,Points
+29,Payton Pritchard,BOS - G,6.5,Points
+30,Haywood Highsmith,MIA - F,7.0,Points
+31,Ivica Zubac,LAC - C,14.0,Points
+32,Daniel Gafford,DAL - F-C,7.5,Points
+33,James Harden,LAC - G,22.0,Points
+34,Dereck Lively II,DAL - C,7.0,Points
+35,Paul George,LAC - F,24.5,Points
+36,Derrick Jones Jr.,DAL - F,9.5,Points
+37,Norman Powell,LAC - G,12.0,Points
+38,Kyrie Irving,DAL - G,26.5,Points
+39,Terance Mann,LAC - G-F,10.0,Points
+40,Luka Doncic,DAL - F-G,33.5,Points
+41,Russell Westbrook,LAC - G,8.0,Points
+42,P.J. Washington,DAL - F,11.0,Points
+43,Derrick White,BOS - G,24.5,Pts+Rebs+Asts
+44,Bam Adebayo,MIA - C-F,36.0,Pts+Rebs+Asts
+45,Jaylen Brown,BOS - G-F,33.5,Pts+Rebs+Asts
+46,Caleb Martin,MIA - F,19.5,Pts+Rebs+Asts
+47,Jayson Tatum,BOS - F-G,42.5,Pts+Rebs+Asts
+48,Tyler Herro,MIA - G,31.5,Pts+Rebs+Asts
+49,Jrue Holiday,BOS - G,21.5,Pts+Rebs+Asts
+50,Al Horford,BOS - C-F,21.0,Pts+Rebs+Asts
+51,Nikola Jovic,MIA - F,16.5,Pts+Rebs+Asts
+52,Ivica Zubac,LAC - C,26.5,Pts+Rebs+Asts
+53,James Harden,LAC - G,36.5,Pts+Rebs+Asts
+54,Paul George,LAC - F,35.0,Pts+Rebs+Asts
+55,Kyrie Irving,DAL - G,36.5,Pts+Rebs+Asts
+56,Luka Doncic,DAL - F-G,52.5,Pts+Rebs+Asts
+57,P.J. Washington,DAL - F,18.5,Pts+Rebs+Asts
+58,Derrick White,BOS - G,4.5,Rebounds
+59,Bam Adebayo,MIA - C-F,11.0,Rebounds
+60,Jaylen Brown,BOS - G-F,7.0,Rebounds
+61,Caleb Martin,MIA - F,4.5,Rebounds
+62,Jayson Tatum,BOS - F-G,10.0,Rebounds
+63,Tyler Herro,MIA - G,5.0,Rebounds
+64,Nikola Jovic,MIA - F,5.5,Rebounds
+65,Al Horford,BOS - C-F,8.0,Rebounds
+66,Ivica Zubac,LAC - C,10.5,Rebounds
+67,Daniel Gafford,DAL - F-C,5.0,Rebounds
+68,James Harden,LAC - G,5.5,Rebounds
+69,Dereck Lively II,DAL - C,5.0,Rebounds
+70,Paul George,LAC - F,6.0,Rebounds
+71,Norman Powell,LAC - G,2.5,Rebounds
+72,Amir Coffey,LAC - G-F,2.5,Rebounds
+73,Luka Doncic,DAL - F-G,9.5,Rebounds
+74,Terance Mann,LAC - G-F,4.5,Rebounds
 75,P.J. Washington,DAL - F,5.5,Rebounds
-76,Derrick White,BOS - G,31.5,Fantasy Score
-77,Bam Adebayo,MIA - C-F,41.5,Fantasy Score
-78,Jaylen Brown,BOS - G-F,38.0,Fantasy Score
-79,Caleb Martin,MIA - F,23.5,Fantasy Score
-80,Jayson Tatum,BOS - F-G,50.0,Fantasy Score
-81,Tyler Herro,MIA - G,33.5,Fantasy Score
-82,Jrue Holiday,BOS - G,29.5,Fantasy Score
-83,Al Horford,BOS - C-F,26.0,Fantasy Score
-84,Nikola Jovic,MIA - F,20.5,Fantasy Score
-85,Ivica Zubac,LAC - C,32.5,Fantasy Score
-86,Daniel Gafford,DAL - F-C,20.0,Fantasy Score
-87,James Harden,LAC - G,42.5,Fantasy Score
-88,Dereck Lively II,DAL - C,18.5,Fantasy Score
-89,Paul George,LAC - F,42.0,Fantasy Score
-90,Derrick Jones Jr.,DAL - F,19.5,Fantasy Score
-91,Kyrie Irving,DAL - G,42.5,Fantasy Score
-92,Terance Mann,LAC - G-F,18.5,Fantasy Score
-93,Luka Doncic,DAL - F-G,61.0,Fantasy Score
-94,Russell Westbrook,LAC - G,20.5,Fantasy Score
-95,P.J. Washington,DAL - F,25.0,Fantasy Score
-96,Jayson Tatum,BOS - F-G,5.5,Assists
-97,Tyler Herro,MIA - G,5.5,Assists
-98,James Harden,LAC - G,8.0,Assists
-99,Kyrie Irving,DAL - G,5.0,Assists
-100,Luka Doncic,DAL - F-G,9.0,Assists
-101,Dereck Lively II,DAL - C,0.5,Assists
-102,Nikola Jovic,MIA - F,1.5,3-PT Made
-103,Josh Green,DAL - G,0.5,3-PT Made
-104,Maxi Kleber,DAL - F,0.5,3-PT Made
-105,Russell Westbrook,LAC - G,0.5,3-PT Made
-106,P.J. Washington,DAL - F,1.5,3-PT Made
+76,Derrick White,BOS - G,31.0,Fantasy Score
+77,Jaylen Brown,BOS - G-F,38.0,Fantasy Score
+78,Caleb Martin,MIA - F,23.5,Fantasy Score
+79,Jayson Tatum,BOS - F-G,49.0,Fantasy Score
+80,Jrue Holiday,BOS - G,29.5,Fantasy Score
+81,Nikola Jovic,MIA - F,20.5,Fantasy Score
+82,Ivica Zubac,LAC - C,32.5,Fantasy Score
+83,Daniel Gafford,DAL - F-C,20.0,Fantasy Score
+84,James Harden,LAC - G,42.5,Fantasy Score
+85,Dereck Lively II,DAL - C,18.5,Fantasy Score
+86,Paul George,LAC - F,42.0,Fantasy Score
+87,Derrick Jones Jr.,DAL - F,19.5,Fantasy Score
+88,Kyrie Irving,DAL - G,42.5,Fantasy Score
+89,Terance Mann,LAC - G-F,19.5,Fantasy Score
+90,Luka Doncic,DAL - F-G,61.0,Fantasy Score
+91,Russell Westbrook,LAC - G,20.5,Fantasy Score
+92,P.J. Washington,DAL - F,25.5,Fantasy Score
+93,Jayson Tatum,BOS - F-G,5.0,Assists
+94,Tyler Herro,MIA - G,5.0,Assists
+95,James Harden,LAC - G,8.0,Assists
+96,Kyrie Irving,DAL - G,5.0,Assists
+97,Luka Doncic,DAL - F-G,9.5,Assists
+98,Dereck Lively II,DAL - C,0.5,Assists
+99,Nikola Jovic,MIA - F,1.5,3-PT Made
+100,Josh Green,DAL - G,0.5,3-PT Made
+101,Maxi Kleber,DAL - F,0.5,3-PT Made
+102,Russell Westbrook,LAC - G,0.5,3-PT Made
+103,P.J. Washington,DAL - F,1.5,3-PT Made
+104,Bam Adebayo,MIA - C-F,8.0,Defensive Rebounds
+105,Jayson Tatum,BOS - F-G,9.0,Defensive Rebounds
+106,Al Horford,BOS - C-F,6.0,Defensive Rebounds
 107,Ivica Zubac,LAC - C,7.5,Defensive Rebounds
 108,Luka Doncic,DAL - F-G,8.5,Defensive Rebounds
-109,Ivica Zubac,LAC - C,3.0,Offensive Rebounds
-110,James Harden,LAC - G,8.5,3-PT Attempted
-111,Paul George,LAC - F,8.5,3-PT Attempted
-112,Kyrie Irving,DAL - G,8.0,3-PT Attempted
-113,Luka Doncic,DAL - F-G,11.0,3-PT Attempted
-114,Jayson Tatum + Tyler Herro,BOS/MIA - F/G,48.5,Points (Combo)
-115,Jaylen Brown + Bam Adebayo,BOS/MIA - G/C,45.0,Points (Combo)
-116,Paul George + Luka Doncic,LAC/DAL - F/G,57.5,Points (Combo)
-117,James Harden + Kyrie Irving,LAC/DAL - G,47.5,Points (Combo)
-118,James Harden + Luka Doncic,LAC/DAL - G/F-G,17.0,Assists (Combo)
-119,Jayson Tatum + Bam Adebayo,BOS/MIA - F/C,21.0,Rebounds (Combo)
-120,Ivica Zubac + Luka Doncic,LAC/DAL - C/F-G,20.0,Rebounds (Combo)
-121,Jayson Tatum + Tyler Herro,BOS/MIA - F/G,6.0,3-PT Made (Combo)
-122,Paul George + Luka Doncic,LAC/DAL - F/G,7.5,3-PT Made (Combo)
-123,James Harden + Kyrie Irving,LAC/DAL - G,6.5,3-PT Made (Combo)
-124,Bam Adebayo,MIA - C-F,3.5,Free Throws Made
-125,Jaylen Brown,BOS - G-F,2.5,Free Throws Made
-126,Jayson Tatum,BOS - F-G,6.5,Free Throws Made
-127,James Harden,LAC - G,4.5,Free Throws Made
-128,Paul George,LAC - F,4.0,Free Throws Made
-129,Kyrie Irving,DAL - G,3.5,Free Throws Made
-130,Luka Doncic,DAL - F-G,6.5,Free Throws Made
-131,James Harden,LAC - G,16.0,FG Attempted
-132,Paul George,LAC - F,18.5,FG Attempted
-133,Kyrie Irving,DAL - G,19.0,FG Attempted
-134,Luka Doncic,DAL - F-G,24.5,FG Attempted
-135,Derrick White,BOS - G,20.5,Pts+Rebs
-136,Bam Adebayo,MIA - C-F,32.5,Pts+Rebs
-137,Jaylen Brown,BOS - G-F,30.5,Pts+Rebs
-138,Caleb Martin,MIA - F,17.5,Pts+Rebs
-139,Jayson Tatum,BOS - F-G,37.5,Pts+Rebs
-140,Tyler Herro,MIA - G,25.5,Pts+Rebs
-141,Jrue Holiday,BOS - G,16.5,Pts+Rebs
-142,Al Horford,BOS - C-F,17.5,Pts+Rebs
-143,Nikola Jovic,MIA - F,14.5,Pts+Rebs
-144,Haywood Highsmith,MIA - F,10.5,Pts+Rebs
-145,Ivica Zubac,LAC - C,25.5,Pts+Rebs
-146,Daniel Gafford,DAL - F-C,12.5,Pts+Rebs
-147,James Harden,LAC - G,28.5,Pts+Rebs
-148,Dereck Lively II,DAL - C,12.5,Pts+Rebs
-149,Paul George,LAC - F,30.5,Pts+Rebs
-150,Derrick Jones Jr.,DAL - F,14.0,Pts+Rebs
-151,Norman Powell,LAC - G,14.0,Pts+Rebs
-152,Kyrie Irving,DAL - G,30.5,Pts+Rebs
-153,Terance Mann,LAC - G-F,13.5,Pts+Rebs
-154,Luka Doncic,DAL - F-G,42.5,Pts+Rebs
-155,Russell Westbrook,LAC - G,11.5,Pts+Rebs
-156,P.J. Washington,DAL - F,16.5,Pts+Rebs
-157,Ivica Zubac,LAC - C,1.5,Dunks
-158,Terance Mann,LAC - G-F,0.5,Dunks
-159,Derrick White,BOS - G,20.5,Pts+Asts
-160,Bam Adebayo,MIA - C-F,25.5,Pts+Asts
-161,Jaylen Brown,BOS - G-F,26.0,Pts+Asts
-162,Caleb Martin,MIA - F,14.5,Pts+Asts
-163,Jayson Tatum,BOS - F-G,32.5,Pts+Asts
-164,Tyler Herro,MIA - G,26.5,Pts+Asts
-165,Jrue Holiday,BOS - G,16.0,Pts+Asts
-166,Al Horford,BOS - C-F,12.5,Pts+Asts
-167,Nikola Jovic,MIA - F,11.5,Pts+Asts
-168,Ivica Zubac,LAC - C,15.5,Pts+Asts
-169,James Harden,LAC - G,30.5,Pts+Asts
-170,Paul George,LAC - F,29.0,Pts+Asts
-171,Derrick Jones Jr.,DAL - F,10.5,Pts+Asts
-172,Norman Powell,LAC - G,12.5,Pts+Asts
-173,Kyrie Irving,DAL - G,30.5,Pts+Asts
-174,Terance Mann,LAC - G-F,11.5,Pts+Asts
-175,Luka Doncic,DAL - F-G,42.5,Pts+Asts
-176,Russell Westbrook,LAC - G,11.5,Pts+Asts
-177,P.J. Washington,DAL - F,12.5,Pts+Asts
-178,Bam Adebayo,MIA - C-F,0.5,Blocked Shots
-179,Tyler Herro,MIA - G,0.5,Steals
-180,Daniel Gafford,DAL - F-C,0.5,Steals
-181,Dereck Lively II,DAL - C,0.5,Steals
-182,Norman Powell,LAC - G,0.5,Steals
-183,Amir Coffey,LAC - G-F,0.5,Steals
-184,Kyrie Irving,DAL - G,1.5,Steals
-185,Josh Green,DAL - G,0.5,Steals
-186,P.J. Washington,DAL - F,1.5,Steals
-187,Amir Coffey,LAC - G-F,0.5,Steals
-188,Derrick White,BOS - G,8.5,Rebs+Asts
-189,Bam Adebayo,MIA - C-F,15.0,Rebs+Asts
-190,Jaylen Brown,BOS - G-F,9.5,Rebs+Asts
-191,Jayson Tatum,BOS - F-G,15.5,Rebs+Asts
-192,Tyler Herro,MIA - G,10.5,Rebs+Asts
-193,Jrue Holiday,BOS - G,9.5,Rebs+Asts
-194,Al Horford,BOS - C-F,10.5,Rebs+Asts
-195,Nikola Jovic,MIA - F,7.5,Rebs+Asts
-196,Ivica Zubac,LAC - C,12.5,Rebs+Asts
-197,James Harden,LAC - G,13.5,Rebs+Asts
-198,Paul George,LAC - F,10.5,Rebs+Asts
-199,Kyrie Irving,DAL - G,10.5,Rebs+Asts
-200,Luka Doncic,DAL - F-G,19.0,Rebs+Asts
-201,Bam Adebayo,MIA - C-F,1.5,Blks+Stls
-202,Jayson Tatum,BOS - F-G,1.5,Blks+Stls
-203,Al Horford,BOS - C-F,1.5,Blks+Stls
-204,Sam Hauser,BOS - F,0.5,Blks+Stls
-205,Mason Plumlee,LAC - F-C,0.5,Blks+Stls
-206,Russell Westbrook,LAC - G,1.5,Blks+Stls
-207,Derrick White,BOS - G,1.5,Turnovers
-208,Jaylen Brown,BOS - G-F,2.5,Turnovers
-209,Payton Pritchard,BOS - G,0.5,Turnovers
-210,Jrue Holiday,BOS - G,1.5,Turnovers
-211,Ivica Zubac,LAC - C,1.5,Turnovers
-212,Daniel Gafford,DAL - F-C,0.5,Turnovers
+109,Derrick White,BOS - G,0.5,Offensive Rebounds
+110,Al Horford,BOS - C-F,1.5,Offensive Rebounds
+111,Nikola Jovic,MIA - F,0.5,Offensive Rebounds
+112,Ivica Zubac,LAC - C,3.0,Offensive Rebounds
+113,Derrick White,BOS - G,7.5,3-PT Attempted
+114,Jaylen Brown,BOS - G-F,6.0,3-PT Attempted
+115,Jayson Tatum,BOS - F-G,7.5,3-PT Attempted
+116,Tyler Herro,MIA - G,8.5,3-PT Attempted
+117,Paul George,LAC - F,8.5,3-PT Attempted
+118,Kyrie Irving,DAL - G,8.0,3-PT Attempted
+119,Luka Doncic,DAL - F-G,11.0,3-PT Attempted
+120,Jayson Tatum + Tyler Herro,BOS/MIA - F/G,48.5,Points (Combo)
+121,Jaylen Brown + Bam Adebayo,BOS/MIA - G/C,45.0,Points (Combo)
+122,Paul George + Luka Doncic,LAC/DAL - F/G,57.5,Points (Combo)
+123,James Harden + Kyrie Irving,LAC/DAL - G,47.5,Points (Combo)
+124,James Harden + Luka Doncic,LAC/DAL - G/F-G,17.5,Assists (Combo)
+125,Jayson Tatum + Bam Adebayo,BOS/MIA - F/C,21.0,Rebounds (Combo)
+126,Ivica Zubac + Luka Doncic,LAC/DAL - C/F-G,20.0,Rebounds (Combo)
+127,Jayson Tatum + Tyler Herro,BOS/MIA - F/G,6.0,3-PT Made (Combo)
+128,Paul George + Luka Doncic,LAC/DAL - F/G,7.5,3-PT Made (Combo)
+129,James Harden + Kyrie Irving,LAC/DAL - G,6.5,3-PT Made (Combo)
+130,Bam Adebayo,MIA - C-F,3.5,Free Throws Made
+131,Jaylen Brown,BOS - G-F,2.5,Free Throws Made
+132,Jayson Tatum,BOS - F-G,6.5,Free Throws Made
+133,James Harden,LAC - G,4.5,Free Throws Made
+134,Paul George,LAC - F,4.0,Free Throws Made
+135,Kyrie Irving,DAL - G,3.5,Free Throws Made
+136,Luka Doncic,DAL - F-G,6.5,Free Throws Made
+137,Derrick White,BOS - G,12.5,FG Attempted
+138,Jaylen Brown,BOS - G-F,18.0,FG Attempted
+139,Jayson Tatum,BOS - F-G,20.0,FG Attempted
+140,Tyler Herro,MIA - G,17.5,FG Attempted
+141,James Harden,LAC - G,16.0,FG Attempted
+142,Paul George,LAC - F,18.5,FG Attempted
+143,Kyrie Irving,DAL - G,19.5,FG Attempted
+144,Luka Doncic,DAL - F-G,24.5,FG Attempted
+145,Derrick White,BOS - G,20.5,Pts+Rebs
+146,Bam Adebayo,MIA - C-F,32.5,Pts+Rebs
+147,Jaylen Brown,BOS - G-F,30.5,Pts+Rebs
+148,Caleb Martin,MIA - F,17.5,Pts+Rebs
+149,Jayson Tatum,BOS - F-G,37.5,Pts+Rebs
+150,Tyler Herro,MIA - G,25.5,Pts+Rebs
+151,Jrue Holiday,BOS - G,16.5,Pts+Rebs
+152,Al Horford,BOS - C-F,17.5,Pts+Rebs
+153,Nikola Jovic,MIA - F,14.5,Pts+Rebs
+154,Haywood Highsmith,MIA - F,10.5,Pts+Rebs
+155,Ivica Zubac,LAC - C,25.5,Pts+Rebs
+156,Daniel Gafford,DAL - F-C,12.5,Pts+Rebs
+157,James Harden,LAC - G,27.5,Pts+Rebs
+158,Dereck Lively II,DAL - C,12.5,Pts+Rebs
+159,Paul George,LAC - F,30.5,Pts+Rebs
+160,Derrick Jones Jr.,DAL - F,14.0,Pts+Rebs
+161,Norman Powell,LAC - G,14.5,Pts+Rebs
+162,Kyrie Irving,DAL - G,31.5,Pts+Rebs
+163,Terance Mann,LAC - G-F,14.5,Pts+Rebs
+164,Luka Doncic,DAL - F-G,43.5,Pts+Rebs
+165,Russell Westbrook,LAC - G,12.0,Pts+Rebs
+166,P.J. Washington,DAL - F,17.0,Pts+Rebs
+167,Ivica Zubac,LAC - C,1.5,Dunks
+168,Terance Mann,LAC - G-F,0.5,Dunks
+169,Derrick White,BOS - G,20.5,Pts+Asts
+170,Bam Adebayo,MIA - C-F,25.5,Pts+Asts
+171,Jaylen Brown,BOS - G-F,26.0,Pts+Asts
+172,Caleb Martin,MIA - F,14.5,Pts+Asts
+173,Jayson Tatum,BOS - F-G,32.5,Pts+Asts
+174,Tyler Herro,MIA - G,26.5,Pts+Asts
+175,Jrue Holiday,BOS - G,16.0,Pts+Asts
+176,Al Horford,BOS - C-F,12.5,Pts+Asts
+177,Nikola Jovic,MIA - F,11.5,Pts+Asts
+178,Ivica Zubac,LAC - C,15.5,Pts+Asts
+179,James Harden,LAC - G,30.5,Pts+Asts
+180,Paul George,LAC - F,29.0,Pts+Asts
+181,Derrick Jones Jr.,DAL - F,10.5,Pts+Asts
+182,Norman Powell,LAC - G,12.5,Pts+Asts
+183,Kyrie Irving,DAL - G,30.5,Pts+Asts
+184,Terance Mann,LAC - G-F,11.5,Pts+Asts
+185,Luka Doncic,DAL - F-G,42.5,Pts+Asts
+186,Russell Westbrook,LAC - G,11.5,Pts+Asts
+187,P.J. Washington,DAL - F,12.5,Pts+Asts
+188,Tyler Herro,MIA - G,0.5,Steals
+189,Daniel Gafford,DAL - F-C,0.5,Steals
+190,Dereck Lively II,DAL - C,0.5,Steals
+191,Norman Powell,LAC - G,0.5,Steals
+192,Amir Coffey,LAC - G-F,0.5,Steals
+193,Kyrie Irving,DAL - G,1.5,Steals
+194,Josh Green,DAL - G,0.5,Steals
+195,P.J. Washington,DAL - F,1.5,Steals
+196,Amir Coffey,LAC - G-F,0.5,Steals
+197,Derrick White,BOS - G,8.5,Rebs+Asts
+198,Bam Adebayo,MIA - C-F,15.0,Rebs+Asts
+199,Jaylen Brown,BOS - G-F,9.5,Rebs+Asts
+200,Jayson Tatum,BOS - F-G,15.5,Rebs+Asts
+201,Tyler Herro,MIA - G,10.5,Rebs+Asts
+202,Jrue Holiday,BOS - G,9.5,Rebs+Asts
+203,Al Horford,BOS - C-F,10.5,Rebs+Asts
+204,Nikola Jovic,MIA - F,7.5,Rebs+Asts
+205,Ivica Zubac,LAC - C,12.0,Rebs+Asts
+206,James Harden,LAC - G,13.5,Rebs+Asts
+207,Paul George,LAC - F,10.0,Rebs+Asts
+208,Kyrie Irving,DAL - G,10.0,Rebs+Asts
+209,Luka Doncic,DAL - F-G,19.0,Rebs+Asts
+210,Jayson Tatum,BOS - F-G,1.5,Blks+Stls
+211,Sam Hauser,BOS - F,0.5,Blks+Stls
+212,Mason Plumlee,LAC - F-C,0.5,Blks+Stls
+213,Russell Westbrook,LAC - G,1.5,Blks+Stls
+214,Derrick White,BOS - G,1.5,Turnovers
+215,Jaylen Brown,BOS - G-F,2.5,Turnovers
+216,Jrue Holiday,BOS - G,1.5,Turnovers
+217,Ivica Zubac,LAC - C,1.5,Turnovers
+218,Daniel Gafford,DAL - F-C,0.5,Turnovers

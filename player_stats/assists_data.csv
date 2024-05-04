@@ -1,8 +1,8 @@
 Rank,Player,Team,Pos,Value
 1,Tyrese Haliburton,Indiana Pacers,PG,10.78
-2,Luka Doncic,Dallas Mavericks,SF,9.73
+2,Luka Doncic,Dallas Mavericks,SF,9.78
 3,Nikola Jokic,Denver Nuggets,C,9.01
-4,James Harden,Los Angeles Clippers,SG,8.43
+4,James Harden,Los Angeles Clippers,SG,8.49
 5,LeBron James,Los Angeles Lakers,SF,8.28
 6,Domantas Sabonis,Sacramento Kings,PF,8.18
 7,Fred VanVleet,Houston Rockets,PG,8.07
@@ -14,7 +14,7 @@ Rank,Player,Team,Pos,Value
 13,Chris Paul,Golden State Warriors,PG,6.69
 14,Jamal Murray,Denver Nuggets,SG,6.56
 15,Giannis Antetokounmpo,Milwaukee Bucks,SF,6.52
-16,Darius Garland,Cleveland Cavaliers,PG,6.48
+16,Darius Garland,Cleveland Cavaliers,PG,6.46
 17,Dejounte Murray,Atlanta Hawks,PG,6.44
 18,Tyrese Maxey,Philadelphia 76ers,PG,6.23
 19,D'Angelo Russell,Los Angeles Lakers,PG,6.22
@@ -23,7 +23,7 @@ Rank,Player,Team,Pos,Value
 22,Dennis Schroder,Brooklyn Nets,PG,6.10
 23,Scottie Barnes,Toronto Raptors,SF,6.05
 24,Mike Conley,Minnesota Timberwolves,PG,5.93
-25,Donovan Mitchell,Cleveland Cavaliers,SG,5.92
+25,Donovan Mitchell,Cleveland Cavaliers,SG,5.89
 26,De'Aaron Fox,Sacramento Kings,PG,5.64
 27,Terry Rozier,Miami Heat,PG,5.61
 28,Brandon Ingram,New Orleans Pelicans,SF,5.51
@@ -31,12 +31,12 @@ Rank,Player,Team,Pos,Value
 30,Scoot Henderson,Portland Trail Blazers,PG,5.42
 31,Austin Reaves,Los Angeles Lakers,PG,5.36
 32,DeMar DeRozan,Chicago Bulls,SG,5.36
-33,Paolo Banchero,Orlando Magic,PF,5.33
+33,Paolo Banchero,Orlando Magic,PF,5.31
 34,Khris Middleton,Milwaukee Bucks,SF,5.25
 35,Anthony Edwards,Minnesota Timberwolves,SG,5.18
 36,Malik Monk,Sacramento Kings,SG,5.14
-37,Kyrie Irving,Dallas Mavericks,PG,5.13
-38,Coby White,Chicago Bulls,SG,5.12
+37,Coby White,Chicago Bulls,SG,5.12
+38,Kyrie Irving,Dallas Mavericks,PG,5.11
 39,Stephen Curry,Golden State Warriors,PG,5.08
 40,Derrick White,Boston Celtics,PG,5.04
 41,Zion Williamson,New Orleans Pelicans,PF,5.03
@@ -45,8 +45,8 @@ Rank,Player,Team,Pos,Value
 44,Kevin Durant,Phoenix Suns,SF,4.95
 44,Jayson Tatum,Boston Celtics,SF,4.95
 46,Collin Sexton,Utah Jazz,PG,4.91
-47,Caris LeVert,Cleveland Cavaliers,SG,4.88
-48,Immanuel Quickley,Toronto Raptors,SG,4.87
+47,Immanuel Quickley,Toronto Raptors,SG,4.87
+48,Caris LeVert,Cleveland Cavaliers,SG,4.82
 49,Jrue Holiday,Boston Celtics,PG,4.80
 50,Josh Giddey,Oklahoma City Thunder,SG,4.75
 51,CJ McCollum,New Orleans Pelicans,SG,4.63
@@ -56,7 +56,7 @@ Rank,Player,Team,Pos,Value
 55,Keyonte George,Utah Jazz,SG,4.43
 56,Jordan Poole,Washington Wizards,SG,4.40
 57,Vasilije Micic,Charlotte Hornets,PG,4.37
-58,Russell Westbrook,Los Angeles Clippers,PG,4.32
+58,Russell Westbrook,Los Angeles Clippers,PG,4.27
 59,Pascal Siakam,Indiana Pacers,PF,4.27
 60,Kyle Kuzma,Washington Wizards,PF,4.23
 61,Andrew Nembhard,Indiana Pacers,PG,4.16
@@ -64,18 +64,18 @@ Rank,Player,Team,Pos,Value
 63,Josh Hart,New York Knicks,SG,4.11
 64,Kyle Anderson,Minnesota Timberwolves,SF,4.09
 65,Devin Vassell,San Antonio Spurs,SG,4.07
-66,Max Strus,Cleveland Cavaliers,PG,3.96
+66,Max Strus,Cleveland Cavaliers,PG,3.92
 67,Jusuf Nurkic,Phoenix Suns,C,3.90
 68,Bam Adebayo,Miami Heat,C,3.87
 69,Victor Wembanyama,San Antonio Spurs,PF,3.86
 70,Kris Dunn,Utah Jazz,PG,3.85
 71,Jaden Ivey,Detroit Pistons,PG,3.84
 72,Deni Avdija,Washington Wizards,SF,3.81
-73,Franz Wagner,Orlando Magic,SF,3.79
+73,Franz Wagner,Orlando Magic,SF,3.77
 74,Brandin Podziemski,Golden State Warriors,SG,3.65
 75,Mikal Bridges,Brooklyn Nets,SG,3.65
-76,Reggie Jackson,Denver Nuggets,PG,3.62
-77,Paul George,Los Angeles Clippers,SF,3.62
+76,Paul George,Los Angeles Clippers,SF,3.64
+77,Reggie Jackson,Denver Nuggets,PG,3.62
 78,Aaron Gordon,Denver Nuggets,PF,3.62
 79,Jalen Green,Houston Rockets,SG,3.55
 80,Kawhi Leonard,Los Angeles Clippers,SF,3.54
@@ -95,7 +95,7 @@ Rank,Player,Team,Pos,Value
 94,Tobias Harris,Philadelphia 76ers,SF,2.99
 95,Grayson Allen,Phoenix Suns,SG,2.97
 96,Cam Thomas,Brooklyn Nets,SG,2.91
-97,Joe Ingles,Orlando Magic,SF,2.90
+97,Joe Ingles,Orlando Magic,SF,2.89
 98,Bruce Brown,Toronto Raptors,PG,2.84
 99,Keldon Johnson,San Antonio Spurs,SF,2.83
-100,Cole Anthony,Orlando Magic,PG,2.83
+100,Zach Collins,San Antonio Spurs,PF,2.81

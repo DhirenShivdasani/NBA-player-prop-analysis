@@ -7,10 +7,10 @@ Rank,Player,Team,Pos,Value
 6,Kevin Durant,Phoenix Suns,SF,27.08
 7,De'Aaron Fox,Sacramento Kings,PG,26.64
 8,Donovan Mitchell,Cleveland Cavaliers,SG,26.64
-9,Jayson Tatum,Boston Celtics,SF,26.53
-10,Nikola Jokic,Denver Nuggets,C,26.50
-11,Stephen Curry,Golden State Warriors,PG,26.37
-12,Anthony Edwards,Minnesota Timberwolves,SG,26.18
+9,Nikola Jokic,Denver Nuggets,C,26.56
+10,Jayson Tatum,Boston Celtics,SF,26.53
+11,Anthony Edwards,Minnesota Timberwolves,SG,26.38
+12,Stephen Curry,Golden State Warriors,PG,26.37
 13,Tyrese Maxey,Philadelphia 76ers,PG,26.16
 14,LeBron James,Los Angeles Lakers,SF,25.74
 15,Kyrie Irving,Dallas Mavericks,PG,25.72
@@ -28,9 +28,9 @@ Rank,Player,Team,Pos,Value
 27,Paul George,Los Angeles Clippers,SF,22.35
 28,Kyle Kuzma,Washington Wizards,PF,22.19
 29,Pascal Siakam,Indiana Pacers,PF,21.76
-30,Karl-Anthony Towns,Minnesota Timberwolves,C,21.61
+30,Karl-Anthony Towns,Minnesota Timberwolves,C,21.58
 31,Victor Wembanyama,San Antonio Spurs,PF,21.44
-32,Jamal Murray,Denver Nuggets,SG,21.38
+32,Jamal Murray,Denver Nuggets,SG,21.31
 33,Alperen Sengun,Houston Rockets,C,21.13
 34,Miles Bridges,Charlotte Hornets,SF,21.00
 35,Jimmy Butler,Miami Heat,PF,20.74
@@ -57,8 +57,8 @@ Rank,Player,Team,Pos,Value
 56,Fred VanVleet,Houston Rockets,PG,17.40
 57,Jordan Poole,Washington Wizards,SG,17.38
 58,Brandon Miller,Charlotte Hornets,SF,17.28
-59,Myles Turner,Indiana Pacers,C,17.12
-60,Michael Porter Jr.,Denver Nuggets,PF,17.09
+59,Michael Porter Jr.,Denver Nuggets,PF,17.13
+60,Myles Turner,Indiana Pacers,C,17.12
 61,Immanuel Quickley,Toronto Raptors,SG,17.00
 62,Bogdan Bogdanovic,Atlanta Hawks,SG,16.93
 63,James Harden,Los Angeles Clippers,SG,16.91
@@ -83,11 +83,11 @@ Rank,Player,Team,Pos,Value
 82,Trey Murphy III,New Orleans Pelicans,SF,14.54
 83,Tim Hardaway Jr.,Dallas Mavericks,SG,14.14
 84,Dennis Schroder,Brooklyn Nets,PG,14.03
-85,Rudy Gobert,Minnesota Timberwolves,C,14.01
-86,Scoot Henderson,Portland Trail Blazers,PG,14.00
-87,Bobby Portis,Milwaukee Bucks,PF,13.97
-88,Aaron Gordon,Denver Nuggets,PF,13.87
-89,Norman Powell,Los Angeles Clippers,SG,13.82
+85,Scoot Henderson,Portland Trail Blazers,PG,14.00
+86,Bobby Portis,Milwaukee Bucks,PF,13.97
+87,Rudy Gobert,Minnesota Timberwolves,C,13.91
+88,Norman Powell,Los Angeles Clippers,SG,13.82
+89,Aaron Gordon,Denver Nuggets,PF,13.81
 90,Jalen Duren,Detroit Pistons,C,13.79
 91,Jabari Smith Jr.,Houston Rockets,PF,13.74
 92,Gary Trent Jr.,Toronto Raptors,SG,13.72
@@ -95,7 +95,7 @@ Rank,Player,Team,Pos,Value
 94,Cameron Johnson,Brooklyn Nets,PF,13.38
 95,Corey Kispert,Washington Wizards,SF,13.38
 96,Caris LeVert,Cleveland Cavaliers,SG,13.36
-97,Naz Reid,Minnesota Timberwolves,C,13.27
+97,Naz Reid,Minnesota Timberwolves,C,13.30
 98,Grayson Allen,Phoenix Suns,SG,13.26
 99,Andrew Wiggins,Golden State Warriors,SF,13.21
 100,Rui Hachimura,Los Angeles Lakers,PF,13.00

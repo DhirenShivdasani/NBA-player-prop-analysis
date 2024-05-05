@@ -1,14 +1,14 @@
 Rank,Player,Team,Pos,Value
 1,Daniel Gafford,Dallas Mavericks,PF,71.9%
 2,Grayson Allen,Phoenix Suns,SG,67.8%
-3,Rudy Gobert,Minnesota Timberwolves,C,67.7%
+3,Rudy Gobert,Minnesota Timberwolves,C,67.6%
 4,Obi Toppin,Indiana Pacers,PF,66.7%
 5,Moritz Wagner,Orlando Magic,PF,66.6%
 6,Jarrett Allen,Cleveland Cavaliers,C,66.6%
 7,Ivica Zubac,Los Angeles Clippers,C,66.4%
 8,Kelly Olynyk,Toronto Raptors,PF,66.1%
 9,Jalen Duren,Detroit Pistons,C,65.3%
-10,Nikola Jokic,Denver Nuggets,C,65.1%
+10,Nikola Jokic,Denver Nuggets,C,65.0%
 11,Giannis Antetokounmpo,Milwaukee Bucks,SF,64.9%
 12,Kristaps Porzingis,Boston Celtics,PF,64.4%
 13,Domantas Sabonis,Sacramento Kings,PF,63.7%
@@ -19,8 +19,8 @@ Rank,Player,Team,Pos,Value
 18,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,63.1%
 19,Nic Claxton,Brooklyn Nets,C,62.9%
 20,Chet Holmgren,Oklahoma City Thunder,C,62.9%
-21,Kevin Durant,Phoenix Suns,SF,62.8%
-22,Karl-Anthony Towns,Minnesota Timberwolves,C,62.7%
+21,Karl-Anthony Towns,Minnesota Timberwolves,C,62.8%
+22,Kevin Durant,Phoenix Suns,SF,62.8%
 23,LeBron James,Los Angeles Lakers,SF,62.6%
 24,Anthony Davis,Los Angeles Lakers,PF,62.4%
 25,Isaiah Joe,Oklahoma City Thunder,PG,62.3%
@@ -34,7 +34,7 @@ Rank,Player,Team,Pos,Value
 33,Corey Kispert,Washington Wizards,SF,62.1%
 34,Aaron Nesmith,Indiana Pacers,SG,62.0%
 35,Jalen Williams,Oklahoma City Thunder,SG,62.0%
-36,Mike Conley,Minnesota Timberwolves,PG,61.7%
+36,Mike Conley,Minnesota Timberwolves,PG,62.0%
 37,Stephen Curry,Golden State Warriors,PG,61.6%
 38,Evan Mobley,Cleveland Cavaliers,C,61.5%
 39,Devin Booker,Phoenix Suns,SG,61.4%
@@ -49,11 +49,11 @@ Rank,Player,Team,Pos,Value
 48,Terance Mann,Los Angeles Clippers,SG,61.1%
 49,Harrison Barnes,Sacramento Kings,SF,61.1%
 50,Luka Doncic,Dallas Mavericks,SF,60.9%
-51,Duncan Robinson,Miami Heat,SF,60.8%
-52,Paul George,Los Angeles Clippers,SF,60.8%
-53,Michael Porter Jr.,Denver Nuggets,PF,60.8%
+51,Michael Porter Jr.,Denver Nuggets,PF,60.8%
+52,Duncan Robinson,Miami Heat,SF,60.8%
+53,Paul George,Los Angeles Clippers,SF,60.8%
 54,Collin Sexton,Utah Jazz,PG,60.7%
-55,Aaron Gordon,Denver Nuggets,PF,60.5%
+55,Aaron Gordon,Denver Nuggets,PF,60.6%
 56,Malik Beasley,Milwaukee Bucks,SG,60.5%
 57,Trey Murphy III,New Orleans Pelicans,SF,60.4%
 58,Bradley Beal,Phoenix Suns,SG,60.2%
@@ -66,10 +66,10 @@ Rank,Player,Team,Pos,Value
 65,Deni Avdija,Washington Wizards,SF,59.7%
 66,Luguentz Dort,Oklahoma City Thunder,SG,59.6%
 67,Jonathan Kuminga,Golden State Warriors,PF,59.5%
-68,Derrick Jones Jr.,Dallas Mavericks,SF,59.4%
-69,Miles McBride,New York Knicks,PG,59.4%
-70,Kentavious Caldwell-Pope,Denver Nuggets,SG,59.4%
-71,Naz Reid,Minnesota Timberwolves,C,59.3%
+68,Naz Reid,Minnesota Timberwolves,C,59.5%
+69,Kentavious Caldwell-Pope,Denver Nuggets,SG,59.5%
+70,Derrick Jones Jr.,Dallas Mavericks,SF,59.4%
+71,Miles McBride,New York Knicks,PG,59.4%
 72,Damian Lillard,Milwaukee Bucks,PG,59.3%
 73,Khris Middleton,Milwaukee Bucks,SF,59.3%
 74,Clint Capela,Atlanta Hawks,C,59.3%
@@ -91,11 +91,11 @@ Rank,Player,Team,Pos,Value
 90,DeMar DeRozan,Chicago Bulls,SG,58.4%
 91,Andrew Nembhard,Indiana Pacers,PG,58.3%
 92,Cameron Johnson,Brooklyn Nets,PF,58.2%
-93,D'Angelo Russell,Los Angeles Lakers,PG,58.1%
-94,RJ Barrett,Toronto Raptors,SF,58.0%
-95,CJ McCollum,New Orleans Pelicans,SG,58.0%
-96,Paul Reed,Philadelphia 76ers,PF,58.0%
-97,Anthony Edwards,Minnesota Timberwolves,SG,57.9%
+93,Anthony Edwards,Minnesota Timberwolves,SG,58.1%
+94,D'Angelo Russell,Los Angeles Lakers,PG,58.1%
+95,RJ Barrett,Toronto Raptors,SF,58.0%
+96,CJ McCollum,New Orleans Pelicans,SG,58.0%
+97,Paul Reed,Philadelphia 76ers,PF,58.0%
 98,Jaylen Brown,Boston Celtics,SG,57.9%
 99,Taurean Prince,Los Angeles Lakers,SF,57.8%
 100,Devin Vassell,San Antonio Spurs,SG,57.8%

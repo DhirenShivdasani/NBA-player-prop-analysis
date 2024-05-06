@@ -5,8 +5,8 @@ Rank,Player,Team,Pos,Value
 4,Jalen Brunson,New York Knicks,PG,29.22
 5,Devin Booker,Phoenix Suns,SG,27.10
 6,Kevin Durant,Phoenix Suns,SF,27.08
-7,De'Aaron Fox,Sacramento Kings,PG,26.64
-8,Donovan Mitchell,Cleveland Cavaliers,SG,26.64
+7,Donovan Mitchell,Cleveland Cavaliers,SG,26.84
+8,De'Aaron Fox,Sacramento Kings,PG,26.64
 9,Nikola Jokic,Denver Nuggets,C,26.56
 10,Jayson Tatum,Boston Celtics,SF,26.53
 11,Anthony Edwards,Minnesota Timberwolves,SG,26.38
@@ -20,7 +20,7 @@ Rank,Player,Team,Pos,Value
 19,Kawhi Leonard,Los Angeles Clippers,SF,23.39
 20,Zion Williamson,New Orleans Pelicans,PF,23.11
 21,Jaylen Brown,Boston Celtics,SG,22.99
-22,Paolo Banchero,Orlando Magic,PF,22.73
+22,Paolo Banchero,Orlando Magic,PF,22.91
 23,Cade Cunningham,Detroit Pistons,PG,22.66
 24,Dejounte Murray,Atlanta Hawks,PG,22.57
 25,Jaren Jackson Jr.,Memphis Grizzlies,PF,22.52
@@ -37,9 +37,9 @@ Rank,Player,Team,Pos,Value
 36,Brandon Ingram,New Orleans Pelicans,SF,20.34
 37,RJ Barrett,Toronto Raptors,SF,20.17
 38,Scottie Barnes,Toronto Raptors,SF,19.85
-39,Franz Wagner,Orlando Magic,SF,19.83
-40,Tyrese Haliburton,Indiana Pacers,PG,19.80
-41,Terry Rozier,Miami Heat,PG,19.75
+39,Tyrese Haliburton,Indiana Pacers,PG,19.80
+40,Terry Rozier,Miami Heat,PG,19.75
+41,Franz Wagner,Orlando Magic,SF,19.66
 42,Jalen Green,Houston Rockets,SG,19.63
 43,Mikal Bridges,Brooklyn Nets,SG,19.59
 44,Kristaps Porzingis,Boston Celtics,PF,19.57
@@ -51,8 +51,8 @@ Rank,Player,Team,Pos,Value
 50,Jalen Williams,Oklahoma City Thunder,SG,19.20
 51,Collin Sexton,Utah Jazz,PG,18.69
 52,Nikola Vucevic,Chicago Bulls,C,18.08
-53,Darius Garland,Cleveland Cavaliers,PG,17.78
-54,D'Angelo Russell,Los Angeles Lakers,PG,17.76
+53,D'Angelo Russell,Los Angeles Lakers,PG,17.76
+54,Darius Garland,Cleveland Cavaliers,PG,17.69
 55,Klay Thompson,Golden State Warriors,SG,17.63
 56,Fred VanVleet,Houston Rockets,PG,17.40
 57,Jordan Poole,Washington Wizards,SG,17.38
@@ -92,9 +92,9 @@ Rank,Player,Team,Pos,Value
 91,Jabari Smith Jr.,Houston Rockets,PF,13.74
 92,Gary Trent Jr.,Toronto Raptors,SG,13.72
 93,Saddiq Bey,Atlanta Hawks,SF,13.70
-94,Cameron Johnson,Brooklyn Nets,PF,13.38
-95,Corey Kispert,Washington Wizards,SF,13.38
-96,Caris LeVert,Cleveland Cavaliers,SG,13.36
+94,Caris LeVert,Cleveland Cavaliers,SG,13.39
+95,Cameron Johnson,Brooklyn Nets,PF,13.38
+96,Corey Kispert,Washington Wizards,SF,13.38
 97,Naz Reid,Minnesota Timberwolves,C,13.30
 98,Grayson Allen,Phoenix Suns,SG,13.26
 99,Andrew Wiggins,Golden State Warriors,SF,13.21

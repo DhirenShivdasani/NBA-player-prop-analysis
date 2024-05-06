@@ -10,7 +10,7 @@ Rank,Player,Team,Pos,Value
 9,Jayson Tatum,Boston Celtics,SF,39.75
 10,Kevin Durant,Phoenix Suns,SF,38.62
 11,Devin Booker,Phoenix Suns,SG,38.44
-12,Donovan Mitchell,Cleveland Cavaliers,SG,37.54
+12,Donovan Mitchell,Cleveland Cavaliers,SG,37.79
 13,Anthony Edwards,Minnesota Timberwolves,SG,37.12
 14,De'Aaron Fox,Sacramento Kings,PG,36.91
 15,Tyrese Maxey,Philadelphia 76ers,PG,36.18
@@ -19,7 +19,7 @@ Rank,Player,Team,Pos,Value
 18,Kyrie Irving,Dallas Mavericks,PG,35.89
 19,Damian Lillard,Milwaukee Bucks,PG,35.86
 20,Alperen Sengun,Houston Rockets,C,35.43
-21,Paolo Banchero,Orlando Magic,PF,35.00
+21,Paolo Banchero,Orlando Magic,PF,35.24
 22,Tyrese Haliburton,Indiana Pacers,PG,34.62
 23,Cade Cunningham,Detroit Pistons,PG,34.47
 24,Dejounte Murray,Atlanta Hawks,PG,34.37
@@ -43,9 +43,9 @@ Rank,Player,Team,Pos,Value
 42,Jarrett Allen,Cleveland Cavaliers,C,29.88
 43,Terry Rozier,Miami Heat,PG,29.41
 44,Fred VanVleet,Houston Rockets,PG,29.27
-45,Franz Wagner,Orlando Magic,SF,29.03
-46,Coby White,Chicago Bulls,SG,28.99
-47,RJ Barrett,Toronto Raptors,SF,28.93
+45,Coby White,Chicago Bulls,SG,28.99
+46,RJ Barrett,Toronto Raptors,SF,28.93
+47,Franz Wagner,Orlando Magic,SF,28.89
 48,Kristaps Porzingis,Boston Celtics,PF,28.61
 49,Cam Thomas,Brooklyn Nets,SG,28.61
 50,CJ McCollum,New Orleans Pelicans,SG,28.50
@@ -56,7 +56,7 @@ Rank,Player,Team,Pos,Value
 55,Mikal Bridges,Brooklyn Nets,SG,27.77
 56,Devin Vassell,San Antonio Spurs,SG,27.37
 57,D'Angelo Russell,Los Angeles Lakers,PG,27.04
-58,Darius Garland,Cleveland Cavaliers,PG,27.03
+58,Darius Garland,Cleveland Cavaliers,PG,26.91
 59,Chet Holmgren,Oklahoma City Thunder,C,26.86
 60,Khris Middleton,Milwaukee Bucks,SF,26.36
 61,Collin Sexton,Utah Jazz,PG,26.23
@@ -90,7 +90,7 @@ Rank,Player,Team,Pos,Value
 89,Keegan Murray,Sacramento Kings,SF,22.57
 90,Scoot Henderson,Portland Trail Blazers,PG,22.55
 91,Jrue Holiday,Boston Celtics,PG,22.31
-92,Caris LeVert,Cleveland Cavaliers,SG,22.12
+92,Caris LeVert,Cleveland Cavaliers,SG,22.15
 93,Tyus Jones,Washington Wizards,PG,22.03
 94,Trey Murphy III,New Orleans Pelicans,SF,21.83
 95,Saddiq Bey,Atlanta Hawks,SF,21.68
@@ -98,4 +98,4 @@ Rank,Player,Team,Pos,Value
 97,Donte DiVincenzo,New York Knicks,SG,21.61
 98,Jeremy Sochan,San Antonio Spurs,PF,21.43
 99,De'Andre Hunter,Atlanta Hawks,PF,20.93
-100,Max Strus,Cleveland Cavaliers,PG,20.71
+100,Max Strus,Cleveland Cavaliers,PG,20.66

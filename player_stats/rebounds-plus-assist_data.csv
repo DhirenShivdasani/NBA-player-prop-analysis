@@ -18,7 +18,7 @@ Rank,Player,Team,Pos,Value
 17,Jarrett Allen,Cleveland Cavaliers,C,13.35
 18,Jayson Tatum,Boston Celtics,SF,13.22
 19,Josh Hart,New York Knicks,SG,12.72
-20,Paolo Banchero,Orlando Magic,PF,12.27
+20,Paolo Banchero,Orlando Magic,PF,12.33
 21,Nic Claxton,Brooklyn Nets,C,12.01
 22,Clint Capela,Atlanta Hawks,C,11.99
 23,Fred VanVleet,Houston Rockets,PG,11.88
@@ -33,7 +33,7 @@ Rank,Player,Team,Pos,Value
 32,Josh Giddey,Oklahoma City Thunder,SG,11.11
 33,Deni Avdija,Washington Wizards,SF,11.01
 34,Jonas Valanciunas,New Orleans Pelicans,C,11.01
-35,Donovan Mitchell,Cleveland Cavaliers,SG,10.90
+35,Donovan Mitchell,Cleveland Cavaliers,SG,10.95
 36,Zion Williamson,New Orleans Pelicans,PF,10.90
 37,Kyle Kuzma,Washington Wizards,PF,10.86
 38,Anthony Edwards,Minnesota Timberwolves,SG,10.74
@@ -68,11 +68,11 @@ Rank,Player,Team,Pos,Value
 67,Brandin Podziemski,Golden State Warriors,SG,9.45
 68,Andre Drummond,Chicago Bulls,C,9.30
 69,D'Angelo Russell,Los Angeles Lakers,PG,9.28
-70,Darius Garland,Cleveland Cavaliers,PG,9.25
-71,Derrick White,Boston Celtics,PG,9.24
-72,Russell Westbrook,Los Angeles Clippers,PG,9.24
+70,Derrick White,Boston Celtics,PG,9.24
+71,Russell Westbrook,Los Angeles Clippers,PG,9.24
+72,Franz Wagner,Orlando Magic,SF,9.23
 73,Amen Thompson,Houston Rockets,SG,9.23
-74,Franz Wagner,Orlando Magic,SF,9.19
+74,Darius Garland,Cleveland Cavaliers,PG,9.22
 75,Dennis Schroder,Brooklyn Nets,PG,9.13
 76,Jaylen Brown,Boston Celtics,SG,9.09
 77,Kristaps Porzingis,Boston Celtics,PF,9.03
@@ -82,15 +82,15 @@ Rank,Player,Team,Pos,Value
 81,Bobby Portis,Milwaukee Bucks,PF,8.92
 82,Mike Conley,Minnesota Timberwolves,PG,8.90
 83,Nick Richards,Charlotte Hornets,C,8.85
-84,Max Strus,Cleveland Cavaliers,PG,8.82
-85,Daniel Gafford,Dallas Mavericks,PF,8.76
+84,Daniel Gafford,Dallas Mavericks,PF,8.76
+85,Caris LeVert,Cleveland Cavaliers,SG,8.76
 86,RJ Barrett,Toronto Raptors,SF,8.76
-87,Caris LeVert,Cleveland Cavaliers,SG,8.76
+87,Max Strus,Cleveland Cavaliers,PG,8.75
 88,Jalen Green,Houston Rockets,SG,8.71
 89,Jalen Williams,Oklahoma City Thunder,SG,8.71
 90,Immanuel Quickley,Toronto Raptors,SG,8.68
 91,Scoot Henderson,Portland Trail Blazers,PG,8.55
-92,Wendell Carter Jr.,Orlando Magic,C,8.54
+92,Wendell Carter Jr.,Orlando Magic,C,8.53
 93,Michael Porter Jr.,Denver Nuggets,PF,8.53
 94,Walker Kessler,Utah Jazz,C,8.45
 95,Myles Turner,Indiana Pacers,C,8.35

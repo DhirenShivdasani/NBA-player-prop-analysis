@@ -1,281 +1,270 @@
 ,Name,Team,Value,Prop
-0,Anthony Edwards,MIN - G,28.0,Points
-1,Obi Toppin,IND - F,11.0,Points
-2,Karl-Anthony Towns,MIN - C-F,20.0,Points
-3,Andrew Nembhard,IND - G-F,11.0,Points
-4,Nikola Jokic,DEN - C,12.5,Rebounds
-5,Anthony Edwards,MIN - G,39.5,Pts+Rebs+Asts
-6,Obi Toppin,IND - F,16.5,Pts+Rebs+Asts
-7,Naz Reid,MIN - C,10.5,Points
-8,Aaron Gordon,DEN - F,0.5,3-PT Made
-9,Nikola Jokic,DEN - C,50.5,Pts+Rebs+Asts
-10,Karl-Anthony Towns,MIN - C-F,7.5,Rebounds
-11,Michael Porter Jr.,DEN - F,16.5,Points
-12,Josh Hart,NYK - G,13.0,Rebounds
-13,Nikola Jokic,DEN - C,8.5,Assists
-14,Josh Hart,NYK - G,19.0,Rebs+Asts
-15,T.J. McConnell,IND - G,10.5,Points
-16,Obi Toppin,IND - F,11.0,Points
-17,Aaron Nesmith,IND - G-F,11.5,Points
-18,Donte DiVincenzo,NYK - G,20.5,Points
-19,Andrew Nembhard,IND - G-F,11.0,Points
-20,Isaiah Hartenstein,NYK - C-F,12.0,Points
-21,Myles Turner,IND - C-F,16.5,Points
-22,Jalen Brunson,NYK - G,35.5,Points
-23,Pascal Siakam,IND - F,21.0,Points
-24,Josh Hart,NYK - G,17.0,Points
-25,Tyrese Haliburton,IND - G,19.5,Points
-26,Isaiah Jackson,IND - F,4.5,Points
-27,Ben Sheppard,IND - G,5.5,Points
-28,Anthony Edwards,MIN - G,28.0,Points
-29,Aaron Gordon,DEN - F,12.5,Points
-30,Jaden McDaniels,MIN - F,9.0,Points
-31,Jamal Murray,DEN - G,20.5,Points
-32,Karl-Anthony Towns,MIN - C-F,20.0,Points
-33,Kentavious Caldwell-Pope,DEN - G,7.5,Points
-34,Mike Conley,MIN - G,10.5,Points
-35,Michael Porter Jr.,DEN - F,16.5,Points
-36,Rudy Gobert,MIN - C,12.5,Points
-37,Nikola Jokic,DEN - C,29.5,Points
-38,Naz Reid,MIN - C,10.5,Points
-39,Nickeil Alexander-Walker,MIN - G,6.5,Points
-40,T.J. McConnell,IND - G,19.5,Pts+Rebs+Asts
-41,Obi Toppin,IND - F,16.5,Pts+Rebs+Asts
-42,Aaron Nesmith,IND - G-F,17.5,Pts+Rebs+Asts
-43,Donte DiVincenzo,NYK - G,28.5,Pts+Rebs+Asts
+0,Josh Hart,NYK - G,18.5,Rebs+Asts
+1,Tyrese Haliburton,IND - G,21.5,Points
+2,Michael Porter Jr.,DEN - F,16.5,Points
+3,Obi Toppin,IND - F,8.5,Points
+4,Donte DiVincenzo,NYK - G,23.5,Points
+5,Josh Hart,NYK - G,13.0,Rebounds
+6,Anthony Edwards,MIN - G,28.5,Points
+7,Jalen Brunson,NYK - G,32.5,Points
+8,Pascal Siakam,IND - F,22.5,Points
+9,Anthony Edwards,MIN - G,5.5,Rebounds
+10,Nikola Jokic,DEN - C,49.5,Pts+Rebs+Asts
+11,Jalen Brunson,NYK - G,42.5,Pts+Rebs+Asts
+12,Donte DiVincenzo,NYK - G,31.0,Pts+Rebs+Asts
+13,Aaron Gordon,DEN - F,5.0,Rebounds
+14,Isaiah Hartenstein,NYK - C-F,10.0,Rebounds
+15,Jalen Brunson,NYK - G,6.5,Assists
+16,Aaron Nesmith,IND - G-F,10.5,Points
+17,Donte DiVincenzo,NYK - G,23.5,Points
+18,Andrew Nembhard,IND - G-F,9.5,Points
+19,Isaiah Hartenstein,NYK - C-F,10.0,Points
+20,Myles Turner,IND - C-F,17.5,Points
+21,Jalen Brunson,NYK - G,32.5,Points
+22,Pascal Siakam,IND - F,22.5,Points
+23,Josh Hart,NYK - G,15.0,Points
+24,Tyrese Haliburton,IND - G,21.5,Points
+25,Alec Burks,NYK - G,8.0,Points
+26,Obi Toppin,IND - F,8.5,Points
+27,Miles McBride,NYK - G,9.0,Points
+28,T.J. McConnell,IND - G,10.5,Points
+29,Precious Achiuwa,NYK - F,6.5,Points
+30,Aaron Gordon,DEN - F,11.5,Points
+31,Anthony Edwards,MIN - G,28.5,Points
+32,Jamal Murray,DEN - G,21.5,Points
+33,Jaden McDaniels,MIN - F,9.0,Points
+34,Kentavious Caldwell-Pope,DEN - G,7.5,Points
+35,Karl-Anthony Towns,MIN - C-F,19.5,Points
+36,Michael Porter Jr.,DEN - F,16.5,Points
+37,Mike Conley,MIN - G,10.5,Points
+38,Nikola Jokic,DEN - C,27.5,Points
+39,Rudy Gobert,MIN - C,11.5,Points
+40,Naz Reid,MIN - C,10.5,Points
+41,Nickeil Alexander-Walker,MIN - G,7.5,Points
+42,Aaron Nesmith,IND - G-F,16.5,Pts+Rebs+Asts
+43,Donte DiVincenzo,NYK - G,31.0,Pts+Rebs+Asts
 44,Andrew Nembhard,IND - G-F,16.5,Pts+Rebs+Asts
-45,Isaiah Hartenstein,NYK - C-F,27.5,Pts+Rebs+Asts
-46,Myles Turner,IND - C-F,26.5,Pts+Rebs+Asts
-47,Jalen Brunson,NYK - G,46.5,Pts+Rebs+Asts
+45,Isaiah Hartenstein,NYK - C-F,25.0,Pts+Rebs+Asts
+46,Myles Turner,IND - C-F,27.5,Pts+Rebs+Asts
+47,Jalen Brunson,NYK - G,42.5,Pts+Rebs+Asts
 48,Pascal Siakam,IND - F,33.5,Pts+Rebs+Asts
-49,Josh Hart,NYK - G,36.0,Pts+Rebs+Asts
-50,Tyrese Haliburton,IND - G,33.5,Pts+Rebs+Asts
-51,Anthony Edwards,MIN - G,39.5,Pts+Rebs+Asts
-52,Aaron Gordon,DEN - F,22.5,Pts+Rebs+Asts
-53,Jamal Murray,DEN - G,31.0,Pts+Rebs+Asts
-54,Karl-Anthony Towns,MIN - C-F,29.5,Pts+Rebs+Asts
-55,Mike Conley,MIN - G,20.5,Pts+Rebs+Asts
-56,Michael Porter Jr.,DEN - F,24.5,Pts+Rebs+Asts
-57,Rudy Gobert,MIN - C,26.5,Pts+Rebs+Asts
-58,Nikola Jokic,DEN - C,50.5,Pts+Rebs+Asts
-59,T.J. McConnell,IND - G,2.5,Rebounds
-60,Obi Toppin,IND - F,4.0,Rebounds
-61,Aaron Nesmith,IND - G-F,4.0,Rebounds
-62,Donte DiVincenzo,NYK - G,4.5,Rebounds
-63,Isaiah Hartenstein,NYK - C-F,10.5,Rebounds
+49,Josh Hart,NYK - G,34.5,Pts+Rebs+Asts
+50,Tyrese Haliburton,IND - G,34.5,Pts+Rebs+Asts
+51,T.J. McConnell,IND - G,17.5,Pts+Rebs+Asts
+52,Aaron Gordon,DEN - F,20.5,Pts+Rebs+Asts
+53,Anthony Edwards,MIN - G,39.5,Pts+Rebs+Asts
+54,Jamal Murray,DEN - G,31.5,Pts+Rebs+Asts
+55,Karl-Anthony Towns,MIN - C-F,29.5,Pts+Rebs+Asts
+56,Michael Porter Jr.,DEN - F,23.5,Pts+Rebs+Asts
+57,Mike Conley,MIN - G,20.5,Pts+Rebs+Asts
+58,Nikola Jokic,DEN - C,49.5,Pts+Rebs+Asts
+59,Rudy Gobert,MIN - C,25.5,Pts+Rebs+Asts
+60,Aaron Nesmith,IND - G-F,4.5,Rebounds
+61,Donte DiVincenzo,NYK - G,4.5,Rebounds
+62,Andrew Nembhard,IND - G-F,2.5,Rebounds
+63,Isaiah Hartenstein,NYK - C-F,10.0,Rebounds
 64,Myles Turner,IND - C-F,7.5,Rebounds
 65,Pascal Siakam,IND - F,8.0,Rebounds
 66,Josh Hart,NYK - G,13.0,Rebounds
-67,Isaiah Jackson,IND - F,3.5,Rebounds
-68,Anthony Edwards,MIN - G,5.5,Rebounds
-69,Aaron Gordon,DEN - F,6.0,Rebounds
-70,Karl-Anthony Towns,MIN - C-F,7.5,Rebounds
-71,Michael Porter Jr.,DEN - F,6.5,Rebounds
-72,Rudy Gobert,MIN - C,12.5,Rebounds
-73,Nikola Jokic,DEN - C,12.5,Rebounds
-74,Naz Reid,MIN - C,3.5,Rebounds
-75,Kyle Anderson,MIN - F,2.5,Rebounds
-76,Aaron Nesmith,IND - G-F,22.5,Fantasy Score
-77,Donte DiVincenzo,NYK - G,33.5,Fantasy Score
-78,Andrew Nembhard,IND - G-F,20.5,Fantasy Score
-79,Isaiah Hartenstein,NYK - C-F,35.5,Fantasy Score
-80,Myles Turner,IND - C-F,34.0,Fantasy Score
-81,Jalen Brunson,NYK - G,51.0,Fantasy Score
-82,Pascal Siakam,IND - F,38.5,Fantasy Score
-83,Josh Hart,NYK - G,43.0,Fantasy Score
-84,Tyrese Haliburton,IND - G,43.0,Fantasy Score
-85,T.J. McConnell,IND - G,24.0,Fantasy Score
-86,Obi Toppin,IND - F,19.5,Fantasy Score
-87,Anthony Edwards,MIN - G,45.5,Fantasy Score
-88,Aaron Gordon,DEN - F,28.5,Fantasy Score
-89,Jaden McDaniels,MIN - F,18.0,Fantasy Score
-90,Jamal Murray,DEN - G,38.0,Fantasy Score
-91,Karl-Anthony Towns,MIN - C-F,34.0,Fantasy Score
-92,Kentavious Caldwell-Pope,DEN - G,18.0,Fantasy Score
-93,Mike Conley,MIN - G,26.0,Fantasy Score
-94,Michael Porter Jr.,DEN - F,29.0,Fantasy Score
-95,Rudy Gobert,MIN - C,36.0,Fantasy Score
-96,Nikola Jokic,DEN - C,59.5,Fantasy Score
-97,Naz Reid,MIN - C,19.5,Fantasy Score
-98,T.J. McConnell,IND - G,5.5,Assists
-99,Jalen Brunson,NYK - G,6.5,Assists
-100,Josh Hart,NYK - G,6.0,Assists
-101,Tyrese Haliburton,IND - G,9.5,Assists
-102,Anthony Edwards,MIN - G,5.5,Assists
-103,Jamal Murray,DEN - G,5.5,Assists
-104,Mike Conley,MIN - G,6.0,Assists
-105,Nikola Jokic,DEN - C,8.5,Assists
-106,Kyle Anderson,MIN - F,2.5,Assists
-107,Aaron Gordon,DEN - F,0.5,3-PT Made
-108,Michael Porter Jr.,DEN - F,2.5,3-PT Made
-109,Naz Reid,MIN - C,1.5,3-PT Made
-110,Myles Turner,IND - C-F,6.0,Defensive Rebounds
-111,Pascal Siakam,IND - F,6.0,Defensive Rebounds
-112,Josh Hart,NYK - G,10.0,Defensive Rebounds
-113,Karl-Anthony Towns,MIN - C-F,6.0,Defensive Rebounds
-114,Rudy Gobert,MIN - C,9.0,Defensive Rebounds
-115,Nikola Jokic,DEN - C,9.5,Defensive Rebounds
-116,Isaiah Hartenstein,NYK - C-F,3.5,Offensive Rebounds
-117,Myles Turner,IND - C-F,1.5,Offensive Rebounds
-118,Josh Hart,NYK - G,2.5,Offensive Rebounds
-119,Tyrese Haliburton,IND - G,0.5,Offensive Rebounds
-120,Anthony Edwards,MIN - G,0.5,Offensive Rebounds
-121,Karl-Anthony Towns,MIN - C-F,1.5,Offensive Rebounds
-122,Mike Conley,MIN - G,0.5,Offensive Rebounds
-123,Rudy Gobert,MIN - C,3.5,Offensive Rebounds
-124,Nikola Jokic,DEN - C,3.0,Offensive Rebounds
-125,Naz Reid,MIN - C,0.5,Offensive Rebounds
-126,Donte DiVincenzo,NYK - G,10.5,3-PT Attempted
-127,Myles Turner,IND - C-F,5.0,3-PT Attempted
-128,Jalen Brunson,NYK - G,7.0,3-PT Attempted
-129,Tyrese Haliburton,IND - G,8.5,3-PT Attempted
-130,Anthony Edwards,MIN - G,7.0,3-PT Attempted
-131,Jamal Murray,DEN - G,5.5,3-PT Attempted
-132,Karl-Anthony Towns,MIN - C-F,5.0,3-PT Attempted
-133,Kentavious Caldwell-Pope,DEN - G,4.0,3-PT Attempted
-134,Mike Conley,MIN - G,5.0,3-PT Attempted
-135,Michael Porter Jr.,DEN - F,7.0,3-PT Attempted
-136,Nikola Jokic,DEN - C,3.5,3-PT Attempted
-137,Naz Reid,MIN - C,4.5,3-PT Attempted
-138,Jalen Brunson + Tyrese Haliburton,NYK/IND - G,55.5,Points (Combo)
-139,Jalen Brunson + Pascal Siakam,NYK/IND - G/F,56.5,Points (Combo)
-140,Nikola Jokic + Anthony Edwards,DEN/MIN - C/G,57.5,Points (Combo)
-141,Jamal Murray + Karl-Anthony Towns,DEN/MIN - G/C,40.5,Points (Combo)
-142,Jalen Brunson + Nikola Jokic,NYK/DEN - G/C,65.5,Points (Combo)
-143,Jalen Brunson + Anthony Edwards,NYK/MIN - G,63.5,Points (Combo)
-144,Pascal Siakam + Karl-Anthony Towns,IND/MIN - F/C,40.5,Points (Combo)
-145,Tyrese Haliburton + Jamal Murray,IND/DEN - G,40.5,Points (Combo)
-146,Jalen Brunson + Tyrese Haliburton,NYK/IND - G,16.0,Assists (Combo)
-147,Nikola Jokic + Mike Conley,DEN/MIN - C/G,14.5,Assists (Combo)
-148,Tyrese Haliburton + Nikola Jokic,IND/DEN - G/C,18.0,Assists (Combo)
-149,Jalen Brunson + Jamal Murray,NYK/DEN - G,12.5,Assists (Combo)
-150,Josh Hart + Myles Turner,NYK/IND - G/C,20.5,Rebounds (Combo)
-151,Isaiah Hartenstein + Pascal Siakam,NYK/IND - C/F,18.5,Rebounds (Combo)
-152,Nikola Jokic + Rudy Gobert,DEN/MIN - C,25.0,Rebounds (Combo)
-153,Aaron Gordon + Karl-Anthony Towns,DEN/MIN - F/C,13.5,Rebounds (Combo)
-154,Josh Hart + Nikola Jokic,NYK/DEN - G/C,25.5,Rebounds (Combo)
-155,Myles Turner + Rudy Gobert,IND/MIN - C,20.0,Rebounds (Combo)
-156,Isaiah Hartenstein + Karl-Anthony Towns,NYK/MIN - C,18.0,Rebounds (Combo)
-157,Jalen Brunson + Tyrese Haliburton,NYK/IND - G,5.5,3-PT Made (Combo)
-158,Donte DiVincenzo + Tyrese Haliburton,NYK/IND - G,7.0,3-PT Made (Combo)
-159,Michael Porter Jr. + Anthony Edwards,DEN/MIN - F/G,5.0,3-PT Made (Combo)
-160,Donte DiVincenzo + Michael Porter Jr.,NYK/DEN - G/F,6.5,3-PT Made (Combo)
-161,Jalen Brunson + Anthony Edwards,NYK/MIN - G,5.5,3-PT Made (Combo)
-162,Tyrese Haliburton + Jamal Murray,IND/DEN - G,4.5,3-PT Made (Combo)
-163,Donte DiVincenzo,NYK - G,1.5,Free Throws Made
-164,Andrew Nembhard,IND - G-F,0.5,Free Throws Made
-165,Myles Turner,IND - C-F,3.0,Free Throws Made
-166,Jalen Brunson,NYK - G,7.5,Free Throws Made
-167,Josh Hart,NYK - G,2.5,Free Throws Made
-168,Tyrese Haliburton,IND - G,2.5,Free Throws Made
-169,Anthony Edwards,MIN - G,5.5,Free Throws Made
-170,Aaron Gordon,DEN - F,2.5,Free Throws Made
-171,Karl-Anthony Towns,MIN - C-F,3.5,Free Throws Made
-172,Kentavious Caldwell-Pope,DEN - G,0.5,Free Throws Made
-173,Mike Conley,MIN - G,1.5,Free Throws Made
-174,Rudy Gobert,MIN - C,3.0,Free Throws Made
-175,Nikola Jokic,DEN - C,5.5,Free Throws Made
-176,Naz Reid,MIN - C,1.5,Free Throws Made
-177,Myles Turner,IND - C-F,12.0,FG Attempted
-178,Jalen Brunson,NYK - G,26.5,FG Attempted
-179,Pascal Siakam,IND - F,15.5,FG Attempted
-180,Tyrese Haliburton,IND - G,15.5,FG Attempted
-181,T.J. McConnell,IND - G,9.5,FG Attempted
-182,Anthony Edwards,MIN - G,21.0,FG Attempted
-183,Aaron Gordon,DEN - F,9.5,FG Attempted
-184,Jamal Murray,DEN - G,18.0,FG Attempted
-185,Karl-Anthony Towns,MIN - C-F,14.5,FG Attempted
-186,Mike Conley,MIN - G,9.0,FG Attempted
-187,Michael Porter Jr.,DEN - F,13.5,FG Attempted
-188,Rudy Gobert,MIN - C,7.5,FG Attempted
-189,Naz Reid,MIN - C,8.5,FG Attempted
-190,T.J. McConnell,IND - G,13.5,Pts+Rebs
-191,Obi Toppin,IND - F,15.5,Pts+Rebs
-192,Aaron Nesmith,IND - G-F,15.5,Pts+Rebs
-193,Donte DiVincenzo,NYK - G,25.5,Pts+Rebs
-194,Andrew Nembhard,IND - G-F,12.5,Pts+Rebs
-195,Isaiah Hartenstein,NYK - C-F,22.5,Pts+Rebs
-196,Myles Turner,IND - C-F,24.5,Pts+Rebs
-197,Jalen Brunson,NYK - G,39.5,Pts+Rebs
-198,Pascal Siakam,IND - F,29.5,Pts+Rebs
-199,Josh Hart,NYK - G,29.5,Pts+Rebs
-200,Tyrese Haliburton,IND - G,23.5,Pts+Rebs
-201,Isaiah Jackson,IND - F,8.5,Pts+Rebs
-202,Anthony Edwards,MIN - G,33.5,Pts+Rebs
-203,Aaron Gordon,DEN - F,18.5,Pts+Rebs
-204,Jaden McDaniels,MIN - F,12.0,Pts+Rebs
-205,Jamal Murray,DEN - G,24.5,Pts+Rebs
-206,Karl-Anthony Towns,MIN - C-F,27.0,Pts+Rebs
-207,Kentavious Caldwell-Pope,DEN - G,10.5,Pts+Rebs
-208,Mike Conley,MIN - G,13.5,Pts+Rebs
-209,Michael Porter Jr.,DEN - F,23.0,Pts+Rebs
-210,Rudy Gobert,MIN - C,25.0,Pts+Rebs
-211,Nikola Jokic,DEN - C,42.5,Pts+Rebs
-212,Naz Reid,MIN - C,14.0,Pts+Rebs
-213,Obi Toppin,IND - F,0.5,Dunks
-214,Anthony Edwards,MIN - G,0.5,Dunks
-215,Jaden McDaniels,MIN - F,0.5,Dunks
-216,Michael Porter Jr.,DEN - F,0.5,Dunks
-217,Rudy Gobert,MIN - C,2.5,Dunks
-218,T.J. McConnell,IND - G,17.0,Pts+Asts
-219,Obi Toppin,IND - F,12.5,Pts+Asts
-220,Aaron Nesmith,IND - G-F,13.5,Pts+Asts
-221,Donte DiVincenzo,NYK - G,23.5,Pts+Asts
-222,Andrew Nembhard,IND - G-F,14.5,Pts+Asts
-223,Isaiah Hartenstein,NYK - C-F,16.5,Pts+Asts
-224,Myles Turner,IND - C-F,18.5,Pts+Asts
-225,Jalen Brunson,NYK - G,42.5,Pts+Asts
-226,Pascal Siakam,IND - F,24.5,Pts+Asts
-227,Josh Hart,NYK - G,22.5,Pts+Asts
-228,Tyrese Haliburton,IND - G,28.5,Pts+Asts
-229,Anthony Edwards,MIN - G,33.5,Pts+Asts
-230,Aaron Gordon,DEN - F,16.5,Pts+Asts
-231,Jaden McDaniels,MIN - F,10.5,Pts+Asts
-232,Jamal Murray,DEN - G,26.5,Pts+Asts
-233,Karl-Anthony Towns,MIN - C-F,22.5,Pts+Asts
-234,Kentavious Caldwell-Pope,DEN - G,10.5,Pts+Asts
-235,Mike Conley,MIN - G,17.5,Pts+Asts
-236,Michael Porter Jr.,DEN - F,17.5,Pts+Asts
-237,Rudy Gobert,MIN - C,14.5,Pts+Asts
-238,Nikola Jokic,DEN - C,38.5,Pts+Asts
-239,Naz Reid,MIN - C,11.5,Pts+Asts
-240,Aaron Nesmith,IND - G-F,0.5,Blocked Shots
-241,Donte DiVincenzo,NYK - G,0.5,Blocked Shots
-242,Myles Turner,IND - C-F,1.5,Blocked Shots
-243,Josh Hart,NYK - G,0.5,Blocked Shots
-244,Isaiah Jackson,IND - F,0.5,Blocked Shots
-245,Jamal Murray,DEN - G,0.5,Blocked Shots
-246,Nikola Jokic,DEN - C,0.5,Blocked Shots
-247,Jaden McDaniels,MIN - F,0.5,Blocked Shots
-248,Naz Reid,MIN - C,0.5,Blocked Shots
-249,Myles Turner,IND - C-F,0.5,Steals
-250,Tyrese Haliburton,IND - G,1.5,Steals
-251,Nikola Jokic,DEN - C,1.5,Steals
-252,Naz Reid,MIN - C,0.5,Steals
-253,Nickeil Alexander-Walker,MIN - G,0.5,Steals
-254,Kyle Anderson,MIN - F,0.5,Steals
-255,T.J. McConnell,IND - G,8.5,Rebs+Asts
-256,Donte DiVincenzo,NYK - G,7.5,Rebs+Asts
-257,Isaiah Hartenstein,NYK - C-F,14.5,Rebs+Asts
-258,Myles Turner,IND - C-F,9.5,Rebs+Asts
-259,Jalen Brunson,NYK - G,11.0,Rebs+Asts
-260,Pascal Siakam,IND - F,12.0,Rebs+Asts
-261,Josh Hart,NYK - G,19.0,Rebs+Asts
-262,Tyrese Haliburton,IND - G,14.0,Rebs+Asts
-263,Anthony Edwards,MIN - G,11.0,Rebs+Asts
-264,Aaron Gordon,DEN - F,10.0,Rebs+Asts
-265,Jamal Murray,DEN - G,10.0,Rebs+Asts
-266,Karl-Anthony Towns,MIN - C-F,10.5,Rebs+Asts
-267,Mike Conley,MIN - G,9.0,Rebs+Asts
-268,Michael Porter Jr.,DEN - F,8.0,Rebs+Asts
-269,Rudy Gobert,MIN - C,14.0,Rebs+Asts
-270,Nikola Jokic,DEN - C,21.5,Rebs+Asts
-271,Ben Sheppard,IND - G,0.5,Blks+Stls
-272,Mike Conley,MIN - G,1.5,Blks+Stls
-273,Michael Porter Jr.,DEN - F,1.5,Blks+Stls
-274,Jaden McDaniels,MIN - F,1.5,Blks+Stls
-275,Anthony Edwards,MIN - G,3.5,Turnovers
-276,Aaron Gordon,DEN - F,1.5,Turnovers
-277,Jamal Murray,DEN - G,2.5,Turnovers
-278,Michael Porter Jr.,DEN - F,1.5,Turnovers
-279,Kyle Anderson,MIN - F,0.5,Turnovers
+67,Tyrese Haliburton,IND - G,4.0,Rebounds
+68,Alec Burks,NYK - G,2.5,Rebounds
+69,Precious Achiuwa,NYK - F,6.0,Rebounds
+70,Isaiah Jackson,IND - F,3.5,Rebounds
+71,Aaron Gordon,DEN - F,5.0,Rebounds
+72,Anthony Edwards,MIN - G,5.5,Rebounds
+73,Karl-Anthony Towns,MIN - C-F,7.5,Rebounds
+74,Michael Porter Jr.,DEN - F,6.0,Rebounds
+75,Nikola Jokic,DEN - C,13.0,Rebounds
+76,Rudy Gobert,MIN - C,12.0,Rebounds
+77,Naz Reid,MIN - C,3.5,Rebounds
+78,Aaron Nesmith,IND - G-F,21.5,Fantasy Score
+79,Donte DiVincenzo,NYK - G,37.0,Fantasy Score
+80,Andrew Nembhard,IND - G-F,21.0,Fantasy Score
+81,Isaiah Hartenstein,NYK - C-F,33.0,Fantasy Score
+82,Myles Turner,IND - C-F,35.0,Fantasy Score
+83,Jalen Brunson,NYK - G,46.0,Fantasy Score
+84,Pascal Siakam,IND - F,38.5,Fantasy Score
+85,Josh Hart,NYK - G,41.5,Fantasy Score
+86,Tyrese Haliburton,IND - G,45.0,Fantasy Score
+87,Alec Burks,NYK - G,14.5,Fantasy Score
+88,Obi Toppin,IND - F,17.0,Fantasy Score
+89,Miles McBride,NYK - G,15.0,Fantasy Score
+90,T.J. McConnell,IND - G,21.5,Fantasy Score
+91,Precious Achiuwa,NYK - F,19.0,Fantasy Score
+92,Aaron Gordon,DEN - F,27.0,Fantasy Score
+93,Anthony Edwards,MIN - G,45.5,Fantasy Score
+94,Jamal Murray,DEN - G,38.0,Fantasy Score
+95,Kentavious Caldwell-Pope,DEN - G,18.0,Fantasy Score
+96,Karl-Anthony Towns,MIN - C-F,33.0,Fantasy Score
+97,Michael Porter Jr.,DEN - F,29.0,Fantasy Score
+98,Mike Conley,MIN - G,25.5,Fantasy Score
+99,Nikola Jokic,DEN - C,60.5,Fantasy Score
+100,Rudy Gobert,MIN - C,35.0,Fantasy Score
+101,Naz Reid,MIN - C,20.0,Fantasy Score
+102,Andrew Nembhard,IND - G-F,4.0,Assists
+103,Jalen Brunson,NYK - G,6.5,Assists
+104,Pascal Siakam,IND - F,3.5,Assists
+105,Josh Hart,NYK - G,5.0,Assists
+106,Tyrese Haliburton,IND - G,9.5,Assists
+107,T.J. McConnell,IND - G,4.5,Assists
+108,Anthony Edwards,MIN - G,5.5,Assists
+109,Jamal Murray,DEN - G,5.5,Assists
+110,Mike Conley,MIN - G,6.0,Assists
+111,Nikola Jokic,DEN - C,8.5,Assists
+112,Tyrese Haliburton,IND - G,3.5,3-PT Made
+113,Anthony Edwards,MIN - G,2.5,3-PT Made
+114,Michael Porter Jr.,DEN - F,2.5,3-PT Made
+115,Naz Reid,MIN - C,1.5,3-PT Made
+116,Isaiah Hartenstein,NYK - C-F,6.5,Defensive Rebounds
+117,Myles Turner,IND - C-F,6.5,Defensive Rebounds
+118,Pascal Siakam,IND - F,6.0,Defensive Rebounds
+119,Josh Hart,NYK - G,10.0,Defensive Rebounds
+120,Precious Achiuwa,NYK - F,4.0,Defensive Rebounds
+121,Nikola Jokic,DEN - C,10.0,Defensive Rebounds
+122,Rudy Gobert,MIN - C,9.0,Defensive Rebounds
+123,Andrew Nembhard,IND - G-F,0.5,Offensive Rebounds
+124,Isaiah Hartenstein,NYK - C-F,3.5,Offensive Rebounds
+125,Myles Turner,IND - C-F,1.5,Offensive Rebounds
+126,Jalen Brunson,NYK - G,0.5,Offensive Rebounds
+127,Josh Hart,NYK - G,3.5,Offensive Rebounds
+128,Tyrese Haliburton,IND - G,0.5,Offensive Rebounds
+129,Obi Toppin,IND - F,0.5,Offensive Rebounds
+130,Aaron Gordon,DEN - F,1.5,Offensive Rebounds
+131,Anthony Edwards,MIN - G,0.5,Offensive Rebounds
+132,Jamal Murray,DEN - G,0.5,Offensive Rebounds
+133,Nikola Jokic,DEN - C,3.0,Offensive Rebounds
+134,Aaron Nesmith,IND - G-F,4.5,3-PT Attempted
+135,Donte DiVincenzo,NYK - G,10.5,3-PT Attempted
+136,Myles Turner,IND - C-F,5.0,3-PT Attempted
+137,Jalen Brunson,NYK - G,6.5,3-PT Attempted
+138,Tyrese Haliburton,IND - G,10.5,3-PT Attempted
+139,Anthony Edwards,MIN - G,7.5,3-PT Attempted
+140,Jamal Murray,DEN - G,5.0,3-PT Attempted
+141,Karl-Anthony Towns,MIN - C-F,5.0,3-PT Attempted
+142,Michael Porter Jr.,DEN - F,7.0,3-PT Attempted
+143,Jalen Brunson + Tyrese Haliburton,NYK/IND - G,54.5,Points (Combo)
+144,Jalen Brunson + Pascal Siakam,NYK/IND - G/F,55.0,Points (Combo)
+145,Nikola Jokic + Anthony Edwards,DEN/MIN - C/G,56.0,Points (Combo)
+146,Jamal Murray + Karl-Anthony Towns,DEN/MIN - G/C,41.5,Points (Combo)
+147,Jalen Brunson + Tyrese Haliburton,NYK/IND - G,15.5,Assists (Combo)
+148,Nikola Jokic + Mike Conley,DEN/MIN - C/G,14.5,Assists (Combo)
+149,Josh Hart + Myles Turner,NYK/IND - G/C,21.5,Rebounds (Combo)
+150,Isaiah Hartenstein + Pascal Siakam,NYK/IND - C/F,18.0,Rebounds (Combo)
+151,Nikola Jokic + Rudy Gobert,DEN/MIN - C,25.0,Rebounds (Combo)
+152,Aaron Gordon + Karl-Anthony Towns,DEN/MIN - F/C,12.5,Rebounds (Combo)
+153,Jalen Brunson + Tyrese Haliburton,NYK/IND - G,6.0,3-PT Made (Combo)
+154,Donte DiVincenzo + Tyrese Haliburton,NYK/IND - G,8.0,3-PT Made (Combo)
+155,Michael Porter Jr. + Anthony Edwards,DEN/MIN - F/G,5.5,3-PT Made (Combo)
+156,Donte DiVincenzo,NYK - G,1.5,Free Throws Made
+157,Isaiah Hartenstein,NYK - C-F,1.5,Free Throws Made
+158,Myles Turner,IND - C-F,3.0,Free Throws Made
+159,Jalen Brunson,NYK - G,7.0,Free Throws Made
+160,Pascal Siakam,IND - F,2.5,Free Throws Made
+161,Josh Hart,NYK - G,3.0,Free Throws Made
+162,Tyrese Haliburton,IND - G,1.5,Free Throws Made
+163,Anthony Edwards,MIN - G,5.5,Free Throws Made
+164,Jamal Murray,DEN - G,3.0,Free Throws Made
+165,Karl-Anthony Towns,MIN - C-F,3.5,Free Throws Made
+166,Nikola Jokic,DEN - C,5.0,Free Throws Made
+167,Rudy Gobert,MIN - C,2.5,Free Throws Made
+168,Aaron Nesmith,IND - G-F,8.0,FG Attempted
+169,Donte DiVincenzo,NYK - G,19.5,FG Attempted
+170,Andrew Nembhard,IND - G-F,8.0,FG Attempted
+171,Isaiah Hartenstein,NYK - C-F,8.0,FG Attempted
+172,Myles Turner,IND - C-F,12.5,FG Attempted
+173,Jalen Brunson,NYK - G,24.5,FG Attempted
+174,Pascal Siakam,IND - F,17.0,FG Attempted
+175,Josh Hart,NYK - G,12.0,FG Attempted
+176,Tyrese Haliburton,IND - G,18.0,FG Attempted
+177,T.J. McConnell,IND - G,9.5,FG Attempted
+178,Anthony Edwards,MIN - G,21.5,FG Attempted
+179,Jamal Murray,DEN - G,18.0,FG Attempted
+180,Karl-Anthony Towns,MIN - C-F,14.0,FG Attempted
+181,Michael Porter Jr.,DEN - F,13.5,FG Attempted
+182,Naz Reid,MIN - C,8.5,FG Attempted
+183,Aaron Nesmith,IND - G-F,15.0,Pts+Rebs
+184,Donte DiVincenzo,NYK - G,28.0,Pts+Rebs
+185,Andrew Nembhard,IND - G-F,12.0,Pts+Rebs
+186,Isaiah Hartenstein,NYK - C-F,20.5,Pts+Rebs
+187,Myles Turner,IND - C-F,25.5,Pts+Rebs
+188,Jalen Brunson,NYK - G,36.0,Pts+Rebs
+189,Pascal Siakam,IND - F,30.0,Pts+Rebs
+190,Josh Hart,NYK - G,28.5,Pts+Rebs
+191,Tyrese Haliburton,IND - G,25.5,Pts+Rebs
+192,Alec Burks,NYK - G,11.0,Pts+Rebs
+193,Obi Toppin,IND - F,12.5,Pts+Rebs
+194,Miles McBride,NYK - G,11.5,Pts+Rebs
+195,T.J. McConnell,IND - G,13.5,Pts+Rebs
+196,Precious Achiuwa,NYK - F,12.5,Pts+Rebs
+197,Aaron Gordon,DEN - F,16.5,Pts+Rebs
+198,Anthony Edwards,MIN - G,33.5,Pts+Rebs
+199,Jamal Murray,DEN - G,25.5,Pts+Rebs
+200,Jaden McDaniels,MIN - F,12.5,Pts+Rebs
+201,Kentavious Caldwell-Pope,DEN - G,10.5,Pts+Rebs
+202,Karl-Anthony Towns,MIN - C-F,27.0,Pts+Rebs
+203,Michael Porter Jr.,DEN - F,22.5,Pts+Rebs
+204,Mike Conley,MIN - G,14.0,Pts+Rebs
+205,Nikola Jokic,DEN - C,41.0,Pts+Rebs
+206,Rudy Gobert,MIN - C,23.5,Pts+Rebs
+207,Naz Reid,MIN - C,14.0,Pts+Rebs
+208,Pascal Siakam,IND - F,0.5,Dunks
+209,Obi Toppin,IND - F,0.5,Dunks
+210,Aaron Gordon,DEN - F,2.0,Dunks
+211,Anthony Edwards,MIN - G,0.5,Dunks
+212,Jaden McDaniels,MIN - F,0.5,Dunks
+213,Michael Porter Jr.,DEN - F,0.5,Dunks
+214,Aaron Nesmith,IND - G-F,12.5,Pts+Asts
+215,Donte DiVincenzo,NYK - G,26.5,Pts+Asts
+216,Andrew Nembhard,IND - G-F,13.5,Pts+Asts
+217,Isaiah Hartenstein,NYK - C-F,14.5,Pts+Asts
+218,Myles Turner,IND - C-F,19.5,Pts+Asts
+219,Jalen Brunson,NYK - G,39.0,Pts+Asts
+220,Pascal Siakam,IND - F,25.5,Pts+Asts
+221,Josh Hart,NYK - G,20.5,Pts+Asts
+222,Tyrese Haliburton,IND - G,30.5,Pts+Asts
+223,Miles McBride,NYK - G,10.5,Pts+Asts
+224,T.J. McConnell,IND - G,14.5,Pts+Asts
+225,Aaron Gordon,DEN - F,15.5,Pts+Asts
+226,Anthony Edwards,MIN - G,34.0,Pts+Asts
+227,Jamal Murray,DEN - G,27.5,Pts+Asts
+228,Jaden McDaniels,MIN - F,10.5,Pts+Asts
+229,Karl-Anthony Towns,MIN - C-F,22.5,Pts+Asts
+230,Michael Porter Jr.,DEN - F,17.5,Pts+Asts
+231,Mike Conley,MIN - G,16.5,Pts+Asts
+232,Nikola Jokic,DEN - C,36.5,Pts+Asts
+233,Rudy Gobert,MIN - C,13.5,Pts+Asts
+234,Naz Reid,MIN - C,11.5,Pts+Asts
+235,Aaron Nesmith,IND - G-F,0.5,Blocked Shots
+236,Donte DiVincenzo,NYK - G,0.5,Blocked Shots
+237,Myles Turner,IND - C-F,1.5,Blocked Shots
+238,Josh Hart,NYK - G,0.5,Blocked Shots
+239,Isaiah Jackson,IND - F,0.5,Blocked Shots
+240,Jamal Murray,DEN - G,0.5,Blocked Shots
+241,Jaden McDaniels,MIN - F,0.5,Blocked Shots
+242,Naz Reid,MIN - C,0.5,Blocked Shots
+243,Miles McBride,NYK - G,0.5,Steals
+244,Justin Holiday,DEN - F-G,0.5,Steals
+245,Nickeil Alexander-Walker,MIN - G,0.5,Steals
+246,Donte DiVincenzo,NYK - G,7.5,Rebs+Asts
+247,Isaiah Hartenstein,NYK - C-F,14.5,Rebs+Asts
+248,Myles Turner,IND - C-F,9.5,Rebs+Asts
+249,Pascal Siakam,IND - F,11.5,Rebs+Asts
+250,Josh Hart,NYK - G,18.5,Rebs+Asts
+251,Precious Achiuwa,NYK - F,7.0,Rebs+Asts
+252,Aaron Gordon,DEN - F,9.0,Rebs+Asts
+253,Anthony Edwards,MIN - G,11.5,Rebs+Asts
+254,Jamal Murray,DEN - G,10.0,Rebs+Asts
+255,Karl-Anthony Towns,MIN - C-F,10.5,Rebs+Asts
+256,Mike Conley,MIN - G,9.5,Rebs+Asts
+257,Nikola Jokic,DEN - C,21.5,Rebs+Asts
+258,Rudy Gobert,MIN - C,13.5,Rebs+Asts
+259,Ben Sheppard,IND - G,0.5,Blks+Stls
+260,Michael Porter Jr.,DEN - F,1.5,Blks+Stls
+261,Nikola Jokic,DEN - C,2.5,Blks+Stls
+262,Christian Braun,DEN - G,0.5,Blks+Stls
+263,Tyrese Haliburton,IND - G,2.5,Turnovers
+264,Alec Burks,NYK - G,0.5,Turnovers
+265,Obi Toppin,IND - F,0.5,Turnovers
+266,Miles McBride,NYK - G,0.5,Turnovers
+267,Anthony Edwards,MIN - G,3.5,Turnovers
+268,Jamal Murray,DEN - G,2.5,Turnovers

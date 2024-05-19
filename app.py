@@ -591,7 +591,7 @@ def extract_value_and_odds(odds_str):
     return None, None
 
 def calculate_implied_probability_for_value(row):
-    sportsbooks = ['draftkings', 'fanduel', 'pointsbet']
+    sportsbooks = ['draftkings', 'fanduel', 'mgm']
     valid_probs = []
     any_value_matches = False  # Assume no values match initially
 
@@ -1163,7 +1163,7 @@ elif view == "Over/Under Stats L10":
         unsafe_allow_html=True
     )
     def filter_rows_with_all_odds(row):
-        sportsbooks = ['fanduel', 'draftkings', 'pointsbet', 'mgm']  # Replace 'fourth_sportsbook' with your actual column name
+        sportsbooks = ['fanduel', 'draftkings', 'mgm']  # Replace 'fourth_sportsbook' with your actual column name
         return all(pd.notnull(row[book]) for book in sportsbooks)
     
 

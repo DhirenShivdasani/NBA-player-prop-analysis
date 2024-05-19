@@ -1097,7 +1097,7 @@ elif view == "Over/Under Stats L10":
 
     combined_df.drop(['level_3', 'Exact %'], axis =1, inplace = True)
 
-    sportsbooks = ['fanduel', 'draftkings', 'pointsbet']  # Add or remove sportsbook columns as necessary
+    sportsbooks = ['fanduel', 'draftkings', 'mgm']  # Add or remove sportsbook columns as necessary
 
 
     for book in sportsbooks:

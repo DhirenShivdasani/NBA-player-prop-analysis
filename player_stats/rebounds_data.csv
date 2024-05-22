@@ -21,7 +21,7 @@ Rank,Player,Team,Pos,Value
 20,Josh Hart,New York Knicks,SG,8.78
 21,John Collins,Utah Jazz,PF,8.46
 22,Karl-Anthony Towns,Minnesota Timberwolves,C,8.45
-23,Jayson Tatum,Boston Celtics,SF,8.39
+23,Jayson Tatum,Boston Celtics,SF,8.44
 24,Isaiah Hartenstein,New York Knicks,C,8.27
 25,Scottie Barnes,Toronto Raptors,SF,8.23
 26,Jabari Smith Jr.,Houston Rockets,PF,8.11
@@ -33,13 +33,13 @@ Rank,Player,Team,Pos,Value
 32,Miles Bridges,Charlotte Hornets,SF,7.32
 33,Daniel Gafford,Dallas Mavericks,PF,7.30
 34,Deni Avdija,Washington Wizards,SF,7.20
-35,Pascal Siakam,Indiana Pacers,PF,7.13
+35,Pascal Siakam,Indiana Pacers,PF,7.18
 36,Paolo Banchero,Orlando Magic,PF,7.06
 37,Jabari Walker,Portland Trail Blazers,PF,7.06
 38,Kristaps Porzingis,Boston Celtics,PF,7.03
 39,Michael Porter Jr.,Denver Nuggets,PF,6.96
-40,Dereck Lively II,Dallas Mavericks,C,6.90
-41,Myles Turner,Indiana Pacers,C,6.87
+40,Myles Turner,Indiana Pacers,C,6.90
+41,Dereck Lively II,Dallas Mavericks,C,6.90
 42,Wendell Carter Jr.,Orlando Magic,C,6.85
 43,Kyle Kuzma,Washington Wizards,PF,6.63
 44,Amen Thompson,Houston Rockets,SG,6.60
@@ -47,7 +47,7 @@ Rank,Player,Team,Pos,Value
 46,Tobias Harris,Philadelphia 76ers,SF,6.57
 47,Aaron Gordon,Denver Nuggets,PF,6.56
 48,Saddiq Bey,Atlanta Hawks,PG,6.52
-49,Al Horford,Boston Celtics,C,6.48
+49,Al Horford,Boston Celtics,C,6.47
 50,Jeremy Sochan,San Antonio Spurs,PF,6.43
 51,Ausar Thompson,Detroit Pistons,SG,6.38
 52,Day'Ron Sharpe,Brooklyn Nets,C,6.38
@@ -56,12 +56,12 @@ Rank,Player,Team,Pos,Value
 55,Josh Giddey,Oklahoma City Thunder,SG,6.11
 56,Zion Williamson,New Orleans Pelicans,PF,5.87
 57,Kevin Love,Miami Heat,PF,5.82
-58,P.J. Washington,Dallas Mavericks,PF,5.80
 58,Brandin Podziemski,Golden State Warriors,SG,5.80
+58,P.J. Washington,Dallas Mavericks,PF,5.80
 60,Santi Aldama,Memphis Grizzlies,PF,5.77
 61,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,5.73
 62,Paul Reed,Philadelphia 76ers,PF,5.69
-63,Jaylen Brown,Boston Celtics,SG,5.66
+63,Jaylen Brown,Boston Celtics,SG,5.68
 64,Kevon Looney,Golden State Warriors,PF,5.65
 65,Anthony Edwards,Minnesota Timberwolves,SG,5.53
 66,Jaren Jackson Jr.,Memphis Grizzlies,PF,5.53
@@ -69,15 +69,15 @@ Rank,Player,Team,Pos,Value
 68,Keldon Johnson,San Antonio Spurs,SF,5.46
 69,RJ Barrett,Toronto Raptors,SF,5.43
 70,Franz Wagner,Orlando Magic,SF,5.43
-71,Paul George,Los Angeles Clippers,SF,5.36
-72,Zach Collins,San Antonio Spurs,PF,5.36
-73,Dejounte Murray,Atlanta Hawks,PG,5.35
-73,Jrue Holiday,Boston Celtics,PG,5.35
+71,Jrue Holiday,Boston Celtics,PG,5.38
+72,Paul George,Los Angeles Clippers,SF,5.36
+73,Zach Collins,San Antonio Spurs,PF,5.36
+74,Dejounte Murray,Atlanta Hawks,PG,5.35
 75,James Wiseman,Detroit Pistons,C,5.33
 76,Larry Nance Jr.,New Orleans Pelicans,SF,5.31
-77,Jalen Smith,Indiana Pacers,PF,5.29
-78,Jimmy Butler,Miami Heat,PF,5.28
-79,Kelly Olynyk,Toronto Raptors,PF,5.27
+77,Jimmy Butler,Miami Heat,PF,5.28
+78,Kelly Olynyk,Toronto Raptors,PF,5.27
+79,Jalen Smith,Indiana Pacers,PF,5.21
 80,Jalen Green,Houston Rockets,SG,5.16
 81,Donovan Mitchell,Cleveland Cavaliers,SG,5.14
 82,Brook Lopez,Milwaukee Bucks,C,5.12

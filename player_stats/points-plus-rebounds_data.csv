@@ -4,7 +4,7 @@ Rank,Player,Team,Pos,Value
 3,Nikola Jokic,Denver Nuggets,C,39.19
 4,Anthony Davis,Los Angeles Lakers,PF,37.95
 5,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,35.80
-6,Jayson Tatum,Boston Celtics,SF,35.09
+6,Jayson Tatum,Boston Celtics,SF,35.02
 7,Kevin Durant,Phoenix Suns,SF,33.67
 8,LeBron James,Los Angeles Lakers,SF,33.08
 9,Domantas Sabonis,Sacramento Kings,PF,33.07
@@ -24,9 +24,9 @@ Rank,Player,Team,Pos,Value
 23,Bam Adebayo,Miami Heat,C,29.53
 24,Damian Lillard,Milwaukee Bucks,PG,29.00
 25,Zion Williamson,New Orleans Pelicans,PF,28.99
-26,Pascal Siakam,Indiana Pacers,PF,28.83
-27,Kyle Kuzma,Washington Wizards,PF,28.81
-28,Jaylen Brown,Boston Celtics,SG,28.73
+26,Jaylen Brown,Boston Celtics,SG,28.93
+27,Pascal Siakam,Indiana Pacers,PF,28.87
+28,Kyle Kuzma,Washington Wizards,PF,28.81
 29,Nikola Vucevic,Chicago Bulls,C,28.68
 30,Miles Bridges,Charlotte Hornets,SF,28.32
 31,DeMar DeRozan,Chicago Bulls,SG,28.27
@@ -49,8 +49,8 @@ Rank,Player,Team,Pos,Value
 48,Jalen Green,Houston Rockets,SG,24.79
 49,Chet Holmgren,Oklahoma City Thunder,C,24.27
 50,Mikal Bridges,Brooklyn Nets,SG,24.12
-51,Tyrese Haliburton,Indiana Pacers,PG,24.04
-52,Myles Turner,Indiana Pacers,C,24.01
+51,Tyrese Haliburton,Indiana Pacers,PG,23.92
+52,Myles Turner,Indiana Pacers,C,23.88
 53,CJ McCollum,New Orleans Pelicans,SG,23.88
 54,Coby White,Chicago Bulls,SG,23.86
 55,Terry Rozier,Miami Heat,PG,23.80
@@ -85,7 +85,7 @@ Rank,Player,Team,Pos,Value
 84,Saddiq Bey,Atlanta Hawks,PG,20.22
 85,Kelly Oubre Jr.,Philadelphia 76ers,SF,20.16
 86,Jordan Poole,Washington Wizards,SG,20.10
-87,Derrick White,Boston Celtics,PG,19.74
+87,Derrick White,Boston Celtics,PG,19.82
 88,Trey Murphy III,New Orleans Pelicans,SF,19.59
 89,Donte DiVincenzo,New York Knicks,SG,19.56
 90,De'Andre Hunter,Atlanta Hawks,PF,19.36

@@ -15,26 +15,26 @@ Anthony Edwards,@DAL,Rebs+Asts,Over,(11.5) -120,(11.5) -118,(11.5) -145
 Anthony Edwards,@DAL,Rebs+Asts,Under,(11.5) 100,(11.5) -108,(11.5) 105
 Daniel Gafford,MIN,Assists,Over,,,(0.5) -165
 Daniel Gafford,MIN,Assists,Under,,,(0.5) 125
-Daniel Gafford,MIN,Points,Over,(8.5) -112,(8.5) -104,(8.5) -130
-Daniel Gafford,MIN,Points,Under,(8.5) -108,(8.5) -122,(8.5) -105
+Daniel Gafford,MIN,Points,Over,(8.5) -112,(8.5) -106,(8.5) -130
+Daniel Gafford,MIN,Points,Under,(8.5) -108,(8.5) -120,(8.5) -105
 Daniel Gafford,MIN,Pts+Asts,Over,,,(9.5) -130
 Daniel Gafford,MIN,Pts+Asts,Under,,,(9.5) 100
 Daniel Gafford,MIN,Pts+Rebs,Over,(14.5) -108,(14.5) -108,(14.5) -125
 Daniel Gafford,MIN,Pts+Rebs,Under,(14.5) -112,(14.5) -118,(14.5) -105
 Daniel Gafford,MIN,Pts+Rebs+Asts,Over,,,(15.5) -120
 Daniel Gafford,MIN,Pts+Rebs+Asts,Under,,,(15.5) -110
-Daniel Gafford,MIN,Rebounds,Over,(5.5) -118,(5.5) -125,(5.5) -125
-Daniel Gafford,MIN,Rebounds,Under,(5.5) -102,(5.5) -102,(5.5) -105
+Daniel Gafford,MIN,Rebounds,Over,(5.5) -118,(5.5) -130,(5.5) -125
+Daniel Gafford,MIN,Rebounds,Under,(5.5) -102,(5.5) 102,(5.5) -105
 Daniel Gafford,MIN,Rebs+Asts,Over,,,(6.5) -120
 Daniel Gafford,MIN,Rebs+Asts,Under,,,(6.5) -115
 Dereck Lively,MIN,Assists,Over,,,(1.5) 125
 Dereck Lively,MIN,Assists,Under,,,(1.5) -165
-Dereck Lively,MIN,Points,Over,(8.5) 100,(8.5) -113,(8.5) -105
-Dereck Lively,MIN,Points,Under,(8.5) -120,(8.5) -113,(8.5) -130
+Dereck Lively,MIN,Points,Over,(8.5) 100,(8.5) -111,(8.5) -105
+Dereck Lively,MIN,Points,Under,(8.5) -120,(8.5) -115,(8.5) -130
 Dereck Lively,MIN,Pts+Asts,Over,,,
 Dereck Lively,MIN,Pts+Asts,Under,,,
-Dereck Lively,MIN,Pts+Rebs,Over,(16.5) -105,(16.5) -104,(16.5) 100
-Dereck Lively,MIN,Pts+Rebs,Under,(16.5) -115,(16.5) -122,(16.5) -130
+Dereck Lively,MIN,Pts+Rebs,Over,(16.5) -105,(16.5) -102,(16.5) 100
+Dereck Lively,MIN,Pts+Rebs,Under,(16.5) -115,(16.5) -125,(16.5) -130
 Dereck Lively,MIN,Pts+Rebs+Asts,Over,(17.5) -112,,(17.5) -120
 Dereck Lively,MIN,Pts+Rebs+Asts,Under,(17.5) -108,,(17.5) -110
 Dereck Lively,MIN,Rebounds,Over,(7.5) -105,(7.5) -106,(7.5) -110
@@ -43,12 +43,12 @@ Dereck Lively,MIN,Rebs+Asts,Over,(8.5) -125,,(8.5) -140
 Dereck Lively,MIN,Rebs+Asts,Under,(8.5) 105,,(8.5) 105
 Derrick Jones,MIN,Assists,Over,,,(1.5) 175
 Derrick Jones,MIN,Assists,Under,,,(1.5) -250
-Derrick Jones,MIN,Points,Over,(8.5) -115,(8.5) -111,(8.5) -130
-Derrick Jones,MIN,Points,Under,(8.5) -105,(8.5) -115,(8.5) -105
+Derrick Jones,MIN,Points,Over,(8.5) -115,(8.5) -108,(8.5) -130
+Derrick Jones,MIN,Points,Under,(8.5) -105,(8.5) -118,(8.5) -105
 Derrick Jones,MIN,Pts+Asts,Over,,,(9.5) -135
 Derrick Jones,MIN,Pts+Asts,Under,,,(9.5) 100
-Derrick Jones,MIN,Pts+Rebs,Over,(12.5) -108,(12.5) -102,(12.5) -115
-Derrick Jones,MIN,Pts+Rebs,Under,(12.5) -112,(12.5) -125,(12.5) -120
+Derrick Jones,MIN,Pts+Rebs,Over,(12.5) -108,(12.5) -104,(12.5) -115
+Derrick Jones,MIN,Pts+Rebs,Under,(12.5) -112,(12.5) -122,(12.5) -120
 Derrick Jones,MIN,Pts+Rebs+Asts,Over,,,(13.5) -120
 Derrick Jones,MIN,Pts+Rebs+Asts,Under,,,(13.5) -110
 Derrick Jones,MIN,Rebounds,Over,(3.5) -108,(3.5) -115,(3.5) -110
@@ -81,12 +81,12 @@ Jaden McDaniels,@DAL,Pts+Rebs+Asts,Over,,(16.5) -106,(15.5) -125
 Jaden McDaniels,@DAL,Pts+Rebs+Asts,Under,,(16.5) -120,(15.5) -105
 Jaden McDaniels,@DAL,Rebounds,Over,(4.5) 124,(4.5) 118,(4.5) 105
 Jaden McDaniels,@DAL,Rebounds,Under,(4.5) -148,(4.5) -150,(4.5) -145
-Jaden McDaniels,@DAL,Rebs+Asts,Over,,,(5.5) -155
-Jaden McDaniels,@DAL,Rebs+Asts,Under,,,(5.5) 115
+Jaden McDaniels,@DAL,Rebs+Asts,Over,,,
+Jaden McDaniels,@DAL,Rebs+Asts,Under,,,
 Josh Green,MIN,Assists,Over,,,(0.5) -210
 Josh Green,MIN,Assists,Under,,,(0.5) 150
-Josh Green,MIN,Points,Over,,(4.5) -115,(4.5) -120
-Josh Green,MIN,Points,Under,,(4.5) -111,(4.5) -110
+Josh Green,MIN,Points,Over,,(4.5) -113,(4.5) -120
+Josh Green,MIN,Points,Under,,(4.5) -113,(4.5) -110
 Josh Green,MIN,Pts+Asts,Over,,,
 Josh Green,MIN,Pts+Asts,Under,,,
 Josh Green,MIN,Pts+Rebs,Over,,,(6.5) -130
@@ -127,34 +127,34 @@ Kyle Anderson,@DAL,Rebs+Asts,Over,,,
 Kyle Anderson,@DAL,Rebs+Asts,Under,,,
 Kyrie Irving,MIN,Assists,Over,(4.5) -142,(4.5) -142,(4.5) -135
 Kyrie Irving,MIN,Assists,Under,(4.5) 120,(4.5) 112,(4.5) 105
-Kyrie Irving,MIN,Points,Over,(22.5) -105,(22.5) -104,(22.5) -110
-Kyrie Irving,MIN,Points,Under,(22.5) -115,(22.5) -122,(22.5) -120
-Kyrie Irving,MIN,Pts+Asts,Over,(27.5) -105,(27.5) -106,(27.5) -110
-Kyrie Irving,MIN,Pts+Asts,Under,(27.5) -115,(27.5) -120,(27.5) -120
+Kyrie Irving,MIN,Points,Over,(22.5) -105,(22.5) -102,(22.5) -110
+Kyrie Irving,MIN,Points,Under,(22.5) -115,(22.5) -125,(22.5) -120
+Kyrie Irving,MIN,Pts+Asts,Over,(27.5) -105,(27.5) -104,(27.5) -110
+Kyrie Irving,MIN,Pts+Asts,Under,(27.5) -115,(27.5) -122,(27.5) -120
 Kyrie Irving,MIN,Pts+Rebs,Over,(26.5) -105,(26.5) -111,(26.5) -110
 Kyrie Irving,MIN,Pts+Rebs,Under,(26.5) -115,(26.5) -115,(26.5) -120
 Kyrie Irving,MIN,Pts+Rebs+Asts,Over,(31.5) -105,(31.5) -111,(31.5) -110
 Kyrie Irving,MIN,Pts+Rebs+Asts,Under,(31.5) -115,(31.5) -115,(31.5) -120
-Kyrie Irving,MIN,Rebounds,Over,(3.5) -155,(3.5) -148,(3.5) -155
-Kyrie Irving,MIN,Rebounds,Under,(3.5) 130,(3.5) 116,(3.5) 115
-Kyrie Irving,MIN,Rebs+Asts,Over,(8.5) -130,(8.5) -138,(8.5) -145
-Kyrie Irving,MIN,Rebs+Asts,Under,(8.5) 110,(8.5) 108,(8.5) 105
-Luka Doncic,MIN,Assists,Over,(9.5) 114,(9.5) 112,(9.5) 110
-Luka Doncic,MIN,Assists,Under,(9.5) -135,(9.5) -142,(9.5) -145
-Luka Doncic,MIN,Points,Over,(30.5) -108,(29.5) -115,(30.5) -110
-Luka Doncic,MIN,Points,Under,(30.5) -112,(29.5) -111,(30.5) -120
-Luka Doncic,MIN,Pts+Asts,Over,(39.5) -112,(38.5) -120,(39.5) -120
-Luka Doncic,MIN,Pts+Asts,Under,(39.5) -108,(38.5) -106,(39.5) -115
-Luka Doncic,MIN,Pts+Rebs,Over,(39.5) -102,(38.5) -120,(39.5) -110
-Luka Doncic,MIN,Pts+Rebs,Under,(39.5) -118,(38.5) -106,(39.5) -125
-Luka Doncic,MIN,Pts+Rebs+Asts,Over,(48.5) -110,(47.5) -125,(48.5) -115
-Luka Doncic,MIN,Pts+Rebs+Asts,Under,(48.5) -110,(47.5) -102,(48.5) -115
-Luka Doncic,MIN,Rebounds,Over,(8.5) -108,(8.5) -132,(8.5) -115
-Luka Doncic,MIN,Rebounds,Under,(8.5) -112,(8.5) 104,(8.5) -120
-Luka Doncic,MIN,Rebs+Asts,Over,(17.5) -122,(18.5) 104,(17.5) -130
-Luka Doncic,MIN,Rebs+Asts,Under,(17.5) 102,(18.5) -132,(17.5) 100
-Mike Conley,@DAL,Assists,Over,(5.5) -102,(5.5) -111,(5.5) -110
-Mike Conley,@DAL,Assists,Under,(5.5) -118,(5.5) -115,(5.5) -125
+Kyrie Irving,MIN,Rebounds,Over,(3.5) -155,(3.5) -154,(3.5) -155
+Kyrie Irving,MIN,Rebounds,Under,(3.5) 130,(3.5) 122,(3.5) 115
+Kyrie Irving,MIN,Rebs+Asts,Over,(8.5) -130,(8.5) -142,(8.5) -145
+Kyrie Irving,MIN,Rebs+Asts,Under,(8.5) 110,(8.5) 112,(8.5) 105
+Luka Doncic,MIN,Assists,Over,(9.5) 114,(8.5) -148,(9.5) 110
+Luka Doncic,MIN,Assists,Under,(9.5) -135,(8.5) 116,(9.5) -145
+Luka Doncic,MIN,Points,Over,(30.5) -108,(30.5) -108,(30.5) -110
+Luka Doncic,MIN,Points,Under,(30.5) -112,(30.5) -118,(30.5) -120
+Luka Doncic,MIN,Pts+Asts,Over,(39.5) -112,(39.5) -113,(39.5) -120
+Luka Doncic,MIN,Pts+Asts,Under,(39.5) -108,(39.5) -113,(39.5) -115
+Luka Doncic,MIN,Pts+Rebs,Over,(39.5) -102,(39.5) -113,(39.5) -110
+Luka Doncic,MIN,Pts+Rebs,Under,(39.5) -118,(39.5) -113,(39.5) -125
+Luka Doncic,MIN,Pts+Rebs+Asts,Over,(48.5) -110,(48.5) -115,(48.5) -115
+Luka Doncic,MIN,Pts+Rebs+Asts,Under,(48.5) -110,(48.5) -111,(48.5) -115
+Luka Doncic,MIN,Rebounds,Over,(8.5) -115,(8.5) -136,(8.5) -130
+Luka Doncic,MIN,Rebounds,Under,(8.5) -105,(8.5) 106,(8.5) -105
+Luka Doncic,MIN,Rebs+Asts,Over,(17.5) -122,(18.5) 106,(17.5) -130
+Luka Doncic,MIN,Rebs+Asts,Under,(17.5) 102,(18.5) -136,(17.5) 100
+Mike Conley,@DAL,Assists,Over,(5.5) 102,(5.5) -111,(5.5) -110
+Mike Conley,@DAL,Assists,Under,(5.5) -122,(5.5) -115,(5.5) -125
 Mike Conley,@DAL,Points,Over,(12.5) 100,(12.5) -111,(12.5) -105
 Mike Conley,@DAL,Points,Under,(12.5) -120,(12.5) -115,(12.5) -125
 Mike Conley,@DAL,Pts+Asts,Over,(17.5) -120,(18.5) 100,
@@ -197,8 +197,8 @@ Nickeil Alexander-Walker,@DAL,Rebs+Asts,Over,,,(2.5) -135
 Nickeil Alexander-Walker,@DAL,Rebs+Asts,Under,,,(2.5) 100
 P.J. Washington,MIN,Assists,Over,,,(1.5) 150
 P.J. Washington,MIN,Assists,Under,,,(1.5) -210
-P.J. Washington,MIN,Points,Over,(11.5) -125,(12.5) 102,(11.5) -135
-P.J. Washington,MIN,Points,Under,(11.5) 105,(12.5) -130,(11.5) 100
+P.J. Washington,MIN,Points,Over,(11.5) -125,(12.5) 100,(11.5) -135
+P.J. Washington,MIN,Points,Under,(11.5) 105,(12.5) -128,(11.5) 100
 P.J. Washington,MIN,Pts+Asts,Over,(13.5) 100,,(13.5) -105
 P.J. Washington,MIN,Pts+Asts,Under,(13.5) -120,,(13.5) -125
 P.J. Washington,MIN,Pts+Rebs,Over,(17.5) -120,(18.5) -102,(17.5) -125
@@ -217,9 +217,9 @@ Rudy Gobert,@DAL,Pts+Asts,Over,(13.5) -112,,(13.5) -120
 Rudy Gobert,@DAL,Pts+Asts,Under,(13.5) -108,,(13.5) -115
 Rudy Gobert,@DAL,Pts+Rebs,Over,(23.5) -108,(23.5) -122,(23.5) -110
 Rudy Gobert,@DAL,Pts+Rebs,Under,(23.5) -112,(23.5) -104,(23.5) -120
-Rudy Gobert,@DAL,Pts+Rebs+Asts,Over,(24.5) -135,(25.5) -111,(24.5) -120
-Rudy Gobert,@DAL,Pts+Rebs+Asts,Under,(24.5) 114,(25.5) -115,(24.5) -110
+Rudy Gobert,@DAL,Pts+Rebs+Asts,Over,(24.5) -122,(25.5) -111,(24.5) -120
+Rudy Gobert,@DAL,Pts+Rebs+Asts,Under,(24.5) 102,(25.5) -115,(24.5) -110
 Rudy Gobert,@DAL,Rebounds,Over,(11.5) 114,(11.5) 106,(11.5) 110
 Rudy Gobert,@DAL,Rebounds,Under,(11.5) -135,(11.5) -136,(11.5) -145
-Rudy Gobert,@DAL,Rebs+Asts,Over,(12.5) -102,(12.5) -115,(12.5) -110
-Rudy Gobert,@DAL,Rebs+Asts,Under,(12.5) -118,(12.5) -111,(12.5) -120
+Rudy Gobert,@DAL,Rebs+Asts,Over,(12.5) -102,(12.5) -113,(12.5) -110
+Rudy Gobert,@DAL,Rebs+Asts,Under,(12.5) -118,(12.5) -113,(12.5) -120

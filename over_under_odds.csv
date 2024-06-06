@@ -5,12 +5,12 @@ Al Horford,DAL,Points,Over,(6.5) -115
 Al Horford,DAL,Points,Under,(6.5) -105
 Al Horford,DAL,Pts+Asts,Over,
 Al Horford,DAL,Pts+Asts,Under,
-Al Horford,DAL,Pts+Rebs,Over,(11.5) -122
-Al Horford,DAL,Pts+Rebs,Under,(11.5) 102
+Al Horford,DAL,Pts+Rebs,Over,(11.5) -125
+Al Horford,DAL,Pts+Rebs,Under,(11.5) 105
 Al Horford,DAL,Pts+Rebs+Asts,Over,
 Al Horford,DAL,Pts+Rebs+Asts,Under,
-Al Horford,DAL,Rebounds,Over,(4.5) -148
-Al Horford,DAL,Rebounds,Under,(4.5) 124
+Al Horford,DAL,Rebounds,Over,(5.5) 120
+Al Horford,DAL,Rebounds,Under,(5.5) -142
 Al Horford,DAL,Rebs+Asts,Over,
 Al Horford,DAL,Rebs+Asts,Under,
 Daniel Gafford,@BOS,Assists,Over,
@@ -19,8 +19,8 @@ Daniel Gafford,@BOS,Points,Over,(8.5) 110
 Daniel Gafford,@BOS,Points,Under,(8.5) -130
 Daniel Gafford,@BOS,Pts+Asts,Over,
 Daniel Gafford,@BOS,Pts+Asts,Under,
-Daniel Gafford,@BOS,Pts+Rebs,Over,(14.5) -105
-Daniel Gafford,@BOS,Pts+Rebs,Under,(14.5) -115
+Daniel Gafford,@BOS,Pts+Rebs,Over,(14.5) -102
+Daniel Gafford,@BOS,Pts+Rebs,Under,(14.5) -118
 Daniel Gafford,@BOS,Pts+Rebs+Asts,Over,
 Daniel Gafford,@BOS,Pts+Rebs+Asts,Under,
 Daniel Gafford,@BOS,Rebounds,Over,(5.5) -122
@@ -91,14 +91,14 @@ Jaylen Brown,DAL,Pts+Asts,Over,(25.5) -115
 Jaylen Brown,DAL,Pts+Asts,Under,(25.5) -105
 Jaylen Brown,DAL,Pts+Rebs,Over,(29.5) 100
 Jaylen Brown,DAL,Pts+Rebs,Under,(29.5) -120
-Jaylen Brown,DAL,Pts+Rebs+Asts,Over,(32.5) -105
-Jaylen Brown,DAL,Pts+Rebs+Asts,Under,(32.5) -115
+Jaylen Brown,DAL,Pts+Rebs+Asts,Over,(31.5) -120
+Jaylen Brown,DAL,Pts+Rebs+Asts,Under,(31.5) 100
 Jaylen Brown,DAL,Rebounds,Over,(6.5) 124
 Jaylen Brown,DAL,Rebounds,Under,(6.5) -148
 Jaylen Brown,DAL,Rebs+Asts,Over,(8.5) -130
 Jaylen Brown,DAL,Rebs+Asts,Under,(8.5) 110
-Jayson Tatum,DAL,Assists,Over,(5.5) -108
-Jayson Tatum,DAL,Assists,Under,(5.5) -112
+Jayson Tatum,DAL,Assists,Over,(5.5) -115
+Jayson Tatum,DAL,Assists,Under,(5.5) -105
 Jayson Tatum,DAL,Points,Over,(26.5) -125
 Jayson Tatum,DAL,Points,Under,(26.5) 105
 Jayson Tatum,DAL,Pts+Asts,Over,(32.5) -108
@@ -173,14 +173,14 @@ Luka Doncic,@BOS,Points,Over,(31.5) -110
 Luka Doncic,@BOS,Points,Under,(31.5) -110
 Luka Doncic,@BOS,Pts+Asts,Over,(39.5) -118
 Luka Doncic,@BOS,Pts+Asts,Under,(39.5) -102
-Luka Doncic,@BOS,Pts+Rebs,Over,(40.5) -112
-Luka Doncic,@BOS,Pts+Rebs,Under,(40.5) -108
-Luka Doncic,@BOS,Pts+Rebs+Asts,Over,(49.5) -105
-Luka Doncic,@BOS,Pts+Rebs+Asts,Under,(49.5) -115
+Luka Doncic,@BOS,Pts+Rebs,Over,(40.5) -120
+Luka Doncic,@BOS,Pts+Rebs,Under,(40.5) 100
+Luka Doncic,@BOS,Pts+Rebs+Asts,Over,(49.5) -112
+Luka Doncic,@BOS,Pts+Rebs+Asts,Under,(49.5) -108
 Luka Doncic,@BOS,Rebounds,Over,(9.5) 105
 Luka Doncic,@BOS,Rebounds,Under,(9.5) -125
-Luka Doncic,@BOS,Rebs+Asts,Over,(17.5) -122
-Luka Doncic,@BOS,Rebs+Asts,Under,(17.5) 102
+Luka Doncic,@BOS,Rebs+Asts,Over,(17.5) -118
+Luka Doncic,@BOS,Rebs+Asts,Under,(17.5) -102
 Maxi Kleber,@BOS,Assists,Over,
 Maxi Kleber,@BOS,Assists,Under,
 Maxi Kleber,@BOS,Points,Over,
@@ -197,7 +197,7 @@ Maxi Kleber,@BOS,Rebs+Asts,Over,
 Maxi Kleber,@BOS,Rebs+Asts,Under,
 P.J. Washington,@BOS,Assists,Over,
 P.J. Washington,@BOS,Assists,Under,
-P.J. Washington,@BOS,Points,Over,(11.5) -118
+P.J. Washington,@BOS,Points,Over,(11.5) -120
 P.J. Washington,@BOS,Points,Under,(11.5) 100
 P.J. Washington,@BOS,Pts+Asts,Over,(12.5) -120
 P.J. Washington,@BOS,Pts+Asts,Under,(12.5) 100
@@ -205,8 +205,8 @@ P.J. Washington,@BOS,Pts+Rebs,Over,(17.5) -102
 P.J. Washington,@BOS,Pts+Rebs,Under,(17.5) -118
 P.J. Washington,@BOS,Pts+Rebs+Asts,Over,(18.5) -120
 P.J. Washington,@BOS,Pts+Rebs+Asts,Under,(18.5) 100
-P.J. Washington,@BOS,Rebounds,Over,(5.5) -122
-P.J. Washington,@BOS,Rebounds,Under,(5.5) 102
+P.J. Washington,@BOS,Rebounds,Over,(5.5) -135
+P.J. Washington,@BOS,Rebounds,Under,(5.5) 114
 P.J. Washington,@BOS,Rebs+Asts,Over,(7.5) 114
 P.J. Washington,@BOS,Rebs+Asts,Under,(7.5) -135
 Payton Pritchard,DAL,Assists,Over,

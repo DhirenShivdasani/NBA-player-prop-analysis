@@ -1,43 +1,39 @@
 Rank,Player,Team,Pos,Value
 1,Anthony Davis,Los Angeles Lakers,PF,16.00
 2,Rudy Gobert,Minnesota Timberwolves,C,14.00
+3,Austin Reaves,Los Angeles Lakers,PG,9.00
 3,Julius Randle,Minnesota Timberwolves,PF,9.00
 3,Jericho Sims,New York Knicks,C,9.00
-3,Austin Reaves,Los Angeles Lakers,PG,9.00
-6,Karl-Anthony Towns,New York Knicks,C,7.00
 6,Jaylen Brown,Boston Celtics,SG,7.00
 6,Xavier Tillman,Boston Celtics,PF,7.00
+6,Karl-Anthony Towns,New York Knicks,C,7.00
 9,Anthony Edwards,Minnesota Timberwolves,SG,6.00
 10,LeBron James,Los Angeles Lakers,SF,5.00
 10,Nickeil Alexander-Walker,Minnesota Timberwolves,SG,5.00
 10,Rui Hachimura,Los Angeles Lakers,PF,5.00
 10,O.G. Anunoby,New York Knicks,SF,5.00
 10,Sam Hauser,Boston Celtics,SF,5.00
+15,Ariel Hukporti,New York Knicks,C,4.00
+15,Mike Conley,Minnesota Timberwolves,PG,4.00
+15,Naz Reid,Minnesota Timberwolves,C,4.00
 15,Jayson Tatum,Boston Celtics,SF,4.00
 15,Josh Hart,New York Knicks,SG,4.00
 15,Jrue Holiday,Boston Celtics,PG,4.00
 15,Jaxson Hayes,Los Angeles Lakers,C,4.00
 15,Payton Pritchard,Boston Celtics,PG,4.00
-15,Ariel Hukporti,New York Knicks,C,4.00
-15,Mike Conley,Minnesota Timberwolves,PG,4.00
-15,Naz Reid,Minnesota Timberwolves,C,4.00
 23,Derrick White,Boston Celtics,PG,3.00
 23,Donte DiVincenzo,Minnesota Timberwolves,SG,3.00
 23,Cameron Payne,New York Knicks,PG,3.00
 23,Al Horford,Boston Celtics,C,3.00
 23,Luke Kornet,Boston Celtics,C,3.00
-28,Max Christie,Los Angeles Lakers,SG,2.00
 28,Gabe Vincent,Los Angeles Lakers,SG,2.00
 28,Jaden McDaniels,Minnesota Timberwolves,SF,2.00
+28,Max Christie,Los Angeles Lakers,SG,2.00
 31,Jalen Brunson,New York Knicks,PG,1.00
 31,Bronny James,Los Angeles Lakers,PG,1.00
 31,Dalton Knecht,Los Angeles Lakers,SF,1.00
 31,Pacome Dadiet,New York Knicks,SF,1.00
 31,D'Angelo Russell,Los Angeles Lakers,PG,1.00
-36,Jacob Toppin,New York Knicks,SF,0.00
-36,Mikal Bridges,New York Knicks,SG,0.00
-36,Jordan Walsh,Boston Celtics,SG,0.00
-36,Miles McBride,New York Knicks,PG,0.00
 36,Baylor Scheierman,Boston Celtics,SG,--
 36,Jalen Hood-Schifino,Los Angeles Lakers,PG,--
 36,Tyler Kolek,New York Knicks,PG,0.00
@@ -52,3 +48,7 @@ Rank,Player,Team,Pos,Value
 36,Maxwell Lewis,Los Angeles Lakers,SF,--
 36,PJ Dozier,Minnesota Timberwolves,SG,--
 36,Rob Dillingham,Minnesota Timberwolves,PG,--
+36,Jacob Toppin,New York Knicks,SF,0.00
+36,Mikal Bridges,New York Knicks,SG,0.00
+36,Jordan Walsh,Boston Celtics,SG,0.00
+36,Miles McBride,New York Knicks,PG,0.00

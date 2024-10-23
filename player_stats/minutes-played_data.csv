@@ -19,8 +19,8 @@ Rank,Player,Team,Pos,Value
 18,Naz Reid,Minnesota Timberwolves,C,26.35
 19,Miles McBride,New York Knicks,PG,25.85
 20,Payton Pritchard,Boston Celtics,PG,24.97
-21,Josh Hart,New York Knicks,SG,24.50
 21,Jalen Brunson,New York Knicks,PG,24.50
+21,Josh Hart,New York Knicks,SG,24.50
 23,Jericho Sims,New York Knicks,C,24.38
 24,Sam Hauser,Boston Celtics,SF,24.17
 25,Karl-Anthony Towns,New York Knicks,C,23.62
@@ -41,6 +41,8 @@ Rank,Player,Team,Pos,Value
 40,Neemias Queta,Boston Celtics,C,4.33
 41,Jacob Toppin,New York Knicks,SF,2.78
 42,Bronny James,Los Angeles Lakers,PG,2.68
+43,Baylor Scheierman,Boston Celtics,SG,--
+43,Jalen Hood-Schifino,Los Angeles Lakers,PG,--
 43,Luka Garza,Minnesota Timberwolves,C,--
 43,Josh Minott,Minnesota Timberwolves,SF,--
 43,Terrence Shannon Jr.,Minnesota Timberwolves,SG,--
@@ -50,5 +52,3 @@ Rank,Player,Team,Pos,Value
 43,Maxwell Lewis,Los Angeles Lakers,SF,--
 43,Rob Dillingham,Minnesota Timberwolves,PG,--
 43,PJ Dozier,Minnesota Timberwolves,SG,--
-43,Baylor Scheierman,Boston Celtics,SG,--
-43,Jalen Hood-Schifino,Los Angeles Lakers,PG,--

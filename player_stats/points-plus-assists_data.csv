@@ -3,12 +3,12 @@ Rank,Player,Team,Pos,Value
 2,Anthony Davis,Los Angeles Lakers,PF,40.00
 3,Anthony Edwards,Minnesota Timberwolves,SG,30.00
 4,Derrick White,Boston Celtics,PG,28.00
-5,Miles McBride,New York Knicks,PG,24.00
 5,Jalen Brunson,New York Knicks,PG,24.00
 5,Jaylen Brown,Boston Celtics,SG,24.00
+5,Miles McBride,New York Knicks,PG,24.00
 8,Jrue Holiday,Boston Celtics,PG,22.00
-9,Julius Randle,Minnesota Timberwolves,PF,20.00
 9,LeBron James,Los Angeles Lakers,SF,20.00
+9,Julius Randle,Minnesota Timberwolves,PF,20.00
 11,Rui Hachimura,Los Angeles Lakers,PF,19.00
 12,Mikal Bridges,New York Knicks,SG,18.00
 13,Al Horford,Boston Celtics,C,16.00
@@ -17,26 +17,30 @@ Rank,Player,Team,Pos,Value
 15,Rudy Gobert,Minnesota Timberwolves,C,15.00
 15,Karl-Anthony Towns,New York Knicks,C,15.00
 15,Josh Hart,New York Knicks,SG,15.00
-19,D'Angelo Russell,Los Angeles Lakers,PG,14.00
 19,Nickeil Alexander-Walker,Minnesota Timberwolves,SG,14.00
+19,D'Angelo Russell,Los Angeles Lakers,PG,14.00
 21,Donte DiVincenzo,Minnesota Timberwolves,SG,13.00
 21,Naz Reid,Minnesota Timberwolves,C,13.00
 23,Sam Hauser,Boston Celtics,SF,11.00
 24,Jaxson Hayes,Los Angeles Lakers,C,10.00
+25,Dalton Knecht,Los Angeles Lakers,SF,7.00
 25,O.G. Anunoby,New York Knicks,SF,7.00
 25,Jaden McDaniels,Minnesota Timberwolves,SF,7.00
 25,Mike Conley,Minnesota Timberwolves,PG,7.00
 25,Payton Pritchard,Boston Celtics,PG,7.00
-25,Dalton Knecht,Los Angeles Lakers,SF,7.00
 30,Luke Kornet,Boston Celtics,C,5.00
 30,Jericho Sims,New York Knicks,C,5.00
 32,Xavier Tillman,Boston Celtics,PF,4.00
 32,Gabe Vincent,Los Angeles Lakers,SG,4.00
-34,Pacome Dadiet,New York Knicks,SF,3.00
 34,Tyler Kolek,New York Knicks,PG,3.00
+34,Pacome Dadiet,New York Knicks,SF,3.00
 36,Max Christie,Los Angeles Lakers,SG,2.00
 37,Joe Ingles,Minnesota Timberwolves,SF,1.00
 37,Jordan Walsh,Boston Celtics,SG,1.00
+39,Bronny James,Los Angeles Lakers,PG,0.00
+39,Baylor Scheierman,Boston Celtics,SG,--
+39,Jalen Hood-Schifino,Los Angeles Lakers,PG,--
+39,Neemias Queta,Boston Celtics,C,0.00
 39,Luka Garza,Minnesota Timberwolves,C,--
 39,Josh Minott,Minnesota Timberwolves,SF,--
 39,Terrence Shannon Jr.,Minnesota Timberwolves,SG,--
@@ -45,10 +49,6 @@ Rank,Player,Team,Pos,Value
 39,Jaden Springer,Boston Celtics,PG,--
 39,Ariel Hukporti,New York Knicks,C,0.00
 39,Maxwell Lewis,Los Angeles Lakers,SF,--
-39,PJ Dozier,Minnesota Timberwolves,SG,--
 39,Rob Dillingham,Minnesota Timberwolves,PG,--
+39,PJ Dozier,Minnesota Timberwolves,SG,--
 39,Jacob Toppin,New York Knicks,SF,0.00
-39,Bronny James,Los Angeles Lakers,PG,0.00
-39,Baylor Scheierman,Boston Celtics,SG,--
-39,Jalen Hood-Schifino,Los Angeles Lakers,PG,--
-39,Neemias Queta,Boston Celtics,C,0.00

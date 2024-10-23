@@ -7,15 +7,15 @@ Rank,Player,Team,Pos,Value
 6,Rudy Gobert,Minnesota Timberwolves,C,29.00
 6,Julius Randle,Minnesota Timberwolves,PF,29.00
 8,Jrue Holiday,Boston Celtics,PG,26.00
+9,Austin Reaves,Los Angeles Lakers,PG,25.00
 9,Jalen Brunson,New York Knicks,PG,25.00
 9,LeBron James,Los Angeles Lakers,SF,25.00
-9,Austin Reaves,Los Angeles Lakers,PG,25.00
-12,Rui Hachimura,Los Angeles Lakers,PF,24.00
 12,Miles McBride,New York Knicks,PG,24.00
+12,Rui Hachimura,Los Angeles Lakers,PF,24.00
 14,Karl-Anthony Towns,New York Knicks,C,22.00
-15,Nickeil Alexander-Walker,Minnesota Timberwolves,SG,19.00
 15,Al Horford,Boston Celtics,C,19.00
 15,Josh Hart,New York Knicks,SG,19.00
+15,Nickeil Alexander-Walker,Minnesota Timberwolves,SG,19.00
 18,Cameron Payne,New York Knicks,PG,18.00
 18,Mikal Bridges,New York Knicks,SG,18.00
 20,Naz Reid,Minnesota Timberwolves,C,17.00
@@ -29,19 +29,16 @@ Rank,Player,Team,Pos,Value
 27,Mike Conley,Minnesota Timberwolves,PG,11.00
 27,Payton Pritchard,Boston Celtics,PG,11.00
 30,Jaden McDaniels,Minnesota Timberwolves,SF,9.00
-31,Dalton Knecht,Los Angeles Lakers,SF,8.00
 31,Luke Kornet,Boston Celtics,C,8.00
+31,Dalton Knecht,Los Angeles Lakers,SF,8.00
 33,Gabe Vincent,Los Angeles Lakers,SG,6.00
 34,Pacome Dadiet,New York Knicks,SF,4.00
 34,Ariel Hukporti,New York Knicks,C,4.00
 34,Max Christie,Los Angeles Lakers,SG,4.00
 37,Tyler Kolek,New York Knicks,PG,3.00
-38,Bronny James,Los Angeles Lakers,PG,1.00
 38,Joe Ingles,Minnesota Timberwolves,SF,1.00
 38,Jordan Walsh,Boston Celtics,SG,1.00
-41,Baylor Scheierman,Boston Celtics,SG,--
-41,Jalen Hood-Schifino,Los Angeles Lakers,PG,--
-41,Neemias Queta,Boston Celtics,C,0.00
+38,Bronny James,Los Angeles Lakers,PG,1.00
 41,Luka Garza,Minnesota Timberwolves,C,--
 41,Josh Minott,Minnesota Timberwolves,SF,--
 41,Terrence Shannon Jr.,Minnesota Timberwolves,SG,--
@@ -49,6 +46,9 @@ Rank,Player,Team,Pos,Value
 41,Leonard Miller,Minnesota Timberwolves,SF,--
 41,Jaden Springer,Boston Celtics,PG,--
 41,Maxwell Lewis,Los Angeles Lakers,SF,--
-41,Rob Dillingham,Minnesota Timberwolves,PG,--
 41,PJ Dozier,Minnesota Timberwolves,SG,--
+41,Rob Dillingham,Minnesota Timberwolves,PG,--
 41,Jacob Toppin,New York Knicks,SF,0.00
+41,Baylor Scheierman,Boston Celtics,SG,--
+41,Jalen Hood-Schifino,Los Angeles Lakers,PG,--
+41,Neemias Queta,Boston Celtics,C,0.00

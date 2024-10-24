@@ -4,60 +4,55 @@ Rank,Player,Team,Pos,Value
 3,Jayson Tatum,Boston Celtics,SF,51.00
 4,James Harden,Los Angeles Clippers,SG,49.00
 5,Alperen Sengun,Houston Rockets,C,48.00
-6,Paolo Banchero,Orlando Magic,PF,47.00
 6,Trae Young,Atlanta Hawks,PG,47.00
+6,Paolo Banchero,Orlando Magic,PF,47.00
 8,Giannis Antetokounmpo,Milwaukee Bucks,SF,46.00
 8,Lauri Markkanen,Utah Jazz,PF,46.00
 10,Damian Lillard,Milwaukee Bucks,PG,45.00
 11,Cam Thomas,Brooklyn Nets,SG,44.00
 12,Brandon Ingram,New Orleans Pelicans,SF,42.00
 13,Cade Cunningham,Detroit Pistons,PG,41.00
+14,Ja Morant,Memphis Grizzlies,PG,37.00
 14,Evan Mobley,Cleveland Cavaliers,C,37.00
 14,Onyeka Okongwu,Atlanta Hawks,PF,37.00
-14,Ja Morant,Memphis Grizzlies,PG,37.00
 17,Pascal Siakam,Indiana Pacers,PF,36.00
 17,Anthony Edwards,Minnesota Timberwolves,SG,36.00
 17,Stephen Curry,Golden State Warriors,PG,36.00
 20,Zach LaVine,Chicago Bulls,PG,35.00
 21,Tyrese Maxey,Philadelphia 76ers,PG,34.00
 21,Santi Aldama,Memphis Grizzlies,PF,34.00
-23,Ivica Zubac,Los Angeles Clippers,C,33.00
 23,Myles Turner,Indiana Pacers,C,33.00
 23,Nikola Vucevic,Chicago Bulls,C,33.00
+23,Ivica Zubac,Los Angeles Clippers,C,33.00
+26,Dejounte Murray,New Orleans Pelicans,PG,32.00
 26,Kevin Durant,Phoenix Suns,SF,32.00
 26,Desmond Bane,Memphis Grizzlies,SG,32.00
-26,Dejounte Murray,New Orleans Pelicans,PG,32.00
-29,Franz Wagner,Orlando Magic,SF,31.00
 29,Derrick White,Boston Celtics,PG,31.00
 29,Tre Mann,Charlotte Hornets,PG,31.00
 29,Jaylen Brown,Boston Celtics,SG,31.00
 29,Walker Kessler,Utah Jazz,C,31.00
+29,Franz Wagner,Orlando Magic,SF,31.00
+34,Jalen Green,Houston Rockets,SG,30.00
 34,CJ McCollum,New Orleans Pelicans,SG,30.00
 34,Scoot Henderson,Portland Trail Blazers,PG,30.00
 34,Jalen Duren,Detroit Pistons,C,30.00
 34,Terry Rozier,Miami Heat,PG,30.00
-34,Jalen Green,Houston Rockets,SG,30.00
 39,Julius Randle,Minnesota Timberwolves,PF,29.00
 39,Jordan Clarkson,Utah Jazz,PG,29.00
 39,Rudy Gobert,Minnesota Timberwolves,C,29.00
-42,Buddy Hield,Golden State Warriors,SG,28.00
 42,Bradley Beal,Phoenix Suns,SG,28.00
+42,Buddy Hield,Golden State Warriors,SG,28.00
+44,Jaden Ivey,Detroit Pistons,PG,26.00
+44,Andrew Wiggins,Golden State Warriors,SF,26.00
 44,Bennedict Mathurin,Indiana Pacers,SG,26.00
 44,Jrue Holiday,Boston Celtics,PG,26.00
 44,Donovan Mitchell,Cleveland Cavaliers,SG,26.00
-44,Jaden Ivey,Detroit Pistons,PG,26.00
-44,Andrew Wiggins,Golden State Warriors,SF,26.00
+49,Jalen Johnson,Atlanta Hawks,SF,25.00
 49,Austin Reaves,Los Angeles Lakers,PG,25.00
 49,LeBron James,Los Angeles Lakers,SF,25.00
 49,Jalen Brunson,New York Knicks,PG,25.00
 49,Devin Booker,Phoenix Suns,SG,25.00
 49,Norman Powell,Los Angeles Clippers,SG,25.00
-49,Jalen Johnson,Atlanta Hawks,SF,25.00
-55,Kelly Oubre Jr.,Philadelphia 76ers,SF,24.00
-55,Brook Lopez,Milwaukee Bucks,C,24.00
-55,Caleb Martin,Philadelphia 76ers,SF,24.00
-55,Miles McBride,New York Knicks,PG,24.00
-55,Fred VanVleet,Houston Rockets,PG,24.00
 55,Rui Hachimura,Los Angeles Lakers,PF,24.00
 55,Coby White,Chicago Bulls,SG,24.00
 55,Deni Avdija,Portland Trail Blazers,SF,24.00
@@ -65,19 +60,28 @@ Rank,Player,Team,Pos,Value
 55,Taurean Prince,Milwaukee Bucks,SF,24.00
 55,Wendell Carter Jr.,Orlando Magic,C,24.00
 55,Tyrese Haliburton,Indiana Pacers,PG,24.00
+55,Kelly Oubre Jr.,Philadelphia 76ers,SF,24.00
+55,Brook Lopez,Milwaukee Bucks,C,24.00
+55,Caleb Martin,Philadelphia 76ers,SF,24.00
+55,Miles McBride,New York Knicks,PG,24.00
+55,Fred VanVleet,Houston Rockets,PG,24.00
+67,Andre Drummond,Philadelphia 76ers,C,23.00
 67,Deandre Ayton,Portland Trail Blazers,C,23.00
 67,Dennis Schroder,Brooklyn Nets,PG,23.00
 67,Kyle Lowry,Philadelphia 76ers,PG,23.00
-67,Andre Drummond,Philadelphia 76ers,C,23.00
-71,Josh Giddey,Chicago Bulls,SG,22.00
-71,Bobby Portis,Milwaukee Bucks,PF,22.00
-71,Gary Harris,Orlando Magic,SG,22.00
-71,Jusuf Nurkic,Phoenix Suns,C,22.00
 71,Karl-Anthony Towns,New York Knicks,C,22.00
 71,Jarrett Allen,Cleveland Cavaliers,C,22.00
 71,Tyler Herro,Miami Heat,SG,22.00
 71,Ty Jerome,Cleveland Cavaliers,SG,22.00
 71,Dyson Daniels,Atlanta Hawks,SG,22.00
+71,Josh Giddey,Chicago Bulls,SG,22.00
+71,Bobby Portis,Milwaukee Bucks,PF,22.00
+71,Gary Harris,Orlando Magic,SG,22.00
+71,Jusuf Nurkic,Phoenix Suns,C,22.00
+80,Miles Bridges,Charlotte Hornets,SF,21.00
+80,Jordan Hawkins,New Orleans Pelicans,SG,21.00
+80,Jalen Wilson,Brooklyn Nets,PF,21.00
+80,Collin Sexton,Utah Jazz,PG,21.00
 80,Keyonte George,Utah Jazz,SG,21.00
 80,Tyus Jones,Phoenix Suns,PG,21.00
 80,Nikola Jovic,Miami Heat,SF,21.00
@@ -85,17 +89,13 @@ Rank,Player,Team,Pos,Value
 80,Jerami Grant,Portland Trail Blazers,SF,21.00
 80,Toumani Camara,Portland Trail Blazers,PF,21.00
 80,Jaime Jaquez Jr.,Miami Heat,SG,21.00
-80,Miles Bridges,Charlotte Hornets,SF,21.00
-80,Jordan Hawkins,New Orleans Pelicans,SG,21.00
-80,Collin Sexton,Utah Jazz,PG,21.00
-80,Jalen Wilson,Brooklyn Nets,PF,21.00
-91,Trayce Jackson-Davis,Golden State Warriors,PF,20.00
-91,Anfernee Simons,Portland Trail Blazers,SG,20.00
 91,Jalen Smith,Chicago Bulls,PF,20.00
 91,Anthony Black,Orlando Magic,PG,20.00
-91,Yves Missi,New Orleans Pelicans,C,20.00
 91,Scottie Barnes,Toronto Raptors,SF,20.00
 91,T.J. McConnell,Indiana Pacers,PG,20.00
-98,Immanuel Quickley,Toronto Raptors,SG,19.00
-98,Jay Huff,Memphis Grizzlies,C,19.00
-98,Moses Moody,Golden State Warriors,SG,19.00
+91,Trayce Jackson-Davis,Golden State Warriors,PF,20.00
+91,Yves Missi,New Orleans Pelicans,C,20.00
+91,Anfernee Simons,Portland Trail Blazers,SG,20.00
+98,Nickeil Alexander-Walker,Minnesota Timberwolves,SG,19.00
+98,Ben Simmons,Brooklyn Nets,SG,19.00
+98,Al Horford,Boston Celtics,C,19.00

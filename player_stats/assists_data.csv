@@ -40,12 +40,12 @@ Rank,Player,Team,Pos,Value
 34,Anthony Davis,Los Angeles Lakers,PF,4.00
 34,Cameron Payne,New York Knicks,PG,4.00
 34,Franz Wagner,Orlando Magic,SF,4.00
+34,Scoot Henderson,Portland Trail Blazers,PG,4.00
 34,Norman Powell,Los Angeles Clippers,SG,4.00
 34,Desmond Bane,Memphis Grizzlies,SG,4.00
-34,Scoot Henderson,Portland Trail Blazers,PG,4.00
 34,Jalen Duren,Detroit Pistons,C,4.00
-34,Toumani Camara,Portland Trail Blazers,PF,4.00
 34,Payton Pritchard,Boston Celtics,PG,4.00
+34,Toumani Camara,Portland Trail Blazers,PF,4.00
 34,Derrick White,Boston Celtics,PG,4.00
 34,Jalen Suggs,Orlando Magic,SG,4.00
 34,Caris LeVert,Cleveland Cavaliers,SG,4.00
@@ -60,16 +60,16 @@ Rank,Player,Team,Pos,Value
 34,T.J. McConnell,Indiana Pacers,PG,4.00
 34,Tyrese Haliburton,Indiana Pacers,PG,4.00
 34,Brandin Podziemski,Golden State Warriors,SG,4.00
-62,Josh Giddey,Chicago Bulls,SG,3.00
 62,Daniel Theis,New Orleans Pelicans,PF,3.00
+62,Josh Giddey,Chicago Bulls,SG,3.00
 62,O.G. Anunoby,New York Knicks,SF,3.00
 62,Evan Mobley,Cleveland Cavaliers,C,3.00
-62,Bobby Portis,Milwaukee Bucks,PF,3.00
 62,Tyrese Maxey,Philadelphia 76ers,PG,3.00
+62,Bobby Portis,Milwaukee Bucks,PF,3.00
 62,Caleb Martin,Philadelphia 76ers,SF,3.00
 62,Guerschon Yabusele,Philadelphia 76ers,PF,3.00
-62,Cam Thomas,Brooklyn Nets,SG,3.00
 62,Zach LaVine,Chicago Bulls,PG,3.00
+62,Cam Thomas,Brooklyn Nets,SG,3.00
 62,Ivica Zubac,Los Angeles Clippers,C,3.00
 62,Paolo Banchero,Orlando Magic,PF,3.00
 62,Draymond Green,Golden State Warriors,PF,3.00
@@ -78,7 +78,6 @@ Rank,Player,Team,Pos,Value
 62,Jaime Jaquez Jr.,Miami Heat,SG,3.00
 62,Anfernee Simons,Portland Trail Blazers,SG,3.00
 62,Donovan Mitchell,Cleveland Cavaliers,SG,3.00
-62,Reed Sheppard,Houston Rockets,SG,3.00
 62,Donte DiVincenzo,Minnesota Timberwolves,SG,3.00
 62,Karl-Anthony Towns,New York Knicks,C,3.00
 62,Tyler Herro,Miami Heat,SG,3.00
@@ -92,6 +91,7 @@ Rank,Player,Team,Pos,Value
 62,Grayson Allen,Phoenix Suns,SG,3.00
 62,Davion Mitchell,Toronto Raptors,PG,3.00
 62,Josh Hart,New York Knicks,SG,3.00
+62,Reed Sheppard,Houston Rockets,SG,3.00
 94,Kevin Porter Jr.,Los Angeles Clippers,SG,2.00
 94,Dalton Knecht,Los Angeles Lakers,SF,2.00
 94,Deandre Ayton,Portland Trail Blazers,C,2.00

@@ -1,18 +1,17 @@
 Rank,Player,Team,Pos,Value
 1,Alperen Sengun,Houston Rockets,C,18.00
 2,Anthony Davis,Los Angeles Lakers,PF,16.00
+3,Giannis Antetokounmpo,Milwaukee Bucks,SF,14.00
 3,Rudy Gobert,Minnesota Timberwolves,C,14.00
 3,Walker Kessler,Utah Jazz,C,14.00
 3,Wendell Carter Jr.,Orlando Magic,C,14.00
-3,Giannis Antetokounmpo,Milwaukee Bucks,SF,14.00
-7,Andre Drummond,Philadelphia 76ers,C,13.00
 7,Jalen Duren,Detroit Pistons,C,13.00
+7,Andre Drummond,Philadelphia 76ers,C,13.00
 9,James Harden,Los Angeles Clippers,SG,12.00
 10,Deandre Ayton,Portland Trail Blazers,C,11.00
 10,Paolo Banchero,Orlando Magic,PF,11.00
 10,Nikola Vucevic,Chicago Bulls,C,11.00
 13,Jalen Johnson,Atlanta Hawks,SF,10.00
-14,Stephen Curry,Golden State Warriors,PG,9.00
 14,Austin Reaves,Los Angeles Lakers,PG,9.00
 14,Jericho Sims,New York Knicks,C,9.00
 14,Evan Mobley,Cleveland Cavaliers,C,9.00
@@ -25,32 +24,29 @@ Rank,Player,Team,Pos,Value
 14,Lauri Markkanen,Utah Jazz,PF,9.00
 14,Julius Randle,Minnesota Timberwolves,PF,9.00
 14,Myles Turner,Indiana Pacers,C,9.00
-27,Dean Wade,Cleveland Cavaliers,SF,8.00
-27,Dorian Finney-Smith,Brooklyn Nets,SF,8.00
+14,Stephen Curry,Golden State Warriors,PG,9.00
 27,Brook Lopez,Milwaukee Bucks,C,8.00
+27,Dorian Finney-Smith,Brooklyn Nets,SF,8.00
 27,Onyeka Okongwu,Atlanta Hawks,PF,8.00
 27,Nick Richards,Charlotte Hornets,C,8.00
-27,LaMelo Ball,Charlotte Hornets,PG,8.00
 27,Cody Martin,Charlotte Hornets,SF,8.00
+27,LaMelo Ball,Charlotte Hornets,PG,8.00
 27,Coby White,Chicago Bulls,SG,8.00
-27,Dejounte Murray,New Orleans Pelicans,PG,8.00
 27,Pascal Siakam,Indiana Pacers,PF,8.00
-37,Yves Missi,New Orleans Pelicans,C,7.00
-37,Jaylen Brown,Boston Celtics,SG,7.00
-37,Brandin Podziemski,Golden State Warriors,SG,7.00
+27,Dejounte Murray,New Orleans Pelicans,PG,8.00
+27,Dean Wade,Cleveland Cavaliers,SF,8.00
 37,Clint Capela,Atlanta Hawks,C,7.00
 37,Kevin Durant,Phoenix Suns,SF,7.00
 37,Xavier Tillman,Boston Celtics,PF,7.00
 37,Brandon Ingram,New Orleans Pelicans,SF,7.00
-37,Deni Avdija,Portland Trail Blazers,SF,7.00
 37,Karl-Anthony Towns,New York Knicks,C,7.00
+37,Deni Avdija,Portland Trail Blazers,SF,7.00
 37,Jarrett Allen,Cleveland Cavaliers,C,7.00
 37,Bruno Fernando,Toronto Raptors,PF,7.00
+37,Yves Missi,New Orleans Pelicans,C,7.00
 37,Jordan Hawkins,New Orleans Pelicans,SG,7.00
-49,Moritz Wagner,Orlando Magic,PF,6.00
-49,Ochai Agbaji,Toronto Raptors,SG,6.00
-49,Anthony Black,Orlando Magic,PG,6.00
-49,Scottie Barnes,Toronto Raptors,SF,6.00
+37,Jaylen Brown,Boston Celtics,SG,7.00
+37,Brandin Podziemski,Golden State Warriors,SG,7.00
 49,Bennedict Mathurin,Indiana Pacers,SG,6.00
 49,Tyrese Maxey,Philadelphia 76ers,PG,6.00
 49,Kevon Looney,Golden State Warriors,PF,6.00
@@ -62,29 +58,22 @@ Rank,Player,Team,Pos,Value
 49,Tre Mann,Charlotte Hornets,PG,6.00
 49,Oso Ighodaro,Phoenix Suns,PF,6.00
 49,Anthony Edwards,Minnesota Timberwolves,SG,6.00
-64,Taurean Prince,Milwaukee Bucks,SF,5.00
-64,Trae Young,Atlanta Hawks,PG,5.00
-64,Terance Mann,Los Angeles Clippers,SG,5.00
-64,Jaden Ivey,Detroit Pistons,PG,5.00
-64,Jordan Clarkson,Utah Jazz,PG,5.00
-64,Jalen Smith,Chicago Bulls,PF,5.00
-64,Marcus Smart,Memphis Grizzlies,PG,5.00
-64,Taylor Hendricks,Utah Jazz,PF,5.00
-64,Dyson Daniels,Atlanta Hawks,SG,5.00
-64,Tyrese Haliburton,Indiana Pacers,PG,5.00
-64,Josh Giddey,Chicago Bulls,SG,5.00
+49,Moritz Wagner,Orlando Magic,PF,6.00
+49,Ochai Agbaji,Toronto Raptors,SG,6.00
+49,Anthony Black,Orlando Magic,PG,6.00
+49,Scottie Barnes,Toronto Raptors,SF,6.00
 64,Buddy Hield,Golden State Warriors,SG,5.00
+64,Josh Giddey,Chicago Bulls,SG,5.00
 64,O.G. Anunoby,New York Knicks,SF,5.00
 64,Bam Adebayo,Miami Heat,C,5.00
 64,LeBron James,Los Angeles Lakers,SF,5.00
 64,John Collins,Utah Jazz,PF,5.00
-64,KJ Martin,Philadelphia 76ers,PF,5.00
 64,Sam Hauser,Boston Celtics,SF,5.00
+64,KJ Martin,Philadelphia 76ers,PF,5.00
 64,Jay Huff,Memphis Grizzlies,C,5.00
 64,Nikola Jovic,Miami Heat,SF,5.00
 64,Haywood Highsmith,Miami Heat,SF,5.00
 64,Cade Cunningham,Detroit Pistons,PG,5.00
-64,Vasilije Micic,Charlotte Hornets,PG,5.00
 64,Zach LaVine,Chicago Bulls,PG,5.00
 64,Cam Thomas,Brooklyn Nets,SG,5.00
 64,Santi Aldama,Memphis Grizzlies,PF,5.00
@@ -96,6 +85,17 @@ Rank,Player,Team,Pos,Value
 64,Rui Hachimura,Los Angeles Lakers,PF,5.00
 64,Moussa Diabate,Charlotte Hornets,SF,5.00
 64,Nic Claxton,Brooklyn Nets,C,5.00
+64,Taylor Hendricks,Utah Jazz,PF,5.00
 64,Nickeil Alexander-Walker,Minnesota Timberwolves,SG,5.00
 64,Ben Simmons,Brooklyn Nets,SG,5.00
 64,Royce O'Neale,Phoenix Suns,SF,5.00
+64,Kyle Anderson,Golden State Warriors,SF,5.00
+64,Tyler Herro,Miami Heat,SG,5.00
+64,Taurean Prince,Milwaukee Bucks,SF,5.00
+64,Trae Young,Atlanta Hawks,PG,5.00
+64,Terance Mann,Los Angeles Clippers,SG,5.00
+64,Jaden Ivey,Detroit Pistons,PG,5.00
+64,Jordan Clarkson,Utah Jazz,PG,5.00
+64,Jalen Smith,Chicago Bulls,PF,5.00
+64,Marcus Smart,Memphis Grizzlies,PG,5.00
+64,Dyson Daniels,Atlanta Hawks,SG,5.00

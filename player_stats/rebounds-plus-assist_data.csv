@@ -31,8 +31,8 @@ Rank,Player,Team,Pos,Value
 28,Caleb Martin,Philadelphia 76ers,SF,12.00
 28,Ivica Zubac,Los Angeles Clippers,C,12.00
 28,Nikola Vucevic,Chicago Bulls,C,12.00
-33,Scottie Barnes,Toronto Raptors,SF,11.00
 33,Brandin Podziemski,Golden State Warriors,SG,11.00
+33,Scottie Barnes,Toronto Raptors,SF,11.00
 33,Jusuf Nurkic,Phoenix Suns,C,11.00
 33,Terry Rozier,Miami Heat,PG,11.00
 33,Jakob Poeltl,Toronto Raptors,C,11.00
@@ -67,20 +67,19 @@ Rank,Player,Team,Pos,Value
 50,Draymond Green,Golden State Warriors,PF,9.00
 50,Deni Avdija,Portland Trail Blazers,SF,9.00
 50,Anthony Edwards,Minnesota Timberwolves,SG,9.00
-69,Ty Jerome,Cleveland Cavaliers,SG,8.00
 69,Moritz Wagner,Orlando Magic,PF,8.00
 69,Taurean Prince,Milwaukee Bucks,SF,8.00
-69,Yves Missi,New Orleans Pelicans,C,8.00
+69,Ty Jerome,Cleveland Cavaliers,SG,8.00
 69,Jaylen Brown,Boston Celtics,SG,8.00
-69,Jrue Holiday,Boston Celtics,PG,8.00
 69,Josh Giddey,Chicago Bulls,SG,8.00
+69,Jrue Holiday,Boston Celtics,PG,8.00
 69,Clint Capela,Atlanta Hawks,C,8.00
 69,O.G. Anunoby,New York Knicks,SF,8.00
 69,Franz Wagner,Orlando Magic,SF,8.00
 69,Kevon Looney,Golden State Warriors,PF,8.00
+69,Norman Powell,Los Angeles Clippers,SG,8.00
 69,Desmond Bane,Memphis Grizzlies,SG,8.00
 69,Scoot Henderson,Portland Trail Blazers,PG,8.00
-69,Norman Powell,Los Angeles Clippers,SG,8.00
 69,Zach LaVine,Chicago Bulls,PG,8.00
 69,Cam Thomas,Brooklyn Nets,SG,8.00
 69,Payton Pritchard,Boston Celtics,PG,8.00
@@ -88,9 +87,10 @@ Rank,Player,Team,Pos,Value
 69,Jarrett Allen,Cleveland Cavaliers,C,8.00
 69,Al Horford,Boston Celtics,C,8.00
 69,Bruno Fernando,Toronto Raptors,PF,8.00
+69,Yves Missi,New Orleans Pelicans,C,8.00
 69,Jordan Hawkins,New Orleans Pelicans,SG,8.00
-69,Tyler Herro,Miami Heat,SG,8.00
 69,Kyle Anderson,Golden State Warriors,SF,8.00
+69,Tyler Herro,Miami Heat,SG,8.00
 93,Ochai Agbaji,Toronto Raptors,SG,7.00
 93,Dyson Daniels,Atlanta Hawks,SG,7.00
 93,Josh Hart,New York Knicks,SG,7.00

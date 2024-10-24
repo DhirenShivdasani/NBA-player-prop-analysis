@@ -1,54 +1,101 @@
 Rank,Player,Team,Pos,Value
 1,Jayson Tatum,Boston Celtics,SF,37.00
+2,Cam Thomas,Brooklyn Nets,SG,36.00
 2,Anthony Davis,Los Angeles Lakers,PF,36.00
-3,Anthony Edwards,Minnesota Timberwolves,SG,27.00
-4,Derrick White,Boston Celtics,PG,24.00
-5,Jaylen Brown,Boston Celtics,SG,23.00
-6,Miles McBride,New York Knicks,PG,22.00
-6,Jalen Brunson,New York Knicks,PG,22.00
-8,Jrue Holiday,Boston Celtics,PG,18.00
-8,Rui Hachimura,Los Angeles Lakers,PF,18.00
-10,Julius Randle,Minnesota Timberwolves,PF,16.00
-10,Mikal Bridges,New York Knicks,SG,16.00
-10,LeBron James,Los Angeles Lakers,SF,16.00
-13,Nickeil Alexander-Walker,Minnesota Timberwolves,SG,14.00
-14,Rudy Gobert,Minnesota Timberwolves,C,13.00
-15,Austin Reaves,Los Angeles Lakers,PG,12.00
-15,Naz Reid,Minnesota Timberwolves,C,12.00
-15,Karl-Anthony Towns,New York Knicks,C,12.00
-15,Josh Hart,New York Knicks,SG,12.00
-19,Cameron Payne,New York Knicks,PG,11.00
-19,Al Horford,Boston Celtics,C,11.00
-21,Donte DiVincenzo,Minnesota Timberwolves,SG,10.00
-21,Sam Hauser,Boston Celtics,SF,10.00
-21,Jaxson Hayes,Los Angeles Lakers,C,10.00
-24,D'Angelo Russell,Los Angeles Lakers,PG,9.00
-25,Jaden McDaniels,Minnesota Timberwolves,SF,6.00
-26,Mike Conley,Minnesota Timberwolves,PG,5.00
-26,Dalton Knecht,Los Angeles Lakers,SF,5.00
-28,O.G. Anunoby,New York Knicks,SF,4.00
-28,Luke Kornet,Boston Celtics,C,4.00
-28,Jericho Sims,New York Knicks,C,4.00
-31,Pacome Dadiet,New York Knicks,SF,3.00
-31,Payton Pritchard,Boston Celtics,PG,3.00
-31,Tyler Kolek,New York Knicks,PG,3.00
-34,Xavier Tillman,Boston Celtics,PF,2.00
-34,Gabe Vincent,Los Angeles Lakers,SG,2.00
-34,Max Christie,Los Angeles Lakers,SG,2.00
-37,Luka Garza,Minnesota Timberwolves,C,--
-37,Josh Minott,Minnesota Timberwolves,SF,--
-37,Terrence Shannon Jr.,Minnesota Timberwolves,SG,--
-37,Cam Reddish,Los Angeles Lakers,SF,--
-37,Leonard Miller,Minnesota Timberwolves,SF,--
-37,Joe Ingles,Minnesota Timberwolves,SF,0.00
-37,Jaden Springer,Boston Celtics,PG,--
-37,Ariel Hukporti,New York Knicks,C,0.00
-37,Maxwell Lewis,Los Angeles Lakers,SF,--
-37,PJ Dozier,Minnesota Timberwolves,SG,--
-37,Rob Dillingham,Minnesota Timberwolves,PG,--
-37,Jacob Toppin,New York Knicks,SF,0.00
-37,Jordan Walsh,Boston Celtics,SG,0.00
-37,Bronny James,Los Angeles Lakers,PG,0.00
-37,Baylor Scheierman,Boston Celtics,SG,--
-37,Jalen Hood-Schifino,Los Angeles Lakers,PG,--
-37,Neemias Queta,Boston Celtics,C,0.00
+4,Lauri Markkanen,Utah Jazz,PF,35.00
+5,LaMelo Ball,Charlotte Hornets,PG,34.00
+6,Paolo Banchero,Orlando Magic,PF,33.00
+6,Brandon Ingram,New Orleans Pelicans,SF,33.00
+8,Damian Lillard,Milwaukee Bucks,PG,30.00
+8,Trae Young,Atlanta Hawks,PG,30.00
+10,James Harden,Los Angeles Clippers,SG,29.00
+11,Onyeka Okongwu,Atlanta Hawks,PF,28.00
+11,Jalen Green,Houston Rockets,SG,28.00
+11,Cade Cunningham,Detroit Pistons,PG,28.00
+14,Zach LaVine,Chicago Bulls,PG,27.00
+14,Santi Aldama,Memphis Grizzlies,PF,27.00
+14,Anthony Edwards,Minnesota Timberwolves,SG,27.00
+17,Giannis Antetokounmpo,Milwaukee Bucks,SF,25.00
+17,Alperen Sengun,Houston Rockets,C,25.00
+17,Evan Mobley,Cleveland Cavaliers,C,25.00
+17,Tyrese Maxey,Philadelphia 76ers,PG,25.00
+17,Kevin Durant,Phoenix Suns,SF,25.00
+22,Desmond Bane,Memphis Grizzlies,SG,24.00
+22,Derrick White,Boston Celtics,PG,24.00
+22,Tre Mann,Charlotte Hornets,PG,24.00
+22,Bradley Beal,Phoenix Suns,SG,24.00
+26,Franz Wagner,Orlando Magic,SF,23.00
+26,Jaylen Brown,Boston Celtics,SG,23.00
+26,CJ McCollum,New Orleans Pelicans,SG,23.00
+29,Jalen Brunson,New York Knicks,PG,22.00
+29,Scoot Henderson,Portland Trail Blazers,PG,22.00
+29,Ja Morant,Memphis Grizzlies,PG,22.00
+29,Buddy Hield,Golden State Warriors,SG,22.00
+29,Miles McBride,New York Knicks,PG,22.00
+34,Ivica Zubac,Los Angeles Clippers,C,21.00
+34,Donovan Mitchell,Cleveland Cavaliers,SG,21.00
+34,Nikola Vucevic,Chicago Bulls,C,21.00
+34,Kelly Oubre Jr.,Philadelphia 76ers,SF,21.00
+38,Myles Turner,Indiana Pacers,C,20.00
+38,Andrew Wiggins,Golden State Warriors,SF,20.00
+40,Terry Rozier,Miami Heat,PG,19.00
+40,Caris LeVert,Cleveland Cavaliers,SG,19.00
+40,Pascal Siakam,Indiana Pacers,PF,19.00
+40,Bennedict Mathurin,Indiana Pacers,SG,19.00
+44,Gary Harris,Orlando Magic,SG,18.00
+44,Chris Boucher,Toronto Raptors,PF,18.00
+44,Rui Hachimura,Los Angeles Lakers,PF,18.00
+44,Jrue Holiday,Boston Celtics,PG,18.00
+48,Norman Powell,Los Angeles Clippers,SG,17.00
+48,Jaden Ivey,Detroit Pistons,PG,17.00
+48,Jordan Clarkson,Utah Jazz,PG,17.00
+48,Stephen Curry,Golden State Warriors,PG,17.00
+52,Gradey Dick,Toronto Raptors,SG,16.00
+52,Jerami Grant,Portland Trail Blazers,SF,16.00
+52,Julius Randle,Minnesota Timberwolves,PF,16.00
+52,Taurean Prince,Milwaukee Bucks,SF,16.00
+52,Mikal Bridges,New York Knicks,SG,16.00
+52,Jalen Wilson,Brooklyn Nets,PF,16.00
+52,Collin Sexton,Utah Jazz,PG,16.00
+52,Walker Kessler,Utah Jazz,C,16.00
+52,LeBron James,Los Angeles Lakers,SF,16.00
+52,Bobby Portis,Milwaukee Bucks,PF,16.00
+62,Moses Moody,Golden State Warriors,SG,15.00
+62,Devin Booker,Phoenix Suns,SG,15.00
+62,Anfernee Simons,Portland Trail Blazers,SG,15.00
+62,Deni Avdija,Portland Trail Blazers,SF,15.00
+62,Jalen Smith,Chicago Bulls,PF,15.00
+62,Dyson Daniels,Atlanta Hawks,SG,15.00
+62,Tyrese Haliburton,Indiana Pacers,PG,15.00
+62,Nikola Jovic,Miami Heat,SF,15.00
+70,Trayce Jackson-Davis,Golden State Warriors,PF,14.00
+70,Tim Hardaway Jr.,Detroit Pistons,SG,14.00
+70,Malik Beasley,Detroit Pistons,SG,14.00
+70,Nickeil Alexander-Walker,Minnesota Timberwolves,SG,14.00
+70,Jarrett Allen,Cleveland Cavaliers,C,14.00
+70,Tyler Herro,Miami Heat,SG,14.00
+70,Dejounte Murray,New Orleans Pelicans,PG,14.00
+70,Ty Jerome,Cleveland Cavaliers,SG,14.00
+70,T.J. McConnell,Indiana Pacers,PG,14.00
+70,Josh Giddey,Chicago Bulls,SG,14.00
+70,Cameron Johnson,Brooklyn Nets,PF,14.00
+70,Fred VanVleet,Houston Rockets,PG,14.00
+82,Dennis Schroder,Brooklyn Nets,PG,13.00
+82,Kyle Lowry,Philadelphia 76ers,PG,13.00
+82,Jalen Duren,Detroit Pistons,C,13.00
+82,Amen Thompson,Houston Rockets,SG,13.00
+82,Jaime Jaquez Jr.,Miami Heat,SG,13.00
+82,Jordan Hawkins,New Orleans Pelicans,SG,13.00
+82,Rudy Gobert,Minnesota Timberwolves,C,13.00
+82,Immanuel Quickley,Toronto Raptors,SG,13.00
+82,Tobias Harris,Detroit Pistons,SF,13.00
+82,Jay Huff,Memphis Grizzlies,C,13.00
+92,Derrick Jones Jr.,Los Angeles Clippers,SF,12.00
+92,De'Andre Hunter,Atlanta Hawks,PF,12.00
+92,Naz Reid,Minnesota Timberwolves,C,12.00
+92,Karl-Anthony Towns,New York Knicks,C,12.00
+92,Taylor Hendricks,Utah Jazz,PF,12.00
+92,Yves Missi,New Orleans Pelicans,C,12.00
+92,Josh Hart,New York Knicks,SG,12.00
+92,Austin Reaves,Los Angeles Lakers,PG,12.00
+92,Keyonte George,Utah Jazz,SG,12.00

@@ -20,20 +20,20 @@ Rank,Player,Team,Pos,Value
 19,Damian Lillard,Milwaukee Bucks,PG,9.00
 19,Jakob Poeltl,Toronto Raptors,C,9.00
 19,Caleb Martin,Philadelphia 76ers,SF,9.00
-19,Evan Mobley,Cleveland Cavaliers,C,9.00
 19,Ivica Zubac,Los Angeles Clippers,C,9.00
+19,Evan Mobley,Cleveland Cavaliers,C,9.00
 19,Aaron Gordon,Denver Nuggets,PF,9.00
 19,Victor Wembanyama,San Antonio Spurs,PF,9.00
 19,Lauri Markkanen,Utah Jazz,PF,9.00
 19,Miles Bridges,Charlotte Hornets,SF,9.00
 19,Jusuf Nurkic,Phoenix Suns,C,9.00
-19,Stephen Curry,Golden State Warriors,PG,9.00
 19,Jericho Sims,New York Knicks,C,9.00
+19,Stephen Curry,Golden State Warriors,PG,9.00
 19,Myles Turner,Indiana Pacers,C,9.00
 19,Austin Reaves,Los Angeles Lakers,PG,9.00
 33,Naz Reid,Minnesota Timberwolves,C,8.50
-34,Nick Richards,Charlotte Hornets,C,8.00
 34,Dean Wade,Cleveland Cavaliers,SF,8.00
+34,Nick Richards,Charlotte Hornets,C,8.00
 34,Brook Lopez,Milwaukee Bucks,C,8.00
 34,LaMelo Ball,Charlotte Hornets,PG,8.00
 34,Cody Martin,Charlotte Hornets,SF,8.00
@@ -43,8 +43,8 @@ Rank,Player,Team,Pos,Value
 34,Pascal Siakam,Indiana Pacers,PF,8.00
 34,Michael Porter Jr.,Denver Nuggets,PF,8.00
 34,Domantas Sabonis,Sacramento Kings,PF,8.00
-34,DeMar DeRozan,Sacramento Kings,SG,8.00
 34,Coby White,Chicago Bulls,SG,8.00
+34,DeMar DeRozan,Sacramento Kings,SG,8.00
 47,Jaylen Brown,Boston Celtics,SG,7.50
 47,Jayson Tatum,Boston Celtics,SF,7.50
 49,Kevin Durant,Phoenix Suns,SF,7.00
@@ -58,8 +58,8 @@ Rank,Player,Team,Pos,Value
 49,Jarrett Allen,Cleveland Cavaliers,C,7.00
 49,Karl-Anthony Towns,New York Knicks,C,7.00
 49,Bruno Fernando,Toronto Raptors,PF,7.00
-49,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,7.00
 49,Julian Champagnie,San Antonio Spurs,PF,7.00
+49,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,7.00
 49,Klay Thompson,Dallas Mavericks,SG,7.00
 49,Julius Randle,Minnesota Timberwolves,PF,7.00
 49,Chris Paul,San Antonio Spurs,PG,7.00
@@ -91,9 +91,9 @@ Rank,Player,Team,Pos,Value
 88,Taylor Hendricks,Utah Jazz,PF,5.00
 88,Sam Hauser,Boston Celtics,SF,5.00
 88,Jay Huff,Memphis Grizzlies,C,5.00
-88,John Konchar,Memphis Grizzlies,SG,5.00
 88,Marcus Smart,Memphis Grizzlies,PG,5.00
 88,Dyson Daniels,Atlanta Hawks,SG,5.00
+88,John Konchar,Memphis Grizzlies,SG,5.00
 88,Jabari Smith Jr.,Houston Rockets,PF,5.00
 88,Haywood Highsmith,Miami Heat,SF,5.00
 88,Trae Young,Atlanta Hawks,PG,5.00

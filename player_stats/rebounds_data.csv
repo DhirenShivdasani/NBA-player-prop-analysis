@@ -2,46 +2,49 @@ Rank,Player,Team,Pos,Value
 1,Alperen Sengun,Houston Rockets,C,16.50
 2,Chet Holmgren,Oklahoma City Thunder,C,14.00
 3,Deandre Ayton,Portland Trail Blazers,C,13.00
+4,Rudy Gobert,Minnesota Timberwolves,C,12.50
 4,Wendell Carter Jr.,Orlando Magic,C,12.50
 4,Giannis Antetokounmpo,Milwaukee Bucks,SF,12.50
-4,Rudy Gobert,Minnesota Timberwolves,C,12.50
+7,James Harden,Los Angeles Clippers,SG,12.00
 7,Nikola Jokic,Denver Nuggets,C,12.00
 7,Anthony Davis,Los Angeles Lakers,PF,12.00
-7,James Harden,Los Angeles Clippers,SG,12.00
 10,Walker Kessler,Utah Jazz,C,11.50
 11,Keegan Murray,Sacramento Kings,SF,11.00
 11,Karl-Anthony Towns,New York Knicks,C,11.00
 11,Zion Williamson,New Orleans Pelicans,PF,11.00
 11,Andre Drummond,Philadelphia 76ers,C,11.00
 11,Dereck Lively II,Dallas Mavericks,C,11.00
+16,Jabari Smith Jr.,Houston Rockets,PF,10.50
 16,Nikola Vucevic,Chicago Bulls,C,10.50
 16,Nick Richards,Charlotte Hornets,C,10.50
-16,Jabari Smith Jr.,Houston Rockets,PF,10.50
-19,Luka Doncic,Dallas Mavericks,SF,10.00
 19,Jalen Duren,Detroit Pistons,C,10.00
+19,Luka Doncic,Dallas Mavericks,SF,10.00
+21,Jakob Poeltl,Toronto Raptors,C,9.00
+21,Victor Wembanyama,San Antonio Spurs,PF,9.00
 21,Aaron Gordon,Denver Nuggets,PF,9.00
 21,Ivica Zubac,Los Angeles Clippers,C,9.00
 21,Jarrett Allen,Cleveland Cavaliers,C,9.00
-21,Victor Wembanyama,San Antonio Spurs,PF,9.00
-21,Jakob Poeltl,Toronto Raptors,C,9.00
+26,Lauri Markkanen,Utah Jazz,PF,8.50
 26,Andrew Wiggins,Golden State Warriors,SF,8.50
 26,Paolo Banchero,Orlando Magic,PF,8.50
 26,Naz Reid,Minnesota Timberwolves,C,8.50
 26,Jalen Johnson,Atlanta Hawks,SF,8.50
-26,Lauri Markkanen,Utah Jazz,PF,8.50
+31,Myles Turner,Indiana Pacers,C,8.00
+31,Onyeka Okongwu,Atlanta Hawks,PF,8.00
+31,DeMar DeRozan,Sacramento Kings,SG,8.00
+31,Jusuf Nurkic,Phoenix Suns,C,8.00
+31,Domantas Sabonis,Sacramento Kings,PF,8.00
 31,Dejounte Murray,New Orleans Pelicans,PG,8.00
 31,Kevon Looney,Golden State Warriors,PF,8.00
 31,Michael Porter Jr.,Denver Nuggets,PF,8.00
-31,Myles Turner,Indiana Pacers,C,8.00
-31,Onyeka Okongwu,Atlanta Hawks,PF,8.00
-31,Jusuf Nurkic,Phoenix Suns,C,8.00
-31,DeMar DeRozan,Sacramento Kings,SG,8.00
-31,Domantas Sabonis,Sacramento Kings,PF,8.00
+39,Evan Mobley,Cleveland Cavaliers,C,7.50
 39,Jayson Tatum,Boston Celtics,SF,7.50
 39,Bobby Portis,Milwaukee Bucks,PF,7.50
 39,Jaylen Brown,Boston Celtics,SG,7.50
 39,Brandon Ingram,New Orleans Pelicans,SF,7.50
-39,Evan Mobley,Cleveland Cavaliers,C,7.50
+44,Ochai Agbaji,Toronto Raptors,SG,7.00
+44,Julius Randle,Minnesota Timberwolves,PF,7.00
+44,Caleb Martin,Philadelphia 76ers,SF,7.00
 44,Julian Champagnie,San Antonio Spurs,PF,7.00
 44,Josh Hart,New York Knicks,SG,7.00
 44,Christian Braun,Denver Nuggets,SG,7.00
@@ -53,9 +56,10 @@ Rank,Player,Team,Pos,Value
 44,Miles Bridges,Charlotte Hornets,SF,7.00
 44,Dorian Finney-Smith,Brooklyn Nets,SF,7.00
 44,Klay Thompson,Dallas Mavericks,SG,7.00
-44,Ochai Agbaji,Toronto Raptors,SG,7.00
-44,Julius Randle,Minnesota Timberwolves,PF,7.00
-44,Caleb Martin,Philadelphia 76ers,SF,7.00
+58,Anthony Edwards,Minnesota Timberwolves,SG,6.50
+58,Trae Young,Atlanta Hawks,PG,6.50
+58,Austin Reaves,Los Angeles Lakers,PG,6.50
+58,Damian Lillard,Milwaukee Bucks,PG,6.50
 58,Taurean Prince,Milwaukee Bucks,SF,6.50
 58,Cody Martin,Charlotte Hornets,SF,6.50
 58,Bruno Fernando,Toronto Raptors,PF,6.50
@@ -66,36 +70,32 @@ Rank,Player,Team,Pos,Value
 58,Yves Missi,New Orleans Pelicans,C,6.50
 58,Deni Avdija,Portland Trail Blazers,SF,6.50
 58,Trayce Jackson-Davis,Golden State Warriors,PF,6.50
-58,Anthony Edwards,Minnesota Timberwolves,SG,6.50
-58,Austin Reaves,Los Angeles Lakers,PG,6.50
-58,Trae Young,Atlanta Hawks,PG,6.50
-58,Damian Lillard,Milwaukee Bucks,PG,6.50
+72,Daniel Gafford,Dallas Mavericks,PF,6.00
+72,Rui Hachimura,Los Angeles Lakers,PF,6.00
+72,Jamal Murray,Denver Nuggets,SG,6.00
+72,Jeremy Sochan,San Antonio Spurs,PF,6.00
 72,Stephen Curry,Golden State Warriors,PG,6.00
 72,Bilal Coulibaly,Washington Wizards,SG,6.00
-72,Peyton Watson,Denver Nuggets,SG,6.00
 72,John Collins,Utah Jazz,PF,6.00
+72,Peyton Watson,Denver Nuggets,SG,6.00
 72,Jordan Hawkins,New Orleans Pelicans,SG,6.00
 72,Brook Lopez,Milwaukee Bucks,C,6.00
 72,Alex Caruso,Oklahoma City Thunder,SG,6.00
 72,Brandin Podziemski,Golden State Warriors,SG,6.00
-72,Aaron Wiggins,Oklahoma City Thunder,SG,6.00
 72,Toumani Camara,Portland Trail Blazers,PF,6.00
+72,Aaron Wiggins,Oklahoma City Thunder,SG,6.00
 72,Terry Rozier,Miami Heat,PG,6.00
 72,Taylor Hendricks,Utah Jazz,PF,6.00
 72,Marvin Bagley III,Washington Wizards,PF,6.00
-72,Rui Hachimura,Los Angeles Lakers,PF,6.00
-72,Daniel Gafford,Dallas Mavericks,PF,6.00
-72,Jamal Murray,Denver Nuggets,SG,6.00
-72,Jeremy Sochan,San Antonio Spurs,PF,6.00
+89,Scottie Barnes,Toronto Raptors,SF,5.50
 89,Josh Giddey,Chicago Bulls,SG,5.50
 89,Vasilije Micic,Charlotte Hornets,PG,5.50
 89,Kyle Anderson,Golden State Warriors,SF,5.50
 89,Cam Thomas,Brooklyn Nets,SG,5.50
-89,Ben Simmons,Brooklyn Nets,SG,5.50
 89,John Konchar,Memphis Grizzlies,SG,5.50
+89,Ben Simmons,Brooklyn Nets,SG,5.50
 89,Jericho Sims,New York Knicks,C,5.50
 89,Kevin Durant,Phoenix Suns,SF,5.50
-89,Scottie Barnes,Toronto Raptors,SF,5.50
-98,Sam Hauser,Boston Celtics,SF,5.00
-98,Ronald Holland II,Detroit Pistons,SF,5.00
-98,Santi Aldama,Memphis Grizzlies,PF,5.00
+98,Nikola Jovic,Miami Heat,SF,5.00
+98,Isaiah Jackson,Indiana Pacers,PF,5.00
+98,Franz Wagner,Orlando Magic,SF,5.00

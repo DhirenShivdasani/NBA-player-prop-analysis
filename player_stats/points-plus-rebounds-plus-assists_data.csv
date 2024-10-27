@@ -14,8 +14,8 @@ Rank,Player,Team,Pos,Value
 13,Cam Thomas,Brooklyn Nets,SG,38.50
 14,LeBron James,Los Angeles Lakers,SF,38.00
 14,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,38.00
-14,Kevin Durant,Phoenix Suns,SF,38.00
 14,Ivica Zubac,Los Angeles Clippers,C,38.00
+14,Kevin Durant,Phoenix Suns,SF,38.00
 18,Anthony Edwards,Minnesota Timberwolves,SG,37.67
 19,Brandon Ingram,New Orleans Pelicans,SF,37.50
 20,Julius Randle,Minnesota Timberwolves,PF,36.33
@@ -29,8 +29,8 @@ Rank,Player,Team,Pos,Value
 28,Jalen Green,Houston Rockets,SG,33.33
 28,Zach LaVine,Chicago Bulls,PG,33.33
 30,Buddy Hield,Golden State Warriors,SG,32.50
-30,Victor Wembanyama,San Antonio Spurs,PF,32.50
 30,Norman Powell,Los Angeles Clippers,SG,32.50
+30,Victor Wembanyama,San Antonio Spurs,PF,32.50
 33,Tyrese Maxey,Philadelphia 76ers,PG,32.00
 33,Dejounte Murray,New Orleans Pelicans,PG,32.00
 35,Stephen Curry,Golden State Warriors,PG,31.50
@@ -67,10 +67,10 @@ Rank,Player,Team,Pos,Value
 64,Klay Thompson,Dallas Mavericks,SG,26.50
 67,Josh Giddey,Chicago Bulls,SG,26.33
 68,Anfernee Simons,Portland Trail Blazers,SG,26.00
-68,Scoot Henderson,Portland Trail Blazers,PG,26.00
 68,Desmond Bane,Memphis Grizzlies,SG,26.00
 68,Josh Hart,New York Knicks,SG,26.00
 68,Santi Aldama,Memphis Grizzlies,PF,26.00
+68,Scoot Henderson,Portland Trail Blazers,PG,26.00
 68,Tre Mann,Charlotte Hornets,PG,26.00
 68,Jordan Poole,Washington Wizards,SG,26.00
 75,Rui Hachimura,Los Angeles Lakers,PF,25.67
@@ -83,18 +83,18 @@ Rank,Player,Team,Pos,Value
 79,Bilal Coulibaly,Washington Wizards,SG,25.00
 83,Bennedict Mathurin,Indiana Pacers,SG,24.50
 83,Kyrie Irving,Dallas Mavericks,PG,24.50
-85,Jalen Duren,Detroit Pistons,C,24.33
 85,Fred VanVleet,Houston Rockets,PG,24.33
+85,Jalen Duren,Detroit Pistons,C,24.33
 87,Rudy Gobert,Minnesota Timberwolves,C,24.00
 88,Jusuf Nurkic,Phoenix Suns,C,23.33
 89,Julian Champagnie,San Antonio Spurs,PF,23.00
 89,Jakob Poeltl,Toronto Raptors,C,23.00
 89,Michael Porter Jr.,Denver Nuggets,PF,23.00
 92,Taurean Prince,Milwaukee Bucks,SF,22.50
-92,Dyson Daniels,Atlanta Hawks,SG,22.50
 92,Mikal Bridges,New York Knicks,SG,22.50
-95,Nick Richards,Charlotte Hornets,C,22.33
+92,Dyson Daniels,Atlanta Hawks,SG,22.50
 95,Naz Reid,Minnesota Timberwolves,C,22.33
+95,Nick Richards,Charlotte Hornets,C,22.33
 97,Bobby Portis,Milwaukee Bucks,PF,22.00
 97,Malik Monk,Sacramento Kings,SG,22.00
 97,Walker Kessler,Utah Jazz,C,22.00

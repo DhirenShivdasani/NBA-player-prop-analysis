@@ -4,8 +4,8 @@ Rank,Player,Team,Pos,Value
 3,Nikola Jokic,Denver Nuggets,C,47.50
 4,Giannis Antetokounmpo,Milwaukee Bucks,SF,47.00
 5,LaMelo Ball,Charlotte Hornets,PG,46.00
-6,Trae Young,Atlanta Hawks,PG,45.33
 6,Jayson Tatum,Boston Celtics,SF,45.33
+6,Trae Young,Atlanta Hawks,PG,45.33
 8,James Harden,Los Angeles Clippers,SG,45.00
 9,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,43.67
 10,Domantas Sabonis,Sacramento Kings,PF,42.00
@@ -14,9 +14,9 @@ Rank,Player,Team,Pos,Value
 13,Chet Holmgren,Oklahoma City Thunder,C,39.67
 14,Tyrese Maxey,Philadelphia 76ers,PG,39.00
 15,Cam Thomas,Brooklyn Nets,SG,38.67
-16,LeBron James,Los Angeles Lakers,SF,38.00
 16,Kevin Durant,Phoenix Suns,SF,38.00
 16,Damian Lillard,Milwaukee Bucks,PG,38.00
+16,LeBron James,Los Angeles Lakers,SF,38.00
 19,Anthony Edwards,Minnesota Timberwolves,SG,37.67
 20,Julius Randle,Minnesota Timberwolves,PF,36.33
 21,Jaylen Brown,Boston Celtics,SG,36.00
@@ -26,8 +26,8 @@ Rank,Player,Team,Pos,Value
 25,Brandon Ingram,New Orleans Pelicans,SF,34.33
 25,Paolo Banchero,Orlando Magic,PF,34.33
 27,Nikola Vucevic,Chicago Bulls,C,34.00
-28,Jalen Green,Houston Rockets,SG,33.33
 28,Zach LaVine,Chicago Bulls,PG,33.33
+28,Jalen Green,Houston Rockets,SG,33.33
 30,Victor Wembanyama,San Antonio Spurs,PF,32.50
 31,Jerami Grant,Portland Trail Blazers,SF,32.33
 32,Jaden Ivey,Detroit Pistons,PG,31.33
@@ -45,20 +45,20 @@ Rank,Player,Team,Pos,Value
 43,CJ McCollum,New Orleans Pelicans,SG,29.67
 45,Karl-Anthony Towns,New York Knicks,C,29.00
 45,Anfernee Simons,Portland Trail Blazers,SG,29.00
+47,Coby White,Chicago Bulls,SG,28.67
 47,Andrew Wiggins,Golden State Warriors,SF,28.67
 47,Norman Powell,Los Angeles Clippers,SG,28.67
-47,Coby White,Chicago Bulls,SG,28.67
 50,Terry Rozier,Miami Heat,PG,28.50
-51,Derrick White,Boston Celtics,PG,28.00
 51,Jeremy Sochan,San Antonio Spurs,PF,28.00
+51,Derrick White,Boston Celtics,PG,28.00
 53,Pascal Siakam,Indiana Pacers,PF,27.67
 54,Zion Williamson,New Orleans Pelicans,PF,27.50
 54,Keegan Murray,Sacramento Kings,SF,27.50
 56,Devin Booker,Phoenix Suns,SG,27.33
+57,Jarrett Allen,Cleveland Cavaliers,C,27.00
 57,Jimmy Butler,Miami Heat,PF,27.00
 57,Buddy Hield,Golden State Warriors,SG,27.00
 57,Tyler Herro,Miami Heat,SG,27.00
-57,Jarrett Allen,Cleveland Cavaliers,C,27.00
 61,Miles Bridges,Charlotte Hornets,SF,26.67
 62,Bradley Beal,Phoenix Suns,SG,26.50
 62,Klay Thompson,Dallas Mavericks,SG,26.50
@@ -73,29 +73,29 @@ Rank,Player,Team,Pos,Value
 67,Santi Aldama,Memphis Grizzlies,PF,26.00
 73,Jordan Hawkins,New Orleans Pelicans,SG,25.67
 73,Rui Hachimura,Los Angeles Lakers,PF,25.67
-75,Dereck Lively II,Dallas Mavericks,C,25.50
 75,Jamal Murray,Denver Nuggets,SG,25.50
+75,Dereck Lively II,Dallas Mavericks,C,25.50
 77,Bilal Coulibaly,Washington Wizards,SG,25.00
 78,Myles Turner,Indiana Pacers,C,24.67
 78,Caleb Martin,Philadelphia 76ers,SF,24.67
 80,Kyrie Irving,Dallas Mavericks,PG,24.50
-81,Jalen Duren,Detroit Pistons,C,24.33
-81,Scoot Henderson,Portland Trail Blazers,PG,24.33
-81,Fred VanVleet,Houston Rockets,PG,24.33
 81,Onyeka Okongwu,Atlanta Hawks,PF,24.33
+81,Scoot Henderson,Portland Trail Blazers,PG,24.33
+81,Jalen Duren,Detroit Pistons,C,24.33
+81,Fred VanVleet,Houston Rockets,PG,24.33
 85,Rudy Gobert,Minnesota Timberwolves,C,24.00
 85,Bobby Portis,Milwaukee Bucks,PF,24.00
 87,Jusuf Nurkic,Phoenix Suns,C,23.33
 87,Andre Drummond,Philadelphia 76ers,C,23.33
-89,Julian Champagnie,San Antonio Spurs,PF,23.00
-89,Jakob Poeltl,Toronto Raptors,C,23.00
 89,Michael Porter Jr.,Denver Nuggets,PF,23.00
 89,Jalen Johnson,Atlanta Hawks,SF,23.00
+89,Julian Champagnie,San Antonio Spurs,PF,23.00
+89,Jakob Poeltl,Toronto Raptors,C,23.00
 93,Mikal Bridges,New York Knicks,SG,22.50
-94,Nick Richards,Charlotte Hornets,C,22.33
 94,Naz Reid,Minnesota Timberwolves,C,22.33
-96,Walker Kessler,Utah Jazz,C,22.00
+94,Nick Richards,Charlotte Hornets,C,22.33
 96,Malik Monk,Sacramento Kings,SG,22.00
+96,Walker Kessler,Utah Jazz,C,22.00
 98,Darius Garland,Cleveland Cavaliers,PG,21.67
+99,Christian Braun,Denver Nuggets,SG,21.50
 99,Jonas Valanciunas,Washington Wizards,C,21.50
-99,Jordan Clarkson,Utah Jazz,PG,21.50

@@ -27,34 +27,34 @@ Rank,Player,Team,Pos,Value
 26,Cade Cunningham,Detroit Pistons,PG,23.67
 27,Austin Reaves,Los Angeles Lakers,PG,23.00
 27,De'Aaron Fox,Sacramento Kings,PG,23.00
-29,Derrick White,Boston Celtics,PG,22.67
 29,Jaylen Brown,Boston Celtics,SG,22.67
-31,DeMar DeRozan,Sacramento Kings,SG,22.50
+29,Derrick White,Boston Celtics,PG,22.67
 31,Walker Kessler,Utah Jazz,C,22.50
+31,DeMar DeRozan,Sacramento Kings,SG,22.50
 31,Norman Powell,Los Angeles Clippers,SG,22.50
 34,Zach LaVine,Chicago Bulls,PG,22.33
 35,Dereck Lively II,Dallas Mavericks,C,22.00
 35,Rudy Gobert,Minnesota Timberwolves,C,22.00
-37,Jalen Duren,Detroit Pistons,C,21.67
 37,Alperen Sengun,Houston Rockets,C,21.67
+37,Jalen Duren,Detroit Pistons,C,21.67
 39,Stephen Curry,Golden State Warriors,PG,21.50
 39,Lauri Markkanen,Utah Jazz,PF,21.50
 39,Keegan Murray,Sacramento Kings,SF,21.50
 39,Taurean Prince,Milwaukee Bucks,SF,21.50
 43,Santi Aldama,Memphis Grizzlies,PF,21.33
 44,CJ McCollum,New Orleans Pelicans,SG,21.00
+44,Dyson Daniels,Atlanta Hawks,SG,21.00
 44,Paolo Banchero,Orlando Magic,PF,21.00
 44,Trayce Jackson-Davis,Golden State Warriors,PF,21.00
-44,Dyson Daniels,Atlanta Hawks,SG,21.00
 44,Jordan Poole,Washington Wizards,SG,21.00
 44,Myles Turner,Indiana Pacers,C,21.00
 44,Jaden Ivey,Detroit Pistons,PG,21.00
 51,Jalen Brunson,New York Knicks,PG,20.50
-51,Victor Wembanyama,San Antonio Spurs,PF,20.50
 51,Bradley Beal,Phoenix Suns,SG,20.50
 51,Pascal Siakam,Indiana Pacers,PF,20.50
 51,De'Andre Hunter,Atlanta Hawks,PF,20.50
 51,Klay Thompson,Dallas Mavericks,SG,20.50
+51,Victor Wembanyama,San Antonio Spurs,PF,20.50
 57,Anthony Edwards,Minnesota Timberwolves,SG,20.33
 58,Jordan Hawkins,New Orleans Pelicans,SG,20.00
 58,Zion Williamson,New Orleans Pelicans,PF,20.00
@@ -66,8 +66,8 @@ Rank,Player,Team,Pos,Value
 65,Donovan Mitchell,Cleveland Cavaliers,SG,19.33
 66,Nick Richards,Charlotte Hornets,C,19.00
 66,Tyler Herro,Miami Heat,SG,19.00
-68,Josh Hart,New York Knicks,SG,18.50
 68,Jeremy Sochan,San Antonio Spurs,PF,18.50
+68,Josh Hart,New York Knicks,SG,18.50
 68,Christian Braun,Denver Nuggets,SG,18.50
 71,Ja Morant,Memphis Grizzlies,PG,18.33
 72,Coby White,Chicago Bulls,SG,18.00
@@ -78,24 +78,24 @@ Rank,Player,Team,Pos,Value
 75,Ty Jerome,Cleveland Cavaliers,SG,17.67
 75,Devin Booker,Phoenix Suns,SG,17.67
 75,Rui Hachimura,Los Angeles Lakers,PF,17.67
-80,Jimmy Butler,Miami Heat,PF,17.50
 80,Bilal Coulibaly,Washington Wizards,SG,17.50
+80,Jimmy Butler,Miami Heat,PF,17.50
 80,Deandre Ayton,Portland Trail Blazers,C,17.50
+80,Scoot Henderson,Portland Trail Blazers,PG,17.50
 80,Bobby Portis,Milwaukee Bucks,PF,17.50
 80,Julian Champagnie,San Antonio Spurs,PF,17.50
-80,Scoot Henderson,Portland Trail Blazers,PG,17.50
 86,Naz Reid,Minnesota Timberwolves,C,17.33
 87,Jamal Murray,Denver Nuggets,SG,17.00
 87,Kyle Lowry,Philadelphia 76ers,PG,17.00
-87,Bennedict Mathurin,Indiana Pacers,SG,17.00
 87,Harrison Barnes,San Antonio Spurs,SF,17.00
+87,Bennedict Mathurin,Indiana Pacers,SG,17.00
 91,Jalen Suggs,Orlando Magic,SG,16.67
 91,Scotty Pippen Jr.,Memphis Grizzlies,PG,16.67
-91,Jay Huff,Memphis Grizzlies,C,16.67
 91,Caris LeVert,Cleveland Cavaliers,SG,16.67
+91,Jay Huff,Memphis Grizzlies,C,16.67
 91,Wendell Carter Jr.,Orlando Magic,C,16.67
 91,Jakob Poeltl,Toronto Raptors,C,16.67
 97,Jonas Valanciunas,Washington Wizards,C,16.50
-97,Malik Monk,Sacramento Kings,SG,16.50
 97,Yves Missi,New Orleans Pelicans,C,16.50
+97,Malik Monk,Sacramento Kings,SG,16.50
 100,Josh Giddey,Chicago Bulls,SG,16.33

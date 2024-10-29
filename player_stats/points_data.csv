@@ -40,8 +40,8 @@ Rank,Player,Team,Pos,Value
 39,Ja Morant,Memphis Grizzlies,PG,20.67
 39,Dennis Schroder,Brooklyn Nets,PG,20.67
 41,Franz Wagner,Orlando Magic,SF,20.50
-42,LeBron James,Los Angeles Lakers,SF,20.00
 42,Victor Wembanyama,San Antonio Spurs,PF,20.00
+42,LeBron James,Los Angeles Lakers,SF,20.00
 42,Kyrie Irving,Dallas Mavericks,PG,20.00
 45,Andrew Wiggins,Golden State Warriors,SF,19.67
 45,Klay Thompson,Dallas Mavericks,SG,19.67
@@ -74,11 +74,11 @@ Rank,Player,Team,Pos,Value
 73,Jalen Suggs,Orlando Magic,SG,16.75
 74,Onyeka Okongwu,Atlanta Hawks,PF,16.33
 75,Payton Pritchard,Boston Celtics,PG,16.25
-76,Gradey Dick,Toronto Raptors,SG,16.00
 76,Scoot Henderson,Portland Trail Blazers,PG,16.00
 76,Josh Hart,New York Knicks,SG,16.00
 76,Jaren Jackson Jr.,Memphis Grizzlies,PF,16.00
 76,Bilal Coulibaly,Washington Wizards,SG,16.00
+76,Gradey Dick,Toronto Raptors,SG,16.00
 81,Jalen Johnson,Atlanta Hawks,SF,15.75
 82,Santi Aldama,Memphis Grizzlies,PF,15.50
 83,Karl-Anthony Towns,New York Knicks,C,15.33
@@ -93,9 +93,9 @@ Rank,Player,Team,Pos,Value
 92,Deandre Ayton,Portland Trail Blazers,C,14.25
 92,Josh Giddey,Chicago Bulls,SG,14.25
 94,Tyrese Haliburton,Indiana Pacers,PG,14.00
-95,Keyonte George,Utah Jazz,SG,13.67
 95,Jordan Clarkson,Utah Jazz,PG,13.67
 95,Naz Reid,Minnesota Timberwolves,C,13.67
+95,Keyonte George,Utah Jazz,SG,13.67
 95,John Collins,Utah Jazz,PF,13.67
 99,Caleb Martin,Philadelphia 76ers,SF,13.33
 100,Jrue Holiday,Boston Celtics,PG,13.25

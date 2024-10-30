@@ -6,8 +6,8 @@ Rank,Player,Team,Pos,Value
 5,Anthony Edwards,Minnesota Timberwolves,SG,30.00
 6,Cam Thomas,Brooklyn Nets,SG,29.50
 7,Kevin Durant,Phoenix Suns,SF,29.00
-8,Giannis Antetokounmpo,Milwaukee Bucks,SF,28.75
 8,Jalen Green,Houston Rockets,SG,28.75
+8,Giannis Antetokounmpo,Milwaukee Bucks,SF,28.75
 10,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,28.67
 11,Jayson Tatum,Boston Celtics,SF,28.50
 11,Paolo Banchero,Orlando Magic,PF,28.50
@@ -34,24 +34,24 @@ Rank,Player,Team,Pos,Value
 33,De'Aaron Fox,Sacramento Kings,PG,21.50
 34,Jerami Grant,Portland Trail Blazers,SF,21.25
 34,Buddy Hield,Golden State Warriors,SG,21.25
-36,Desmond Bane,Memphis Grizzlies,SG,21.00
 36,Kelly Oubre Jr.,Philadelphia 76ers,SF,21.00
-38,Nikola Vucevic,Chicago Bulls,C,20.75
+36,Desmond Bane,Memphis Grizzlies,SG,21.00
 38,Jaden Ivey,Detroit Pistons,PG,20.75
+38,Nikola Vucevic,Chicago Bulls,C,20.75
 40,Ja Morant,Memphis Grizzlies,PG,20.67
 41,Franz Wagner,Orlando Magic,SF,20.50
 42,Zion Williamson,New Orleans Pelicans,PF,20.33
-43,Victor Wembanyama,San Antonio Spurs,PF,20.00
 43,LeBron James,Los Angeles Lakers,SF,20.00
+43,Victor Wembanyama,San Antonio Spurs,PF,20.00
 45,Andrew Wiggins,Golden State Warriors,SF,19.67
 46,Anfernee Simons,Portland Trail Blazers,SG,19.50
 47,Terry Rozier,Miami Heat,PG,19.33
+48,Austin Reaves,Los Angeles Lakers,PG,19.25
 48,Scottie Barnes,Toronto Raptors,SF,19.25
 48,Darius Garland,Cleveland Cavaliers,PG,19.25
-48,Austin Reaves,Los Angeles Lakers,PG,19.25
 51,Jeremy Sochan,San Antonio Spurs,PF,19.00
-52,CJ McCollum,New Orleans Pelicans,SG,18.75
 52,Jamal Murray,Denver Nuggets,SG,18.75
+52,CJ McCollum,New Orleans Pelicans,SG,18.75
 54,Mikal Bridges,New York Knicks,SG,18.67
 54,Jalen Williams,Oklahoma City Thunder,SG,18.67
 56,Pascal Siakam,Indiana Pacers,PF,18.50
@@ -60,9 +60,9 @@ Rank,Player,Team,Pos,Value
 58,Tre Mann,Charlotte Hornets,PG,18.33
 58,Stephen Curry,Golden State Warriors,PG,18.33
 61,Derrick White,Boston Celtics,PG,18.25
+62,Bradley Beal,Phoenix Suns,SG,18.00
 62,Lauri Markkanen,Utah Jazz,PF,18.00
 62,De'Andre Hunter,Atlanta Hawks,PF,18.00
-62,Bradley Beal,Phoenix Suns,SG,18.00
 65,Evan Mobley,Cleveland Cavaliers,C,17.75
 66,Miles Bridges,Charlotte Hornets,SF,17.67
 67,Rui Hachimura,Los Angeles Lakers,PF,17.50
@@ -79,23 +79,23 @@ Rank,Player,Team,Pos,Value
 75,Josh Hart,New York Knicks,SG,16.00
 75,Gradey Dick,Toronto Raptors,SG,16.00
 80,Jalen Johnson,Atlanta Hawks,SF,15.75
-81,Santi Aldama,Memphis Grizzlies,PF,15.50
 81,Jordan Clarkson,Utah Jazz,PG,15.50
 81,Aaron Gordon,Denver Nuggets,PF,15.50
+81,Santi Aldama,Memphis Grizzlies,PF,15.50
 84,Karl-Anthony Towns,New York Knicks,C,15.33
 85,Myles Turner,Indiana Pacers,C,15.00
-86,Alperen Sengun,Houston Rockets,C,14.75
-86,John Collins,Utah Jazz,PF,14.75
 86,Cameron Johnson,Brooklyn Nets,PF,14.75
 86,Fred VanVleet,Houston Rockets,PG,14.75
+86,Alperen Sengun,Houston Rockets,C,14.75
+86,John Collins,Utah Jazz,PF,14.75
 90,Miles McBride,New York Knicks,PG,14.67
 91,Jordan Hawkins,New Orleans Pelicans,SG,14.50
+92,Deandre Ayton,Portland Trail Blazers,C,14.25
 92,Josh Giddey,Chicago Bulls,SG,14.25
 92,Keegan Murray,Sacramento Kings,SF,14.25
-92,Deandre Ayton,Portland Trail Blazers,C,14.25
-95,Christian Braun,Denver Nuggets,SG,14.00
 95,Tyrese Haliburton,Indiana Pacers,PG,14.00
+95,Christian Braun,Denver Nuggets,SG,14.00
 97,Naz Reid,Minnesota Timberwolves,C,13.75
 97,Collin Sexton,Utah Jazz,PG,13.75
 99,Caleb Martin,Philadelphia 76ers,SF,13.33
-100,Michael Porter Jr.,Denver Nuggets,PF,13.25
+100,Jrue Holiday,Boston Celtics,PG,13.25

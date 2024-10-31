@@ -8,15 +8,15 @@ Rank,Player,Team,Pos,Value
 7,Luka Doncic,Dallas Mavericks,SF,16.25
 8,Alperen Sengun,Houston Rockets,C,16.00
 9,Anthony Davis,Los Angeles Lakers,PF,15.20
-10,Jakob Poeltl,Toronto Raptors,C,15.00
 10,Jalen Johnson,Atlanta Hawks,SF,15.00
-12,Paolo Banchero,Orlando Magic,PF,14.40
+10,Jakob Poeltl,Toronto Raptors,C,15.00
 12,Nikola Vucevic,Chicago Bulls,C,14.40
+12,Paolo Banchero,Orlando Magic,PF,14.40
 14,Josh Giddey,Chicago Bulls,SG,14.20
+15,Nick Richards,Charlotte Hornets,C,13.75
 15,Josh Hart,New York Knicks,SG,13.75
 15,Scottie Barnes,Toronto Raptors,SF,13.75
 15,Chet Holmgren,Oklahoma City Thunder,C,13.75
-15,Nick Richards,Charlotte Hornets,C,13.75
 19,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,13.50
 19,Victor Wembanyama,San Antonio Spurs,PF,13.50
 21,Deandre Ayton,Portland Trail Blazers,C,13.40
@@ -34,8 +34,8 @@ Rank,Player,Team,Pos,Value
 33,Damian Lillard,Milwaukee Bucks,PG,12.25
 34,Jarrett Allen,Cleveland Cavaliers,C,12.20
 34,Jayson Tatum,Boston Celtics,SF,12.20
-36,Walker Kessler,Utah Jazz,C,12.00
 36,Jalen Duren,Detroit Pistons,C,12.00
+36,Walker Kessler,Utah Jazz,C,12.00
 36,Ja Morant,Memphis Grizzlies,PG,12.00
 36,Stephen Curry,Golden State Warriors,PG,12.00
 36,De'Aaron Fox,Sacramento Kings,PG,12.00
@@ -47,47 +47,47 @@ Rank,Player,Team,Pos,Value
 44,Jaylen Brown,Boston Celtics,SG,11.00
 47,Austin Reaves,Los Angeles Lakers,PG,10.80
 48,Kyle Kuzma,Washington Wizards,PF,10.67
+49,Jonas Valanciunas,Washington Wizards,C,10.50
 49,Jabari Smith Jr.,Houston Rockets,PF,10.50
 49,Ben Simmons,Brooklyn Nets,SG,10.50
-49,Jonas Valanciunas,Washington Wizards,C,10.50
-52,Evan Mobley,Cleveland Cavaliers,C,10.40
-52,Scotty Pippen Jr.,Memphis Grizzlies,PG,10.40
 52,Tobias Harris,Detroit Pistons,SF,10.40
 52,Brandon Ingram,New Orleans Pelicans,SF,10.40
-56,Bam Adebayo,Miami Heat,C,10.25
+52,Evan Mobley,Cleveland Cavaliers,C,10.40
+52,Scotty Pippen Jr.,Memphis Grizzlies,PG,10.40
 56,Jusuf Nurkic,Phoenix Suns,C,10.25
+56,Bam Adebayo,Miami Heat,C,10.25
 58,Dennis Schroder,Brooklyn Nets,PG,10.20
+59,Michael Porter Jr.,Denver Nuggets,PF,10.00
+59,Chris Paul,San Antonio Spurs,PG,10.00
 59,Kevin Durant,Phoenix Suns,SF,10.00
 59,Santi Aldama,Memphis Grizzlies,PF,10.00
 59,Tyler Herro,Miami Heat,SG,10.00
 59,Caleb Martin,Philadelphia 76ers,SF,10.00
 59,Royce O'Neale,Phoenix Suns,SF,10.00
-59,Michael Porter Jr.,Denver Nuggets,PF,10.00
-59,Chris Paul,San Antonio Spurs,PG,10.00
 66,Brandin Podziemski,Golden State Warriors,SG,9.80
 66,Isaiah Stewart,Detroit Pistons,PF,9.80
 66,Kevon Looney,Golden State Warriors,PF,9.80
-69,Tyus Jones,Phoenix Suns,PG,9.75
-69,Jamal Murray,Denver Nuggets,SG,9.75
-69,Anthony Edwards,Minnesota Timberwolves,SG,9.75
-69,Nic Claxton,Brooklyn Nets,C,9.75
 69,Keyonte George,Utah Jazz,SG,9.75
 69,Jaime Jaquez Jr.,Miami Heat,SG,9.75
+69,Jamal Murray,Denver Nuggets,SG,9.75
+69,Tyus Jones,Phoenix Suns,PG,9.75
+69,Anthony Edwards,Minnesota Timberwolves,SG,9.75
+69,Nic Claxton,Brooklyn Nets,C,9.75
 75,Ayo Dosunmu,Chicago Bulls,PG,9.60
 76,Terry Rozier,Miami Heat,PG,9.50
 77,Deni Avdija,Portland Trail Blazers,SF,9.40
+78,Naz Reid,Minnesota Timberwolves,C,9.25
 78,Bobby Portis,Milwaukee Bucks,PF,9.25
 78,P.J. Washington,Dallas Mavericks,PF,9.25
 78,Fred VanVleet,Houston Rockets,PG,9.25
-78,Naz Reid,Minnesota Timberwolves,C,9.25
 82,Jake LaRavia,Memphis Grizzlies,SF,9.20
 82,Rui Hachimura,Los Angeles Lakers,PF,9.20
 82,Zach LaVine,Chicago Bulls,PG,9.20
+85,Kyrie Irving,Dallas Mavericks,PG,9.00
 85,Andrew Wiggins,Golden State Warriors,SF,9.00
 85,Jalen Suggs,Orlando Magic,SG,9.00
 85,Lauri Markkanen,Utah Jazz,PF,9.00
 85,Scoot Henderson,Portland Trail Blazers,PG,9.00
-85,Kyrie Irving,Dallas Mavericks,PG,9.00
 90,Coby White,Chicago Bulls,SG,8.80
 91,Bilal Coulibaly,Washington Wizards,SG,8.50
 91,Jalen Brunson,New York Knicks,PG,8.50
@@ -95,7 +95,7 @@ Rank,Player,Team,Pos,Value
 94,Draymond Green,Golden State Warriors,PF,8.40
 95,Tyrese Maxey,Philadelphia 76ers,PG,8.25
 96,Desmond Bane,Memphis Grizzlies,SG,8.20
+97,Jaden Ivey,Detroit Pistons,PG,8.00
 97,Jordan Clarkson,Utah Jazz,PG,8.00
 97,John Collins,Utah Jazz,PF,8.00
 97,Davion Mitchell,Toronto Raptors,PG,8.00
-97,Myles Turner,Indiana Pacers,C,8.00

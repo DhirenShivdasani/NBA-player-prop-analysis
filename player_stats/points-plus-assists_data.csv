@@ -19,11 +19,11 @@ Rank,Player,Team,Pos,Value
 18,Cam Thomas,Brooklyn Nets,SG,30.00
 19,Domantas Sabonis,Sacramento Kings,PF,29.75
 20,Jaylen Brown,Boston Celtics,SG,29.40
-21,Kyrie Irving,Dallas Mavericks,PG,29.00
 21,De'Aaron Fox,Sacramento Kings,PG,29.00
+21,Kyrie Irving,Dallas Mavericks,PG,29.00
 23,Donovan Mitchell,Cleveland Cavaliers,SG,28.80
-24,Jordan Poole,Washington Wizards,SG,28.50
 24,Jalen Brunson,New York Knicks,PG,28.50
+24,Jordan Poole,Washington Wizards,SG,28.50
 26,Julius Randle,Minnesota Timberwolves,PF,28.25
 27,LeBron James,Los Angeles Lakers,SF,27.80
 28,Norman Powell,Los Angeles Clippers,SG,27.50
@@ -40,8 +40,8 @@ Rank,Player,Team,Pos,Value
 39,Stephen Curry,Golden State Warriors,PG,25.00
 40,Jaden Ivey,Detroit Pistons,PG,24.80
 41,Karl-Anthony Towns,New York Knicks,C,24.50
-42,Buddy Hield,Golden State Warriors,SG,23.80
 42,Darius Garland,Cleveland Cavaliers,PG,23.80
+42,Buddy Hield,Golden State Warriors,SG,23.80
 44,Tre Mann,Charlotte Hornets,PG,23.75
 45,Nikola Vucevic,Chicago Bulls,C,23.60
 46,Jamal Murray,Denver Nuggets,SG,23.50
@@ -57,8 +57,8 @@ Rank,Player,Team,Pos,Value
 56,Andrew Wiggins,Golden State Warriors,SF,22.00
 56,Ivica Zubac,Los Angeles Clippers,C,22.00
 58,Jeremy Sochan,San Antonio Spurs,PF,21.75
-59,Austin Reaves,Los Angeles Lakers,PG,21.60
 59,Desmond Bane,Memphis Grizzlies,SG,21.60
+59,Austin Reaves,Los Angeles Lakers,PG,21.60
 61,Bilal Coulibaly,Washington Wizards,SG,21.50
 62,Evan Mobley,Cleveland Cavaliers,C,21.40
 63,Jaren Jackson Jr.,Memphis Grizzlies,PF,21.33
@@ -67,8 +67,8 @@ Rank,Player,Team,Pos,Value
 64,Franz Wagner,Orlando Magic,SF,21.20
 64,Scoot Henderson,Portland Trail Blazers,PG,21.20
 68,Fred VanVleet,Houston Rockets,PG,21.00
-69,Jalen Johnson,Atlanta Hawks,SF,20.80
 69,Jalen Suggs,Orlando Magic,SG,20.80
+69,Jalen Johnson,Atlanta Hawks,SF,20.80
 71,Kyle Kuzma,Washington Wizards,PF,20.67
 72,Jerami Grant,Portland Trail Blazers,SF,20.40
 72,Gradey Dick,Toronto Raptors,SG,20.40
@@ -76,17 +76,17 @@ Rank,Player,Team,Pos,Value
 75,Lauri Markkanen,Utah Jazz,PF,19.75
 76,Jordan Clarkson,Utah Jazz,PG,19.50
 77,Keyonte George,Utah Jazz,SG,19.25
-78,Jarrett Allen,Cleveland Cavaliers,C,19.00
 78,Aaron Gordon,Denver Nuggets,PF,19.00
+78,Jarrett Allen,Cleveland Cavaliers,C,19.00
 80,Payton Pritchard,Boston Celtics,PG,18.80
 81,Victor Wembanyama,San Antonio Spurs,PF,18.75
 82,Alperen Sengun,Houston Rockets,C,18.25
 83,Josh Hart,New York Knicks,SG,18.00
 84,Klay Thompson,Dallas Mavericks,SG,17.75
 85,Rui Hachimura,Los Angeles Lakers,PF,17.60
+86,Cameron Johnson,Brooklyn Nets,PF,17.40
 86,Jordan Hawkins,New Orleans Pelicans,SG,17.40
 86,Bennedict Mathurin,Indiana Pacers,SG,17.40
-86,Cameron Johnson,Brooklyn Nets,PF,17.40
 89,Jonas Valanciunas,Washington Wizards,C,17.25
 90,Scotty Pippen Jr.,Memphis Grizzlies,PG,17.20
 91,Myles Turner,Indiana Pacers,C,16.75
@@ -97,5 +97,5 @@ Rank,Player,Team,Pos,Value
 95,Jakob Poeltl,Toronto Raptors,C,16.20
 97,Tyus Jones,Phoenix Suns,PG,16.00
 97,Miles McBride,New York Knicks,PG,16.00
-99,Chris Paul,San Antonio Spurs,PG,15.75
 99,Christian Braun,Denver Nuggets,SG,15.75
+99,Keegan Murray,Sacramento Kings,SF,15.75

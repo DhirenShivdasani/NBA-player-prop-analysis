@@ -16,21 +16,21 @@ Rank,Player,Team,Pos,Value
 15,Devin Booker,Phoenix Suns,SG,31.40
 16,Jalen Green,Houston Rockets,SG,30.40
 17,Kyrie Irving,Dallas Mavericks,PG,30.20
-18,Kevin Durant,Phoenix Suns,SF,30.00
 18,Cam Thomas,Brooklyn Nets,SG,30.00
+18,Kevin Durant,Phoenix Suns,SF,30.00
 20,Ja Morant,Memphis Grizzlies,PG,29.80
 21,Domantas Sabonis,Sacramento Kings,PF,29.75
-22,Jaylen Brown,Boston Celtics,SG,29.40
 22,Damian Lillard,Milwaukee Bucks,PG,29.40
+22,Jaylen Brown,Boston Celtics,SG,29.40
 24,De'Aaron Fox,Sacramento Kings,PG,29.00
 25,Donovan Mitchell,Cleveland Cavaliers,SG,28.80
-26,Jordan Poole,Washington Wizards,SG,28.50
 26,Jalen Brunson,New York Knicks,PG,28.50
+26,Jordan Poole,Washington Wizards,SG,28.50
 28,Julius Randle,Minnesota Timberwolves,PF,28.25
 29,LeBron James,Los Angeles Lakers,SF,27.80
 30,Tyler Herro,Miami Heat,SG,27.50
-31,Norman Powell,Los Angeles Clippers,SG,27.00
 31,DeMar DeRozan,Sacramento Kings,SG,27.00
+31,Norman Powell,Los Angeles Clippers,SG,27.00
 33,Brandon Ingram,New Orleans Pelicans,SF,26.40
 34,Zach LaVine,Chicago Bulls,PG,25.80
 34,Pascal Siakam,Indiana Pacers,PF,25.80
@@ -40,47 +40,47 @@ Rank,Player,Team,Pos,Value
 39,Stephen Curry,Golden State Warriors,PG,25.00
 40,Jaden Ivey,Detroit Pistons,PG,24.80
 41,Karl-Anthony Towns,New York Knicks,C,24.50
-42,Darius Garland,Cleveland Cavaliers,PG,23.80
 42,Buddy Hield,Golden State Warriors,SG,23.80
+42,Darius Garland,Cleveland Cavaliers,PG,23.80
 44,Tre Mann,Charlotte Hornets,PG,23.75
 45,Nikola Vucevic,Chicago Bulls,C,23.60
 46,Jamal Murray,Denver Nuggets,SG,23.50
 47,Coby White,Chicago Bulls,SG,23.40
 48,Derrick White,Boston Celtics,PG,23.20
-49,Jalen Williams,Oklahoma City Thunder,SG,23.00
 49,Terry Rozier,Miami Heat,PG,23.00
+49,Jalen Williams,Oklahoma City Thunder,SG,23.00
+51,CJ McCollum,New Orleans Pelicans,SG,22.75
 51,Jimmy Butler,Miami Heat,PF,22.75
 51,Zion Williamson,New Orleans Pelicans,PF,22.75
-51,CJ McCollum,New Orleans Pelicans,SG,22.75
 54,Bradley Beal,Phoenix Suns,SG,22.67
 55,Mikal Bridges,New York Knicks,SG,22.25
 56,Ivica Zubac,Los Angeles Clippers,C,22.20
 57,Andrew Wiggins,Golden State Warriors,SF,22.00
-58,Desmond Bane,Memphis Grizzlies,SG,21.60
 58,Austin Reaves,Los Angeles Lakers,PG,21.60
+58,Desmond Bane,Memphis Grizzlies,SG,21.60
 60,Bilal Coulibaly,Washington Wizards,SG,21.50
 61,Victor Wembanyama,San Antonio Spurs,PF,21.40
 61,Evan Mobley,Cleveland Cavaliers,C,21.40
-63,Scoot Henderson,Portland Trail Blazers,PG,21.20
 63,Josh Giddey,Chicago Bulls,SG,21.20
 63,Tyrese Haliburton,Indiana Pacers,PG,21.20
 63,Franz Wagner,Orlando Magic,SF,21.20
+63,Scoot Henderson,Portland Trail Blazers,PG,21.20
 67,Jalen Johnson,Atlanta Hawks,SF,20.80
 67,Jalen Suggs,Orlando Magic,SG,20.80
 69,Kyle Kuzma,Washington Wizards,PF,20.67
-70,Gradey Dick,Toronto Raptors,SG,20.40
 70,Jerami Grant,Portland Trail Blazers,SF,20.40
+70,Gradey Dick,Toronto Raptors,SG,20.40
 72,Jeremy Sochan,San Antonio Spurs,PF,20.20
 73,Kelly Oubre Jr.,Philadelphia 76ers,SF,20.00
-74,Lauri Markkanen,Utah Jazz,PF,19.75
 74,Jaren Jackson Jr.,Memphis Grizzlies,PF,19.75
+74,Lauri Markkanen,Utah Jazz,PF,19.75
 76,Keyonte George,Utah Jazz,SG,19.40
-77,Aaron Gordon,Denver Nuggets,PF,19.00
 77,Jarrett Allen,Cleveland Cavaliers,C,19.00
-79,Alperen Sengun,Houston Rockets,C,18.80
+77,Aaron Gordon,Denver Nuggets,PF,19.00
 79,Payton Pritchard,Boston Celtics,PG,18.80
-81,Fred VanVleet,Houston Rockets,PG,18.40
+79,Alperen Sengun,Houston Rockets,C,18.80
 81,Chris Paul,San Antonio Spurs,PG,18.40
+81,Fred VanVleet,Houston Rockets,PG,18.40
 83,Josh Hart,New York Knicks,SG,18.00
 84,Cameron Johnson,Brooklyn Nets,PF,17.40
 84,Rui Hachimura,Los Angeles Lakers,PF,17.40
@@ -91,8 +91,8 @@ Rank,Player,Team,Pos,Value
 90,Santi Aldama,Memphis Grizzlies,PF,17.00
 91,Klay Thompson,Dallas Mavericks,SG,16.80
 92,Myles Turner,Indiana Pacers,C,16.75
-93,D'Angelo Russell,Los Angeles Lakers,PG,16.60
 93,John Collins,Utah Jazz,PF,16.60
+93,D'Angelo Russell,Los Angeles Lakers,PG,16.60
 95,Miles Bridges,Charlotte Hornets,SF,16.50
 96,Jordan Clarkson,Utah Jazz,PG,16.40
 96,Tyus Jones,Phoenix Suns,PG,16.40

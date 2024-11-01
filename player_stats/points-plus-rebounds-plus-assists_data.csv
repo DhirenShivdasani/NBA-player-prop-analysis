@@ -3,8 +3,8 @@ Rank,Player,Team,Pos,Value
 2,Giannis Antetokounmpo,Milwaukee Bucks,SF,47.80
 3,Anthony Davis,Los Angeles Lakers,PF,45.80
 4,Trae Young,Atlanta Hawks,PG,45.00
-5,James Harden,Los Angeles Clippers,SG,43.40
 5,Paolo Banchero,Orlando Magic,PF,43.40
+5,James Harden,Los Angeles Clippers,SG,43.40
 7,Jayson Tatum,Boston Celtics,SF,42.40
 8,Luka Doncic,Dallas Mavericks,SF,41.60
 9,LaMelo Ball,Charlotte Hornets,PG,41.50
@@ -20,21 +20,21 @@ Rank,Player,Team,Pos,Value
 18,Julius Randle,Minnesota Timberwolves,PF,35.75
 20,Jalen Green,Houston Rockets,SG,35.60
 21,Ivica Zubac,Los Angeles Clippers,C,35.40
+22,Ja Morant,Memphis Grizzlies,PG,34.80
 22,Kyrie Irving,Dallas Mavericks,PG,34.80
 22,Dennis Schroder,Brooklyn Nets,PG,34.80
-22,Ja Morant,Memphis Grizzlies,PG,34.80
+25,LeBron James,Los Angeles Lakers,SF,34.60
 25,Damian Lillard,Milwaukee Bucks,PG,34.60
 25,Nikola Vucevic,Chicago Bulls,C,34.60
 25,Devin Booker,Phoenix Suns,SG,34.60
-25,LeBron James,Los Angeles Lakers,SF,34.60
 29,Cam Thomas,Brooklyn Nets,SG,34.20
 30,De'Aaron Fox,Sacramento Kings,PG,33.50
 31,Pascal Siakam,Indiana Pacers,PF,33.40
 32,Scottie Barnes,Toronto Raptors,SF,33.00
 33,Brandon Ingram,New Orleans Pelicans,SF,32.80
 34,Tyler Herro,Miami Heat,SG,32.25
-35,Victor Wembanyama,San Antonio Spurs,PF,32.20
 35,Zach LaVine,Chicago Bulls,PG,32.20
+35,Victor Wembanyama,San Antonio Spurs,PF,32.20
 37,Jalen Johnson,Atlanta Hawks,SF,31.80
 38,Donovan Mitchell,Cleveland Cavaliers,SG,31.40
 39,Jalen Brunson,New York Knicks,PG,31.25
@@ -42,10 +42,10 @@ Rank,Player,Team,Pos,Value
 41,Alperen Sengun,Houston Rockets,C,31.20
 42,DeMar DeRozan,Sacramento Kings,SG,31.00
 43,Stephen Curry,Golden State Warriors,PG,30.33
+44,Jarrett Allen,Cleveland Cavaliers,C,30.00
 44,Jalen Williams,Oklahoma City Thunder,SG,30.00
 44,Norman Powell,Los Angeles Clippers,SG,30.00
 44,Jordan Poole,Washington Wizards,SG,30.00
-44,Jarrett Allen,Cleveland Cavaliers,C,30.00
 48,Josh Giddey,Chicago Bulls,SG,29.60
 48,Evan Mobley,Cleveland Cavaliers,C,29.60
 50,Jaden Ivey,Detroit Pistons,PG,29.20
@@ -53,10 +53,10 @@ Rank,Player,Team,Pos,Value
 52,Andrew Wiggins,Golden State Warriors,SF,28.67
 53,Jamal Murray,Denver Nuggets,SG,28.50
 54,Josh Hart,New York Knicks,SG,28.25
-55,Jeremy Sochan,San Antonio Spurs,PF,28.00
 55,Terry Rozier,Miami Heat,PG,28.00
-57,Deandre Ayton,Portland Trail Blazers,C,27.80
+55,Jeremy Sochan,San Antonio Spurs,PF,28.00
 57,Coby White,Chicago Bulls,SG,27.80
+57,Deandre Ayton,Portland Trail Blazers,C,27.80
 59,Jimmy Butler,Miami Heat,PF,27.75
 60,Kyle Kuzma,Washington Wizards,PF,27.67
 61,Austin Reaves,Los Angeles Lakers,PG,27.60
@@ -65,9 +65,9 @@ Rank,Player,Team,Pos,Value
 64,Bilal Coulibaly,Washington Wizards,SG,27.25
 64,Nick Richards,Charlotte Hornets,C,27.25
 66,Anfernee Simons,Portland Trail Blazers,SG,27.20
+67,Derrick White,Boston Celtics,PG,27.00
 67,Desmond Bane,Memphis Grizzlies,SG,27.00
 67,Lauri Markkanen,Utah Jazz,PF,27.00
-67,Derrick White,Boston Celtics,PG,27.00
 70,Aaron Gordon,Denver Nuggets,PF,26.50
 71,CJ McCollum,New Orleans Pelicans,SG,26.25
 72,Tyrese Haliburton,Indiana Pacers,PG,26.20

@@ -1,6 +1,6 @@
 Rank,Player,Team,Pos,Value
-1,Nikola Jokic,Denver Nuggets,C,31.50
 1,Tyrese Maxey,Philadelphia 76ers,PG,31.50
+1,Nikola Jokic,Denver Nuggets,C,31.50
 3,Anthony Davis,Los Angeles Lakers,PF,30.60
 4,Giannis Antetokounmpo,Milwaukee Bucks,SF,30.40
 5,Jayson Tatum,Boston Celtics,SF,30.20
@@ -27,15 +27,15 @@ Rank,Player,Team,Pos,Value
 26,Zach LaVine,Chicago Bulls,PG,23.00
 26,DeMar DeRozan,Sacramento Kings,SG,23.00
 28,Jalen Brunson,New York Knicks,PG,22.75
+29,Jordan Poole,Washington Wizards,SG,22.50
 29,Chet Holmgren,Oklahoma City Thunder,C,22.50
 29,Karl-Anthony Towns,New York Knicks,C,22.50
-29,Jordan Poole,Washington Wizards,SG,22.50
 32,Brandon Ingram,New Orleans Pelicans,SF,22.40
 33,Tyler Herro,Miami Heat,SG,22.25
 34,De'Aaron Fox,Sacramento Kings,PG,21.50
+35,Jaden Ivey,Detroit Pistons,PG,21.20
 35,LeBron James,Los Angeles Lakers,SF,21.20
 35,Buddy Hield,Golden State Warriors,SG,21.20
-35,Jaden Ivey,Detroit Pistons,PG,21.20
 38,Pascal Siakam,Indiana Pacers,PF,20.60
 38,Anfernee Simons,Portland Trail Blazers,SG,20.60
 40,Tre Mann,Charlotte Hornets,PG,20.50
@@ -57,20 +57,20 @@ Rank,Player,Team,Pos,Value
 56,Jerami Grant,Portland Trail Blazers,SF,18.60
 57,Terry Rozier,Miami Heat,PG,18.50
 58,Stephen Curry,Golden State Warriors,PG,18.33
-59,Zion Williamson,New Orleans Pelicans,PF,18.25
 59,Mikal Bridges,New York Knicks,SG,18.25
+59,Zion Williamson,New Orleans Pelicans,PF,18.25
 61,Victor Wembanyama,San Antonio Spurs,PF,18.20
-62,Bradley Beal,Phoenix Suns,SG,18.00
 62,Lauri Markkanen,Utah Jazz,PF,18.00
+62,Bradley Beal,Phoenix Suns,SG,18.00
 64,Jarrett Allen,Cleveland Cavaliers,C,17.80
 64,Franz Wagner,Orlando Magic,SF,17.80
 64,Darius Garland,Cleveland Cavaliers,PG,17.80
 67,Kyle Kuzma,Washington Wizards,PF,17.00
 67,Jeremy Sochan,San Antonio Spurs,PF,17.00
 67,Jalen Williams,Oklahoma City Thunder,SG,17.00
-70,Austin Reaves,Los Angeles Lakers,PG,16.80
 70,Jalen Johnson,Atlanta Hawks,SF,16.80
 70,Jalen Suggs,Orlando Magic,SG,16.80
+70,Austin Reaves,Los Angeles Lakers,PG,16.80
 73,Jimmy Butler,Miami Heat,PF,16.75
 74,Payton Pritchard,Boston Celtics,PG,16.20
 74,Jordan Hawkins,New Orleans Pelicans,SG,16.20
@@ -96,6 +96,6 @@ Rank,Player,Team,Pos,Value
 95,Jakob Poeltl,Toronto Raptors,C,13.80
 96,Naz Reid,Minnesota Timberwolves,C,13.75
 97,Tim Hardaway Jr.,Detroit Pistons,SG,13.60
-98,Miles McBride,New York Knicks,PG,13.50
 98,Nick Richards,Charlotte Hornets,C,13.50
-100,Corey Kispert,Washington Wizards,SF,13.25
+98,Miles McBride,New York Knicks,PG,13.50
+100,Michael Porter Jr.,Denver Nuggets,PF,13.25

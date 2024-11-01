@@ -7,8 +7,8 @@ Rank,Player,Team,Pos,Value
 6,Anthony Edwards,Minnesota Timberwolves,SG,36.25
 7,Luka Doncic,Dallas Mavericks,SF,36.00
 7,Kevin Durant,Phoenix Suns,SF,36.00
-9,Tyrese Maxey,Philadelphia 76ers,PG,35.25
 9,Domantas Sabonis,Sacramento Kings,PF,35.25
+9,Tyrese Maxey,Philadelphia 76ers,PG,35.25
 11,LaMelo Ball,Charlotte Hornets,PG,34.50
 12,Damian Lillard,Milwaukee Bucks,PG,34.00
 13,Karl-Anthony Towns,New York Knicks,C,33.75
@@ -19,8 +19,8 @@ Rank,Player,Team,Pos,Value
 18,Jalen Green,Houston Rockets,SG,32.25
 19,Ivica Zubac,Los Angeles Clippers,C,32.00
 20,Cam Thomas,Brooklyn Nets,SG,31.60
-21,Nikola Vucevic,Chicago Bulls,C,31.20
 21,Cade Cunningham,Detroit Pistons,PG,31.20
+21,Nikola Vucevic,Chicago Bulls,C,31.20
 23,James Harden,Los Angeles Clippers,SG,31.00
 24,Julius Randle,Minnesota Timberwolves,PF,30.75
 25,Zach LaVine,Chicago Bulls,PG,29.40
@@ -34,10 +34,10 @@ Rank,Player,Team,Pos,Value
 33,Kyrie Irving,Dallas Mavericks,PG,27.50
 34,Evan Mobley,Cleveland Cavaliers,C,27.40
 35,Alperen Sengun,Houston Rockets,C,27.25
-36,Scottie Barnes,Toronto Raptors,SF,27.00
 36,Jeremy Sochan,San Antonio Spurs,PF,27.00
 36,Tyler Herro,Miami Heat,SG,27.00
 36,DeMar DeRozan,Sacramento Kings,SG,27.00
+36,Scottie Barnes,Toronto Raptors,SF,27.00
 40,Zion Williamson,New Orleans Pelicans,PF,26.75
 41,Deandre Ayton,Portland Trail Blazers,C,26.60
 41,Dennis Schroder,Brooklyn Nets,PG,26.60
@@ -49,53 +49,53 @@ Rank,Player,Team,Pos,Value
 48,Jaden Ivey,Detroit Pistons,PG,25.60
 49,Jalen Brunson,New York Knicks,PG,25.50
 50,Jaren Jackson Jr.,Memphis Grizzlies,PF,25.33
-51,Nick Richards,Charlotte Hornets,C,25.25
 51,Lauri Markkanen,Utah Jazz,PF,25.25
+51,Nick Richards,Charlotte Hornets,C,25.25
 53,Buddy Hield,Golden State Warriors,SG,24.80
 54,Josh Hart,New York Knicks,SG,24.75
 55,Bilal Coulibaly,Washington Wizards,SG,24.50
 56,Tre Mann,Charlotte Hornets,PG,24.25
 57,Desmond Bane,Memphis Grizzlies,SG,24.20
+58,Jalen Williams,Oklahoma City Thunder,SG,24.00
 58,Jordan Poole,Washington Wizards,SG,24.00
 58,Kyle Kuzma,Washington Wizards,PF,24.00
-58,Jalen Williams,Oklahoma City Thunder,SG,24.00
 61,Josh Giddey,Chicago Bulls,SG,23.80
-62,Kelly Oubre Jr.,Philadelphia 76ers,SF,23.75
 62,Jamal Murray,Denver Nuggets,SG,23.75
+62,Kelly Oubre Jr.,Philadelphia 76ers,SF,23.75
 64,Stephen Curry,Golden State Warriors,PG,23.67
 65,Terry Rozier,Miami Heat,PG,23.50
 66,Jerami Grant,Portland Trail Blazers,SF,23.40
 66,Coby White,Chicago Bulls,SG,23.40
 68,Aaron Gordon,Denver Nuggets,PF,23.00
 68,Derrick White,Boston Celtics,PG,23.00
-70,Austin Reaves,Los Angeles Lakers,PG,22.80
 70,Rui Hachimura,Los Angeles Lakers,PF,22.80
+70,Austin Reaves,Los Angeles Lakers,PG,22.80
 72,Ja Morant,Memphis Grizzlies,PG,22.75
-73,Andre Drummond,Philadelphia 76ers,C,22.25
 73,CJ McCollum,New Orleans Pelicans,SG,22.25
+73,Andre Drummond,Philadelphia 76ers,C,22.25
 75,Anfernee Simons,Portland Trail Blazers,SG,22.20
 76,Franz Wagner,Orlando Magic,SF,22.00
 77,Jalen Suggs,Orlando Magic,SG,21.80
 78,Jonas Valanciunas,Washington Wizards,C,21.75
 78,Jimmy Butler,Miami Heat,PF,21.75
 80,Miles Bridges,Charlotte Hornets,SF,21.50
+81,Keegan Murray,Sacramento Kings,SF,21.25
 81,Naz Reid,Minnesota Timberwolves,C,21.25
 81,Myles Turner,Indiana Pacers,C,21.25
-81,Keegan Murray,Sacramento Kings,SF,21.25
 84,Jordan Hawkins,New Orleans Pelicans,SG,21.20
 85,Michael Porter Jr.,Denver Nuggets,PF,21.00
 85,John Collins,Utah Jazz,PF,21.00
-87,Rudy Gobert,Minnesota Timberwolves,C,20.75
 87,Mikal Bridges,New York Knicks,SG,20.75
+87,Rudy Gobert,Minnesota Timberwolves,C,20.75
 89,Bennedict Mathurin,Indiana Pacers,SG,20.40
 90,Bradley Beal,Phoenix Suns,SG,20.33
 91,Jabari Smith Jr.,Houston Rockets,PF,20.25
 92,Gradey Dick,Toronto Raptors,SG,20.20
-93,Tobias Harris,Detroit Pistons,SF,20.00
 93,Klay Thompson,Dallas Mavericks,SG,20.00
+93,Tobias Harris,Detroit Pistons,SF,20.00
 95,Tyrese Haliburton,Indiana Pacers,PG,19.60
-96,Jordan Clarkson,Utah Jazz,PG,19.50
 96,Caleb Martin,Philadelphia 76ers,SF,19.50
+96,Jordan Clarkson,Utah Jazz,PG,19.50
+98,Darius Garland,Cleveland Cavaliers,PG,19.40
 98,Payton Pritchard,Boston Celtics,PG,19.40
 98,Santi Aldama,Memphis Grizzlies,PF,19.40
-98,Darius Garland,Cleveland Cavaliers,PG,19.40

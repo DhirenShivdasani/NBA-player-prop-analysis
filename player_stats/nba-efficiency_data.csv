@@ -40,15 +40,15 @@ Rank,Player,Team,Pos,Value
 37,Jaylen Brown,Boston Celtics,SG,22.00
 40,Jalen Suggs,Orlando Magic,SG,21.83
 41,Scottie Barnes,Toronto Raptors,SF,21.50
-42,Cam Thomas,Brooklyn Nets,SG,21.33
 42,Derrick White,Boston Celtics,PG,21.33
+42,Cam Thomas,Brooklyn Nets,SG,21.33
 44,Bilal Coulibaly,Washington Wizards,SG,21.25
 45,Rudy Gobert,Minnesota Timberwolves,C,21.20
 45,Jalen Green,Houston Rockets,SG,21.20
 47,Jimmy Butler,Miami Heat,PF,21.00
 47,Stephen Curry,Golden State Warriors,PG,21.00
-49,Jalen Brunson,New York Knicks,PG,20.80
 49,Alperen Sengun,Houston Rockets,C,20.80
+49,Jalen Brunson,New York Knicks,PG,20.80
 51,Tyrese Maxey,Philadelphia 76ers,PG,20.75
 52,Jalen Williams,Oklahoma City Thunder,SG,20.60
 53,Deandre Ayton,Portland Trail Blazers,C,20.50
@@ -56,8 +56,8 @@ Rank,Player,Team,Pos,Value
 55,Zion Williamson,New Orleans Pelicans,PF,20.00
 55,Buddy Hield,Golden State Warriors,SG,20.00
 55,Nick Richards,Charlotte Hornets,C,20.00
-58,Jalen Johnson,Atlanta Hawks,SF,19.83
 58,Zach LaVine,Chicago Bulls,PG,19.83
+58,Jalen Johnson,Atlanta Hawks,SF,19.83
 60,Austin Reaves,Los Angeles Lakers,PG,19.67
 61,Norman Powell,Los Angeles Clippers,SG,19.40
 62,Desmond Bane,Memphis Grizzlies,SG,19.20
@@ -65,18 +65,18 @@ Rank,Player,Team,Pos,Value
 63,Walker Kessler,Utah Jazz,C,19.00
 63,Bradley Beal,Phoenix Suns,SG,19.00
 63,Mikal Bridges,New York Knicks,SG,19.00
-67,Jonas Valanciunas,Washington Wizards,C,18.75
 67,Terry Rozier,Miami Heat,PG,18.75
+67,Jonas Valanciunas,Washington Wizards,C,18.75
 69,Darius Garland,Cleveland Cavaliers,PG,18.67
 70,Tre Mann,Charlotte Hornets,PG,18.60
 71,Josh Giddey,Chicago Bulls,SG,18.50
 72,Santi Aldama,Memphis Grizzlies,PF,18.33
 72,Franz Wagner,Orlando Magic,SF,18.33
 74,Jeremy Sochan,San Antonio Spurs,PF,18.20
-75,Naz Reid,Minnesota Timberwolves,C,18.00
-75,Dereck Lively II,Dallas Mavericks,C,18.00
-75,Wendell Carter Jr.,Orlando Magic,C,18.00
 75,CJ McCollum,New Orleans Pelicans,SG,18.00
+75,Dereck Lively II,Dallas Mavericks,C,18.00
+75,Naz Reid,Minnesota Timberwolves,C,18.00
+75,Wendell Carter Jr.,Orlando Magic,C,18.00
 79,Coby White,Chicago Bulls,SG,17.67
 80,Michael Porter Jr.,Denver Nuggets,PF,17.60
 81,Chris Paul,San Antonio Spurs,PG,17.40
@@ -88,8 +88,8 @@ Rank,Player,Team,Pos,Value
 87,Keegan Murray,Sacramento Kings,SF,16.80
 88,Jaren Jackson Jr.,Memphis Grizzlies,PF,16.75
 89,Jaden Ivey,Detroit Pistons,PG,16.67
-90,Tyus Jones,Phoenix Suns,PG,16.60
 90,Onyeka Okongwu,Atlanta Hawks,PF,16.60
+90,Tyus Jones,Phoenix Suns,PG,16.60
 92,Clint Capela,Atlanta Hawks,C,16.50
 92,Lauri Markkanen,Utah Jazz,PF,16.50
 94,John Collins,Utah Jazz,PF,16.20

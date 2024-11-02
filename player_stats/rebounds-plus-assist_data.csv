@@ -7,11 +7,11 @@ Rank,Player,Team,Pos,Value
 6,Ivica Zubac,Los Angeles Clippers,C,16.20
 7,Alperen Sengun,Houston Rockets,C,16.00
 8,Jakob Poeltl,Toronto Raptors,C,15.50
-9,Jalen Johnson,Atlanta Hawks,SF,14.83
 9,Anthony Davis,Los Angeles Lakers,PF,14.83
+9,Jalen Johnson,Atlanta Hawks,SF,14.83
+11,Ja Morant,Memphis Grizzlies,PG,14.40
 11,Paolo Banchero,Orlando Magic,PF,14.40
 11,Luka Doncic,Dallas Mavericks,SF,14.40
-11,Ja Morant,Memphis Grizzlies,PG,14.40
 14,Nikola Vucevic,Chicago Bulls,C,14.33
 15,Karl-Anthony Towns,New York Knicks,C,14.20
 16,Josh Giddey,Chicago Bulls,SG,14.17
@@ -24,29 +24,29 @@ Rank,Player,Team,Pos,Value
 22,Rudy Gobert,Minnesota Timberwolves,C,13.40
 24,Cade Cunningham,Detroit Pistons,PG,12.83
 25,Andre Drummond,Philadelphia 76ers,C,12.75
-26,Julius Randle,Minnesota Timberwolves,PF,12.60
 26,Wendell Carter Jr.,Orlando Magic,C,12.60
+26,Julius Randle,Minnesota Timberwolves,PF,12.60
 28,Jayson Tatum,Boston Celtics,SF,12.50
 28,Pascal Siakam,Indiana Pacers,PF,12.50
 30,Deandre Ayton,Portland Trail Blazers,C,12.33
 31,Ben Simmons,Brooklyn Nets,SG,12.20
 31,Jalen Williams,Oklahoma City Thunder,SG,12.20
 33,Jarrett Allen,Cleveland Cavaliers,C,12.17
-34,Walker Kessler,Utah Jazz,C,12.00
 34,Stephen Curry,Golden State Warriors,PG,12.00
+34,Walker Kessler,Utah Jazz,C,12.00
 36,Tyrese Haliburton,Indiana Pacers,PG,11.83
 37,Chet Holmgren,Oklahoma City Thunder,C,11.80
 37,Nick Richards,Charlotte Hornets,C,11.80
-39,LaMelo Ball,Charlotte Hornets,PG,11.60
 39,De'Aaron Fox,Sacramento Kings,PG,11.60
+39,LaMelo Ball,Charlotte Hornets,PG,11.60
 41,Jalen Duren,Detroit Pistons,C,11.50
+42,Aaron Gordon,Denver Nuggets,PF,11.40
 42,Damian Lillard,Milwaukee Bucks,PG,11.40
 42,Chris Paul,San Antonio Spurs,PG,11.40
-42,Aaron Gordon,Denver Nuggets,PF,11.40
 45,Evan Mobley,Cleveland Cavaliers,C,11.17
+46,Jaylen Brown,Boston Celtics,SG,11.00
 46,Jeremy Sochan,San Antonio Spurs,PF,11.00
 46,Jimmy Butler,Miami Heat,PF,11.00
-46,Jaylen Brown,Boston Celtics,SG,11.00
 49,Brandon Ingram,New Orleans Pelicans,SF,10.83
 49,Dennis Schroder,Brooklyn Nets,PG,10.83
 51,Kyle Kuzma,Washington Wizards,PF,10.67
@@ -56,17 +56,17 @@ Rank,Player,Team,Pos,Value
 55,Dereck Lively II,Dallas Mavericks,C,10.40
 56,Bam Adebayo,Miami Heat,C,10.25
 57,Kyrie Irving,Dallas Mavericks,PG,10.20
-58,Santi Aldama,Memphis Grizzlies,PF,10.17
 58,Austin Reaves,Los Angeles Lakers,PG,10.17
+58,Santi Aldama,Memphis Grizzlies,PF,10.17
+60,Caleb Martin,Philadelphia 76ers,SF,10.00
 60,Tyler Herro,Miami Heat,SG,10.00
 60,Nic Claxton,Brooklyn Nets,C,10.00
 60,Jalen Suggs,Orlando Magic,SG,10.00
 60,Michael Porter Jr.,Denver Nuggets,PF,10.00
-60,Caleb Martin,Philadelphia 76ers,SF,10.00
 65,Jake LaRavia,Memphis Grizzlies,SF,9.83
+66,Kevon Looney,Golden State Warriors,PF,9.80
 66,Brandin Podziemski,Golden State Warriors,SG,9.80
 66,Kevin Durant,Phoenix Suns,SF,9.80
-66,Kevon Looney,Golden State Warriors,PF,9.80
 69,Jaime Jaquez Jr.,Miami Heat,SG,9.75
 70,Ayo Dosunmu,Chicago Bulls,PG,9.67
 71,Keyonte George,Utah Jazz,SG,9.60
@@ -77,25 +77,25 @@ Rank,Player,Team,Pos,Value
 75,Anthony Edwards,Minnesota Timberwolves,SG,9.40
 75,Keegan Murray,Sacramento Kings,SF,9.40
 78,Scotty Pippen Jr.,Memphis Grizzlies,PG,9.33
+79,Fred VanVleet,Houston Rockets,PG,9.20
 79,John Collins,Utah Jazz,PF,9.20
 79,Jusuf Nurkic,Phoenix Suns,C,9.20
-79,Fred VanVleet,Houston Rockets,PG,9.20
-82,Andrew Wiggins,Golden State Warriors,SF,9.00
 82,Deni Avdija,Portland Trail Blazers,SF,9.00
 82,Lauri Markkanen,Utah Jazz,PF,9.00
-85,Isaiah Stewart,Detroit Pistons,PF,8.83
+82,Andrew Wiggins,Golden State Warriors,SF,9.00
 85,Scoot Henderson,Portland Trail Blazers,PG,8.83
+85,Isaiah Stewart,Detroit Pistons,PF,8.83
 87,Bobby Portis,Milwaukee Bucks,PF,8.80
 87,Jamal Murray,Denver Nuggets,SG,8.80
 89,Franz Wagner,Orlando Magic,SF,8.67
 89,Coby White,Chicago Bulls,SG,8.67
 91,Bilal Coulibaly,Washington Wizards,SG,8.50
 91,Rui Hachimura,Los Angeles Lakers,PF,8.50
+93,Draymond Green,Golden State Warriors,PF,8.40
 93,DeMar DeRozan,Sacramento Kings,SG,8.40
 93,Miles Bridges,Charlotte Hornets,SF,8.40
 93,Naz Reid,Minnesota Timberwolves,C,8.40
-93,Draymond Green,Golden State Warriors,PF,8.40
 97,Clint Capela,Atlanta Hawks,C,8.33
 98,Tyrese Maxey,Philadelphia 76ers,PG,8.25
-99,Devin Booker,Phoenix Suns,SG,8.20
 99,Desmond Bane,Memphis Grizzlies,SG,8.20
+99,Devin Booker,Phoenix Suns,SG,8.20

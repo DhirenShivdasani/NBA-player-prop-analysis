@@ -21,10 +21,10 @@ Rank,Player,Team,Pos,Value
 20,Julius Randle,Minnesota Timberwolves,PF,35.80
 21,Jalen Green,Houston Rockets,SG,35.60
 22,Ivica Zubac,Los Angeles Clippers,C,35.40
-23,De'Aaron Fox,Sacramento Kings,PG,35.00
 23,Zion Williamson,New Orleans Pelicans,PF,35.00
-25,Ja Morant,Memphis Grizzlies,PG,34.80
+23,De'Aaron Fox,Sacramento Kings,PG,35.00
 25,Kyrie Irving,Dallas Mavericks,PG,34.80
+25,Ja Morant,Memphis Grizzlies,PG,34.80
 27,Damian Lillard,Milwaukee Bucks,PG,34.60
 27,Devin Booker,Phoenix Suns,SG,34.60
 29,Cam Thomas,Brooklyn Nets,SG,34.50
@@ -34,8 +34,8 @@ Rank,Player,Team,Pos,Value
 33,Dennis Schroder,Brooklyn Nets,PG,32.83
 34,Pascal Siakam,Indiana Pacers,PF,32.33
 35,Tyler Herro,Miami Heat,SG,32.25
-36,Victor Wembanyama,San Antonio Spurs,PF,32.20
 36,DeMar DeRozan,Sacramento Kings,SG,32.20
+36,Victor Wembanyama,San Antonio Spurs,PF,32.20
 38,Alperen Sengun,Houston Rockets,C,31.20
 39,Jalen Johnson,Atlanta Hawks,SF,31.17
 40,Chet Holmgren,Oklahoma City Thunder,C,31.00
@@ -44,17 +44,17 @@ Rank,Player,Team,Pos,Value
 43,Stephen Curry,Golden State Warriors,PG,30.33
 44,Jalen Williams,Oklahoma City Thunder,SG,30.20
 45,Jakob Poeltl,Toronto Raptors,C,30.17
+46,Jordan Poole,Washington Wizards,SG,30.00
 46,Aaron Gordon,Denver Nuggets,PF,30.00
 46,Norman Powell,Los Angeles Clippers,SG,30.00
-46,Jordan Poole,Washington Wizards,SG,30.00
 49,Evan Mobley,Cleveland Cavaliers,C,29.50
 50,Josh Giddey,Chicago Bulls,SG,28.83
 51,Jalen Suggs,Orlando Magic,SG,28.67
 51,Andrew Wiggins,Golden State Warriors,SF,28.67
 53,Tre Mann,Charlotte Hornets,PG,28.40
-54,Coby White,Chicago Bulls,SG,28.00
 54,Terry Rozier,Miami Heat,PG,28.00
 54,Jeremy Sochan,San Antonio Spurs,PF,28.00
+54,Coby White,Chicago Bulls,SG,28.00
 57,Josh Hart,New York Knicks,SG,27.80
 58,Jimmy Butler,Miami Heat,PF,27.75
 59,Kyle Kuzma,Washington Wizards,PF,27.67
@@ -70,11 +70,11 @@ Rank,Player,Team,Pos,Value
 68,Darius Garland,Cleveland Cavaliers,PG,26.50
 70,Franz Wagner,Orlando Magic,SF,26.33
 71,CJ McCollum,New Orleans Pelicans,SG,26.25
-72,Tyrese Haliburton,Indiana Pacers,PG,25.83
 72,Anfernee Simons,Portland Trail Blazers,SG,25.83
+72,Tyrese Haliburton,Indiana Pacers,PG,25.83
 74,Michael Porter Jr.,Denver Nuggets,PF,25.80
-75,Bradley Beal,Phoenix Suns,SG,25.00
 75,Gradey Dick,Toronto Raptors,SG,25.00
+75,Bradley Beal,Phoenix Suns,SG,25.00
 75,Jamal Murray,Denver Nuggets,SG,25.00
 78,Mikal Bridges,New York Knicks,SG,24.80
 79,Jonas Valanciunas,Washington Wizards,C,24.75

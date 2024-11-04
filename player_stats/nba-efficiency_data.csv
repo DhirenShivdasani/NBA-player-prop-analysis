@@ -16,17 +16,17 @@ Rank,Player,Team,Pos,Value
 15,Devin Booker,Phoenix Suns,SG,25.50
 15,Damian Lillard,Milwaukee Bucks,PG,25.50
 17,Jarrett Allen,Cleveland Cavaliers,C,25.29
-18,Luka Doncic,Dallas Mavericks,SF,25.17
 18,Kevin Durant,Phoenix Suns,SF,25.17
 18,Julius Randle,Minnesota Timberwolves,PF,25.17
+18,Luka Doncic,Dallas Mavericks,SF,25.17
 21,DeMar DeRozan,Sacramento Kings,SG,24.83
 22,LeBron James,Los Angeles Lakers,SF,24.67
 23,Pascal Siakam,Indiana Pacers,PF,24.33
 24,Brandon Ingram,New Orleans Pelicans,SF,24.00
 25,Jakob Poeltl,Toronto Raptors,C,23.71
 26,Evan Mobley,Cleveland Cavaliers,C,23.43
-27,Kyrie Irving,Dallas Mavericks,PG,23.00
 27,Cade Cunningham,Detroit Pistons,PG,23.00
+27,Kyrie Irving,Dallas Mavericks,PG,23.00
 29,Victor Wembanyama,San Antonio Spurs,PF,22.83
 30,De'Aaron Fox,Sacramento Kings,PG,22.67
 31,Aaron Gordon,Denver Nuggets,PF,22.50
@@ -39,8 +39,8 @@ Rank,Player,Team,Pos,Value
 38,Anthony Edwards,Minnesota Timberwolves,SG,21.67
 39,Buddy Hield,Golden State Warriors,SG,21.50
 40,Walker Kessler,Utah Jazz,C,20.83
-41,Tyler Herro,Miami Heat,SG,20.80
 41,Jalen Brunson,New York Knicks,PG,20.80
+41,Tyler Herro,Miami Heat,SG,20.80
 43,Alperen Sengun,Houston Rockets,C,20.67
 44,Tyrese Maxey,Philadelphia 76ers,PG,20.60
 44,Jalen Williams,Oklahoma City Thunder,SG,20.60
@@ -48,9 +48,9 @@ Rank,Player,Team,Pos,Value
 46,Derrick White,Boston Celtics,PG,20.57
 48,Jimmy Butler,Miami Heat,PF,20.20
 48,Jordan Poole,Washington Wizards,SG,20.20
+50,Jalen Suggs,Orlando Magic,SG,20.00
 50,Nick Richards,Charlotte Hornets,C,20.00
 50,Zion Williamson,New Orleans Pelicans,PF,20.00
-50,Jalen Suggs,Orlando Magic,SG,20.00
 53,Jeremy Sochan,San Antonio Spurs,PF,19.83
 53,Zach LaVine,Chicago Bulls,PG,19.83
 55,Jaren Jackson Jr.,Memphis Grizzlies,PF,19.80
@@ -97,5 +97,5 @@ Rank,Player,Team,Pos,Value
 96,Royce O'Neale,Phoenix Suns,SF,15.83
 97,Jabari Smith Jr.,Houston Rockets,PF,15.67
 97,Tari Eason,Houston Rockets,SF,15.67
+99,Tyrese Haliburton,Indiana Pacers,PG,15.50
 99,Bennedict Mathurin,Indiana Pacers,SG,15.50
-99,Rui Hachimura,Los Angeles Lakers,PF,15.50

@@ -16,9 +16,9 @@ Rank,Player,Team,Pos,Value
 15,Devin Booker,Phoenix Suns,SG,25.50
 15,Damian Lillard,Milwaukee Bucks,PG,25.50
 17,Jarrett Allen,Cleveland Cavaliers,C,25.29
+18,Luka Doncic,Dallas Mavericks,SF,25.17
 18,Kevin Durant,Phoenix Suns,SF,25.17
 18,Julius Randle,Minnesota Timberwolves,PF,25.17
-18,Luka Doncic,Dallas Mavericks,SF,25.17
 21,DeMar DeRozan,Sacramento Kings,SG,24.83
 22,LeBron James,Los Angeles Lakers,SF,24.67
 23,Pascal Siakam,Indiana Pacers,PF,24.33
@@ -39,8 +39,8 @@ Rank,Player,Team,Pos,Value
 38,Anthony Edwards,Minnesota Timberwolves,SG,21.67
 39,Buddy Hield,Golden State Warriors,SG,21.50
 40,Walker Kessler,Utah Jazz,C,20.83
-41,Jalen Brunson,New York Knicks,PG,20.80
 41,Tyler Herro,Miami Heat,SG,20.80
+41,Jalen Brunson,New York Knicks,PG,20.80
 43,Alperen Sengun,Houston Rockets,C,20.67
 44,Tyrese Maxey,Philadelphia 76ers,PG,20.60
 44,Jalen Williams,Oklahoma City Thunder,SG,20.60
@@ -48,9 +48,9 @@ Rank,Player,Team,Pos,Value
 46,Derrick White,Boston Celtics,PG,20.57
 48,Jimmy Butler,Miami Heat,PF,20.20
 48,Jordan Poole,Washington Wizards,SG,20.20
-50,Jalen Suggs,Orlando Magic,SG,20.00
 50,Nick Richards,Charlotte Hornets,C,20.00
 50,Zion Williamson,New Orleans Pelicans,PF,20.00
+50,Jalen Suggs,Orlando Magic,SG,20.00
 53,Jeremy Sochan,San Antonio Spurs,PF,19.83
 53,Zach LaVine,Chicago Bulls,PG,19.83
 55,Jaren Jackson Jr.,Memphis Grizzlies,PF,19.80
@@ -71,8 +71,8 @@ Rank,Player,Team,Pos,Value
 70,Michael Porter Jr.,Denver Nuggets,PF,18.33
 71,Darius Garland,Cleveland Cavaliers,PG,18.29
 72,Franz Wagner,Orlando Magic,SF,18.00
-73,Jalen Green,Houston Rockets,SG,17.83
 73,Dereck Lively II,Dallas Mavericks,C,17.83
+73,Jalen Green,Houston Rockets,SG,17.83
 75,Coby White,Chicago Bulls,SG,17.67
 76,Keegan Murray,Sacramento Kings,SF,17.50
 77,Tyus Jones,Phoenix Suns,PG,17.33
@@ -82,8 +82,8 @@ Rank,Player,Team,Pos,Value
 81,Tre Mann,Charlotte Hornets,PG,16.83
 82,Terry Rozier,Miami Heat,PG,16.80
 83,John Collins,Utah Jazz,PF,16.67
-84,Dyson Daniels,Atlanta Hawks,SG,16.60
 84,Onyeka Okongwu,Atlanta Hawks,PF,16.60
+84,Dyson Daniels,Atlanta Hawks,SG,16.60
 86,Tobias Harris,Detroit Pistons,SF,16.57
 87,Lauri Markkanen,Utah Jazz,PF,16.50
 88,Cameron Johnson,Brooklyn Nets,PF,16.43
@@ -97,5 +97,5 @@ Rank,Player,Team,Pos,Value
 96,Royce O'Neale,Phoenix Suns,SF,15.83
 97,Jabari Smith Jr.,Houston Rockets,PF,15.67
 97,Tari Eason,Houston Rockets,SF,15.67
-99,Tyrese Haliburton,Indiana Pacers,PG,15.50
 99,Bennedict Mathurin,Indiana Pacers,SG,15.50
+99,Rui Hachimura,Los Angeles Lakers,PF,15.50

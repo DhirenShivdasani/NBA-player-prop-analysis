@@ -27,13 +27,13 @@ Rank,Player,Team,Pos,Value
 26,Brandon Ingram,New Orleans Pelicans,SF,23.00
 27,Julius Randle,Minnesota Timberwolves,PF,22.83
 28,Zach LaVine,Chicago Bulls,PG,22.67
-29,Karl-Anthony Towns,New York Knicks,C,22.20
 29,Jordan Poole,Washington Wizards,SG,22.20
+29,Karl-Anthony Towns,New York Knicks,C,22.20
 31,Buddy Hield,Golden State Warriors,SG,22.17
 31,LeBron James,Los Angeles Lakers,SF,22.17
 33,Dennis Schroder,Brooklyn Nets,PG,22.00
-34,Domantas Sabonis,Sacramento Kings,PF,21.50
 34,Nikola Vucevic,Chicago Bulls,C,21.50
+34,Domantas Sabonis,Sacramento Kings,PF,21.50
 36,Zion Williamson,New Orleans Pelicans,PF,21.40
 37,Gradey Dick,Toronto Raptors,SG,21.00
 38,Tyler Herro,Miami Heat,SG,20.80
@@ -53,10 +53,10 @@ Rank,Player,Team,Pos,Value
 52,Jalen Suggs,Orlando Magic,SG,18.67
 53,Jerami Grant,Portland Trail Blazers,SF,18.57
 54,Andrew Wiggins,Golden State Warriors,SF,18.50
-55,Victor Wembanyama,San Antonio Spurs,PF,18.00
 55,Kelly Oubre Jr.,Philadelphia 76ers,SF,18.00
 55,Jalen Williams,Oklahoma City Thunder,SG,18.00
 55,Lauri Markkanen,Utah Jazz,PF,18.00
+55,Victor Wembanyama,San Antonio Spurs,PF,18.00
 59,Darius Garland,Cleveland Cavaliers,PG,17.86
 60,Evan Mobley,Cleveland Cavaliers,C,17.71
 61,Franz Wagner,Orlando Magic,SF,17.67
@@ -67,8 +67,8 @@ Rank,Player,Team,Pos,Value
 64,Jordan Hawkins,New Orleans Pelicans,SG,17.33
 67,Bradley Beal,Phoenix Suns,SG,17.25
 68,Terry Rozier,Miami Heat,PG,17.20
-69,Kyle Kuzma,Washington Wizards,PF,17.00
 69,Jimmy Butler,Miami Heat,PF,17.00
+69,Kyle Kuzma,Washington Wizards,PF,17.00
 71,Michael Porter Jr.,Denver Nuggets,PF,16.50
 72,Jalen Johnson,Atlanta Hawks,SF,16.33
 72,Bennedict Mathurin,Indiana Pacers,SG,16.33
@@ -80,10 +80,10 @@ Rank,Player,Team,Pos,Value
 79,Alperen Sengun,Houston Rockets,C,15.00
 80,Josh Giddey,Chicago Bulls,SG,14.67
 80,John Collins,Utah Jazz,PF,14.67
-82,Keegan Murray,Sacramento Kings,SF,14.50
 82,Cameron Johnson,Brooklyn Nets,PF,14.50
 82,Christian Braun,Denver Nuggets,SG,14.50
 82,Rui Hachimura,Los Angeles Lakers,PF,14.50
+82,Keegan Murray,Sacramento Kings,SF,14.50
 86,Jakob Poeltl,Toronto Raptors,C,14.43
 87,Myles Turner,Indiana Pacers,C,14.40
 88,Josh Hart,New York Knicks,SG,14.20

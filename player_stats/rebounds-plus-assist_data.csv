@@ -34,12 +34,12 @@ Rank,Player,Team,Pos,Value
 33,Rudy Gobert,Minnesota Timberwolves,C,11.86
 34,Nick Richards,Charlotte Hornets,C,11.80
 35,Bam Adebayo,Miami Heat,C,11.67
-36,Jonas Valanciunas,Washington Wizards,C,11.50
 36,Chet Holmgren,Oklahoma City Thunder,C,11.50
+36,Jonas Valanciunas,Washington Wizards,C,11.50
 38,Damian Lillard,Milwaukee Bucks,PG,11.29
 39,Andre Drummond,Philadelphia 76ers,C,11.17
-40,Jusuf Nurkic,Phoenix Suns,C,11.14
 40,Julius Randle,Minnesota Timberwolves,PF,11.14
+40,Jusuf Nurkic,Phoenix Suns,C,11.14
 42,Santi Aldama,Memphis Grizzlies,PF,11.13
 43,Jaylen Brown,Boston Celtics,SG,11.00
 43,Wendell Carter Jr.,Orlando Magic,C,11.00
@@ -57,24 +57,24 @@ Rank,Player,Team,Pos,Value
 56,Caleb Martin,Philadelphia 76ers,SF,10.17
 57,Bobby Portis,Milwaukee Bucks,PF,10.14
 57,Tyus Jones,Phoenix Suns,PG,10.14
-59,Jaime Jaquez Jr.,Miami Heat,SG,10.00
 59,Kevin Durant,Phoenix Suns,SF,10.00
 59,Scotty Pippen Jr.,Memphis Grizzlies,PG,10.00
 59,Kevon Looney,Golden State Warriors,PF,10.00
+59,Jaime Jaquez Jr.,Miami Heat,SG,10.00
 63,Draymond Green,Golden State Warriors,PF,9.86
 63,Michael Porter Jr.,Denver Nuggets,PF,9.86
 63,Austin Reaves,Los Angeles Lakers,PG,9.86
 63,Aaron Gordon,Denver Nuggets,PF,9.86
 67,Jalen Suggs,Orlando Magic,SG,9.75
-68,Ayo Dosunmu,Chicago Bulls,PG,9.71
 68,Keyonte George,Utah Jazz,SG,9.71
 68,Devin Booker,Phoenix Suns,SG,9.71
+68,Ayo Dosunmu,Chicago Bulls,PG,9.71
 71,Nic Claxton,Brooklyn Nets,C,9.57
 72,Keegan Murray,Sacramento Kings,SF,9.43
 73,Tyler Herro,Miami Heat,SG,9.33
-74,Miles Bridges,Charlotte Hornets,SF,9.29
 74,Brandin Podziemski,Golden State Warriors,SG,9.29
 74,Kyrie Irving,Dallas Mavericks,PG,9.29
+74,Miles Bridges,Charlotte Hornets,SF,9.29
 77,Jake LaRavia,Memphis Grizzlies,SF,9.25
 78,Carlton Carrington,Washington Wizards,PG,9.17
 79,P.J. Washington,Dallas Mavericks,PF,9.14
@@ -88,14 +88,14 @@ Rank,Player,Team,Pos,Value
 87,Fred VanVleet,Houston Rockets,PG,8.71
 88,Alexandre Sarr,Washington Wizards,C,8.67
 89,Isaiah Stewart,Detroit Pistons,PF,8.63
-90,Anthony Edwards,Minnesota Timberwolves,SG,8.57
 90,D'Angelo Russell,Los Angeles Lakers,PG,8.57
-92,Derrick White,Boston Celtics,PG,8.50
+90,Anthony Edwards,Minnesota Timberwolves,SG,8.57
 92,Darius Garland,Cleveland Cavaliers,PG,8.50
 92,Jalen Brunson,New York Knicks,PG,8.50
 92,Davion Mitchell,Toronto Raptors,PG,8.50
-96,Russell Westbrook,Denver Nuggets,PG,8.43
+92,Derrick White,Boston Celtics,PG,8.50
 96,Naz Reid,Minnesota Timberwolves,C,8.43
+96,Russell Westbrook,Denver Nuggets,PG,8.43
 98,Bilal Coulibaly,Washington Wizards,SG,8.33
 99,DeMar DeRozan,Sacramento Kings,SG,8.29
 100,Desmond Bane,Memphis Grizzlies,SG,8.20

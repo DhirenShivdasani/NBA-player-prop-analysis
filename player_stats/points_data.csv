@@ -25,8 +25,8 @@ Rank,Player,Team,Pos,Value
 24,Cade Cunningham,Detroit Pistons,PG,23.25
 25,Donovan Mitchell,Cleveland Cavaliers,SG,23.13
 26,Jalen Green,Houston Rockets,SG,22.86
-27,James Harden,Los Angeles Clippers,SG,22.67
 27,Zach LaVine,Chicago Bulls,PG,22.67
+27,James Harden,Los Angeles Clippers,SG,22.67
 29,Jordan Poole,Washington Wizards,SG,22.50
 30,Buddy Hield,Golden State Warriors,SG,21.86
 30,LeBron James,Los Angeles Lakers,SF,21.86
@@ -36,8 +36,8 @@ Rank,Player,Team,Pos,Value
 35,Julius Randle,Minnesota Timberwolves,PF,21.43
 36,Zion Williamson,New Orleans Pelicans,PF,21.40
 37,Karl-Anthony Towns,New York Knicks,C,21.33
-38,Domantas Sabonis,Sacramento Kings,PF,20.71
 38,Ja Morant,Memphis Grizzlies,PG,20.71
+38,Domantas Sabonis,Sacramento Kings,PF,20.71
 40,Coby White,Chicago Bulls,SG,20.57
 41,Darius Garland,Cleveland Cavaliers,PG,20.50
 42,Pascal Siakam,Indiana Pacers,PF,20.29
@@ -56,9 +56,9 @@ Rank,Player,Team,Pos,Value
 55,Jerami Grant,Portland Trail Blazers,SF,18.25
 56,Tre Mann,Charlotte Hornets,PG,17.86
 57,Bilal Coulibaly,Washington Wizards,SG,17.67
+58,Jalen Suggs,Orlando Magic,SG,17.63
 58,Evan Mobley,Cleveland Cavaliers,C,17.63
 58,Franz Wagner,Orlando Magic,SF,17.63
-58,Jalen Suggs,Orlando Magic,SG,17.63
 61,Jordan Hawkins,New Orleans Pelicans,SG,17.57
 62,Austin Reaves,Los Angeles Lakers,PG,17.29
 63,Bradley Beal,Phoenix Suns,SG,17.20
@@ -68,8 +68,8 @@ Rank,Player,Team,Pos,Value
 67,Kelly Oubre Jr.,Philadelphia 76ers,SF,16.83
 68,Cameron Johnson,Brooklyn Nets,PF,16.63
 69,John Collins,Utah Jazz,PF,16.57
-70,Alperen Sengun,Houston Rockets,C,16.43
 70,Keyonte George,Utah Jazz,SG,16.43
+70,Alperen Sengun,Houston Rockets,C,16.43
 72,Bennedict Mathurin,Indiana Pacers,SG,16.29
 73,Jamal Murray,Denver Nuggets,SG,16.20
 74,Terry Rozier,Miami Heat,PG,16.00
@@ -81,8 +81,8 @@ Rank,Player,Team,Pos,Value
 79,Jeremy Sochan,San Antonio Spurs,PF,15.43
 81,Bam Adebayo,Miami Heat,C,15.33
 82,Naz Reid,Minnesota Timberwolves,C,15.29
-83,Collin Sexton,Utah Jazz,PG,15.00
 83,Jarrett Allen,Cleveland Cavaliers,C,15.00
+83,Collin Sexton,Utah Jazz,PG,15.00
 85,Christian Braun,Denver Nuggets,SG,14.86
 86,Josh Giddey,Chicago Bulls,SG,14.71
 86,Klay Thompson,Dallas Mavericks,SG,14.71
@@ -97,5 +97,5 @@ Rank,Player,Team,Pos,Value
 96,Fred VanVleet,Houston Rockets,PG,13.29
 97,Malik Monk,Sacramento Kings,SG,13.14
 98,Ochai Agbaji,Toronto Raptors,SG,13.13
-99,Jrue Holiday,Boston Celtics,PG,13.00
 99,Tobias Harris,Detroit Pistons,SF,13.00
+99,Jordan Clarkson,Utah Jazz,PG,13.00

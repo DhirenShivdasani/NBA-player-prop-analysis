@@ -11,9 +11,9 @@ Rank,Player,Team,Pos,Value
 10,Karl-Anthony Towns,New York Knicks,C,15.00
 11,Ja Morant,Memphis Grizzlies,PG,14.86
 12,Jakob Poeltl,Toronto Raptors,C,14.75
-13,Anthony Davis,Los Angeles Lakers,PF,14.57
 13,LeBron James,Los Angeles Lakers,SF,14.57
 13,Nikola Vucevic,Chicago Bulls,C,14.57
+13,Anthony Davis,Los Angeles Lakers,PF,14.57
 16,Paolo Banchero,Orlando Magic,PF,14.40
 17,Cade Cunningham,Detroit Pistons,PG,13.75
 18,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,13.67
@@ -55,8 +55,8 @@ Rank,Player,Team,Pos,Value
 54,Tobias Harris,Detroit Pistons,SF,10.25
 54,Dennis Schroder,Brooklyn Nets,PG,10.25
 56,Caleb Martin,Philadelphia 76ers,SF,10.17
-57,Bobby Portis,Milwaukee Bucks,PF,10.14
 57,Tyus Jones,Phoenix Suns,PG,10.14
+57,Bobby Portis,Milwaukee Bucks,PF,10.14
 59,Jaime Jaquez Jr.,Miami Heat,SG,10.00
 59,Kevin Durant,Phoenix Suns,SF,10.00
 59,Scotty Pippen Jr.,Memphis Grizzlies,PG,10.00
@@ -81,8 +81,8 @@ Rank,Player,Team,Pos,Value
 80,Terry Rozier,Miami Heat,PG,9.00
 80,Royce O'Neale,Phoenix Suns,SF,9.00
 82,Deni Avdija,Portland Trail Blazers,SF,8.88
-83,Jabari Smith Jr.,Houston Rockets,PF,8.86
 83,Coby White,Chicago Bulls,SG,8.86
+83,Jabari Smith Jr.,Houston Rockets,PF,8.86
 85,Jamal Murray,Denver Nuggets,SG,8.80
 86,Franz Wagner,Orlando Magic,SF,8.75
 87,Fred VanVleet,Houston Rockets,PG,8.71
@@ -90,12 +90,12 @@ Rank,Player,Team,Pos,Value
 89,Isaiah Stewart,Detroit Pistons,PF,8.63
 90,Anthony Edwards,Minnesota Timberwolves,SG,8.57
 90,D'Angelo Russell,Los Angeles Lakers,PG,8.57
-92,Derrick White,Boston Celtics,PG,8.50
-92,Darius Garland,Cleveland Cavaliers,PG,8.50
 92,Jalen Brunson,New York Knicks,PG,8.50
 92,Davion Mitchell,Toronto Raptors,PG,8.50
-96,Russell Westbrook,Denver Nuggets,PG,8.43
+92,Derrick White,Boston Celtics,PG,8.50
+92,Darius Garland,Cleveland Cavaliers,PG,8.50
 96,Naz Reid,Minnesota Timberwolves,C,8.43
+96,Russell Westbrook,Denver Nuggets,PG,8.43
 98,Bilal Coulibaly,Washington Wizards,SG,8.33
 99,DeMar DeRozan,Sacramento Kings,SG,8.29
 100,Desmond Bane,Memphis Grizzlies,SG,8.20

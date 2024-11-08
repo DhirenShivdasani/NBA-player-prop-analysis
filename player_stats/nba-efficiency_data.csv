@@ -23,10 +23,10 @@ Rank,Player,Team,Pos,Value
 22,LaMelo Ball,Charlotte Hornets,PG,23.50
 23,Anthony Edwards,Minnesota Timberwolves,SG,23.25
 24,Brandon Ingram,New Orleans Pelicans,SF,23.22
-25,Kyrie Irving,Dallas Mavericks,PG,23.13
 25,Chet Holmgren,Oklahoma City Thunder,C,23.13
-27,Jalen Johnson,Atlanta Hawks,SF,23.11
+25,Kyrie Irving,Dallas Mavericks,PG,23.13
 27,Cade Cunningham,Detroit Pistons,PG,23.11
+27,Jalen Johnson,Atlanta Hawks,SF,23.11
 29,Alperen Sengun,Houston Rockets,C,22.88
 29,Devin Booker,Phoenix Suns,SG,22.88
 31,RJ Barrett,Toronto Raptors,SF,22.50
@@ -36,8 +36,8 @@ Rank,Player,Team,Pos,Value
 35,Evan Mobley,Cleveland Cavaliers,C,22.11
 36,Josh Hart,New York Knicks,SG,22.00
 36,Jaylen Brown,Boston Celtics,SG,22.00
-38,Ja Morant,Memphis Grizzlies,PG,21.63
 38,Dennis Schroder,Brooklyn Nets,PG,21.63
+38,Ja Morant,Memphis Grizzlies,PG,21.63
 40,Derrick White,Boston Celtics,PG,21.44
 41,De'Aaron Fox,Sacramento Kings,PG,21.38
 42,Zion Williamson,New Orleans Pelicans,PF,21.33
@@ -50,8 +50,8 @@ Rank,Player,Team,Pos,Value
 49,Jalen Brunson,New York Knicks,PG,20.43
 50,Jordan Poole,Washington Wizards,SG,20.33
 51,Jalen Suggs,Orlando Magic,SG,20.22
-52,Bam Adebayo,Miami Heat,C,20.14
 52,Jimmy Butler,Miami Heat,PF,20.14
+52,Bam Adebayo,Miami Heat,C,20.14
 54,Nick Richards,Charlotte Hornets,C,20.00
 55,Donovan Mitchell,Cleveland Cavaliers,SG,19.89
 56,Zach LaVine,Chicago Bulls,PG,19.83
@@ -60,9 +60,9 @@ Rank,Player,Team,Pos,Value
 59,Michael Porter Jr.,Denver Nuggets,PF,19.50
 60,Tyrese Maxey,Philadelphia 76ers,PG,19.29
 61,Bilal Coulibaly,Washington Wizards,SG,19.17
+62,Keegan Murray,Sacramento Kings,SF,18.50
 62,John Collins,Utah Jazz,PF,18.50
 62,Austin Reaves,Los Angeles Lakers,PG,18.50
-62,Keegan Murray,Sacramento Kings,SF,18.50
 65,Franz Wagner,Orlando Magic,SF,18.33
 65,Jonas Valanciunas,Washington Wizards,C,18.33
 67,Jalen Duren,Detroit Pistons,C,18.22
@@ -79,8 +79,8 @@ Rank,Player,Team,Pos,Value
 77,Naz Reid,Minnesota Timberwolves,C,17.25
 79,Jaden Ivey,Detroit Pistons,PG,17.22
 80,Myles Turner,Indiana Pacers,C,17.14
-81,Jalen Green,Houston Rockets,SG,17.00
 81,Cameron Johnson,Brooklyn Nets,PF,17.00
+81,Jalen Green,Houston Rockets,SG,17.00
 83,Josh Giddey,Chicago Bulls,SG,16.89
 84,Tobias Harris,Detroit Pistons,SF,16.67
 85,Nic Claxton,Brooklyn Nets,C,16.57

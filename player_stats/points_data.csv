@@ -19,8 +19,8 @@ Rank,Player,Team,Pos,Value
 18,Devin Booker,Phoenix Suns,SG,24.38
 19,Brandon Ingram,New Orleans Pelicans,SF,24.11
 20,LeBron James,Los Angeles Lakers,SF,24.00
-21,Donovan Mitchell,Cleveland Cavaliers,SG,23.78
 21,Trae Young,Atlanta Hawks,PG,23.78
+21,Donovan Mitchell,Cleveland Cavaliers,SG,23.78
 23,De'Aaron Fox,Sacramento Kings,PG,23.75
 24,Karl-Anthony Towns,New York Knicks,C,23.14
 25,Kyrie Irving,Dallas Mavericks,PG,23.00
@@ -38,8 +38,8 @@ Rank,Player,Team,Pos,Value
 37,Ja Morant,Memphis Grizzlies,PG,20.63
 38,Domantas Sabonis,Sacramento Kings,PF,20.25
 39,Gradey Dick,Toronto Raptors,SG,20.00
-40,Pascal Siakam,Indiana Pacers,PF,19.88
 40,Dennis Schroder,Brooklyn Nets,PG,19.88
+40,Pascal Siakam,Indiana Pacers,PF,19.88
 42,Darius Garland,Cleveland Cavaliers,PG,19.78
 42,Jaden Ivey,Detroit Pistons,PG,19.78
 42,Derrick White,Boston Celtics,PG,19.78
@@ -55,8 +55,8 @@ Rank,Player,Team,Pos,Value
 54,Victor Wembanyama,San Antonio Spurs,PF,17.67
 54,Bilal Coulibaly,Washington Wizards,SG,17.67
 56,Austin Reaves,Los Angeles Lakers,PG,17.50
-57,Evan Mobley,Cleveland Cavaliers,C,17.33
 57,Jalen Suggs,Orlando Magic,SG,17.33
+57,Evan Mobley,Cleveland Cavaliers,C,17.33
 59,Ivica Zubac,Los Angeles Clippers,C,17.13
 60,Myles Turner,Indiana Pacers,C,17.00
 60,Kelly Oubre Jr.,Philadelphia 76ers,SF,17.00
@@ -68,9 +68,9 @@ Rank,Player,Team,Pos,Value
 67,Jamal Murray,Denver Nuggets,SG,16.20
 68,Mikal Bridges,New York Knicks,SG,16.14
 69,Tre Mann,Charlotte Hornets,PG,16.13
-70,Lauri Markkanen,Utah Jazz,PF,16.00
 70,Christian Braun,Denver Nuggets,SG,16.00
 70,Payton Pritchard,Boston Celtics,PG,16.00
+70,Lauri Markkanen,Utah Jazz,PF,16.00
 73,John Collins,Utah Jazz,PF,15.88
 74,Andrew Wiggins,Golden State Warriors,SF,15.83
 75,Tyrese Haliburton,Indiana Pacers,PG,15.75
@@ -79,8 +79,8 @@ Rank,Player,Team,Pos,Value
 78,Aaron Gordon,Denver Nuggets,PF,15.43
 78,Jeremy Sochan,San Antonio Spurs,PF,15.43
 80,Keegan Murray,Sacramento Kings,SF,15.38
-81,Deandre Ayton,Portland Trail Blazers,C,15.11
 81,Jarrett Allen,Cleveland Cavaliers,C,15.11
+81,Deandre Ayton,Portland Trail Blazers,C,15.11
 83,Jakob Poeltl,Toronto Raptors,C,15.00
 84,Collin Sexton,Utah Jazz,PG,14.88
 85,Bam Adebayo,Miami Heat,C,14.86
@@ -96,6 +96,6 @@ Rank,Player,Team,Pos,Value
 95,Josh Giddey,Chicago Bulls,SG,13.56
 95,Tim Hardaway Jr.,Detroit Pistons,SG,13.56
 97,Bobby Portis,Milwaukee Bucks,PF,13.25
-98,Jonathan Kuminga,Golden State Warriors,PF,13.13
 98,Malik Monk,Sacramento Kings,SG,13.13
+98,Jonathan Kuminga,Golden State Warriors,PF,13.13
 100,Tobias Harris,Detroit Pistons,SF,13.11

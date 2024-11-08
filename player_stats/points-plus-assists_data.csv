@@ -18,13 +18,13 @@ Rank,Player,Team,Pos,Value
 17,Anthony Edwards,Minnesota Timberwolves,SG,30.29
 18,James Harden,Los Angeles Clippers,SG,30.13
 19,Ja Morant,Memphis Grizzlies,PG,29.75
-20,DeMar DeRozan,Sacramento Kings,SG,29.50
 20,Jaylen Brown,Boston Celtics,SG,29.50
+20,DeMar DeRozan,Sacramento Kings,SG,29.50
 22,De'Aaron Fox,Sacramento Kings,PG,28.88
 23,Brandon Ingram,New Orleans Pelicans,SF,28.67
 24,Stephen Curry,Golden State Warriors,PG,28.20
-25,Cam Thomas,Brooklyn Nets,SG,28.00
 25,Zion Williamson,New Orleans Pelicans,PF,28.00
+25,Cam Thomas,Brooklyn Nets,SG,28.00
 27,Donovan Mitchell,Cleveland Cavaliers,SG,27.89
 28,Kyrie Irving,Dallas Mavericks,PG,27.63
 29,Domantas Sabonis,Sacramento Kings,PF,27.50
@@ -74,9 +74,9 @@ Rank,Player,Team,Pos,Value
 73,Terry Rozier,Miami Heat,PG,19.14
 74,Payton Pritchard,Boston Celtics,PG,18.78
 75,Bennedict Mathurin,Indiana Pacers,SG,18.63
-76,Myles Turner,Indiana Pacers,C,18.57
 76,Josh Hart,New York Knicks,SG,18.57
 76,Aaron Gordon,Denver Nuggets,PF,18.57
+76,Myles Turner,Indiana Pacers,C,18.57
 79,Bam Adebayo,Miami Heat,C,18.43
 79,Jeremy Sochan,San Antonio Spurs,PF,18.43
 81,Kelly Oubre Jr.,Philadelphia 76ers,SF,18.14
@@ -89,8 +89,8 @@ Rank,Player,Team,Pos,Value
 88,Christian Braun,Denver Nuggets,SG,17.50
 89,Keegan Murray,Sacramento Kings,SF,17.25
 89,Russell Westbrook,Denver Nuggets,PG,17.25
-91,Naz Reid,Minnesota Timberwolves,C,17.14
 91,Caris LeVert,Cleveland Cavaliers,SG,17.14
+91,Naz Reid,Minnesota Timberwolves,C,17.14
 93,Scoot Henderson,Portland Trail Blazers,PG,17.13
 93,Miles Bridges,Charlotte Hornets,SF,17.13
 95,Jarrett Allen,Cleveland Cavaliers,C,16.89

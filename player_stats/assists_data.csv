@@ -6,10 +6,10 @@ Rank,Player,Team,Pos,Value
 5,Luka Doncic,Dallas Mavericks,SF,8.13
 6,Chris Paul,San Antonio Spurs,PG,7.78
 7,Cade Cunningham,Detroit Pistons,PG,7.67
-8,LeBron James,Los Angeles Lakers,SF,7.50
 8,Tyrese Haliburton,Indiana Pacers,PG,7.50
-10,Domantas Sabonis,Sacramento Kings,PF,7.25
+8,LeBron James,Los Angeles Lakers,SF,7.50
 10,Dennis Schroder,Brooklyn Nets,PG,7.25
+10,Domantas Sabonis,Sacramento Kings,PF,7.25
 12,Stephen Curry,Golden State Warriors,PG,7.00
 12,Josh Giddey,Chicago Bulls,SG,7.00
 12,RJ Barrett,Toronto Raptors,SF,7.00
@@ -21,29 +21,29 @@ Rank,Player,Team,Pos,Value
 20,Keyonte George,Utah Jazz,SG,6.38
 21,Davion Mitchell,Toronto Raptors,PG,6.33
 22,Ben Simmons,Brooklyn Nets,SG,6.17
-23,Fred VanVleet,Houston Rockets,PG,6.13
 23,Devin Booker,Phoenix Suns,SG,6.13
+23,Fred VanVleet,Houston Rockets,PG,6.13
 25,LaMelo Ball,Charlotte Hornets,PG,6.00
 26,D'Angelo Russell,Los Angeles Lakers,PG,5.75
 27,Giannis Antetokounmpo,Milwaukee Bucks,SF,5.71
 27,Jalen Brunson,New York Knicks,PG,5.71
+29,Anfernee Simons,Portland Trail Blazers,SG,5.33
 29,Zion Williamson,New Orleans Pelicans,PF,5.33
 29,Jalen Johnson,Atlanta Hawks,SF,5.33
-29,Anfernee Simons,Portland Trail Blazers,SG,5.33
 32,Jimmy Butler,Miami Heat,PF,5.29
 33,Jalen Williams,Oklahoma City Thunder,SG,5.25
-34,Mike Conley,Minnesota Timberwolves,PG,5.13
 34,De'Aaron Fox,Sacramento Kings,PG,5.13
-36,Coby White,Chicago Bulls,SG,5.00
+34,Mike Conley,Minnesota Timberwolves,PG,5.13
 36,Jordan Poole,Washington Wizards,SG,5.00
+36,Coby White,Chicago Bulls,SG,5.00
 38,Jose Alvarado,New Orleans Pelicans,PG,4.89
+39,Pascal Siakam,Indiana Pacers,PF,4.88
 39,Austin Reaves,Los Angeles Lakers,PG,4.88
 39,Russell Westbrook,Denver Nuggets,PG,4.88
-39,Pascal Siakam,Indiana Pacers,PF,4.88
 42,Carlton Carrington,Washington Wizards,PG,4.83
 43,Jayson Tatum,Boston Celtics,SF,4.78
-44,Andrew Nembhard,Indiana Pacers,PG,4.71
 44,Josh Hart,New York Knicks,SG,4.71
+44,Andrew Nembhard,Indiana Pacers,PG,4.71
 46,Scoot Henderson,Portland Trail Blazers,PG,4.67
 47,Kyrie Irving,Dallas Mavericks,PG,4.63
 48,Caris LeVert,Cleveland Cavaliers,SG,4.57
@@ -51,21 +51,21 @@ Rank,Player,Team,Pos,Value
 49,Jalen Suggs,Orlando Magic,SG,4.56
 51,Julius Randle,Minnesota Timberwolves,PF,4.50
 52,Jamal Shead,Toronto Raptors,SG,4.44
-53,Terry Rozier,Miami Heat,PG,4.43
 53,Tyler Herro,Miami Heat,SG,4.43
+53,Terry Rozier,Miami Heat,PG,4.43
 55,Jamal Murray,Denver Nuggets,SG,4.40
 56,Draymond Green,Golden State Warriors,PF,4.25
 57,T.J. McConnell,Indiana Pacers,PG,4.13
 58,Donovan Mitchell,Cleveland Cavaliers,SG,4.11
 58,Franz Wagner,Orlando Magic,SF,4.11
 58,Anthony Black,Orlando Magic,PG,4.11
-61,Ayo Dosunmu,Chicago Bulls,PG,4.00
-61,Derrick White,Boston Celtics,PG,4.00
 61,Brandin Podziemski,Golden State Warriors,SG,4.00
 61,Bradley Beal,Phoenix Suns,SG,4.00
+61,Ayo Dosunmu,Chicago Bulls,PG,4.00
+61,Derrick White,Boston Celtics,PG,4.00
 65,Jake LaRavia,Memphis Grizzlies,SF,3.89
-66,DeMar DeRozan,Sacramento Kings,SG,3.88
 66,Alperen Sengun,Houston Rockets,C,3.88
+66,DeMar DeRozan,Sacramento Kings,SG,3.88
 68,Tyrese Maxey,Philadelphia 76ers,PG,3.86
 69,Jaylen Brown,Boston Celtics,SG,3.83
 70,Jaden Ivey,Detroit Pistons,PG,3.78
@@ -77,9 +77,9 @@ Rank,Player,Team,Pos,Value
 75,Nikola Vucevic,Chicago Bulls,C,3.44
 77,Kyle Lowry,Philadelphia 76ers,PG,3.43
 77,Mikal Bridges,New York Knicks,SG,3.43
-79,Anthony Edwards,Minnesota Timberwolves,SG,3.38
 79,Kevin Durant,Phoenix Suns,SF,3.38
 79,Naji Marshall,Dallas Mavericks,PF,3.38
+79,Anthony Edwards,Minnesota Timberwolves,SG,3.38
 82,Jonas Valanciunas,Washington Wizards,C,3.33
 83,Collin Sexton,Utah Jazz,PG,3.25
 84,Cameron Payne,New York Knicks,PG,3.20
@@ -88,14 +88,14 @@ Rank,Player,Team,Pos,Value
 87,Cam Thomas,Brooklyn Nets,SG,3.13
 88,Deni Avdija,Portland Trail Blazers,SF,3.11
 88,Ty Jerome,Cleveland Cavaliers,SG,3.11
+90,Cameron Johnson,Brooklyn Nets,PF,3.00
+90,Miles McBride,New York Knicks,PG,3.00
 90,Jeremy Sochan,San Antonio Spurs,PF,3.00
 90,Anthony Davis,Los Angeles Lakers,PF,3.00
 90,Brandon Boston Jr.,New Orleans Pelicans,PG,3.00
 90,Jakob Poeltl,Toronto Raptors,C,3.00
 90,Jalen Green,Houston Rockets,SG,3.00
-90,Cameron Johnson,Brooklyn Nets,PF,3.00
-90,Miles McBride,New York Knicks,PG,3.00
-97,Nickeil Alexander-Walker,Minnesota Timberwolves,SG,2.88
 97,Kevin Porter Jr.,Los Angeles Clippers,SG,2.88
 97,Malik Monk,Sacramento Kings,SG,2.88
-100,Payton Pritchard,Boston Celtics,PG,2.78
+97,Nickeil Alexander-Walker,Minnesota Timberwolves,SG,2.88
+100,Evan Mobley,Cleveland Cavaliers,C,2.78

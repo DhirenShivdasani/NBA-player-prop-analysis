@@ -11,8 +11,8 @@ Rank,Player,Team,Pos,Value
 10,Anthony Edwards,Minnesota Timberwolves,SG,32.56
 11,LeBron James,Los Angeles Lakers,SF,31.78
 12,Tyrese Maxey,Philadelphia 76ers,PG,31.43
-13,Cade Cunningham,Detroit Pistons,PG,31.00
 13,Kevin Durant,Phoenix Suns,SF,31.00
+13,Cade Cunningham,Detroit Pistons,PG,31.00
 15,RJ Barrett,Toronto Raptors,SF,30.29
 16,James Harden,Los Angeles Clippers,SG,30.20
 17,Jalen Brunson,New York Knicks,PG,30.13
@@ -62,15 +62,15 @@ Rank,Player,Team,Pos,Value
 61,Alperen Sengun,Houston Rockets,C,19.89
 62,Jerami Grant,Portland Trail Blazers,SF,19.70
 63,Mikal Bridges,New York Knicks,SG,19.63
-64,Tre Mann,Charlotte Hornets,PG,19.56
 64,Fred VanVleet,Houston Rockets,PG,19.56
+64,Tre Mann,Charlotte Hornets,PG,19.56
 66,Bradley Beal,Phoenix Suns,SG,19.29
 67,Bennedict Mathurin,Indiana Pacers,SG,19.22
 68,Ivica Zubac,Los Angeles Clippers,C,19.20
 69,Lauri Markkanen,Utah Jazz,PF,19.17
 70,Bilal Coulibaly,Washington Wizards,SG,19.14
-71,Bam Adebayo,Miami Heat,C,19.13
 71,Terry Rozier,Miami Heat,PG,19.13
+71,Bam Adebayo,Miami Heat,C,19.13
 73,Payton Pritchard,Boston Celtics,PG,18.90
 74,Collin Sexton,Utah Jazz,PG,18.89
 75,Aaron Gordon,Denver Nuggets,PF,18.57
@@ -79,8 +79,8 @@ Rank,Player,Team,Pos,Value
 78,Jeremy Sochan,San Antonio Spurs,PF,18.43
 79,John Collins,Utah Jazz,PF,18.33
 80,Chris Paul,San Antonio Spurs,PG,18.20
-81,Christian Braun,Denver Nuggets,SG,18.11
 81,D'Angelo Russell,Los Angeles Lakers,PG,18.11
+81,Christian Braun,Denver Nuggets,SG,18.11
 83,Myles Turner,Indiana Pacers,C,17.88
 84,Jordan Hawkins,New Orleans Pelicans,SG,17.63
 85,Jordan Clarkson,Utah Jazz,PG,17.43
@@ -88,9 +88,9 @@ Rank,Player,Team,Pos,Value
 87,Miles Bridges,Charlotte Hornets,SF,17.13
 87,O.G. Anunoby,New York Knicks,SF,17.13
 89,Russell Westbrook,Denver Nuggets,PG,17.11
-90,Andrew Wiggins,Golden State Warriors,SF,17.00
 90,Jakob Poeltl,Toronto Raptors,C,17.00
 90,Scoot Henderson,Portland Trail Blazers,PG,17.00
+90,Andrew Wiggins,Golden State Warriors,SF,17.00
 93,Caris LeVert,Cleveland Cavaliers,SG,16.67
 94,Tobias Harris,Detroit Pistons,SF,16.50
 94,Jrue Holiday,Boston Celtics,PG,16.50

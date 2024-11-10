@@ -39,9 +39,9 @@ Rank,Player,Team,Pos,Value
 38,Andre Drummond,Philadelphia 76ers,C,11.25
 39,Julius Randle,Minnesota Timberwolves,PF,11.22
 40,Scotty Pippen Jr.,Memphis Grizzlies,PG,11.10
+41,Pascal Siakam,Indiana Pacers,PF,11.00
 41,Devin Booker,Phoenix Suns,SG,11.00
 41,LaMelo Ball,Charlotte Hornets,PG,11.00
-41,Pascal Siakam,Indiana Pacers,PF,11.00
 44,Stephen Curry,Golden State Warriors,PG,10.67
 44,Dereck Lively II,Dallas Mavericks,C,10.67
 46,Brandon Ingram,New Orleans Pelicans,SF,10.60
@@ -51,11 +51,11 @@ Rank,Player,Team,Pos,Value
 49,Jeremy Sochan,San Antonio Spurs,PF,10.43
 51,Tyler Herro,Miami Heat,SG,10.38
 52,Keegan Murray,Sacramento Kings,SF,10.33
+53,Kevin Durant,Phoenix Suns,SF,10.00
+53,Tobias Harris,Detroit Pistons,SF,10.00
 53,John Collins,Utah Jazz,PF,10.00
 53,Austin Reaves,Los Angeles Lakers,PG,10.00
 53,Jaime Jaquez Jr.,Miami Heat,SG,10.00
-53,Kevin Durant,Phoenix Suns,SF,10.00
-53,Tobias Harris,Detroit Pistons,SF,10.00
 58,Aaron Gordon,Denver Nuggets,PF,9.86
 59,Jalen Suggs,Orlando Magic,SG,9.80
 60,Michael Porter Jr.,Denver Nuggets,PF,9.78
@@ -66,22 +66,22 @@ Rank,Player,Team,Pos,Value
 65,Jimmy Butler,Miami Heat,PF,9.63
 66,Isaiah Stewart,Detroit Pistons,PF,9.60
 67,Kyrie Irving,Dallas Mavericks,PG,9.56
-68,Lauri Markkanen,Utah Jazz,PF,9.50
 68,Dennis Schroder,Brooklyn Nets,PG,9.50
+68,Lauri Markkanen,Utah Jazz,PF,9.50
 68,Brandin Podziemski,Golden State Warriors,SG,9.50
 68,Franz Wagner,Orlando Magic,SF,9.50
 72,Russell Westbrook,Denver Nuggets,PG,9.44
 72,Anthony Edwards,Minnesota Timberwolves,SG,9.44
-74,Keyonte George,Utah Jazz,SG,9.25
 74,Miles Bridges,Charlotte Hornets,SF,9.25
+74,Keyonte George,Utah Jazz,SG,9.25
 76,Fred VanVleet,Houston Rockets,PG,9.22
 76,Bobby Portis,Milwaukee Bucks,PF,9.22
 78,P.J. Washington,Dallas Mavericks,PF,9.14
 79,Terry Rozier,Miami Heat,PG,9.13
 79,Caleb Martin,Philadelphia 76ers,SF,9.13
 81,De'Aaron Fox,Sacramento Kings,PG,9.11
-82,Jamal Murray,Denver Nuggets,SG,9.00
 82,Myles Turner,Indiana Pacers,C,9.00
+82,Jamal Murray,Denver Nuggets,SG,9.00
 84,Deni Avdija,Portland Trail Blazers,SF,8.90
 85,Alexandre Sarr,Washington Wizards,C,8.86
 86,Ayo Dosunmu,Chicago Bulls,PG,8.80

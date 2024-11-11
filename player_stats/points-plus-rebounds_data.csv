@@ -22,8 +22,8 @@ Rank,Player,Team,Pos,Value
 21,Ivica Zubac,Los Angeles Clippers,C,29.10
 22,Jalen Johnson,Atlanta Hawks,SF,29.09
 23,Norman Powell,Los Angeles Clippers,SG,28.90
-24,DeMar DeRozan,Sacramento Kings,SG,28.80
 24,Brandon Ingram,New Orleans Pelicans,SF,28.80
+24,DeMar DeRozan,Sacramento Kings,SG,28.80
 26,RJ Barrett,Toronto Raptors,SF,28.75
 27,Victor Wembanyama,San Antonio Spurs,PF,28.60
 28,Tyler Herro,Miami Heat,SG,28.44
@@ -65,8 +65,8 @@ Rank,Player,Team,Pos,Value
 64,Bilal Coulibaly,Washington Wizards,SG,22.50
 65,Darius Garland,Cleveland Cavaliers,PG,22.36
 66,Buddy Hield,Golden State Warriors,SG,22.30
-67,Jamal Murray,Denver Nuggets,SG,22.14
 67,Aaron Gordon,Denver Nuggets,PF,22.14
+67,Jamal Murray,Denver Nuggets,SG,22.14
 69,Jerami Grant,Portland Trail Blazers,SF,21.91
 70,Cameron Johnson,Brooklyn Nets,PF,21.80
 71,Christian Braun,Denver Nuggets,SG,21.70
@@ -96,6 +96,6 @@ Rank,Player,Team,Pos,Value
 95,Jonathan Kuminga,Golden State Warriors,PF,18.90
 96,Mikal Bridges,New York Knicks,SG,18.89
 97,Ochai Agbaji,Toronto Raptors,SG,18.82
-98,Keldon Johnson,San Antonio Spurs,PF,18.50
 98,Keyonte George,Utah Jazz,SG,18.50
+98,Keldon Johnson,San Antonio Spurs,PF,18.50
 100,Collin Sexton,Utah Jazz,PG,18.22

@@ -8,14 +8,14 @@ Rank,Player,Team,Pos,Value
 7,Anthony Davis,Los Angeles Lakers,PF,34.00
 8,Damian Lillard,Milwaukee Bucks,PG,32.60
 9,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,32.30
-10,Anthony Edwards,Minnesota Timberwolves,SG,32.10
 10,LeBron James,Los Angeles Lakers,SF,32.10
+10,Anthony Edwards,Minnesota Timberwolves,SG,32.10
 12,Jalen Brunson,New York Knicks,PG,31.56
 13,Tyrese Maxey,Philadelphia 76ers,PG,31.43
 14,Cade Cunningham,Detroit Pistons,PG,31.36
 15,Kevin Durant,Phoenix Suns,SF,31.00
-16,Kyrie Irving,Dallas Mavericks,PG,30.40
 16,Devin Booker,Phoenix Suns,SG,30.40
+16,Kyrie Irving,Dallas Mavericks,PG,30.40
 18,James Harden,Los Angeles Clippers,SG,30.20
 19,Ja Morant,Memphis Grizzlies,PG,29.75
 20,RJ Barrett,Toronto Raptors,SF,29.25
@@ -40,10 +40,10 @@ Rank,Player,Team,Pos,Value
 39,Franz Wagner,Orlando Magic,SF,24.45
 40,Coby White,Chicago Bulls,SG,24.40
 41,Nikola Vucevic,Chicago Bulls,C,24.10
-42,Jalen Williams,Oklahoma City Thunder,SG,24.00
 42,Jalen Johnson,Atlanta Hawks,SF,24.00
-44,Austin Reaves,Los Angeles Lakers,PG,23.90
+42,Jalen Williams,Oklahoma City Thunder,SG,24.00
 44,Jalen Green,Houston Rockets,SG,23.90
+44,Austin Reaves,Los Angeles Lakers,PG,23.90
 46,Derrick White,Boston Celtics,PG,23.18
 47,Jamal Murray,Denver Nuggets,SG,23.00
 48,Jaren Jackson Jr.,Memphis Grizzlies,PF,22.78
@@ -68,11 +68,11 @@ Rank,Player,Team,Pos,Value
 67,Lauri Markkanen,Utah Jazz,PF,19.17
 68,Payton Pritchard,Boston Celtics,PG,19.09
 69,Fred VanVleet,Houston Rockets,PG,19.00
-70,Josh Hart,New York Knicks,SG,18.89
 70,Collin Sexton,Utah Jazz,PG,18.89
 70,Myles Turner,Indiana Pacers,C,18.89
-73,Bam Adebayo,Miami Heat,C,18.78
+70,Josh Hart,New York Knicks,SG,18.89
 73,Mikal Bridges,New York Knicks,SG,18.78
+73,Bam Adebayo,Miami Heat,C,18.78
 75,Aaron Gordon,Denver Nuggets,PF,18.57
 76,Scotty Pippen Jr.,Memphis Grizzlies,PG,18.55
 77,Jeremy Sochan,San Antonio Spurs,PF,18.43
@@ -82,8 +82,8 @@ Rank,Player,Team,Pos,Value
 81,O.G. Anunoby,New York Knicks,SF,18.22
 82,Chris Paul,San Antonio Spurs,PG,18.20
 83,Tre Mann,Charlotte Hornets,PG,18.10
-84,Christian Braun,Denver Nuggets,SG,17.90
 84,D'Angelo Russell,Los Angeles Lakers,PG,17.90
+84,Christian Braun,Denver Nuggets,SG,17.90
 86,Andrew Wiggins,Golden State Warriors,SF,17.75
 87,Jordan Hawkins,New Orleans Pelicans,SG,17.63
 88,Jordan Clarkson,Utah Jazz,PG,17.43
@@ -91,8 +91,8 @@ Rank,Player,Team,Pos,Value
 90,Miles Bridges,Charlotte Hornets,SF,17.13
 91,Jakob Poeltl,Toronto Raptors,C,17.09
 92,Caris LeVert,Cleveland Cavaliers,SG,16.67
-93,Jrue Holiday,Boston Celtics,PG,16.64
 93,Scoot Henderson,Portland Trail Blazers,PG,16.64
+93,Jrue Holiday,Boston Celtics,PG,16.64
 95,Kelly Oubre Jr.,Philadelphia 76ers,SF,16.56
 96,Santi Aldama,Memphis Grizzlies,PF,16.55
 97,Russell Westbrook,Denver Nuggets,PG,16.50

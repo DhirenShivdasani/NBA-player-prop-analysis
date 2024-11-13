@@ -32,11 +32,11 @@ Rank,Player,Team,Pos,Value
 30,Josh Hart,New York Knicks,SG,5.11
 32,Draymond Green,Golden State Warriors,PF,5.10
 33,Coby White,Chicago Bulls,SG,5.09
+34,Jalen Williams,Oklahoma City Thunder,SG,5.00
 34,D'Angelo Russell,Los Angeles Lakers,PG,5.00
 34,Jayson Tatum,Boston Celtics,SF,5.00
 34,Tyler Herro,Miami Heat,SG,5.00
 34,Brandon Ingram,New Orleans Pelicans,SF,5.00
-34,Jalen Williams,Oklahoma City Thunder,SG,5.00
 39,Jalen Johnson,Atlanta Hawks,SF,4.91
 40,Jimmy Butler,Miami Heat,PF,4.88
 41,Jamal Murray,Denver Nuggets,SG,4.86
@@ -45,8 +45,8 @@ Rank,Player,Team,Pos,Value
 44,De'Aaron Fox,Sacramento Kings,PG,4.73
 45,Andrew Nembhard,Indiana Pacers,PG,4.71
 46,Anfernee Simons,Portland Trail Blazers,SG,4.64
-47,Julius Randle,Minnesota Timberwolves,PF,4.60
 47,Mike Conley,Minnesota Timberwolves,PG,4.60
+47,Julius Randle,Minnesota Timberwolves,PF,4.60
 49,Franz Wagner,Orlando Magic,SF,4.55
 50,Pascal Siakam,Indiana Pacers,PF,4.50
 50,Caris LeVert,Cleveland Cavaliers,SG,4.50
@@ -56,8 +56,8 @@ Rank,Player,Team,Pos,Value
 55,DeMar DeRozan,Sacramento Kings,SG,4.18
 55,Jalen Suggs,Orlando Magic,SG,4.18
 57,Anthony Black,Orlando Magic,PG,4.09
-58,Bam Adebayo,Miami Heat,C,4.00
 58,Terry Rozier,Miami Heat,PG,4.00
+58,Bam Adebayo,Miami Heat,C,4.00
 58,T.J. McConnell,Indiana Pacers,PG,4.00
 58,Ayo Dosunmu,Chicago Bulls,PG,4.00
 62,Kyle Lowry,Philadelphia 76ers,PG,3.89
@@ -67,9 +67,9 @@ Rank,Player,Team,Pos,Value
 66,Alperen Sengun,Houston Rockets,C,3.82
 66,Jake LaRavia,Memphis Grizzlies,SF,3.82
 68,Anthony Edwards,Minnesota Timberwolves,SG,3.80
+69,Santi Aldama,Memphis Grizzlies,PF,3.73
 69,Jamal Shead,Toronto Raptors,SG,3.73
 69,Jrue Holiday,Boston Celtics,PG,3.73
-69,Santi Aldama,Memphis Grizzlies,PF,3.73
 72,Donte DiVincenzo,Minnesota Timberwolves,SG,3.70
 73,Brandin Podziemski,Golden State Warriors,SG,3.67
 73,Donovan Mitchell,Cleveland Cavaliers,SG,3.67
@@ -90,12 +90,12 @@ Rank,Player,Team,Pos,Value
 88,Jeremy Sochan,San Antonio Spurs,PF,3.00
 88,Caleb Martin,Philadelphia 76ers,SF,3.00
 91,Michael Porter Jr.,Denver Nuggets,PF,2.90
-92,Stephon Castle,San Antonio Spurs,PG,2.82
 92,Jalen Green,Houston Rockets,SG,2.82
+92,Stephon Castle,San Antonio Spurs,PG,2.82
 94,Malik Monk,Sacramento Kings,SG,2.80
 95,Anthony Davis,Los Angeles Lakers,PF,2.78
+96,Kris Dunn,Los Angeles Clippers,PG,2.73
 96,Kevin Porter Jr.,Los Angeles Clippers,SG,2.73
 96,Victor Wembanyama,San Antonio Spurs,PF,2.73
-96,Kris Dunn,Los Angeles Clippers,PG,2.73
-99,Nickeil Alexander-Walker,Minnesota Timberwolves,SG,2.70
 99,Naji Marshall,Dallas Mavericks,PF,2.70
+99,Nickeil Alexander-Walker,Minnesota Timberwolves,SG,2.70

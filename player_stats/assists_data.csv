@@ -9,14 +9,14 @@ Rank,Player,Team,Pos,Value
 8,Chris Paul,San Antonio Spurs,PG,8.18
 9,Luka Doncic,Dallas Mavericks,SF,7.91
 10,Ben Simmons,Brooklyn Nets,SG,7.13
-11,Devin Booker,Phoenix Suns,SG,7.00
 11,Josh Giddey,Chicago Bulls,SG,7.00
+11,Devin Booker,Phoenix Suns,SG,7.00
 13,Domantas Sabonis,Sacramento Kings,PF,6.64
 14,Stephen Curry,Golden State Warriors,PG,6.63
 15,Damian Lillard,Milwaukee Bucks,PG,6.60
 16,Darius Garland,Cleveland Cavaliers,PG,6.50
-17,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,6.45
 17,Scotty Pippen Jr.,Memphis Grizzlies,PG,6.45
+17,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,6.45
 19,Jalen Brunson,New York Knicks,PG,6.40
 20,Tyus Jones,Phoenix Suns,PG,6.36
 21,LaMelo Ball,Charlotte Hornets,PG,6.27
@@ -26,8 +26,8 @@ Rank,Player,Team,Pos,Value
 25,Fred VanVleet,Houston Rockets,PG,5.80
 26,RJ Barrett,Toronto Raptors,SF,5.67
 27,Josh Hart,New York Knicks,SG,5.60
-28,Giannis Antetokounmpo,Milwaukee Bucks,SF,5.40
 28,Russell Westbrook,Denver Nuggets,PG,5.40
+28,Giannis Antetokounmpo,Milwaukee Bucks,SF,5.40
 30,Jalen Johnson,Atlanta Hawks,SF,5.33
 31,Tyler Herro,Miami Heat,SG,5.30
 32,Jayson Tatum,Boston Celtics,SF,5.25
@@ -35,14 +35,14 @@ Rank,Player,Team,Pos,Value
 34,Draymond Green,Golden State Warriors,PF,5.18
 35,Carlton Carrington,Washington Wizards,PG,5.11
 36,Coby White,Chicago Bulls,SG,5.09
+37,Jalen Williams,Oklahoma City Thunder,SG,5.00
 37,D'Angelo Russell,Los Angeles Lakers,PG,5.00
 37,Brandon Ingram,New Orleans Pelicans,SF,5.00
-37,Jalen Williams,Oklahoma City Thunder,SG,5.00
 40,Kyrie Irving,Dallas Mavericks,PG,4.91
 41,Jimmy Butler,Miami Heat,PF,4.88
 42,Jamal Murray,Denver Nuggets,SG,4.86
-43,Mike Conley,Minnesota Timberwolves,PG,4.73
 43,De'Aaron Fox,Sacramento Kings,PG,4.73
+43,Mike Conley,Minnesota Timberwolves,PG,4.73
 45,Andrew Nembhard,Indiana Pacers,PG,4.71
 46,Scoot Henderson,Portland Trail Blazers,PG,4.58
 46,Franz Wagner,Orlando Magic,SF,4.58
@@ -66,8 +66,8 @@ Rank,Player,Team,Pos,Value
 65,Brandon Miller,Charlotte Hornets,SF,3.86
 65,Tyrese Maxey,Philadelphia 76ers,PG,3.86
 67,Jaden Ivey,Detroit Pistons,PG,3.83
-68,Jake LaRavia,Memphis Grizzlies,SF,3.82
 68,Alperen Sengun,Houston Rockets,C,3.82
+68,Jake LaRavia,Memphis Grizzlies,SF,3.82
 70,Santi Aldama,Memphis Grizzlies,PF,3.73
 70,Anthony Edwards,Minnesota Timberwolves,SG,3.73
 72,Kyle Lowry,Philadelphia 76ers,PG,3.70
@@ -98,4 +98,4 @@ Rank,Player,Team,Pos,Value
 97,Malik Monk,Sacramento Kings,SG,2.80
 98,Anthony Davis,Los Angeles Lakers,PF,2.78
 99,Victor Wembanyama,San Antonio Spurs,PF,2.73
-99,Kris Dunn,Los Angeles Clippers,PG,2.73
+99,Kevin Porter Jr.,Los Angeles Clippers,SG,2.73

@@ -4,7 +4,7 @@ Rank,Player,Team,Pos,Value
 3,Jayson Tatum,Boston Celtics,SF,30.15
 4,LaMelo Ball,Charlotte Hornets,PG,29.91
 5,Nikola Jokic,Denver Nuggets,C,29.70
-6,Luka Doncic,Dallas Mavericks,SF,28.55
+6,Luka Doncic,Dallas Mavericks,SF,29.25
 7,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,27.92
 8,Anthony Edwards,Minnesota Timberwolves,SG,27.75
 9,Tyrese Maxey,Philadelphia 76ers,PG,27.57
@@ -16,8 +16,8 @@ Rank,Player,Team,Pos,Value
 15,Norman Powell,Los Angeles Clippers,SG,24.92
 16,Tyler Herro,Miami Heat,SG,24.90
 17,De'Aaron Fox,Sacramento Kings,PG,24.58
-18,LeBron James,Los Angeles Lakers,SF,24.27
 18,Jalen Brunson,New York Knicks,PG,24.27
+18,LeBron James,Los Angeles Lakers,SF,24.27
 20,Trae Young,Atlanta Hawks,PG,23.91
 21,Stephen Curry,Golden State Warriors,PG,23.88
 22,Cade Cunningham,Detroit Pistons,PG,23.85
@@ -26,8 +26,8 @@ Rank,Player,Team,Pos,Value
 25,Zach LaVine,Chicago Bulls,PG,23.44
 26,Devin Booker,Phoenix Suns,SG,23.33
 27,DeMar DeRozan,Sacramento Kings,SG,22.92
-28,Brandon Ingram,New Orleans Pelicans,SF,22.50
 28,Jaren Jackson Jr.,Memphis Grizzlies,PF,22.50
+28,Brandon Ingram,New Orleans Pelicans,SF,22.50
 30,Victor Wembanyama,San Antonio Spurs,PF,22.25
 31,Jordan Poole,Washington Wizards,SG,22.20
 32,Franz Wagner,Orlando Magic,SF,21.54
@@ -50,41 +50,41 @@ Rank,Player,Team,Pos,Value
 49,Austin Reaves,Los Angeles Lakers,PG,18.64
 50,Jaden Ivey,Detroit Pistons,PG,18.58
 51,Jamal Murray,Denver Nuggets,SG,18.14
-52,Michael Porter Jr.,Denver Nuggets,PF,18.00
-53,Bradley Beal,Phoenix Suns,SG,17.78
-54,Evan Mobley,Cleveland Cavaliers,C,17.77
-55,Buddy Hield,Golden State Warriors,SG,17.64
-56,Jerami Grant,Portland Trail Blazers,SF,17.54
-57,Alperen Sengun,Houston Rockets,C,17.42
-58,John Collins,Utah Jazz,PF,17.10
+52,John Collins,Utah Jazz,PF,18.09
+53,Michael Porter Jr.,Denver Nuggets,PF,18.00
+54,Bradley Beal,Phoenix Suns,SG,17.78
+55,Evan Mobley,Cleveland Cavaliers,C,17.77
+56,Buddy Hield,Golden State Warriors,SG,17.64
+57,Jerami Grant,Portland Trail Blazers,SF,17.54
+58,Alperen Sengun,Houston Rockets,C,17.42
 59,Myles Turner,Indiana Pacers,C,16.80
-60,Lauri Markkanen,Utah Jazz,PF,16.71
-61,Cameron Johnson,Brooklyn Nets,PF,16.50
-62,Chet Holmgren,Oklahoma City Thunder,C,16.40
-63,Christian Braun,Denver Nuggets,SG,16.30
-64,Jordan Hawkins,New Orleans Pelicans,SG,16.25
-64,Anfernee Simons,Portland Trail Blazers,SG,16.25
+60,Cameron Johnson,Brooklyn Nets,PF,16.50
+61,Chet Holmgren,Oklahoma City Thunder,C,16.40
+62,Christian Braun,Denver Nuggets,SG,16.30
+63,Jordan Hawkins,New Orleans Pelicans,SG,16.25
+63,Lauri Markkanen,Utah Jazz,PF,16.25
+63,Anfernee Simons,Portland Trail Blazers,SG,16.25
 66,Payton Pritchard,Boston Celtics,PG,16.23
 67,O.G. Anunoby,New York Knicks,SF,16.18
 68,Ivica Zubac,Los Angeles Clippers,C,16.17
 69,Jimmy Butler,Miami Heat,PF,16.13
 70,Tyrese Haliburton,Indiana Pacers,PG,16.00
-71,Brandon Miller,Charlotte Hornets,SF,15.71
-72,Collin Sexton,Utah Jazz,PG,15.70
+71,Collin Sexton,Utah Jazz,PG,15.73
+72,Brandon Miller,Charlotte Hornets,SF,15.71
 73,Mikal Bridges,New York Knicks,SG,15.64
 74,Aaron Gordon,Denver Nuggets,PF,15.43
 75,Naz Reid,Minnesota Timberwolves,C,15.33
-76,Bilal Coulibaly,Washington Wizards,SG,15.30
 76,Bam Adebayo,Miami Heat,C,15.30
-78,Keyonte George,Utah Jazz,SG,14.89
+76,Bilal Coulibaly,Washington Wizards,SG,15.30
+78,Jordan Clarkson,Utah Jazz,PG,15.00
 79,Jalen Suggs,Orlando Magic,SG,14.85
+80,Keyonte George,Utah Jazz,SG,14.80
 80,Tre Mann,Charlotte Hornets,PG,14.80
-81,Jonathan Kuminga,Golden State Warriors,PF,14.73
-82,Andrew Wiggins,Golden State Warriors,SF,14.67
-83,Kelly Oubre Jr.,Philadelphia 76ers,SF,14.64
-84,Miles Bridges,Charlotte Hornets,SF,14.63
-85,Klay Thompson,Dallas Mavericks,SG,14.55
-86,Jordan Clarkson,Utah Jazz,PG,14.38
+82,Klay Thompson,Dallas Mavericks,SG,14.75
+83,Jonathan Kuminga,Golden State Warriors,PF,14.73
+84,Andrew Wiggins,Golden State Warriors,SF,14.67
+85,Kelly Oubre Jr.,Philadelphia 76ers,SF,14.64
+86,Miles Bridges,Charlotte Hornets,SF,14.63
 87,Dyson Daniels,Atlanta Hawks,SG,14.30
 88,Jakob Poeltl,Toronto Raptors,C,13.92
 89,Malik Beasley,Detroit Pistons,SG,13.85

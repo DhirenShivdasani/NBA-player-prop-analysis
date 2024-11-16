@@ -18,8 +18,8 @@ Rank,Player,Team,Pos,Value
 17,Nikola Vucevic,Chicago Bulls,C,13.33
 18,Jayson Tatum,Boston Celtics,SF,13.23
 19,Josh Giddey,Chicago Bulls,SG,13.17
-20,Ben Simmons,Brooklyn Nets,SG,13.00
 20,Bam Adebayo,Miami Heat,C,13.00
+20,Ben Simmons,Brooklyn Nets,SG,13.00
 22,Victor Wembanyama,San Antonio Spurs,PF,12.92
 23,Jalen Duren,Detroit Pistons,C,12.73
 24,Tyrese Haliburton,Indiana Pacers,PG,12.55
@@ -43,10 +43,10 @@ Rank,Player,Team,Pos,Value
 42,Pascal Siakam,Indiana Pacers,PF,10.82
 43,Chet Holmgren,Oklahoma City Thunder,C,10.70
 44,John Collins,Utah Jazz,PF,10.55
+45,Andre Drummond,Philadelphia 76ers,C,10.50
 45,De'Aaron Fox,Sacramento Kings,PG,10.50
 45,Tyler Herro,Miami Heat,SG,10.50
 45,Devin Booker,Phoenix Suns,SG,10.50
-45,Andre Drummond,Philadelphia 76ers,C,10.50
 49,Draymond Green,Golden State Warriors,PF,10.45
 50,Jonas Valanciunas,Washington Wizards,C,10.30
 51,Nic Claxton,Brooklyn Nets,C,10.27
@@ -61,8 +61,8 @@ Rank,Player,Team,Pos,Value
 60,Fred VanVleet,Houston Rockets,PG,9.73
 61,Jimmy Butler,Miami Heat,PF,9.63
 62,Carlton Carrington,Washington Wizards,PG,9.60
-63,Kyrie Irving,Dallas Mavericks,PG,9.55
 63,Austin Reaves,Los Angeles Lakers,PG,9.55
+63,Kyrie Irving,Dallas Mavericks,PG,9.55
 65,Russell Westbrook,Denver Nuggets,PG,9.50
 65,Dereck Lively II,Dallas Mavericks,C,9.50
 67,Jalen Brunson,New York Knicks,PG,9.45
@@ -73,8 +73,8 @@ Rank,Player,Team,Pos,Value
 72,Jaime Jaquez Jr.,Miami Heat,SG,9.14
 73,Zach LaVine,Chicago Bulls,PG,9.11
 74,Jalen Suggs,Orlando Magic,SG,8.92
-75,Anthony Edwards,Minnesota Timberwolves,SG,8.92
 75,Dennis Schroder,Brooklyn Nets,PG,8.92
+75,Anthony Edwards,Minnesota Timberwolves,SG,8.92
 77,Bobby Portis,Milwaukee Bucks,PF,8.91
 78,Keyonte George,Utah Jazz,SG,8.90
 79,Lauri Markkanen,Utah Jazz,PF,8.88
@@ -90,12 +90,12 @@ Rank,Player,Team,Pos,Value
 89,Caleb Martin,Philadelphia 76ers,SF,8.55
 90,Deni Avdija,Portland Trail Blazers,SF,8.54
 91,Terry Rozier,Miami Heat,PG,8.50
-92,Amen Thompson,Houston Rockets,SG,8.42
 92,Clint Capela,Atlanta Hawks,C,8.42
+92,Amen Thompson,Houston Rockets,SG,8.42
 94,Bennedict Mathurin,Indiana Pacers,SG,8.36
 95,Bilal Coulibaly,Washington Wizards,SG,8.30
 96,Donovan Mitchell,Cleveland Cavaliers,SG,8.23
 97,Myles Turner,Indiana Pacers,C,8.20
 98,DeMar DeRozan,Sacramento Kings,SG,8.17
 99,Brandon Boston Jr.,New Orleans Pelicans,PG,8.11
-100,Brandin Podziemski,Golden State Warriors,SG,8.00
+100,Alexandre Sarr,Washington Wizards,C,8.00

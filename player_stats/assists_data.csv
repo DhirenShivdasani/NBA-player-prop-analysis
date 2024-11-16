@@ -26,12 +26,12 @@ Rank,Player,Team,Pos,Value
 25,Josh Hart,New York Knicks,SG,5.92
 26,RJ Barrett,Toronto Raptors,SF,5.80
 27,Jayson Tatum,Boston Celtics,SF,5.62
-28,Giannis Antetokounmpo,Milwaukee Bucks,SF,5.55
 28,Russell Westbrook,Denver Nuggets,PG,5.55
+28,Giannis Antetokounmpo,Milwaukee Bucks,SF,5.55
 30,Jalen Johnson,Atlanta Hawks,SF,5.46
 31,Carlton Carrington,Washington Wizards,PG,5.45
-32,Draymond Green,Golden State Warriors,PF,5.33
 32,Austin Reaves,Los Angeles Lakers,PG,5.33
+32,Draymond Green,Golden State Warriors,PF,5.33
 34,De'Aaron Fox,Sacramento Kings,PG,5.31
 35,Tyler Herro,Miami Heat,SG,5.27
 36,Jamal Murray,Denver Nuggets,SG,5.25
@@ -61,17 +61,17 @@ Rank,Player,Team,Pos,Value
 59,Jrue Holiday,Boston Celtics,PG,4.00
 61,Anthony Black,Orlando Magic,PG,3.93
 62,Jaden Ivey,Detroit Pistons,PG,3.92
-63,Terry Rozier,Miami Heat,PG,3.91
 63,T.J. McConnell,Indiana Pacers,PG,3.91
+63,Terry Rozier,Miami Heat,PG,3.91
 65,Brandon Boston Jr.,New Orleans Pelicans,PG,3.90
 66,Jordan Clarkson,Utah Jazz,PG,3.89
 67,Brandon Miller,Charlotte Hornets,SF,3.86
 68,Jake LaRavia,Memphis Grizzlies,SF,3.69
-69,Jaylen Brown,Boston Celtics,SG,3.67
 69,Bradley Beal,Phoenix Suns,SG,3.67
+69,Jaylen Brown,Boston Celtics,SG,3.67
 71,Anthony Edwards,Minnesota Timberwolves,SG,3.62
-72,Mikal Bridges,New York Knicks,SG,3.58
 72,Kyle Lowry,Philadelphia 76ers,PG,3.58
+72,Mikal Bridges,New York Knicks,SG,3.58
 74,Brandin Podziemski,Golden State Warriors,SG,3.55
 75,Santi Aldama,Memphis Grizzlies,PF,3.54
 76,Kevin Durant,Phoenix Suns,SF,3.44
@@ -82,15 +82,15 @@ Rank,Player,Team,Pos,Value
 81,Stephon Castle,San Antonio Spurs,PG,3.15
 82,Aaron Gordon,Denver Nuggets,PF,3.14
 83,Collin Sexton,Utah Jazz,PG,3.09
-84,Kris Dunn,Los Angeles Clippers,PG,3.08
 84,Cam Thomas,Brooklyn Nets,SG,3.08
 84,Nikola Vucevic,Chicago Bulls,C,3.08
-87,Deni Avdija,Portland Trail Blazers,SF,3.00
+84,Kris Dunn,Los Angeles Clippers,PG,3.08
 87,Bilal Coulibaly,Washington Wizards,SG,3.00
+87,Deni Avdija,Portland Trail Blazers,SF,3.00
 89,Payton Pritchard,Boston Celtics,PG,2.92
 89,Jakob Poeltl,Toronto Raptors,C,2.92
-91,Kyshawn George,Washington Wizards,SF,2.91
 91,Michael Porter Jr.,Denver Nuggets,PF,2.91
+91,Kyshawn George,Washington Wizards,SF,2.91
 91,Dyson Daniels,Atlanta Hawks,SG,2.91
 94,Victor Wembanyama,San Antonio Spurs,PF,2.85
 94,Jalen Green,Houston Rockets,SG,2.85
@@ -98,4 +98,4 @@ Rank,Player,Team,Pos,Value
 97,Malik Monk,Sacramento Kings,SG,2.80
 98,Naji Marshall,Dallas Mavericks,PF,2.75
 98,Lauri Markkanen,Utah Jazz,PF,2.75
-100,Anthony Davis,Los Angeles Lakers,PF,2.73
+100,John Collins,Utah Jazz,PF,2.73

@@ -51,9 +51,9 @@ Rank,Player,Team,Pos,Value
 50,Nic Claxton,Brooklyn Nets,C,10.27
 50,Tyler Herro,Miami Heat,SG,10.27
 52,Kevon Looney,Golden State Warriors,PF,10.09
-53,Carlton Carrington,Washington Wizards,PG,10.00
 53,Kevin Durant,Phoenix Suns,SF,10.00
 53,Andre Drummond,Philadelphia 76ers,C,10.00
+53,Carlton Carrington,Washington Wizards,PG,10.00
 56,Scotty Pippen Jr.,Memphis Grizzlies,PG,9.92
 56,Keegan Murray,Sacramento Kings,SF,9.92
 58,Aaron Gordon,Denver Nuggets,PF,9.86
@@ -70,9 +70,9 @@ Rank,Player,Team,Pos,Value
 69,Miles Bridges,Charlotte Hornets,SF,9.25
 70,Dennis Schroder,Brooklyn Nets,PG,9.08
 71,Isaiah Stewart,Detroit Pistons,PF,9.07
+72,Jalen Suggs,Orlando Magic,SG,9.00
 72,Jaime Jaquez Jr.,Miami Heat,SG,9.00
 72,Davion Mitchell,Toronto Raptors,PG,9.00
-72,Jalen Suggs,Orlando Magic,SG,9.00
 75,Tyus Jones,Phoenix Suns,PG,8.92
 76,Bilal Coulibaly,Washington Wizards,SG,8.91
 76,Bobby Portis,Milwaukee Bucks,PF,8.91
@@ -96,6 +96,6 @@ Rank,Player,Team,Pos,Value
 95,Onyeka Okongwu,Atlanta Hawks,PF,8.18
 96,DeMar DeRozan,Sacramento Kings,SG,8.17
 97,Yves Missi,New Orleans Pelicans,C,8.15
-98,Alexandre Sarr,Washington Wizards,C,8.09
-98,Terry Rozier,Miami Heat,PG,8.09
 98,Myles Turner,Indiana Pacers,C,8.09
+98,Terry Rozier,Miami Heat,PG,8.09
+98,Alexandre Sarr,Washington Wizards,C,8.09

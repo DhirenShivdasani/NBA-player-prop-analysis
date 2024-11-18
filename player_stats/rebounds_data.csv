@@ -28,8 +28,8 @@ Rank,Player,Team,Pos,Value
 27,Tobias Harris,Detroit Pistons,SF,7.87
 28,Jayson Tatum,Boston Celtics,SF,7.86
 28,James Harden,Los Angeles Clippers,SG,7.86
-30,Luka Doncic,Dallas Mavericks,SF,7.85
 30,John Collins,Utah Jazz,PF,7.85
+30,Luka Doncic,Dallas Mavericks,SF,7.85
 32,Clint Capela,Atlanta Hawks,C,7.79
 33,Jonas Valanciunas,Washington Wizards,C,7.75
 34,Nic Claxton,Brooklyn Nets,C,7.73
@@ -48,9 +48,9 @@ Rank,Player,Team,Pos,Value
 47,Yves Missi,New Orleans Pelicans,C,6.71
 48,Amen Thompson,Houston Rockets,SG,6.64
 49,Michael Porter Jr.,Denver Nuggets,PF,6.58
-50,Goga Bitadze,Orlando Magic,C,6.50
 50,Daniel Gafford,Dallas Mavericks,PF,6.50
 50,Julius Randle,Minnesota Timberwolves,PF,6.50
+50,Goga Bitadze,Orlando Magic,C,6.50
 53,Lauri Markkanen,Utah Jazz,PF,6.40
 54,Jalen Williams,Oklahoma City Thunder,SG,6.36
 55,Pascal Siakam,Indiana Pacers,PF,6.23
@@ -65,15 +65,15 @@ Rank,Player,Team,Pos,Value
 64,Bilal Coulibaly,Washington Wizards,SG,5.75
 65,Deni Avdija,Portland Trail Blazers,SF,5.71
 66,Caleb Martin,Philadelphia 76ers,SF,5.67
-66,Alexandre Sarr,Washington Wizards,C,5.67
 66,Jaren Jackson Jr.,Memphis Grizzlies,PF,5.67
+66,Alexandre Sarr,Washington Wizards,C,5.67
 69,Tari Eason,Houston Rockets,SF,5.64
 69,Donovan Clingan,Portland Trail Blazers,C,5.64
 71,Franz Wagner,Orlando Magic,SF,5.57
 72,Draymond Green,Golden State Warriors,PF,5.50
-73,Neemias Queta,Boston Celtics,C,5.46
 73,Taurean Prince,Milwaukee Bucks,SF,5.46
 73,O.G. Anunoby,New York Knicks,SF,5.46
+73,Neemias Queta,Boston Celtics,C,5.46
 76,Keldon Johnson,San Antonio Spurs,PF,5.43
 77,Al Horford,Boston Celtics,C,5.42
 78,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,5.29
@@ -86,8 +86,8 @@ Rank,Player,Team,Pos,Value
 85,Anthony Edwards,Minnesota Timberwolves,SG,5.07
 86,Grant Williams,Charlotte Hornets,PF,5.00
 86,LaMelo Ball,Charlotte Hornets,PG,5.00
-86,Patrick Williams,Chicago Bulls,SF,5.00
 86,Jalen Suggs,Orlando Magic,SG,5.00
+86,Patrick Williams,Chicago Bulls,SF,5.00
 86,De'Aaron Fox,Sacramento Kings,PG,5.00
 91,Ochai Agbaji,Toronto Raptors,SG,4.93
 91,Jake LaRavia,Memphis Grizzlies,SF,4.93
@@ -97,5 +97,5 @@ Rank,Player,Team,Pos,Value
 96,Toumani Camara,Portland Trail Blazers,PF,4.86
 97,Trayce Jackson-Davis,Golden State Warriors,PF,4.83
 97,Dorian Finney-Smith,Brooklyn Nets,SF,4.83
-99,Brandin Podziemski,Golden State Warriors,SG,4.82
 99,Jonathan Isaac,Orlando Magic,PF,4.82
+99,Brandin Podziemski,Golden State Warriors,SG,4.82

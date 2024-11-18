@@ -7,8 +7,8 @@ Rank,Player,Team,Pos,Value
 6,James Harden,Los Angeles Clippers,SG,8.50
 7,Chris Paul,San Antonio Spurs,PG,8.21
 8,Luka Doncic,Dallas Mavericks,SF,7.85
-9,Ben Simmons,Brooklyn Nets,SG,7.00
 9,Darius Garland,Cleveland Cavaliers,PG,7.00
+9,Ben Simmons,Brooklyn Nets,SG,7.00
 11,Jalen Brunson,New York Knicks,PG,6.85
 12,LaMelo Ball,Charlotte Hornets,PG,6.69
 13,Devin Booker,Phoenix Suns,SG,6.64
@@ -32,8 +32,8 @@ Rank,Player,Team,Pos,Value
 31,Jamal Murray,Denver Nuggets,SG,5.44
 32,Brandon Ingram,New Orleans Pelicans,SF,5.43
 33,Jalen Johnson,Atlanta Hawks,SF,5.36
-34,Draymond Green,Golden State Warriors,PF,5.33
 34,Russell Westbrook,Denver Nuggets,PG,5.33
+34,Draymond Green,Golden State Warriors,PF,5.33
 36,Carlton Carrington,Washington Wizards,PG,5.25
 37,Tyler Herro,Miami Heat,SG,5.17
 38,Kyrie Irving,Dallas Mavericks,PG,5.08
@@ -49,20 +49,20 @@ Rank,Player,Team,Pos,Value
 48,Caris LeVert,Cleveland Cavaliers,SG,4.46
 49,Jose Alvarado,New Orleans Pelicans,PG,4.45
 50,Julius Randle,Minnesota Timberwolves,PF,4.43
-51,Ayo Dosunmu,Chicago Bulls,PG,4.29
 51,Derrick White,Boston Celtics,PG,4.29
+51,Ayo Dosunmu,Chicago Bulls,PG,4.29
 53,Anfernee Simons,Portland Trail Blazers,SG,4.25
 54,Jaden Ivey,Detroit Pistons,PG,4.21
 55,DeMar DeRozan,Sacramento Kings,SG,4.08
 56,Donovan Mitchell,Cleveland Cavaliers,SG,4.07
-57,Pascal Siakam,Indiana Pacers,PF,4.00
-57,Zach LaVine,Chicago Bulls,PG,4.00
 57,Jaylen Brown,Boston Celtics,SG,4.00
+57,Zach LaVine,Chicago Bulls,PG,4.00
 57,T.J. McConnell,Indiana Pacers,PG,4.00
 57,Jalen Suggs,Orlando Magic,SG,4.00
 57,Brandon Boston Jr.,New Orleans Pelicans,PG,4.00
 57,Bam Adebayo,Miami Heat,C,4.00
 57,Jrue Holiday,Boston Celtics,PG,4.00
+57,Pascal Siakam,Indiana Pacers,PF,4.00
 65,Anthony Black,Orlando Magic,PG,3.93
 66,Jordan Clarkson,Utah Jazz,PG,3.82
 67,Anthony Edwards,Minnesota Timberwolves,SG,3.79
@@ -83,13 +83,13 @@ Rank,Player,Team,Pos,Value
 82,Dyson Daniels,Atlanta Hawks,SG,3.08
 83,Deni Avdija,Portland Trail Blazers,SF,3.07
 83,Cam Thomas,Brooklyn Nets,SG,3.07
+85,Nikola Vucevic,Chicago Bulls,C,3.00
+85,Collin Sexton,Utah Jazz,PG,3.00
 85,Karl-Anthony Towns,New York Knicks,C,3.00
 85,Tre Mann,Charlotte Hornets,PG,3.00
 85,Cameron Payne,New York Knicks,PG,3.00
-85,Nikola Vucevic,Chicago Bulls,C,3.00
-85,Collin Sexton,Utah Jazz,PG,3.00
-90,Naji Marshall,Dallas Mavericks,PF,2.86
 90,Cameron Johnson,Brooklyn Nets,PF,2.86
+90,Naji Marshall,Dallas Mavericks,PF,2.86
 92,Victor Wembanyama,San Antonio Spurs,PF,2.85
 93,Malik Monk,Sacramento Kings,SG,2.80
 94,Kevin Porter Jr.,Los Angeles Clippers,SG,2.79
@@ -98,4 +98,4 @@ Rank,Player,Team,Pos,Value
 97,Michael Porter Jr.,Denver Nuggets,PF,2.75
 98,Tobias Harris,Detroit Pistons,SF,2.73
 99,Kyle Anderson,Golden State Warriors,SF,2.73
-100,Jakob Poeltl,Toronto Raptors,C,2.71
+100,Jalen Green,Houston Rockets,SG,2.71

@@ -11,14 +11,14 @@ Rank,Player,Team,Pos,Value
 10,Luka Doncic,Dallas Mavericks,SF,27.69
 11,De'Aaron Fox,Sacramento Kings,PG,26.50
 11,Nikola Vucevic,Chicago Bulls,C,26.50
-13,Alperen Sengun,Houston Rockets,C,25.86
+13,Alperen Sengun,Houston Rockets,C,25.79
 14,Kyrie Irving,Dallas Mavericks,PG,25.77
 15,Damian Lillard,Milwaukee Bucks,PG,25.10
 16,Stephen Curry,Golden State Warriors,PG,24.78
 17,Cade Cunningham,Detroit Pistons,PG,24.67
+18,Jalen Williams,Oklahoma City Thunder,SG,24.57
 18,Jakob Poeltl,Toronto Raptors,C,24.57
-19,LaMelo Ball,Charlotte Hornets,PG,24.54
-20,Jalen Williams,Oklahoma City Thunder,SG,24.50
+20,LaMelo Ball,Charlotte Hornets,PG,24.54
 21,Jalen Johnson,Atlanta Hawks,SF,24.36
 22,Jarrett Allen,Cleveland Cavaliers,C,24.27
 23,James Harden,Los Angeles Clippers,SG,24.07
@@ -50,7 +50,7 @@ Rank,Player,Team,Pos,Value
 49,Michael Porter Jr.,Denver Nuggets,PF,19.50
 50,Tyrese Haliburton,Indiana Pacers,PG,19.38
 51,RJ Barrett,Toronto Raptors,SF,19.18
-52,Jordan Poole,Washington Wizards,SG,19.08
+52,Jordan Poole,Washington Wizards,SG,19.17
 53,Norman Powell,Los Angeles Clippers,SG,19.00
 54,O.G. Anunoby,New York Knicks,SF,18.92
 55,Austin Reaves,Los Angeles Lakers,PG,18.77
@@ -66,11 +66,11 @@ Rank,Player,Team,Pos,Value
 64,Coby White,Chicago Bulls,SG,17.86
 66,Chris Paul,San Antonio Spurs,PG,17.71
 67,Fred VanVleet,Houston Rockets,PG,17.69
-68,Bilal Coulibaly,Washington Wizards,SG,17.58
-69,Jonas Valanciunas,Washington Wizards,C,17.50
+68,Bilal Coulibaly,Washington Wizards,SG,17.50
+68,Jonas Valanciunas,Washington Wizards,C,17.50
 70,Lauri Markkanen,Utah Jazz,PF,17.40
-71,Dyson Daniels,Atlanta Hawks,SG,17.33
-72,Tobias Harris,Detroit Pistons,SF,17.27
+71,Tobias Harris,Detroit Pistons,SF,17.27
+72,Dyson Daniels,Atlanta Hawks,SG,17.25
 73,Miles Bridges,Charlotte Hornets,SF,17.00
 74,Buddy Hield,Golden State Warriors,SG,16.92
 75,Naz Reid,Minnesota Timberwolves,C,16.86
@@ -78,9 +78,9 @@ Rank,Player,Team,Pos,Value
 77,Mikal Bridges,New York Knicks,SG,16.77
 78,Onyeka Okongwu,Atlanta Hawks,PF,16.75
 79,Santi Aldama,Memphis Grizzlies,PF,16.57
+80,Clint Capela,Atlanta Hawks,C,16.50
 80,Keegan Murray,Sacramento Kings,SF,16.50
 80,Jaden Ivey,Detroit Pistons,PG,16.50
-82,Clint Capela,Atlanta Hawks,C,16.43
 83,Nic Claxton,Brooklyn Nets,C,16.27
 84,Josh Giddey,Chicago Bulls,SG,16.14
 85,Jalen Suggs,Orlando Magic,SG,16.07

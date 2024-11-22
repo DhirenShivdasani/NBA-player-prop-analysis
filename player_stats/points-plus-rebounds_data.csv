@@ -30,17 +30,17 @@ Rank,Player,Team,Pos,Value
 29,Jalen Williams,Oklahoma City Thunder,SG,28.38
 30,Stephen Curry,Golden State Warriors,PG,28.18
 31,Jalen Brunson,New York Knicks,PG,28.07
-32,Cam Thomas,Brooklyn Nets,SG,28.00
 32,James Harden,Los Angeles Clippers,SG,28.00
-34,Devin Booker,Phoenix Suns,SG,27.81
+32,Cam Thomas,Brooklyn Nets,SG,28.00
 34,Ivica Zubac,Los Angeles Clippers,C,27.81
+34,Devin Booker,Phoenix Suns,SG,27.81
 36,Zach LaVine,Chicago Bulls,PG,27.23
 37,DeMar DeRozan,Sacramento Kings,SG,27.00
 38,Pascal Siakam,Indiana Pacers,PF,26.87
 39,Evan Mobley,Cleveland Cavaliers,C,26.63
 40,Norman Powell,Los Angeles Clippers,SG,26.33
-41,John Collins,Utah Jazz,PF,25.87
 41,Trae Young,Atlanta Hawks,PG,25.87
+41,John Collins,Utah Jazz,PF,25.87
 43,Bam Adebayo,Miami Heat,C,25.77
 44,Bennedict Mathurin,Indiana Pacers,SG,25.40
 45,Jarrett Allen,Cleveland Cavaliers,C,25.29
@@ -66,8 +66,8 @@ Rank,Player,Team,Pos,Value
 65,Christian Braun,Denver Nuggets,SG,21.46
 66,Gradey Dick,Toronto Raptors,SG,21.13
 67,Austin Reaves,Los Angeles Lakers,PG,20.93
-68,Keegan Murray,Sacramento Kings,SF,20.80
 68,Dennis Schroder,Brooklyn Nets,PG,20.80
+68,Keegan Murray,Sacramento Kings,SF,20.80
 70,Bobby Portis,Milwaukee Bucks,PF,20.64
 71,Andrew Wiggins,Golden State Warriors,SF,20.58
 72,Bilal Coulibaly,Washington Wizards,SG,20.50

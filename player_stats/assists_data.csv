@@ -12,8 +12,8 @@ Rank,Player,Team,Pos,Value
 11,Darius Garland,Cleveland Cavaliers,PG,7.00
 12,Tyus Jones,Phoenix Suns,PG,6.88
 13,LaMelo Ball,Charlotte Hornets,PG,6.73
-14,Stephen Curry,Golden State Warriors,PG,6.58
 14,Ben Simmons,Brooklyn Nets,SG,6.58
+14,Stephen Curry,Golden State Warriors,PG,6.58
 16,Dennis Schroder,Brooklyn Nets,PG,6.50
 17,Josh Giddey,Chicago Bulls,SG,6.47
 18,Devin Booker,Phoenix Suns,SG,6.44
@@ -33,8 +33,8 @@ Rank,Player,Team,Pos,Value
 32,Keyonte George,Utah Jazz,SG,5.50
 33,Brandon Ingram,New Orleans Pelicans,SF,5.44
 34,Franz Wagner,Orlando Magic,SF,5.41
-35,Kyrie Irving,Dallas Mavericks,PG,5.27
 35,Austin Reaves,Los Angeles Lakers,PG,5.27
+35,Kyrie Irving,Dallas Mavericks,PG,5.27
 37,Jalen Johnson,Atlanta Hawks,SF,5.25
 38,Scoot Henderson,Portland Trail Blazers,PG,5.20
 39,Jalen Williams,Oklahoma City Thunder,SG,5.19
@@ -54,11 +54,11 @@ Rank,Player,Team,Pos,Value
 53,Jaden Ivey,Detroit Pistons,PG,4.31
 54,Derrick White,Boston Celtics,PG,4.25
 55,Ayo Dosunmu,Chicago Bulls,PG,4.24
-56,Zach LaVine,Chicago Bulls,PG,4.21
 56,Brandon Boston Jr.,New Orleans Pelicans,PG,4.21
-58,Bam Adebayo,Miami Heat,C,3.92
+56,Zach LaVine,Chicago Bulls,PG,4.21
 58,DeMar DeRozan,Sacramento Kings,SG,3.92
 58,Anfernee Simons,Portland Trail Blazers,SG,3.92
+58,Bam Adebayo,Miami Heat,C,3.92
 61,Donovan Mitchell,Cleveland Cavaliers,SG,3.88
 62,Brandon Miller,Charlotte Hornets,SF,3.82
 63,Jake LaRavia,Memphis Grizzlies,SF,3.81
@@ -86,13 +86,13 @@ Rank,Player,Team,Pos,Value
 85,Collin Sexton,Utah Jazz,PG,2.93
 86,Michael Porter Jr.,Denver Nuggets,PF,2.93
 86,Karl-Anthony Towns,New York Knicks,C,2.93
-88,Payton Pritchard,Boston Celtics,PG,2.88
 88,Cameron Johnson,Brooklyn Nets,PF,2.88
+88,Payton Pritchard,Boston Celtics,PG,2.88
 90,Victor Wembanyama,San Antonio Spurs,PF,2.85
 91,Kevin Porter Jr.,Los Angeles Clippers,SG,2.82
 92,Deni Avdija,Portland Trail Blazers,SF,2.81
-93,Anthony Davis,Los Angeles Lakers,PF,2.79
 93,Kyshawn George,Washington Wizards,SF,2.79
+93,Anthony Davis,Los Angeles Lakers,PF,2.79
 95,Jaime Jaquez Jr.,Miami Heat,SG,2.78
 96,Naji Marshall,Dallas Mavericks,PF,2.75
 97,Jared McCain,Philadelphia 76ers,PG,2.73

@@ -11,12 +11,12 @@ Rank,Player,Team,Pos,Value
 10,Rudy Gobert,Minnesota Timberwolves,C,10.47
 11,Jalen Johnson,Atlanta Hawks,SF,10.38
 12,Victor Wembanyama,San Antonio Spurs,PF,10.29
-13,Jalen Duren,Detroit Pistons,C,10.00
 13,Jusuf Nurkic,Phoenix Suns,C,10.00
+13,Jalen Duren,Detroit Pistons,C,10.00
 15,Nikola Vucevic,Chicago Bulls,C,9.72
 16,Bam Adebayo,Miami Heat,C,9.46
-17,Josh Hart,New York Knicks,SG,8.81
 17,Evan Mobley,Cleveland Cavaliers,C,8.81
+17,Josh Hart,New York Knicks,SG,8.81
 19,Andre Drummond,Philadelphia 76ers,C,8.71
 20,John Collins,Utah Jazz,PF,8.56
 21,P.J. Washington,Dallas Mavericks,PF,8.55
@@ -52,14 +52,14 @@ Rank,Player,Team,Pos,Value
 51,Lauri Markkanen,Utah Jazz,PF,6.54
 52,Onyeka Okongwu,Atlanta Hawks,PF,6.47
 53,RJ Barrett,Toronto Raptors,SF,6.46
-54,Daniel Gafford,Dallas Mavericks,PF,6.44
 54,Pascal Siakam,Indiana Pacers,PF,6.44
+54,Daniel Gafford,Dallas Mavericks,PF,6.44
 56,Tari Eason,Houston Rockets,SF,6.39
 57,Josh Giddey,Chicago Bulls,SG,6.22
-58,Draymond Green,Golden State Warriors,PF,6.06
 58,Royce O'Neale,Phoenix Suns,SF,6.06
-60,Jaime Jaquez Jr.,Miami Heat,SG,6.00
+58,Draymond Green,Golden State Warriors,PF,6.06
 60,Deni Avdija,Portland Trail Blazers,SF,6.00
+60,Jaime Jaquez Jr.,Miami Heat,SG,6.00
 62,Ben Simmons,Brooklyn Nets,SG,5.92
 63,Mason Plumlee,Phoenix Suns,PF,5.87
 64,Bilal Coulibaly,Washington Wizards,SG,5.85
@@ -80,9 +80,9 @@ Rank,Player,Team,Pos,Value
 79,Jonathan Isaac,Orlando Magic,PF,5.13
 79,Neemias Queta,Boston Celtics,C,5.13
 79,Naz Reid,Minnesota Timberwolves,C,5.13
-82,De'Aaron Fox,Sacramento Kings,PG,5.13
 82,Grant Williams,Charlotte Hornets,PF,5.13
 82,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,5.13
+82,De'Aaron Fox,Sacramento Kings,PG,5.13
 85,Jake LaRavia,Memphis Grizzlies,SF,5.12
 85,Toumani Camara,Portland Trail Blazers,PF,5.12
 87,Caleb Martin,Philadelphia 76ers,SF,5.07
@@ -91,9 +91,9 @@ Rank,Player,Team,Pos,Value
 90,Patrick Williams,Chicago Bulls,SF,5.00
 90,Kelly Oubre Jr.,Philadelphia 76ers,SF,5.00
 92,Taurean Prince,Milwaukee Bucks,SF,4.94
+93,Zach LaVine,Chicago Bulls,PG,4.93
 93,Dyson Daniels,Atlanta Hawks,SG,4.93
 93,Anthony Edwards,Minnesota Timberwolves,SG,4.93
-93,Zach LaVine,Chicago Bulls,PG,4.93
 96,Tyler Herro,Miami Heat,SG,4.92
 97,Brandon Miller,Charlotte Hornets,SF,4.92
 98,LaMelo Ball,Charlotte Hornets,PG,4.88

@@ -57,15 +57,15 @@ Rank,Player,Team,Pos,Value
 56,Jaden Ivey,Detroit Pistons,PG,4.18
 57,Jake LaRavia,Memphis Grizzlies,SF,3.94
 58,Zach LaVine,Chicago Bulls,PG,3.93
-59,DeMar DeRozan,Sacramento Kings,SG,3.92
 59,Bam Adebayo,Miami Heat,C,3.92
+59,DeMar DeRozan,Sacramento Kings,SG,3.92
 61,Donovan Mitchell,Cleveland Cavaliers,SG,3.88
 62,Anfernee Simons,Portland Trail Blazers,SG,3.86
 63,Jordan Clarkson,Utah Jazz,PG,3.85
 64,Jrue Holiday,Boston Celtics,PG,3.80
 65,Brandon Miller,Charlotte Hornets,SF,3.75
-66,Anthony Edwards,Minnesota Timberwolves,SG,3.67
 66,Terry Rozier,Miami Heat,PG,3.67
+66,Anthony Edwards,Minnesota Timberwolves,SG,3.67
 68,Ty Jerome,Cleveland Cavaliers,SG,3.65
 69,Pascal Siakam,Indiana Pacers,PF,3.63
 70,Jalen Suggs,Orlando Magic,SG,3.61
@@ -84,9 +84,9 @@ Rank,Player,Team,Pos,Value
 83,Karl-Anthony Towns,New York Knicks,C,3.07
 84,Collin Sexton,Utah Jazz,PG,3.06
 85,Kris Dunn,Los Angeles Clippers,PG,3.06
+86,Michael Porter Jr.,Denver Nuggets,PF,3.00
 86,Miles Bridges,Charlotte Hornets,SF,3.00
 86,Tre Mann,Charlotte Hornets,PG,3.00
-86,Michael Porter Jr.,Denver Nuggets,PF,3.00
 89,Cameron Johnson,Brooklyn Nets,PF,2.88
 89,Payton Pritchard,Boston Celtics,PG,2.88
 91,Kevin Porter Jr.,Los Angeles Clippers,SG,2.82
@@ -96,6 +96,6 @@ Rank,Player,Team,Pos,Value
 95,Deni Avdija,Portland Trail Blazers,SF,2.76
 96,Naji Marshall,Dallas Mavericks,PF,2.75
 97,Jared McCain,Philadelphia 76ers,PG,2.73
-98,Jalen Green,Houston Rockets,SG,2.67
 98,Caleb Martin,Philadelphia 76ers,SF,2.67
+98,Jalen Green,Houston Rockets,SG,2.67
 100,Jakob Poeltl,Toronto Raptors,C,2.63

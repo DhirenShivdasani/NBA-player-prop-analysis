@@ -27,10 +27,10 @@ Rank,Player,Team,Pos,Value
 26,Chris Paul,San Antonio Spurs,PG,12.24
 27,Damian Lillard,Milwaukee Bucks,PG,11.93
 28,Stephen Curry,Golden State Warriors,PG,11.92
-29,Draymond Green,Golden State Warriors,PF,11.88
 29,Tyrese Haliburton,Indiana Pacers,PG,11.88
-31,Jalen Williams,Oklahoma City Thunder,SG,11.81
+29,Draymond Green,Golden State Warriors,PF,11.88
 31,LaMelo Ball,Charlotte Hornets,PG,11.81
+31,Jalen Williams,Oklahoma City Thunder,SG,11.81
 33,Jaylen Brown,Boston Celtics,SG,11.50
 34,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,11.38
 35,Franz Wagner,Orlando Magic,SF,11.33
@@ -43,8 +43,8 @@ Rank,Player,Team,Pos,Value
 42,Santi Aldama,Memphis Grizzlies,PF,10.71
 43,Russell Westbrook,Denver Nuggets,PG,10.60
 44,Fred VanVleet,Houston Rockets,PG,10.41
-45,Jamal Murray,Denver Nuggets,SG,10.33
 45,Nic Claxton,Brooklyn Nets,C,10.33
+45,Jamal Murray,Denver Nuggets,SG,10.33
 47,Jimmy Butler,Miami Heat,PF,10.22
 48,Jalen Brunson,New York Knicks,PG,10.19
 49,Jonas Valanciunas,Washington Wizards,C,10.14
@@ -60,8 +60,8 @@ Rank,Player,Team,Pos,Value
 59,Tyus Jones,Phoenix Suns,PG,9.75
 60,Kyrie Irving,Dallas Mavericks,PG,9.73
 61,Miles Bridges,Charlotte Hornets,SF,9.55
-62,Dennis Schroder,Brooklyn Nets,PG,9.50
 62,Kevon Looney,Golden State Warriors,PF,9.50
+62,Dennis Schroder,Brooklyn Nets,PG,9.50
 64,Darius Garland,Cleveland Cavaliers,PG,9.38
 65,Andre Drummond,Philadelphia 76ers,C,9.21
 66,Jake LaRavia,Memphis Grizzlies,SF,9.06
@@ -95,7 +95,7 @@ Rank,Player,Team,Pos,Value
 94,Scoot Henderson,Portland Trail Blazers,PG,8.13
 94,Dyson Daniels,Atlanta Hawks,SG,8.13
 96,Ayo Dosunmu,Chicago Bulls,PG,8.11
+97,Onyeka Okongwu,Atlanta Hawks,PF,8.00
 97,Jalen Suggs,Orlando Magic,SG,8.00
 97,Alexandre Sarr,Washington Wizards,C,8.00
-97,Onyeka Okongwu,Atlanta Hawks,PF,8.00
 100,Mike Conley,Minnesota Timberwolves,PG,7.92

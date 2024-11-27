@@ -9,8 +9,8 @@ Rank,Player,Team,Pos,Value
 8,Jalen Brunson,New York Knicks,PG,7.94
 9,Damian Lillard,Milwaukee Bucks,PG,7.67
 10,Luka Doncic,Dallas Mavericks,SF,7.64
-11,Darius Garland,Cleveland Cavaliers,PG,6.94
 11,LaMelo Ball,Charlotte Hornets,PG,6.94
+11,Darius Garland,Cleveland Cavaliers,PG,6.94
 13,Tyus Jones,Phoenix Suns,PG,6.82
 14,Devin Booker,Phoenix Suns,SG,6.65
 15,Josh Giddey,Chicago Bulls,SG,6.63
@@ -52,10 +52,10 @@ Rank,Player,Team,Pos,Value
 51,Anthony Black,Orlando Magic,PG,4.37
 52,Jaylen Brown,Boston Celtics,SG,4.36
 53,Ayo Dosunmu,Chicago Bulls,PG,4.21
-54,Brandon Boston Jr.,New Orleans Pelicans,PG,4.13
 54,DeMar DeRozan,Sacramento Kings,SG,4.13
-56,T.J. McConnell,Indiana Pacers,PG,4.12
+54,Brandon Boston Jr.,New Orleans Pelicans,PG,4.13
 56,Julius Randle,Minnesota Timberwolves,PF,4.12
+56,T.J. McConnell,Indiana Pacers,PG,4.12
 58,Bam Adebayo,Miami Heat,C,4.07
 59,Jake LaRavia,Memphis Grizzlies,SF,4.00
 60,Pascal Siakam,Indiana Pacers,PF,3.94
@@ -72,8 +72,8 @@ Rank,Player,Team,Pos,Value
 71,Jalen Suggs,Orlando Magic,SG,3.61
 72,Mikal Bridges,New York Knicks,SG,3.53
 73,Santi Aldama,Memphis Grizzlies,PF,3.39
-74,Terry Rozier,Miami Heat,PG,3.38
 74,Kyle Lowry,Philadelphia 76ers,PG,3.38
+74,Terry Rozier,Miami Heat,PG,3.38
 76,Brandin Podziemski,Golden State Warriors,SG,3.38
 77,Cam Thomas,Brooklyn Nets,SG,3.35
 78,Donte DiVincenzo,Minnesota Timberwolves,SG,3.24
@@ -84,8 +84,8 @@ Rank,Player,Team,Pos,Value
 82,Karl-Anthony Towns,New York Knicks,C,3.13
 84,Jamal Shead,Toronto Raptors,SG,3.11
 85,Tre Mann,Charlotte Hornets,PG,3.00
-86,Payton Pritchard,Boston Celtics,PG,2.94
 86,Deni Avdija,Portland Trail Blazers,SF,2.94
+86,Payton Pritchard,Boston Celtics,PG,2.94
 88,Anthony Davis,Los Angeles Lakers,PF,2.94
 89,Kris Dunn,Los Angeles Clippers,PG,2.89
 89,Kevin Porter Jr.,Los Angeles Clippers,SG,2.89
@@ -96,6 +96,6 @@ Rank,Player,Team,Pos,Value
 93,Kyshawn George,Washington Wizards,SF,2.81
 96,Jalen Green,Houston Rockets,SG,2.63
 97,Nic Claxton,Brooklyn Nets,C,2.62
-98,Evan Mobley,Cleveland Cavaliers,C,2.59
 98,Nickeil Alexander-Walker,Minnesota Timberwolves,SG,2.59
+98,Evan Mobley,Cleveland Cavaliers,C,2.59
 100,Miles McBride,New York Knicks,PG,2.58

@@ -9,8 +9,8 @@ Rank,Player,Team,Pos,Value
 8,Jalen Brunson,New York Knicks,PG,7.94
 9,Damian Lillard,Milwaukee Bucks,PG,7.67
 10,Luka Doncic,Dallas Mavericks,SF,7.64
-11,LaMelo Ball,Charlotte Hornets,PG,6.94
 11,Darius Garland,Cleveland Cavaliers,PG,6.94
+11,LaMelo Ball,Charlotte Hornets,PG,6.94
 13,Tyus Jones,Phoenix Suns,PG,6.82
 14,Devin Booker,Phoenix Suns,SG,6.65
 15,Josh Giddey,Chicago Bulls,SG,6.63
@@ -21,16 +21,16 @@ Rank,Player,Team,Pos,Value
 20,Fred VanVleet,Houston Rockets,PG,6.39
 21,Giannis Antetokounmpo,Milwaukee Bucks,SF,6.38
 22,Domantas Sabonis,Sacramento Kings,PF,6.25
-23,Jamal Murray,Denver Nuggets,SG,6.00
 23,Russell Westbrook,Denver Nuggets,PG,6.00
+23,Jamal Murray,Denver Nuggets,SG,6.00
 25,RJ Barrett,Toronto Raptors,SF,5.93
 26,Draymond Green,Golden State Warriors,PF,5.88
 27,Jayson Tatum,Boston Celtics,SF,5.83
 27,Scotty Pippen Jr.,Memphis Grizzlies,PG,5.83
 29,Josh Hart,New York Knicks,SG,5.82
 30,Keyonte George,Utah Jazz,SG,5.75
-31,De'Aaron Fox,Sacramento Kings,PG,5.67
 31,Davion Mitchell,Toronto Raptors,PG,5.67
+31,De'Aaron Fox,Sacramento Kings,PG,5.67
 33,Franz Wagner,Orlando Magic,SF,5.63
 34,Brandon Ingram,New Orleans Pelicans,SF,5.44
 35,Kyrie Irving,Dallas Mavericks,PG,5.35
@@ -52,8 +52,8 @@ Rank,Player,Team,Pos,Value
 51,Anthony Black,Orlando Magic,PG,4.37
 52,Jaylen Brown,Boston Celtics,SG,4.36
 53,Ayo Dosunmu,Chicago Bulls,PG,4.21
-54,DeMar DeRozan,Sacramento Kings,SG,4.13
 54,Brandon Boston Jr.,New Orleans Pelicans,PG,4.13
+54,DeMar DeRozan,Sacramento Kings,SG,4.13
 56,T.J. McConnell,Indiana Pacers,PG,4.12
 56,Julius Randle,Minnesota Timberwolves,PF,4.12
 58,Bam Adebayo,Miami Heat,C,4.07
@@ -72,8 +72,8 @@ Rank,Player,Team,Pos,Value
 71,Jalen Suggs,Orlando Magic,SG,3.61
 72,Mikal Bridges,New York Knicks,SG,3.53
 73,Santi Aldama,Memphis Grizzlies,PF,3.39
-74,Kyle Lowry,Philadelphia 76ers,PG,3.38
 74,Terry Rozier,Miami Heat,PG,3.38
+74,Kyle Lowry,Philadelphia 76ers,PG,3.38
 76,Brandin Podziemski,Golden State Warriors,SG,3.38
 77,Cam Thomas,Brooklyn Nets,SG,3.35
 78,Donte DiVincenzo,Minnesota Timberwolves,SG,3.24
@@ -96,6 +96,6 @@ Rank,Player,Team,Pos,Value
 93,Kyshawn George,Washington Wizards,SF,2.81
 96,Jalen Green,Houston Rockets,SG,2.63
 97,Nic Claxton,Brooklyn Nets,C,2.62
-98,Nickeil Alexander-Walker,Minnesota Timberwolves,SG,2.59
 98,Evan Mobley,Cleveland Cavaliers,C,2.59
+98,Nickeil Alexander-Walker,Minnesota Timberwolves,SG,2.59
 100,Miles McBride,New York Knicks,PG,2.58

@@ -21,9 +21,9 @@ Rank,Player,Team,Pos,Value
 20,Andre Drummond,Philadelphia 76ers,C,8.50
 21,Clint Capela,Atlanta Hawks,C,8.32
 22,Josh Hart,New York Knicks,SG,8.28
+23,Moussa Diabate,Charlotte Hornets,SF,8.22
 23,Jayson Tatum,Boston Celtics,SF,8.22
 23,LeBron James,Los Angeles Lakers,SF,8.22
-23,Moussa Diabate,Charlotte Hornets,SF,8.22
 26,Keegan Murray,Sacramento Kings,SF,7.95
 27,Kevon Looney,Golden State Warriors,PF,7.75
 28,Nic Claxton,Brooklyn Nets,C,7.69
@@ -46,8 +46,8 @@ Rank,Player,Team,Pos,Value
 45,Donovan Clingan,Portland Trail Blazers,C,6.71
 46,Daniel Gafford,Dallas Mavericks,PF,6.67
 47,Isaiah Stewart,Detroit Pistons,PF,6.65
-48,Jaylen Brown,Boston Celtics,SG,6.64
 48,Lauri Markkanen,Utah Jazz,PF,6.64
+48,Jaylen Brown,Boston Celtics,SG,6.64
 50,Draymond Green,Golden State Warriors,PF,6.50
 51,Pascal Siakam,Indiana Pacers,PF,6.47
 52,Jalen Williams,Oklahoma City Thunder,SG,6.44
@@ -89,11 +89,11 @@ Rank,Player,Team,Pos,Value
 88,Brandon Miller,Charlotte Hornets,SF,5.07
 89,Jalen Smith,Chicago Bulls,PF,5.06
 90,Trayce Jackson-Davis,Golden State Warriors,PF,5.06
-91,Dyson Daniels,Atlanta Hawks,SG,5.00
 91,Kelly Oubre Jr.,Philadelphia 76ers,SF,5.00
 91,Patrick Williams,Chicago Bulls,SF,5.00
-94,Jake LaRavia,Memphis Grizzlies,SF,4.95
+91,Dyson Daniels,Atlanta Hawks,SG,5.00
 94,De'Aaron Fox,Sacramento Kings,PG,4.95
+94,Jake LaRavia,Memphis Grizzlies,SF,4.95
 96,Christian Braun,Denver Nuggets,SG,4.94
 97,Caleb Martin,Philadelphia 76ers,SF,4.94
 98,Luguentz Dort,Oklahoma City Thunder,SG,4.83

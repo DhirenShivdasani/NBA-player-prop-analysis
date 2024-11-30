@@ -21,8 +21,8 @@ Rank,Player,Team,Pos,Value
 20,Rudy Gobert,Minnesota Timberwolves,C,13.00
 21,Jarrett Allen,Cleveland Cavaliers,C,12.79
 22,RJ Barrett,Toronto Raptors,SF,12.56
-23,Jalen Duren,Detroit Pistons,C,12.50
 23,Ben Simmons,Brooklyn Nets,SG,12.50
+23,Jalen Duren,Detroit Pistons,C,12.50
 25,Josh Giddey,Chicago Bulls,SG,12.45
 26,Tyrese Haliburton,Indiana Pacers,PG,12.42
 27,Draymond Green,Golden State Warriors,PF,12.39
@@ -37,8 +37,8 @@ Rank,Player,Team,Pos,Value
 36,Jusuf Nurkic,Phoenix Suns,C,11.25
 37,Brandon Ingram,New Orleans Pelicans,SF,11.19
 38,Franz Wagner,Orlando Magic,SF,11.05
-39,Jaylen Brown,Boston Celtics,SG,11.00
 39,P.J. Washington,Dallas Mavericks,PF,11.00
+39,Jaylen Brown,Boston Celtics,SG,11.00
 41,Santi Aldama,Memphis Grizzlies,PF,10.95
 42,Julius Randle,Minnesota Timberwolves,PF,10.83
 43,Fred VanVleet,Houston Rockets,PG,10.74
@@ -79,23 +79,23 @@ Rank,Player,Team,Pos,Value
 78,Yves Missi,New Orleans Pelicans,C,8.67
 79,Isaiah Stewart,Detroit Pistons,PF,8.65
 80,Jaden Ivey,Detroit Pistons,PG,8.63
-81,Carlton Carrington,Washington Wizards,PG,8.47
 81,Alexandre Sarr,Washington Wizards,C,8.47
+81,Carlton Carrington,Washington Wizards,PG,8.47
 83,Goga Bitadze,Orlando Magic,C,8.44
 84,Keyonte George,Utah Jazz,SG,8.41
 85,Austin Reaves,Los Angeles Lakers,PG,8.39
-86,Bilal Coulibaly,Washington Wizards,SG,8.31
 86,Scoot Henderson,Portland Trail Blazers,PG,8.31
-88,Donovan Mitchell,Cleveland Cavaliers,SG,8.28
+86,Bilal Coulibaly,Washington Wizards,SG,8.31
 88,Royce O'Neale,Phoenix Suns,SF,8.28
+88,Donovan Mitchell,Cleveland Cavaliers,SG,8.28
 90,DeMar DeRozan,Sacramento Kings,SG,8.27
 91,Coby White,Chicago Bulls,SG,8.15
 92,Brandon Boston Jr.,New Orleans Pelicans,PG,8.13
 93,Jalen Suggs,Orlando Magic,SG,8.11
 94,Onyeka Okongwu,Atlanta Hawks,PF,8.06
+95,Jaime Jaquez Jr.,Miami Heat,SG,8.00
 95,Brandin Podziemski,Golden State Warriors,SG,8.00
 95,Dyson Daniels,Atlanta Hawks,SG,8.00
-95,Jaime Jaquez Jr.,Miami Heat,SG,8.00
 98,Davion Mitchell,Toronto Raptors,PG,7.95
 99,Jrue Holiday,Boston Celtics,PG,7.94
 100,Ayo Dosunmu,Chicago Bulls,PG,7.90

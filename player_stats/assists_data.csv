@@ -31,10 +31,10 @@ Rank,Player,Team,Pos,Value
 30,Jayson Tatum,Boston Celtics,SF,5.62
 31,Kyrie Irving,Dallas Mavericks,PG,5.58
 32,Josh Hart,New York Knicks,SG,5.50
-33,Scotty Pippen Jr.,Memphis Grizzlies,PG,5.48
 33,Jalen Johnson,Atlanta Hawks,SF,5.48
-35,Brandon Ingram,New Orleans Pelicans,SF,5.44
+33,Scotty Pippen Jr.,Memphis Grizzlies,PG,5.48
 35,Scoot Henderson,Portland Trail Blazers,PG,5.44
+35,Brandon Ingram,New Orleans Pelicans,SF,5.44
 37,Davion Mitchell,Toronto Raptors,PG,5.33
 38,Alperen Sengun,Houston Rockets,C,5.29
 39,Jalen Williams,Oklahoma City Thunder,SG,5.20
@@ -49,8 +49,8 @@ Rank,Player,Team,Pos,Value
 48,Coby White,Chicago Bulls,SG,4.52
 49,Carlton Carrington,Washington Wizards,PG,4.39
 50,DeMar DeRozan,Sacramento Kings,SG,4.38
-51,Jaden Ivey,Detroit Pistons,PG,4.33
 51,Anfernee Simons,Portland Trail Blazers,SG,4.33
+51,Jaden Ivey,Detroit Pistons,PG,4.33
 53,Jaylen Brown,Boston Celtics,SG,4.31
 54,Ayo Dosunmu,Chicago Bulls,PG,4.23
 55,Zach LaVine,Chicago Bulls,PG,4.11
@@ -58,13 +58,13 @@ Rank,Player,Team,Pos,Value
 57,Julius Randle,Minnesota Timberwolves,PF,4.05
 58,T.J. McConnell,Indiana Pacers,PG,4.00
 58,Anthony Black,Orlando Magic,PG,4.00
-60,Jalen Suggs,Orlando Magic,SG,3.95
 60,Pascal Siakam,Indiana Pacers,PF,3.95
+60,Jalen Suggs,Orlando Magic,SG,3.95
 62,Donovan Mitchell,Cleveland Cavaliers,SG,3.95
 63,Jrue Holiday,Boston Celtics,PG,3.95
 64,Jake LaRavia,Memphis Grizzlies,SF,3.90
-65,Stephon Castle,San Antonio Spurs,PG,3.70
 65,Anthony Edwards,Minnesota Timberwolves,SG,3.70
+65,Stephon Castle,San Antonio Spurs,PG,3.70
 67,Brandon Miller,Charlotte Hornets,SF,3.69
 68,Brandon Boston Jr.,New Orleans Pelicans,PG,3.68
 69,Ty Jerome,Cleveland Cavaliers,SG,3.62
@@ -83,9 +83,9 @@ Rank,Player,Team,Pos,Value
 82,Deni Avdija,Portland Trail Blazers,SF,3.19
 83,Spencer Dinwiddie,Dallas Mavericks,PG,3.16
 84,Mikal Bridges,New York Knicks,SG,3.15
-85,Cameron Johnson,Brooklyn Nets,PF,3.00
 85,Jamal Shead,Toronto Raptors,SG,3.00
 85,Dyson Daniels,Atlanta Hawks,SG,3.00
+85,Cameron Johnson,Brooklyn Nets,PF,3.00
 88,Payton Pritchard,Boston Celtics,PG,2.90
 89,Bilal Coulibaly,Washington Wizards,SG,2.82
 90,Kevin Porter Jr.,Los Angeles Clippers,SG,2.81
@@ -96,6 +96,6 @@ Rank,Player,Team,Pos,Value
 95,Jalen Green,Houston Rockets,SG,2.62
 96,Nickeil Alexander-Walker,Minnesota Timberwolves,SG,2.60
 97,Jared McCain,Philadelphia 76ers,PG,2.56
-98,Dalano Banton,Portland Trail Blazers,SF,2.53
 98,John Collins,Utah Jazz,PF,2.53
-100,Jalen Duren,Detroit Pistons,C,2.50
+98,Dalano Banton,Portland Trail Blazers,SF,2.53
+100,Caleb Martin,Philadelphia 76ers,SF,2.50

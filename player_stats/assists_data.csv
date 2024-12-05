@@ -1,24 +1,24 @@
 Rank,Player,Team,Pos,Value
-1,Trae Young,Atlanta Hawks,PG,12.19
+1,Trae Young,Atlanta Hawks,PG,11.95
 2,Nikola Jokic,Denver Nuggets,C,10.38
-3,LeBron James,Los Angeles Lakers,SF,9.10
-4,Cade Cunningham,Detroit Pistons,PG,8.84
-5,James Harden,Los Angeles Clippers,SG,8.78
-6,Tyrese Haliburton,Indiana Pacers,PG,8.45
+3,Cade Cunningham,Detroit Pistons,PG,9.10
+4,LeBron James,Los Angeles Lakers,SF,9.05
+5,James Harden,Los Angeles Clippers,SG,8.54
+6,Tyrese Haliburton,Indiana Pacers,PG,8.43
 7,Chris Paul,San Antonio Spurs,PG,8.14
 8,Luka Doncic,Dallas Mavericks,SF,7.75
 9,Jalen Brunson,New York Knicks,PG,7.67
-10,Damian Lillard,Milwaukee Bucks,PG,7.65
+10,Damian Lillard,Milwaukee Bucks,PG,7.50
 11,Tyus Jones,Phoenix Suns,PG,7.05
 12,LaMelo Ball,Charlotte Hornets,PG,6.94
 13,Josh Giddey,Chicago Bulls,SG,6.86
-14,Giannis Antetokounmpo,Milwaukee Bucks,SF,6.72
-15,Darius Garland,Cleveland Cavaliers,PG,6.71
-16,Stephen Curry,Golden State Warriors,PG,6.63
-17,Ben Simmons,Brooklyn Nets,SG,6.56
-18,Dennis Schroder,Brooklyn Nets,PG,6.55
+14,Darius Garland,Cleveland Cavaliers,PG,6.71
+15,Ben Simmons,Brooklyn Nets,SG,6.71
+16,Giannis Antetokounmpo,Milwaukee Bucks,SF,6.63
+17,Stephen Curry,Golden State Warriors,PG,6.63
 18,Devin Booker,Phoenix Suns,SG,6.55
-20,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,6.52
+19,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,6.52
+20,Dennis Schroder,Brooklyn Nets,PG,6.33
 21,Domantas Sabonis,Sacramento Kings,PF,6.30
 22,Jamal Murray,Denver Nuggets,SG,6.25
 23,RJ Barrett,Toronto Raptors,SF,6.16
@@ -26,76 +26,76 @@ Rank,Player,Team,Pos,Value
 25,De'Aaron Fox,Sacramento Kings,PG,5.95
 26,Draymond Green,Golden State Warriors,PF,5.95
 27,Fred VanVleet,Houston Rockets,PG,5.90
-28,Franz Wagner,Orlando Magic,SF,5.87
-29,Josh Hart,New York Knicks,SG,5.71
+28,Josh Hart,New York Knicks,SG,5.71
+29,Franz Wagner,Orlando Magic,SF,5.71
 30,Keyonte George,Utah Jazz,SG,5.65
 31,Jayson Tatum,Boston Celtics,SF,5.62
-32,Jalen Johnson,Atlanta Hawks,SF,5.48
-33,Brandon Ingram,New Orleans Pelicans,SF,5.44
+32,Jalen Johnson,Atlanta Hawks,SF,5.45
 33,Scoot Henderson,Portland Trail Blazers,PG,5.44
+33,Brandon Ingram,New Orleans Pelicans,SF,5.44
 35,Scotty Pippen Jr.,Memphis Grizzlies,PG,5.41
 36,Kyrie Irving,Dallas Mavericks,PG,5.40
 37,Alperen Sengun,Houston Rockets,C,5.32
 38,Davion Mitchell,Toronto Raptors,PG,5.23
 39,Jalen Williams,Oklahoma City Thunder,SG,5.19
-40,Bam Adebayo,Miami Heat,C,4.89
-40,Tyler Herro,Miami Heat,SG,4.89
-42,D'Angelo Russell,Los Angeles Lakers,PG,4.85
+40,Bam Adebayo,Miami Heat,C,5.00
+41,Derrick White,Boston Celtics,PG,4.90
+42,Tyler Herro,Miami Heat,SG,4.85
 43,Austin Reaves,Los Angeles Lakers,PG,4.84
 44,Jordan Poole,Washington Wizards,SG,4.82
-45,Jimmy Butler,Miami Heat,PF,4.79
-46,Tyrese Maxey,Philadelphia 76ers,PG,4.69
-47,Mike Conley,Minnesota Timberwolves,PG,4.69
-48,Derrick White,Boston Celtics,PG,4.60
-49,Coby White,Chicago Bulls,SG,4.52
-50,Malik Monk,Sacramento Kings,SG,4.47
-51,Anfernee Simons,Portland Trail Blazers,SG,4.42
-52,DeMar DeRozan,Sacramento Kings,SG,4.41
-53,Jaden Ivey,Detroit Pistons,PG,4.36
-54,Jaylen Brown,Boston Celtics,SG,4.31
-55,Carlton Carrington,Washington Wizards,PG,4.26
+45,D'Angelo Russell,Los Angeles Lakers,PG,4.81
+46,Jimmy Butler,Miami Heat,PF,4.80
+47,Tyrese Maxey,Philadelphia 76ers,PG,4.79
+48,Jaylen Brown,Boston Celtics,SG,4.59
+49,Mike Conley,Minnesota Timberwolves,PG,4.53
+50,Coby White,Chicago Bulls,SG,4.52
+51,Malik Monk,Sacramento Kings,SG,4.47
+52,Anfernee Simons,Portland Trail Blazers,SG,4.42
+53,DeMar DeRozan,Sacramento Kings,SG,4.41
+54,Carlton Carrington,Washington Wizards,PG,4.26
+55,Jaden Ivey,Detroit Pistons,PG,4.26
 56,Ayo Dosunmu,Chicago Bulls,PG,4.23
 57,Zach LaVine,Chicago Bulls,PG,4.11
 58,Donovan Mitchell,Cleveland Cavaliers,SG,4.10
-59,Julius Randle,Minnesota Timberwolves,PF,4.05
-60,T.J. McConnell,Indiana Pacers,PG,4.00
-60,Caris LeVert,Cleveland Cavaliers,SG,4.00
-62,Anthony Black,Orlando Magic,PG,3.96
+59,Anthony Black,Orlando Magic,PG,4.08
+60,Julius Randle,Minnesota Timberwolves,PF,4.05
+61,Jalen Suggs,Orlando Magic,SG,4.00
+61,Caris LeVert,Cleveland Cavaliers,SG,4.00
 63,Jrue Holiday,Boston Celtics,PG,3.95
-64,Jalen Suggs,Orlando Magic,SG,3.91
+64,T.J. McConnell,Indiana Pacers,PG,3.91
 65,Desmond Bane,Memphis Grizzlies,SG,3.87
-66,Pascal Siakam,Indiana Pacers,PF,3.82
-67,Victor Wembanyama,San Antonio Spurs,PF,3.78
-68,Jake LaRavia,Memphis Grizzlies,SF,3.77
-69,Anthony Edwards,Minnesota Timberwolves,SG,3.70
-70,Brandon Boston Jr.,New Orleans Pelicans,PG,3.68
-71,Stephon Castle,San Antonio Spurs,PG,3.67
+66,Victor Wembanyama,San Antonio Spurs,PF,3.78
+67,Jake LaRavia,Memphis Grizzlies,SF,3.77
+68,Anthony Edwards,Minnesota Timberwolves,SG,3.71
+69,Brandon Boston Jr.,New Orleans Pelicans,PG,3.68
+70,Stephon Castle,San Antonio Spurs,PG,3.67
+71,Pascal Siakam,Indiana Pacers,PF,3.65
 72,Ty Jerome,Cleveland Cavaliers,SG,3.62
-73,Donte DiVincenzo,Minnesota Timberwolves,SG,3.60
-74,Brandon Miller,Charlotte Hornets,SF,3.53
-75,Brandin Podziemski,Golden State Warriors,SG,3.53
+73,Brandon Miller,Charlotte Hornets,SF,3.53
+74,Brandin Podziemski,Golden State Warriors,SG,3.53
+75,Donte DiVincenzo,Minnesota Timberwolves,SG,3.52
 76,Santi Aldama,Memphis Grizzlies,PF,3.41
-77,Cam Thomas,Brooklyn Nets,SG,3.35
-77,Cameron Payne,New York Knicks,PG,3.35
-79,Anthony Davis,Los Angeles Lakers,PF,3.30
+77,Anthony Davis,Los Angeles Lakers,PF,3.38
+78,Cameron Payne,New York Knicks,PG,3.35
+78,Cam Thomas,Brooklyn Nets,SG,3.35
 80,Mikal Bridges,New York Knicks,SG,3.24
 80,Collin Sexton,Utah Jazz,PG,3.24
-82,Terry Rozier,Miami Heat,PG,3.24
-83,Nikola Vucevic,Chicago Bulls,C,3.23
-84,Spencer Dinwiddie,Dallas Mavericks,PG,3.20
-85,Deni Avdija,Portland Trail Blazers,SF,3.18
+82,Nikola Vucevic,Chicago Bulls,C,3.23
+83,Spencer Dinwiddie,Dallas Mavericks,PG,3.20
+84,Deni Avdija,Portland Trail Blazers,SF,3.18
+85,Terry Rozier,Miami Heat,PG,3.17
 86,Kyle Lowry,Philadelphia 76ers,PG,3.14
-87,Isaiah Collier,Utah Jazz,PG,3.07
-88,Karl-Anthony Towns,New York Knicks,C,3.05
-89,Dyson Daniels,Atlanta Hawks,SG,3.00
-89,Cameron Johnson,Brooklyn Nets,PF,3.00
-91,Payton Pritchard,Boston Celtics,PG,2.90
+86,Dyson Daniels,Atlanta Hawks,SG,3.14
+88,Isaiah Collier,Utah Jazz,PG,3.07
+89,Karl-Anthony Towns,New York Knicks,C,3.05
+90,Payton Pritchard,Boston Celtics,PG,2.95
+91,Cameron Johnson,Brooklyn Nets,PF,2.91
 92,Bilal Coulibaly,Washington Wizards,SG,2.89
 93,Jamal Shead,Toronto Raptors,SG,2.86
 94,Kevin Porter Jr.,Los Angeles Clippers,SG,2.81
 95,Evan Mobley,Cleveland Cavaliers,C,2.76
-96,Kris Dunn,Los Angeles Clippers,PG,2.74
-97,Michael Porter Jr.,Denver Nuggets,PF,2.74
-98,Jalen Green,Houston Rockets,SG,2.64
-99,Kyshawn George,Washington Wizards,SF,2.63
-100,Nickeil Alexander-Walker,Minnesota Timberwolves,SG,2.60
+96,Michael Porter Jr.,Denver Nuggets,PF,2.74
+97,Jalen Green,Houston Rockets,SG,2.64
+98,Kyshawn George,Washington Wizards,SF,2.63
+99,Kris Dunn,Los Angeles Clippers,PG,2.63
+100,Nickeil Alexander-Walker,Minnesota Timberwolves,SG,2.62

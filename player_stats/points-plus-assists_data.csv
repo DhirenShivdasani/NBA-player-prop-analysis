@@ -1,12 +1,12 @@
 Rank,Player,Team,Pos,Value
 1,Nikola Jokic,Denver Nuggets,C,42.42
-2,Giannis Antetokounmpo,Milwaukee Bucks,SF,38.76
+2,Giannis Antetokounmpo,Milwaukee Bucks,SF,38.73
 3,LaMelo Ball,Charlotte Hornets,PG,38.00
-4,Luka Doncic,Dallas Mavericks,SF,36.78
-5,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,36.17
+4,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,36.50
+5,Luka Doncic,Dallas Mavericks,SF,35.95
 6,Jayson Tatum,Boston Celtics,SF,33.91
-7,Cade Cunningham,Detroit Pistons,PG,33.29
-8,Damian Lillard,Milwaukee Bucks,PG,33.15
+7,Damian Lillard,Milwaukee Bucks,PG,33.33
+8,Cade Cunningham,Detroit Pistons,PG,33.29
 9,Trae Young,Atlanta Hawks,PG,33.13
 10,Jalen Brunson,New York Knicks,PG,32.96
 11,De'Aaron Fox,Sacramento Kings,PG,32.44
@@ -18,18 +18,18 @@ Rank,Player,Team,Pos,Value
 17,Franz Wagner,Orlando Magic,SF,30.08
 18,Jaylen Brown,Boston Celtics,SG,29.58
 19,Stephen Curry,Golden State Warriors,PG,29.56
-20,Kyrie Irving,Dallas Mavericks,PG,29.55
-21,Tyrese Maxey,Philadelphia 76ers,PG,29.50
-22,RJ Barrett,Toronto Raptors,SF,29.45
-23,Tyler Herro,Miami Heat,SG,29.27
+20,Tyrese Maxey,Philadelphia 76ers,PG,29.50
+21,RJ Barrett,Toronto Raptors,SF,29.45
+22,Tyler Herro,Miami Heat,SG,29.27
+23,Kyrie Irving,Dallas Mavericks,PG,29.22
 24,Karl-Anthony Towns,New York Knicks,C,28.27
 25,Donovan Mitchell,Cleveland Cavaliers,SG,28.08
 26,Cam Thomas,Brooklyn Nets,SG,28.06
 27,Brandon Ingram,New Orleans Pelicans,SF,27.39
 28,Victor Wembanyama,San Antonio Spurs,PF,27.21
-29,Jalen Williams,Oklahoma City Thunder,SG,27.00
-30,Darius Garland,Cleveland Cavaliers,PG,26.96
-31,Domantas Sabonis,Sacramento Kings,PF,26.96
+29,Darius Garland,Cleveland Cavaliers,PG,26.96
+30,Domantas Sabonis,Sacramento Kings,PF,26.96
+31,Jalen Williams,Oklahoma City Thunder,SG,26.79
 32,DeMar DeRozan,Sacramento Kings,SG,26.60
 33,Zach LaVine,Chicago Bulls,PG,26.36
 34,Norman Powell,Los Angeles Clippers,SG,26.06
@@ -60,9 +60,9 @@ Rank,Player,Team,Pos,Value
 59,Anfernee Simons,Portland Trail Blazers,SG,20.90
 60,Malik Monk,Sacramento Kings,SG,20.78
 61,John Collins,Utah Jazz,PF,20.45
-62,Mikal Bridges,New York Knicks,SG,20.29
-63,Collin Sexton,Utah Jazz,PG,20.04
-64,Jalen Suggs,Orlando Magic,SG,19.84
+62,Jalen Suggs,Orlando Magic,SG,20.35
+63,Mikal Bridges,New York Knicks,SG,20.29
+64,Collin Sexton,Utah Jazz,PG,20.04
 65,Gradey Dick,Toronto Raptors,SG,19.80
 66,Shaedon Sharpe,Portland Trail Blazers,SG,19.75
 67,O.G. Anunoby,New York Knicks,SF,19.58

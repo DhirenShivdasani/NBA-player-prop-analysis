@@ -1,20 +1,20 @@
 Rank,Player,Team,Pos,Value
-1,Mikal Bridges,New York Knicks,SG,38.35
+1,Mikal Bridges,New York Knicks,SG,38.32
 2,Nikola Jokic,Denver Nuggets,C,37.59
 3,De'Aaron Fox,Sacramento Kings,PG,37.22
-4,Josh Hart,New York Knicks,SG,37.05
-5,Devin Booker,Phoenix Suns,SG,36.98
+4,Devin Booker,Phoenix Suns,SG,36.98
+5,Josh Hart,New York Knicks,SG,36.95
 6,Luka Doncic,Dallas Mavericks,SF,36.88
-7,O.G. Anunoby,New York Knicks,SF,36.72
+7,O.G. Anunoby,New York Knicks,SF,36.81
 8,Tyrese Maxey,Philadelphia 76ers,PG,36.68
-9,Jayson Tatum,Boston Celtics,SF,36.46
-10,Keegan Murray,Sacramento Kings,SF,36.41
-11,Anthony Edwards,Minnesota Timberwolves,SG,36.37
-12,Jalen Johnson,Atlanta Hawks,SF,36.34
+9,Jalen Johnson,Atlanta Hawks,SF,36.54
+10,Jayson Tatum,Boston Celtics,SF,36.46
+11,Keegan Murray,Sacramento Kings,SF,36.41
+12,Anthony Edwards,Minnesota Timberwolves,SG,36.37
 13,Damian Lillard,Milwaukee Bucks,PG,36.32
 14,Jaylen Brown,Boston Celtics,SG,36.12
 15,Jamal Murray,Denver Nuggets,SG,36.04
-16,Trae Young,Atlanta Hawks,PG,35.96
+16,Trae Young,Atlanta Hawks,PG,35.98
 17,Cade Cunningham,Detroit Pistons,PG,35.88
 18,Domantas Sabonis,Sacramento Kings,PF,35.84
 19,Michael Porter Jr.,Denver Nuggets,PF,35.66
@@ -25,7 +25,7 @@ Rank,Player,Team,Pos,Value
 24,Christian Braun,Denver Nuggets,SG,35.17
 25,Giannis Antetokounmpo,Milwaukee Bucks,SF,35.09
 26,LeBron James,Los Angeles Lakers,SF,35.05
-27,Fred VanVleet,Houston Rockets,PG,34.94
+27,Fred VanVleet,Houston Rockets,PG,34.99
 28,Bam Adebayo,Miami Heat,C,34.77
 29,Tyler Herro,Miami Heat,SG,34.75
 30,Derrick White,Boston Celtics,PG,34.62
@@ -33,15 +33,15 @@ Rank,Player,Team,Pos,Value
 32,Pascal Siakam,Indiana Pacers,PF,34.42
 33,Brandon Miller,Charlotte Hornets,SF,34.38
 34,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,34.31
-35,Rudy Gobert,Minnesota Timberwolves,C,34.28
-36,Jalen Brunson,New York Knicks,PG,34.24
+35,Jalen Brunson,New York Knicks,PG,34.29
+36,Rudy Gobert,Minnesota Timberwolves,C,34.28
 37,RJ Barrett,Toronto Raptors,SF,34.23
 38,LaMelo Ball,Charlotte Hornets,PG,34.10
-39,James Harden,Los Angeles Clippers,SG,33.90
-40,Dennis Schroder,Brooklyn Nets,PG,33.90
-41,Karl-Anthony Towns,New York Knicks,C,33.84
-42,Austin Reaves,Los Angeles Lakers,PG,33.74
-43,Dyson Daniels,Atlanta Hawks,SG,33.71
+39,Karl-Anthony Towns,New York Knicks,C,33.96
+40,James Harden,Los Angeles Clippers,SG,33.90
+41,Dennis Schroder,Brooklyn Nets,PG,33.90
+42,Dyson Daniels,Atlanta Hawks,SG,33.81
+43,Austin Reaves,Los Angeles Lakers,PG,33.74
 44,Cam Thomas,Brooklyn Nets,SG,33.40
 45,Zach LaVine,Chicago Bulls,PG,33.33
 46,Julius Randle,Minnesota Timberwolves,PF,33.18
@@ -59,7 +59,7 @@ Rank,Player,Team,Pos,Value
 58,Gradey Dick,Toronto Raptors,SG,32.46
 59,Rui Hachimura,Los Angeles Lakers,PF,32.45
 60,Ivica Zubac,Los Angeles Clippers,C,32.43
-61,Jalen Green,Houston Rockets,SG,32.38
+61,Jalen Green,Houston Rockets,SG,32.33
 62,Tyus Jones,Phoenix Suns,PG,32.24
 63,Jimmy Butler,Miami Heat,PF,32.09
 64,Myles Turner,Indiana Pacers,C,31.92
@@ -71,12 +71,12 @@ Rank,Player,Team,Pos,Value
 70,Keyonte George,Utah Jazz,SG,31.55
 71,Kelly Oubre Jr.,Philadelphia 76ers,SF,31.42
 72,Jrue Holiday,Boston Celtics,PG,31.24
-73,Alperen Sengun,Houston Rockets,C,30.95
-74,Ochai Agbaji,Toronto Raptors,SG,30.83
-75,Dillon Brooks,Houston Rockets,SG,30.79
-76,Evan Mobley,Cleveland Cavaliers,C,30.65
-77,Shaedon Sharpe,Portland Trail Blazers,SG,30.55
-78,Stephen Curry,Golden State Warriors,PG,30.52
+73,Dillon Brooks,Houston Rockets,SG,31.08
+74,Alperen Sengun,Houston Rockets,C,30.97
+75,Ochai Agbaji,Toronto Raptors,SG,30.83
+76,Stephen Curry,Golden State Warriors,PG,30.69
+77,Evan Mobley,Cleveland Cavaliers,C,30.65
+78,Shaedon Sharpe,Portland Trail Blazers,SG,30.55
 79,Jaden Ivey,Detroit Pistons,PG,30.49
 80,Jalen Suggs,Orlando Magic,SG,30.35
 81,Darius Garland,Cleveland Cavaliers,PG,30.34
@@ -84,11 +84,11 @@ Rank,Player,Team,Pos,Value
 83,Anfernee Simons,Portland Trail Blazers,SG,30.27
 84,Kentavious Caldwell-Pope,Orlando Magic,SG,30.25
 85,Deandre Ayton,Portland Trail Blazers,C,30.20
-86,Jaden McDaniels,Minnesota Timberwolves,SF,30.04
-87,Toumani Camara,Portland Trail Blazers,PF,29.99
-88,Grant Williams,Charlotte Hornets,PF,29.94
-89,Ayo Dosunmu,Chicago Bulls,PG,29.91
-90,Jabari Smith Jr.,Houston Rockets,PF,29.79
+86,Jabari Smith Jr.,Houston Rockets,PF,30.11
+87,Jaden McDaniels,Minnesota Timberwolves,SF,30.04
+88,Toumani Camara,Portland Trail Blazers,PF,29.99
+89,Grant Williams,Charlotte Hornets,PF,29.94
+90,Ayo Dosunmu,Chicago Bulls,PG,29.91
 91,Jarrett Allen,Cleveland Cavaliers,C,29.79
 92,Julian Champagnie,San Antonio Spurs,PF,29.61
 93,Luguentz Dort,Oklahoma City Thunder,SG,29.37

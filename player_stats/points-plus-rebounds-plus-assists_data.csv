@@ -25,8 +25,8 @@ Rank,Player,Team,Pos,Value
 24,Tyler Herro,Miami Heat,SG,34.48
 25,Alperen Sengun,Houston Rockets,C,34.42
 26,Stephen Curry,Golden State Warriors,PG,34.42
-27,Nikola Vucevic,Chicago Bulls,C,34.00
 27,Kyrie Irving,Dallas Mavericks,PG,34.00
+27,Nikola Vucevic,Chicago Bulls,C,34.00
 29,Brandon Ingram,New Orleans Pelicans,SF,32.94
 30,Jalen Williams,Oklahoma City Thunder,SG,32.80
 30,Donovan Mitchell,Cleveland Cavaliers,SG,32.80
@@ -48,9 +48,9 @@ Rank,Player,Team,Pos,Value
 47,Michael Porter Jr.,Denver Nuggets,PF,28.78
 48,Norman Powell,Los Angeles Clippers,SG,28.74
 49,Jimmy Butler,Miami Heat,PF,28.61
+50,Jamal Murray,Denver Nuggets,SG,28.00
 50,Josh Hart,New York Knicks,SG,28.00
 50,Dennis Schroder,Brooklyn Nets,PG,28.00
-50,Jamal Murray,Denver Nuggets,SG,28.00
 53,Jordan Poole,Washington Wizards,SG,27.62
 54,Lauri Markkanen,Utah Jazz,PF,27.21
 55,Derrick White,Boston Celtics,PG,27.13
@@ -84,8 +84,8 @@ Rank,Player,Team,Pos,Value
 83,Jonas Valanciunas,Washington Wizards,C,22.52
 84,Bobby Portis,Milwaukee Bucks,PF,22.42
 85,Chris Paul,San Antonio Spurs,PG,22.28
-86,Collin Sexton,Utah Jazz,PG,22.08
 86,Tyus Jones,Phoenix Suns,PG,22.08
+86,Collin Sexton,Utah Jazz,PG,22.08
 88,Dyson Daniels,Atlanta Hawks,SG,21.88
 89,Jerami Grant,Portland Trail Blazers,SF,21.87
 90,Christian Braun,Denver Nuggets,SG,21.83

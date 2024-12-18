@@ -1,21 +1,21 @@
 Rank,Player,Team,Pos,Value
 1,Nikola Jokic,Denver Nuggets,C,40.81
-2,Giannis Antetokounmpo,Milwaukee Bucks,SF,38.83
+2,Giannis Antetokounmpo,Milwaukee Bucks,SF,38.71
 3,LaMelo Ball,Charlotte Hornets,PG,37.37
 4,Luka Doncic,Dallas Mavericks,SF,37.05
-5,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,36.56
+5,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,36.04
 6,Jayson Tatum,Boston Celtics,SF,33.75
 7,Trae Young,Atlanta Hawks,PG,33.58
-8,Damian Lillard,Milwaukee Bucks,PG,33.27
-9,Cade Cunningham,Detroit Pistons,PG,33.17
+8,Cade Cunningham,Detroit Pistons,PG,33.17
+9,Damian Lillard,Milwaukee Bucks,PG,33.00
 10,Jalen Brunson,New York Knicks,PG,32.65
 11,De'Aaron Fox,Sacramento Kings,PG,32.33
 12,LeBron James,Los Angeles Lakers,SF,31.88
 13,Devin Booker,Phoenix Suns,SG,31.80
 14,Anthony Davis,Los Angeles Lakers,PF,31.12
 15,James Harden,Los Angeles Clippers,SG,30.46
-16,Franz Wagner,Orlando Magic,SF,30.08
 16,Anthony Edwards,Minnesota Timberwolves,SG,30.08
+16,Franz Wagner,Orlando Magic,SF,30.08
 18,Tyrese Maxey,Philadelphia 76ers,PG,30.06
 19,RJ Barrett,Toronto Raptors,SF,29.67
 20,Stephen Curry,Golden State Warriors,PG,29.60
@@ -27,9 +27,9 @@ Rank,Player,Team,Pos,Value
 26,Domantas Sabonis,Sacramento Kings,PF,27.56
 27,Victor Wembanyama,San Antonio Spurs,PF,27.48
 28,Darius Garland,Cleveland Cavaliers,PG,26.77
-29,Jalen Williams,Oklahoma City Thunder,SG,26.72
-30,Tyrese Haliburton,Indiana Pacers,PG,26.70
-31,DeMar DeRozan,Sacramento Kings,SG,26.55
+29,Tyrese Haliburton,Indiana Pacers,PG,26.70
+30,DeMar DeRozan,Sacramento Kings,SG,26.55
+31,Jalen Williams,Oklahoma City Thunder,SG,26.50
 32,Norman Powell,Los Angeles Clippers,SG,25.95
 33,Zach LaVine,Chicago Bulls,PG,25.91
 34,Jordan Poole,Washington Wizards,SG,25.41
@@ -52,8 +52,8 @@ Rank,Player,Team,Pos,Value
 51,Keyonte George,Utah Jazz,SG,21.50
 52,Jaden Ivey,Detroit Pistons,PG,21.44
 53,Michael Porter Jr.,Denver Nuggets,PF,21.38
-54,Bam Adebayo,Miami Heat,C,21.25
 54,Fred VanVleet,Houston Rockets,PG,21.25
+54,Bam Adebayo,Miami Heat,C,21.25
 56,Malik Monk,Sacramento Kings,SG,21.15
 57,Evan Mobley,Cleveland Cavaliers,C,21.00
 58,Lauri Markkanen,Utah Jazz,PF,20.80

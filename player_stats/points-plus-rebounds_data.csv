@@ -1,12 +1,12 @@
 Rank,Player,Team,Pos,Value
-1,Nikola Jokic,Denver Nuggets,C,44.19
-2,Giannis Antetokounmpo,Milwaukee Bucks,SF,44.17
+1,Giannis Antetokounmpo,Milwaukee Bucks,SF,44.21
+2,Nikola Jokic,Denver Nuggets,C,44.19
 3,Anthony Davis,Los Angeles Lakers,PF,39.20
 4,Karl-Anthony Towns,New York Knicks,C,38.67
 5,Luka Doncic,Dallas Mavericks,SF,37.45
 6,Jayson Tatum,Boston Celtics,SF,37.17
-7,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,35.76
-8,LaMelo Ball,Charlotte Hornets,PG,35.58
+7,LaMelo Ball,Charlotte Hornets,PG,35.58
+8,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,35.35
 9,Domantas Sabonis,Sacramento Kings,PF,34.60
 10,Victor Wembanyama,San Antonio Spurs,PF,33.95
 11,Anthony Edwards,Minnesota Timberwolves,SG,31.64
@@ -15,7 +15,7 @@ Rank,Player,Team,Pos,Value
 14,LeBron James,Los Angeles Lakers,SF,30.79
 15,Nikola Vucevic,Chicago Bulls,C,30.69
 16,RJ Barrett,Toronto Raptors,SF,30.29
-17,Damian Lillard,Milwaukee Bucks,PG,30.23
+17,Damian Lillard,Milwaukee Bucks,PG,30.09
 18,Franz Wagner,Orlando Magic,SF,30.00
 19,Jaylen Brown,Boston Celtics,SG,29.81
 20,Jalen Johnson,Atlanta Hawks,SF,29.76
@@ -28,8 +28,8 @@ Rank,Player,Team,Pos,Value
 27,Stephen Curry,Golden State Warriors,PG,28.10
 28,Donovan Mitchell,Cleveland Cavaliers,SG,28.08
 29,Jalen Brunson,New York Knicks,PG,27.92
-30,Jalen Williams,Oklahoma City Thunder,SG,27.80
 30,Jaren Jackson Jr.,Memphis Grizzlies,PF,27.80
+31,Jalen Williams,Oklahoma City Thunder,SG,27.58
 32,Evan Mobley,Cleveland Cavaliers,C,27.28
 33,Ivica Zubac,Los Angeles Clippers,C,27.04
 34,Julius Randle,Minnesota Timberwolves,PF,26.84
@@ -64,11 +64,11 @@ Rank,Player,Team,Pos,Value
 63,Tyrese Haliburton,Indiana Pacers,PG,21.52
 64,Jaden Ivey,Detroit Pistons,PG,21.40
 65,Dennis Schroder,Golden State Warriors,PG,21.39
-66,P.J. Washington,Dallas Mavericks,PF,20.80
 66,Tobias Harris,Detroit Pistons,SF,20.80
-68,Bobby Portis,Milwaukee Bucks,PF,20.75
-69,Mikal Bridges,New York Knicks,SG,20.50
-70,Santi Aldama,Memphis Grizzlies,PF,20.48
+66,P.J. Washington,Dallas Mavericks,PF,20.80
+68,Mikal Bridges,New York Knicks,SG,20.50
+69,Santi Aldama,Memphis Grizzlies,PF,20.48
+70,Bobby Portis,Milwaukee Bucks,PF,20.48
 71,Austin Reaves,Los Angeles Lakers,PG,20.48
 72,Jalen Suggs,Orlando Magic,SG,20.44
 73,Desmond Bane,Memphis Grizzlies,SG,20.37

@@ -8,7 +8,7 @@ Rank,Player,Team,Pos,Value
 7,Chris Paul,San Antonio Spurs,PG,8.31
 8,Luka Doncic,Dallas Mavericks,SF,8.15
 9,Jalen Brunson,New York Knicks,PG,7.69
-10,Damian Lillard,Milwaukee Bucks,PG,7.55
+10,Damian Lillard,Milwaukee Bucks,PG,7.39
 11,LaMelo Ball,Charlotte Hornets,PG,7.16
 12,Josh Giddey,Chicago Bulls,SG,6.93
 13,Tyus Jones,Phoenix Suns,PG,6.88
@@ -18,10 +18,10 @@ Rank,Player,Team,Pos,Value
 17,Darius Garland,Cleveland Cavaliers,PG,6.50
 18,Russell Westbrook,Denver Nuggets,PG,6.46
 19,Devin Booker,Phoenix Suns,SG,6.40
-20,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,6.28
+20,Giannis Antetokounmpo,Milwaukee Bucks,SF,6.29
 21,De'Aaron Fox,Sacramento Kings,PG,6.15
-22,Giannis Antetokounmpo,Milwaukee Bucks,SF,6.13
-23,RJ Barrett,Toronto Raptors,SF,6.13
+22,RJ Barrett,Toronto Raptors,SF,6.13
+23,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,6.12
 24,Jamal Murray,Denver Nuggets,SG,6.05
 25,Domantas Sabonis,Sacramento Kings,PF,6.04
 26,Fred VanVleet,Houston Rockets,PG,5.96
@@ -41,8 +41,8 @@ Rank,Player,Team,Pos,Value
 40,Malik Monk,Sacramento Kings,SG,5.00
 40,Austin Reaves,Los Angeles Lakers,PG,5.00
 40,Tyrese Maxey,Philadelphia 76ers,PG,5.00
-40,Jalen Williams,Oklahoma City Thunder,SG,5.00
 40,Jimmy Butler,Miami Heat,PF,5.00
+44,Jalen Williams,Oklahoma City Thunder,SG,4.92
 45,Derrick White,Boston Celtics,PG,4.88
 46,D'Angelo Russell,Los Angeles Lakers,PG,4.84
 47,Tyler Herro,Miami Heat,SG,4.83

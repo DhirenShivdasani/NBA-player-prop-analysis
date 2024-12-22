@@ -10,7 +10,7 @@ Rank,Player,Team,Pos,Value
 9,Alperen Sengun,Houston Rockets,C,15.81
 10,Jalen Johnson,Atlanta Hawks,SF,15.63
 11,Anthony Davis,Los Angeles Lakers,PF,15.22
-12,Jayson Tatum,Boston Celtics,SF,15.00
+12,Jayson Tatum,Boston Celtics,SF,14.96
 13,Ivica Zubac,Los Angeles Clippers,C,14.93
 14,Bam Adebayo,Miami Heat,C,14.81
 15,James Harden,Los Angeles Clippers,SG,14.54
@@ -67,16 +67,16 @@ Rank,Player,Team,Pos,Value
 66,Dennis Schroder,Golden State Warriors,PG,9.28
 67,Tyus Jones,Phoenix Suns,PG,9.22
 68,Donovan Mitchell,Cleveland Cavaliers,SG,9.21
-69,Tobias Harris,Detroit Pistons,SF,9.15
-70,Bilal Coulibaly,Washington Wizards,SG,9.12
+69,Bilal Coulibaly,Washington Wizards,SG,9.16
+70,Tobias Harris,Detroit Pistons,SF,9.15
 71,Keyonte George,Utah Jazz,SG,9.04
 72,Keegan Murray,Sacramento Kings,SF,8.96
 73,Darius Garland,Cleveland Cavaliers,PG,8.93
 74,Amen Thompson,Houston Rockets,SG,8.93
 75,Deni Avdija,Portland Trail Blazers,SF,8.79
-76,Andre Drummond,Philadelphia 76ers,C,8.78
-77,Scotty Pippen Jr.,Memphis Grizzlies,PG,8.76
-78,Austin Reaves,Los Angeles Lakers,PG,8.74
+76,Scotty Pippen Jr.,Memphis Grizzlies,PG,8.76
+77,Austin Reaves,Los Angeles Lakers,PG,8.74
+77,Andre Drummond,Philadelphia 76ers,C,8.74
 79,Lauri Markkanen,Utah Jazz,PF,8.68
 79,Malik Monk,Sacramento Kings,SG,8.68
 81,Brandon Miller,Charlotte Hornets,SF,8.64
@@ -84,8 +84,8 @@ Rank,Player,Team,Pos,Value
 83,Jaden Ivey,Detroit Pistons,PG,8.58
 83,Myles Turner,Indiana Pacers,C,8.58
 85,Ayo Dosunmu,Chicago Bulls,PG,8.55
-86,Alexandre Sarr,Washington Wizards,C,8.50
 86,Tyrese Maxey,Philadelphia 76ers,PG,8.50
+86,Alexandre Sarr,Washington Wizards,C,8.50
 88,Dyson Daniels,Atlanta Hawks,SG,8.48
 89,Carlton Carrington,Washington Wizards,PG,8.31
 90,Jalen Suggs,Orlando Magic,SG,8.11

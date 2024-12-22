@@ -17,12 +17,12 @@ Rank,Player,Team,Pos,Value
 16,Jusuf Nurkic,Phoenix Suns,C,9.85
 17,Nikola Vucevic,Chicago Bulls,C,9.75
 18,Clint Capela,Atlanta Hawks,C,9.34
-19,Jayson Tatum,Boston Celtics,SF,9.31
+19,Jayson Tatum,Boston Celtics,SF,9.27
 20,Jalen Duren,Detroit Pistons,C,9.19
 21,Evan Mobley,Cleveland Cavaliers,C,9.00
 22,Yves Missi,New Orleans Pelicans,C,8.57
 23,Luka Doncic,Dallas Mavericks,SF,8.55
-24,Andre Drummond,Philadelphia 76ers,C,8.30
+24,Andre Drummond,Philadelphia 76ers,C,8.26
 25,John Collins,Utah Jazz,PF,8.23
 26,Josh Hart,New York Knicks,SG,8.19
 27,P.J. Washington,Dallas Mavericks,PF,8.09
@@ -64,9 +64,9 @@ Rank,Player,Team,Pos,Value
 63,Desmond Bane,Memphis Grizzlies,SG,5.81
 64,Jimmy Butler,Miami Heat,PF,5.75
 65,Kelly Oubre Jr.,Philadelphia 76ers,SF,5.73
-66,Deni Avdija,Portland Trail Blazers,SF,5.71
-67,Rui Hachimura,Los Angeles Lakers,PF,5.70
-68,Bilal Coulibaly,Washington Wizards,SG,5.68
+66,Bilal Coulibaly,Washington Wizards,SG,5.72
+67,Deni Avdija,Portland Trail Blazers,SF,5.71
+68,Rui Hachimura,Los Angeles Lakers,PF,5.70
 69,Franz Wagner,Orlando Magic,SF,5.60
 70,Tyler Herro,Miami Heat,SG,5.54
 71,Ben Simmons,Brooklyn Nets,SG,5.50
@@ -97,5 +97,5 @@ Rank,Player,Team,Pos,Value
 96,Jaime Jaquez Jr.,Miami Heat,SG,4.73
 97,Neemias Queta,Boston Celtics,C,4.70
 98,Brandin Podziemski,Golden State Warriors,SG,4.69
-99,Cody Martin,Charlotte Hornets,SF,4.68
-99,Donovan Mitchell,Cleveland Cavaliers,SG,4.68
+99,Luke Kornet,Boston Celtics,C,4.68
+100,Cody Martin,Charlotte Hornets,SF,4.68

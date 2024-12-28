@@ -13,8 +13,8 @@ Rank,Player,Team,Pos,Value
 12,Josh Giddey,Chicago Bulls,SG,6.93
 13,Ben Simmons,Brooklyn Nets,SG,6.92
 14,Stephen Curry,Golden State Warriors,PG,6.54
-15,Tyus Jones,Phoenix Suns,PG,6.43
 15,Darius Garland,Cleveland Cavaliers,PG,6.43
+15,Tyus Jones,Phoenix Suns,PG,6.43
 17,Devin Booker,Phoenix Suns,SG,6.38
 18,Jamal Murray,Denver Nuggets,SG,6.35
 19,Russell Westbrook,Denver Nuggets,PG,6.31
@@ -23,10 +23,10 @@ Rank,Player,Team,Pos,Value
 22,Giannis Antetokounmpo,Milwaukee Bucks,SF,6.16
 23,De'Aaron Fox,Sacramento Kings,PG,6.10
 24,Domantas Sabonis,Sacramento Kings,PF,6.04
-25,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,6.00
 25,Fred VanVleet,Houston Rockets,PG,6.00
-27,Franz Wagner,Orlando Magic,SF,5.68
+25,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,6.00
 27,Keyonte George,Utah Jazz,SG,5.68
+27,Franz Wagner,Orlando Magic,SF,5.68
 29,Draymond Green,Golden State Warriors,PF,5.58
 30,Jayson Tatum,Boston Celtics,SF,5.57
 31,Jalen Johnson,Atlanta Hawks,SF,5.52
@@ -40,8 +40,8 @@ Rank,Player,Team,Pos,Value
 38,Scoot Henderson,Portland Trail Blazers,PG,5.00
 40,Davion Mitchell,Toronto Raptors,PG,4.97
 41,Jalen Williams,Oklahoma City Thunder,SG,4.93
-42,Bam Adebayo,Miami Heat,C,4.89
 42,Tyler Herro,Miami Heat,SG,4.89
+42,Bam Adebayo,Miami Heat,C,4.89
 44,Jimmy Butler,Miami Heat,PF,4.85
 45,Ayo Dosunmu,Chicago Bulls,PG,4.83
 45,Desmond Bane,Memphis Grizzlies,SG,4.83
@@ -59,8 +59,8 @@ Rank,Player,Team,Pos,Value
 58,Jaden Ivey,Detroit Pistons,PG,4.07
 59,Anthony Edwards,Minnesota Timberwolves,SG,4.00
 60,Caris LeVert,Cleveland Cavaliers,SG,3.96
-61,Victor Wembanyama,San Antonio Spurs,PF,3.88
 61,DeMar DeRozan,Sacramento Kings,SG,3.88
+61,Victor Wembanyama,San Antonio Spurs,PF,3.88
 63,Jalen Suggs,Orlando Magic,SG,3.87
 64,Carlton Carrington,Washington Wizards,PG,3.79
 65,Brandon Miller,Charlotte Hornets,SF,3.70
@@ -72,8 +72,8 @@ Rank,Player,Team,Pos,Value
 71,Dyson Daniels,Atlanta Hawks,SG,3.48
 72,Ty Jerome,Cleveland Cavaliers,SG,3.47
 73,Payton Pritchard,Boston Celtics,PG,3.42
-74,Anthony Davis,Los Angeles Lakers,PF,3.38
 74,Karl Anthony Towns,New York Knicks,C,3.38
+74,Anthony Davis,Los Angeles Lakers,PF,3.38
 76,Donte DiVincenzo,Minnesota Timberwolves,SG,3.37
 77,Isaiah Collier,Utah Jazz,PG,3.33
 78,Mikal Bridges,New York Knicks,SG,3.32

@@ -6,17 +6,17 @@ Rank,Player,Team,Pos,Value
 5,Tyrese Haliburton,Indiana Pacers,PG,8.70
 6,Chris Paul,San Antonio Spurs,PG,8.34
 7,James Harden,Los Angeles Clippers,SG,7.97
-8,Jalen Brunson,New York Knicks,PG,7.64
+8,Jalen Brunson,New York Knicks,PG,7.67
 9,Damian Lillard,Milwaukee Bucks,PG,7.58
 10,LaMelo Ball,Charlotte Hornets,PG,7.41
 11,Josh Giddey,Chicago Bulls,SG,7.00
 12,Ben Simmons,Brooklyn Nets,SG,6.92
-13,Russell Westbrook,Denver Nuggets,PG,6.48
 13,Darius Garland,Cleveland Cavaliers,PG,6.48
+13,Russell Westbrook,Denver Nuggets,PG,6.48
 15,Tyus Jones,Phoenix Suns,PG,6.42
 16,Jamal Murray,Denver Nuggets,SG,6.40
-17,Stephen Curry,Golden State Warriors,PG,6.38
 17,Devin Booker,Phoenix Suns,SG,6.38
+17,Stephen Curry,Golden State Warriors,PG,6.38
 19,De'Aaron Fox,Sacramento Kings,PG,6.27
 20,RJ Barrett,Toronto Raptors,SF,6.19
 21,Giannis Antetokounmpo,Milwaukee Bucks,SF,6.16
@@ -37,19 +37,19 @@ Rank,Player,Team,Pos,Value
 36,Scoot Henderson,Portland Trail Blazers,PG,5.12
 37,Jalen Williams,Oklahoma City Thunder,SG,5.06
 38,Scotty Pippen Jr.,Memphis Grizzlies,PG,5.06
-39,Kyrie Irving,Dallas Mavericks,PG,5.00
 39,Jordan Poole,Washington Wizards,SG,5.00
+39,Kyrie Irving,Dallas Mavericks,PG,5.00
 41,Davion Mitchell,Toronto Raptors,PG,4.97
 42,Anfernee Simons,Portland Trail Blazers,SG,4.86
 43,Malik Monk,Sacramento Kings,SG,4.85
 44,Ayo Dosunmu,Chicago Bulls,PG,4.83
 45,Desmond Bane,Memphis Grizzlies,SG,4.80
 46,D'Angelo Russell,Brooklyn Nets,PG,4.69
-47,Bam Adebayo,Miami Heat,C,4.67
 47,Jaylen Brown,Boston Celtics,SG,4.67
+47,Bam Adebayo,Miami Heat,C,4.67
+49,Derrick White,Boston Celtics,PG,4.65
 49,Donovan Mitchell,Cleveland Cavaliers,SG,4.65
 49,Coby White,Chicago Bulls,SG,4.65
-49,Derrick White,Boston Celtics,PG,4.65
 52,Mike Conley,Minnesota Timberwolves,PG,4.44
 53,Julius Randle,Minnesota Timberwolves,PF,4.35
 54,Zach LaVine,Chicago Bulls,PG,4.32
@@ -73,9 +73,9 @@ Rank,Player,Team,Pos,Value
 72,Dyson Daniels,Atlanta Hawks,SG,3.48
 73,Isaiah Collier,Utah Jazz,PG,3.43
 74,Payton Pritchard,Boston Celtics,PG,3.41
-75,Donte DiVincenzo,Minnesota Timberwolves,SG,3.39
-76,Pascal Siakam,Indiana Pacers,PF,3.36
-76,Mikal Bridges,New York Knicks,SG,3.36
+75,Mikal Bridges,New York Knicks,SG,3.39
+76,Donte DiVincenzo,Minnesota Timberwolves,SG,3.39
+77,Pascal Siakam,Indiana Pacers,PF,3.36
 78,Spencer Dinwiddie,Dallas Mavericks,PG,3.35
 79,Karl Anthony Towns,New York Knicks,C,3.29
 80,Jamal Shead,Toronto Raptors,SG,3.29

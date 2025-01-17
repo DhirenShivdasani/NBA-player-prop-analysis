@@ -4,14 +4,14 @@ Rank,Player,Team,Pos,Value
 3,Nikola Jokic,Denver Nuggets,C,30.62
 4,LaMelo Ball,Charlotte Hornets,PG,29.62
 5,Jayson Tatum,Boston Celtics,SF,27.73
-6,Kevin Durant,Phoenix Suns,SF,27.24
+6,Kevin Durant,Phoenix Suns,SF,27.10
 7,De'Aaron Fox,Sacramento Kings,PG,26.26
 8,Tyrese Maxey,Philadelphia 76ers,PG,26.00
 9,Jalen Brunson,New York Knicks,PG,25.98
 10,Anthony Edwards,Minnesota Timberwolves,SG,25.85
 11,Anthony Davis,Los Angeles Lakers,PF,25.83
-12,Karl-Anthony Towns,New York Knicks,C,25.39
-13,Devin Booker,Phoenix Suns,SG,25.18
+12,Devin Booker,Phoenix Suns,SG,25.51
+13,Karl-Anthony Towns,New York Knicks,C,25.39
 14,Damian Lillard,Milwaukee Bucks,PG,24.91
 15,Victor Wembanyama,San Antonio Spurs,PF,24.71
 16,Cade Cunningham,Detroit Pistons,PG,24.41
@@ -27,10 +27,10 @@ Rank,Player,Team,Pos,Value
 26,Jaren Jackson Jr.,Memphis Grizzlies,PF,22.67
 27,RJ Barrett,Toronto Raptors,SF,22.42
 28,Jalen Green,Houston Rockets,SG,21.50
-29,Jordan Poole,Washington Wizards,SG,21.48
-30,CJ McCollum,New Orleans Pelicans,SG,21.48
+29,CJ McCollum,New Orleans Pelicans,SG,21.48
+30,DeMar DeRozan,Sacramento Kings,SG,21.47
 31,James Harden,Los Angeles Clippers,SG,21.45
-32,DeMar DeRozan,Sacramento Kings,SG,21.42
+32,Jordan Poole,Washington Wizards,SG,21.38
 33,Brandon Miller,Charlotte Hornets,SF,21.04
 34,Darius Garland,Cleveland Cavaliers,PG,21.00
 35,Domantas Sabonis,Sacramento Kings,PF,20.55
@@ -54,8 +54,8 @@ Rank,Player,Team,Pos,Value
 53,Austin Reaves,Los Angeles Lakers,PG,17.94
 54,John Collins,Utah Jazz,PF,17.93
 55,Jaden Ivey,Detroit Pistons,PG,17.60
-56,Malik Monk,Sacramento Kings,SG,17.52
-57,Bradley Beal,Phoenix Suns,SG,17.48
+56,Bradley Beal,Phoenix Suns,SG,17.48
+57,Malik Monk,Sacramento Kings,SG,17.45
 58,Desmond Bane,Memphis Grizzlies,SG,17.19
 59,Paul George,Philadelphia 76ers,SF,17.19
 60,Andrew Wiggins,Golden State Warriors,SF,16.76
@@ -96,6 +96,6 @@ Rank,Player,Team,Pos,Value
 95,Buddy Hield,Golden State Warriors,SG,12.48
 96,Ayo Dosunmu,Chicago Bulls,PG,12.45
 97,D'Angelo Russell,Brooklyn Nets,PG,12.42
-98,Bilal Coulibaly,Washington Wizards,SG,12.38
+98,Bilal Coulibaly,Washington Wizards,SG,12.40
 99,Brook Lopez,Milwaukee Bucks,C,12.35
 100,Rui Hachimura,Los Angeles Lakers,PF,12.18

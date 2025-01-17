@@ -11,11 +11,11 @@ Rank,Player,Team,Pos,Value
 10,LeBron James,Los Angeles Lakers,SF,39.97
 11,Victor Wembanyama,San Antonio Spurs,PF,39.21
 12,Trae Young,Atlanta Hawks,PG,38.38
-13,Kevin Durant,Phoenix Suns,SF,37.90
+13,Kevin Durant,Phoenix Suns,SF,37.70
 14,De'Aaron Fox,Sacramento Kings,PG,37.53
 15,Jalen Brunson,New York Knicks,PG,36.51
 16,Damian Lillard,Milwaukee Bucks,PG,36.39
-17,Devin Booker,Phoenix Suns,SG,36.00
+17,Devin Booker,Phoenix Suns,SG,36.26
 18,Anthony Edwards,Minnesota Timberwolves,SG,35.75
 19,Tyrese Maxey,Philadelphia 76ers,PG,35.34
 20,James Harden,Los Angeles Clippers,SG,35.26
@@ -42,8 +42,8 @@ Rank,Player,Team,Pos,Value
 41,Brandon Miller,Charlotte Hornets,SF,29.52
 42,Josh Hart,New York Knicks,SG,29.44
 43,Norman Powell,Los Angeles Clippers,SG,29.42
-44,Jordan Poole,Washington Wizards,SG,29.13
-45,DeMar DeRozan,Sacramento Kings,SG,29.08
+44,DeMar DeRozan,Sacramento Kings,SG,29.14
+45,Jordan Poole,Washington Wizards,SG,29.03
 46,CJ McCollum,New Orleans Pelicans,SG,28.83
 47,John Collins,Utah Jazz,PF,28.70
 48,Jalen Green,Houston Rockets,SG,28.50
@@ -54,7 +54,7 @@ Rank,Player,Team,Pos,Value
 53,Desmond Bane,Memphis Grizzlies,SG,27.75
 54,Michael Porter Jr.,Denver Nuggets,PF,27.30
 55,Cameron Johnson,Brooklyn Nets,PF,26.79
-56,Malik Monk,Sacramento Kings,SG,26.76
+56,Malik Monk,Sacramento Kings,SG,26.70
 57,Coby White,Chicago Bulls,SG,26.53
 58,Jarrett Allen,Cleveland Cavaliers,C,26.13
 59,Josh Giddey,Chicago Bulls,SG,25.84
@@ -85,17 +85,17 @@ Rank,Player,Team,Pos,Value
 84,Rudy Gobert,Minnesota Timberwolves,C,22.25
 85,Chris Paul,San Antonio Spurs,PG,22.18
 86,Tobias Harris,Detroit Pistons,SF,22.13
-87,Jonas Valanciunas,Washington Wizards,C,21.97
+87,Jonas Valanciunas,Washington Wizards,C,21.92
 88,Gradey Dick,Toronto Raptors,SG,21.74
 89,Payton Pritchard,Boston Celtics,PG,21.65
 90,Jalen Duren,Detroit Pistons,C,21.58
 91,Dyson Daniels,Atlanta Hawks,SG,21.53
 92,Ayo Dosunmu,Chicago Bulls,PG,21.10
-93,Bilal Coulibaly,Washington Wizards,SG,21.00
 93,Malik Beasley,Detroit Pistons,SG,21.00
-95,Jerami Grant,Portland Trail Blazers,SF,20.93
+94,Jerami Grant,Portland Trail Blazers,SF,20.93
+95,Bilal Coulibaly,Washington Wizards,SG,20.91
 96,Keegan Murray,Sacramento Kings,SF,20.79
 97,Kelly Oubre Jr.,Philadelphia 76ers,SF,20.75
-98,Alexandre Sarr,Washington Wizards,C,20.53
+98,Alexandre Sarr,Washington Wizards,C,20.71
 99,Draymond Green,Golden State Warriors,PF,20.45
 100,Onyeka Okongwu,Atlanta Hawks,PF,20.39

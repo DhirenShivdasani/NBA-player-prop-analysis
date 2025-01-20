@@ -1,8 +1,8 @@
 Rank,Player,Team,Pos,Value
 1,Nikola Jokic,Denver Nuggets,C,53.17
 2,Giannis Antetokounmpo,Milwaukee Bucks,SF,49.64
-3,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,42.63
-4,Karl-Anthony Towns,New York Knicks,C,42.63
+3,Karl-Anthony Towns,New York Knicks,C,42.63
+4,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,42.57
 5,Jayson Tatum,Boston Celtics,SF,42.31
 6,LaMelo Ball,Charlotte Hornets,PG,42.30
 7,Domantas Sabonis,Sacramento Kings,PF,41.26
@@ -52,8 +52,8 @@ Rank,Player,Team,Pos,Value
 51,Lauri Markkanen,Utah Jazz,PF,28.06
 52,Jakob Poeltl,Toronto Raptors,C,28.00
 53,Michael Porter Jr.,Denver Nuggets,PF,27.10
-54,Cameron Johnson,Brooklyn Nets,PF,26.79
-55,Malik Monk,Sacramento Kings,SG,26.74
+54,Malik Monk,Sacramento Kings,SG,26.74
+55,Cameron Johnson,Brooklyn Nets,PF,26.56
 56,Coby White,Chicago Bulls,SG,26.28
 57,Jarrett Allen,Cleveland Cavaliers,C,25.95
 58,Jaden Ivey,Detroit Pistons,PG,25.70
@@ -95,7 +95,7 @@ Rank,Player,Team,Pos,Value
 94,Ayo Dosunmu,Chicago Bulls,PG,20.88
 95,Onyeka Okongwu,Atlanta Hawks,PF,20.79
 96,Bilal Coulibaly,Washington Wizards,SG,20.65
-97,D'Angelo Russell,Brooklyn Nets,PG,20.62
+97,D'Angelo Russell,Brooklyn Nets,PG,20.60
 98,Jerami Grant,Portland Trail Blazers,SF,20.58
 99,Alexandre Sarr,Washington Wizards,C,20.57
 100,Keegan Murray,Sacramento Kings,SF,20.51

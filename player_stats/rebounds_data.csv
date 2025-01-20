@@ -9,8 +9,8 @@ Rank,Player,Team,Pos,Value
 8,Victor Wembanyama,San Antonio Spurs,PF,10.78
 9,Jakob Poeltl,Toronto Raptors,C,10.57
 10,Alperen Sengun,Houston Rockets,C,10.51
-11,Nikola Vucevic,Chicago Bulls,C,10.43
 11,Rudy Gobert,Minnesota Timberwolves,C,10.43
+11,Nikola Vucevic,Chicago Bulls,C,10.43
 13,Jalen Johnson,Atlanta Hawks,SF,10.21
 14,Deandre Ayton,Portland Trail Blazers,C,10.03
 15,Jarrett Allen,Cleveland Cavaliers,C,9.95
@@ -29,7 +29,7 @@ Rank,Player,Team,Pos,Value
 28,Amen Thompson,Houston Rockets,SG,7.79
 29,P.J. Washington,Dallas Mavericks,PF,7.77
 30,Onyeka Okongwu,Atlanta Hawks,PF,7.56
-31,Nic Claxton,Brooklyn Nets,C,7.51
+31,Nic Claxton,Brooklyn Nets,C,7.44
 32,LeBron James,Los Angeles Lakers,SF,7.43
 33,Pascal Siakam,Indiana Pacers,PF,7.35
 34,Josh Giddey,Chicago Bulls,SG,7.26
@@ -66,10 +66,10 @@ Rank,Player,Team,Pos,Value
 65,Desmond Bane,Memphis Grizzlies,SG,5.64
 66,Royce O'Neale,Phoenix Suns,SF,5.46
 67,Toumani Camara,Portland Trail Blazers,PF,5.41
-68,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,5.37
-69,Guerschon Yabusele,Philadelphia 76ers,PF,5.36
-70,Jalen Smith,Chicago Bulls,PF,5.33
-70,Ben Simmons,Brooklyn Nets,SG,5.33
+68,Guerschon Yabusele,Philadelphia 76ers,PF,5.36
+69,Jalen Smith,Chicago Bulls,PF,5.33
+69,Ben Simmons,Brooklyn Nets,SG,5.33
+71,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,5.31
 72,Al Horford,Boston Celtics,C,5.30
 73,LaMelo Ball,Charlotte Hornets,PG,5.30
 74,Rui Hachimura,Los Angeles Lakers,PF,5.23
@@ -94,7 +94,7 @@ Rank,Player,Team,Pos,Value
 93,Jaime Jaquez Jr.,Miami Heat,SG,4.76
 94,Christian Braun,Denver Nuggets,SG,4.76
 95,Trey Lyles,Sacramento Kings,PF,4.75
-96,Ziaire Williams,Brooklyn Nets,SF,4.67
+96,Ziaire Williams,Brooklyn Nets,SF,4.68
 97,Drew Eubanks,Utah Jazz,PF,4.58
 98,Kyrie Irving,Dallas Mavericks,PG,4.56
 99,Cody Martin,Charlotte Hornets,SF,4.56

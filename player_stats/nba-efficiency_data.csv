@@ -3,7 +3,7 @@ Rank,Player,Team,Pos,Value
 2,Giannis Antetokounmpo,Milwaukee Bucks,SF,35.45
 3,Domantas Sabonis,Sacramento Kings,PF,33.57
 4,Karl-Anthony Towns,New York Knicks,C,32.88
-5,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,32.48
+5,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,32.40
 6,Anthony Davis,Los Angeles Lakers,PF,32.23
 7,Victor Wembanyama,San Antonio Spurs,PF,30.08
 8,Jayson Tatum,Boston Celtics,SF,28.26
@@ -36,7 +36,7 @@ Rank,Player,Team,Pos,Value
 35,Zach LaVine,Chicago Bulls,PG,22.46
 36,Stephen Curry,Golden State Warriors,PG,22.35
 37,Tyrese Haliburton,Indiana Pacers,PG,22.23
-38,Jalen Williams,Oklahoma City Thunder,SG,22.05
+38,Jalen Williams,Oklahoma City Thunder,SG,22.16
 39,Darius Garland,Cleveland Cavaliers,PG,21.73
 40,Bam Adebayo,Miami Heat,C,21.67
 41,RJ Barrett,Toronto Raptors,SF,21.62
@@ -66,15 +66,15 @@ Rank,Player,Team,Pos,Value
 65,Myles Turner,Indiana Pacers,C,17.79
 66,Jonas Valanciunas,Washington Wizards,C,17.43
 67,Chris Paul,San Antonio Spurs,PG,17.40
-68,Derrick White,Boston Celtics,PG,17.39
-69,Fred VanVleet,Houston Rockets,PG,17.15
-70,Dyson Daniels,Atlanta Hawks,SG,17.12
-71,Russell Westbrook,Denver Nuggets,PG,17.07
-72,P.J. Washington,Dallas Mavericks,PF,17.05
-73,Jalen Green,Houston Rockets,SG,16.93
-74,Santi Aldama,Memphis Grizzlies,PF,16.92
-75,O.G. Anunoby,New York Knicks,SF,16.83
-76,Deni Avdija,Portland Trail Blazers,SF,16.74
+68,Derrick White,Boston Celtics,PG,17.36
+69,Deni Avdija,Portland Trail Blazers,SF,17.16
+70,Fred VanVleet,Houston Rockets,PG,17.15
+71,Dyson Daniels,Atlanta Hawks,SG,17.12
+72,Russell Westbrook,Denver Nuggets,PG,17.07
+73,P.J. Washington,Dallas Mavericks,PF,17.05
+74,Jalen Green,Houston Rockets,SG,16.93
+75,Santi Aldama,Memphis Grizzlies,PF,16.92
+76,O.G. Anunoby,New York Knicks,SF,16.83
 77,Coby White,Chicago Bulls,SG,16.68
 78,Christian Braun,Denver Nuggets,SG,16.57
 79,Bobby Portis,Milwaukee Bucks,PF,16.50
@@ -87,8 +87,8 @@ Rank,Player,Team,Pos,Value
 86,Yves Missi,New Orleans Pelicans,C,15.77
 87,Tobias Harris,Detroit Pistons,SF,15.70
 88,De'Andre Hunter,Atlanta Hawks,PF,15.61
-89,Anfernee Simons,Portland Trail Blazers,SG,15.59
-90,Nic Claxton,Brooklyn Nets,C,15.51
+89,Nic Claxton,Brooklyn Nets,C,15.51
+90,Anfernee Simons,Portland Trail Blazers,SG,15.50
 91,Kelly Oubre Jr.,Philadelphia 76ers,SF,15.46
 92,Brook Lopez,Milwaukee Bucks,C,15.25
 93,Payton Pritchard,Boston Celtics,PG,15.22

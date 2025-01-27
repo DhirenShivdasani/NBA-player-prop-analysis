@@ -28,7 +28,7 @@ Rank,Player,Team,Pos,Value
 27,Anthony Davis,Los Angeles Lakers,PF,34.83
 28,Scottie Barnes,Toronto Raptors,SF,34.78
 29,Karl-Anthony Towns,New York Knicks,C,34.68
-30,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,34.36
+30,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,34.42
 31,Tyrese Haliburton,Indiana Pacers,PG,34.26
 32,LaMelo Ball,Charlotte Hornets,PG,34.09
 33,Zach LaVine,Chicago Bulls,PG,34.08
@@ -48,16 +48,16 @@ Rank,Player,Team,Pos,Value
 47,Norman Powell,Los Angeles Clippers,SG,32.95
 48,Rudy Gobert,Minnesota Timberwolves,C,32.93
 49,Bradley Beal,Phoenix Suns,SG,32.87
-50,Jalen Green,Houston Rockets,SG,32.77
-51,Jalen Williams,Oklahoma City Thunder,SG,32.71
+50,Jalen Williams,Oklahoma City Thunder,SG,32.79
+51,Jalen Green,Houston Rockets,SG,32.77
 52,Coby White,Chicago Bulls,SG,32.63
-53,Jerami Grant,Portland Trail Blazers,SF,32.49
-54,Christian Braun,Denver Nuggets,SG,32.44
+53,Christian Braun,Denver Nuggets,SG,32.44
+54,Jerami Grant,Portland Trail Blazers,SF,32.39
 55,Nikola Vucevic,Chicago Bulls,C,32.31
 56,Brook Lopez,Milwaukee Bucks,C,32.31
 57,Cameron Johnson,Brooklyn Nets,PF,32.31
-58,Bennedict Mathurin,Indiana Pacers,SG,32.12
-59,Anfernee Simons,Portland Trail Blazers,SG,32.11
+58,Anfernee Simons,Portland Trail Blazers,SG,32.18
+59,Bennedict Mathurin,Indiana Pacers,SG,32.12
 60,Tobias Harris,Detroit Pistons,SF,32.04
 61,Rui Hachimura,Los Angeles Lakers,PF,32.02
 62,Dillon Brooks,Houston Rockets,SG,31.86
@@ -66,13 +66,13 @@ Rank,Player,Team,Pos,Value
 65,Stephen Curry,Golden State Warriors,PG,31.68
 66,Keyonte George,Utah Jazz,SG,31.61
 67,Malik Monk,Sacramento Kings,SG,31.61
-68,Donovan Mitchell,Cleveland Cavaliers,SG,31.43
-69,Toumani Camara,Portland Trail Blazers,PF,31.36
+68,Toumani Camara,Portland Trail Blazers,PF,31.44
+69,Donovan Mitchell,Cleveland Cavaliers,SG,31.43
 70,Alperen Sengun,Houston Rockets,C,31.29
-71,Shaedon Sharpe,Portland Trail Blazers,SG,31.28
-72,Jakob Poeltl,Toronto Raptors,C,31.26
-73,Jordan Poole,Washington Wizards,SG,31.20
-74,Myles Turner,Indiana Pacers,C,31.14
+71,Jakob Poeltl,Toronto Raptors,C,31.26
+72,Jordan Poole,Washington Wizards,SG,31.20
+73,Myles Turner,Indiana Pacers,C,31.14
+74,Shaedon Sharpe,Portland Trail Blazers,SG,30.96
 75,Jaden McDaniels,Minnesota Timberwolves,SF,30.91
 76,Jabari Smith Jr.,Houston Rockets,PF,30.79
 77,Kentavious Caldwell-Pope,Orlando Magic,SG,30.69
@@ -96,6 +96,6 @@ Rank,Player,Team,Pos,Value
 95,Collin Sexton,Utah Jazz,PG,28.98
 96,Jarrett Allen,Cleveland Cavaliers,C,28.94
 97,Ochai Agbaji,Toronto Raptors,SG,28.91
-98,Jalen Suggs,Orlando Magic,SG,28.64
-99,Josh Giddey,Chicago Bulls,SG,28.61
-100,Deni Avdija,Portland Trail Blazers,SF,28.52
+98,Deni Avdija,Portland Trail Blazers,SF,28.75
+99,Jalen Suggs,Orlando Magic,SG,28.64
+100,Josh Giddey,Chicago Bulls,SG,28.61

@@ -14,8 +14,8 @@ Rank,Player,Team,Pos,Value
 13,Rudy Gobert,Minnesota Timberwolves,C,10.13
 14,Jarrett Allen,Cleveland Cavaliers,C,10.06
 15,Jalen Johnson,Atlanta Hawks,SF,9.97
-16,Jalen Duren,Detroit Pistons,C,9.93
 16,Bam Adebayo,Miami Heat,C,9.93
+16,Jalen Duren,Detroit Pistons,C,9.93
 18,Josh Hart,New York Knicks,SG,9.68
 19,Evan Mobley,Cleveland Cavaliers,C,9.10
 20,Clint Capela,Atlanta Hawks,C,9.00
@@ -38,10 +38,10 @@ Rank,Player,Team,Pos,Value
 37,Julius Randle,Minnesota Timberwolves,PF,7.17
 38,Keegan Murray,Sacramento Kings,SF,7.14
 39,Myles Turner,Indiana Pacers,C,6.84
-40,Kevon Looney,Golden State Warriors,PF,6.80
-41,Santi Aldama,Memphis Grizzlies,PF,6.80
-42,Moussa Diabate,Charlotte Hornets,SF,6.76
-43,Daniel Gafford,Dallas Mavericks,PF,6.74
+40,Santi Aldama,Memphis Grizzlies,PF,6.80
+41,Moussa Diabate,Charlotte Hornets,SF,6.76
+42,Daniel Gafford,Dallas Mavericks,PF,6.74
+43,Kevon Looney,Golden State Warriors,PF,6.74
 44,RJ Barrett,Toronto Raptors,SF,6.65
 45,Alexandre Sarr,Washington Wizards,C,6.63
 46,Donovan Clingan,Portland Trail Blazers,C,6.54
@@ -49,10 +49,10 @@ Rank,Player,Team,Pos,Value
 48,Jabari Smith Jr.,Houston Rockets,PF,6.48
 49,Cade Cunningham,Detroit Pistons,PG,6.36
 50,Michael Porter Jr.,Denver Nuggets,PF,6.33
-51,Trayce Jackson-Davis,Golden State Warriors,PF,6.31
-52,Mason Plumlee,Phoenix Suns,PF,6.27
-53,Kevin Durant,Phoenix Suns,SF,6.25
-54,Kelly Oubre Jr.,Philadelphia 76ers,SF,6.20
+51,Mason Plumlee,Phoenix Suns,PF,6.26
+52,Kevin Durant,Phoenix Suns,SF,6.24
+53,Kelly Oubre Jr.,Philadelphia 76ers,SF,6.20
+54,Trayce Jackson-Davis,Golden State Warriors,PF,6.20
 55,Jaren Jackson Jr.,Memphis Grizzlies,PF,6.15
 56,Tobias Harris,Detroit Pistons,SF,6.09
 57,Draymond Green,Golden State Warriors,PF,6.03
@@ -69,8 +69,8 @@ Rank,Player,Team,Pos,Value
 68,Jalen Williams,Oklahoma City Thunder,SG,5.54
 69,Guerschon Yabusele,Philadelphia 76ers,PF,5.53
 70,Dyson Daniels,Atlanta Hawks,SG,5.33
-71,Royce O'Neale,Phoenix Suns,SF,5.30
-72,LaMelo Ball,Charlotte Hornets,PG,5.26
+71,LaMelo Ball,Charlotte Hornets,PG,5.26
+72,Royce O'Neale,Phoenix Suns,SF,5.22
 73,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,5.22
 74,Al Horford,Boston Celtics,C,5.22
 75,Jaden McDaniels,Minnesota Timberwolves,SF,5.21
@@ -92,10 +92,10 @@ Rank,Player,Team,Pos,Value
 91,Kyle Filipowski,Utah Jazz,C,4.72
 92,Jaime Jaquez Jr.,Miami Heat,SG,4.71
 93,Christian Braun,Denver Nuggets,SG,4.66
-94,Stephen Curry,Golden State Warriors,PG,4.66
+94,Andrew Wiggins,Golden State Warriors,SF,4.64
 95,Kyrie Irving,Dallas Mavericks,PG,4.64
-96,Damian Lillard,Milwaukee Bucks,PG,4.60
-97,Andrew Wiggins,Golden State Warriors,SF,4.56
+96,Stephen Curry,Golden State Warriors,PG,4.62
+97,Damian Lillard,Milwaukee Bucks,PG,4.60
 98,Ziaire Williams,Brooklyn Nets,SF,4.56
 99,Drew Eubanks,Utah Jazz,PF,4.54
 100,DeAndre Jordan,Denver Nuggets,C,4.53

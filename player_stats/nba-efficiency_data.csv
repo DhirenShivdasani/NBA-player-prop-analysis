@@ -8,7 +8,7 @@ Rank,Player,Team,Pos,Value
 7,Victor Wembanyama,San Antonio Spurs,PF,30.35
 8,LeBron James,Los Angeles Lakers,SF,28.12
 9,Jayson Tatum,Boston Celtics,SF,27.76
-10,Kevin Durant,Phoenix Suns,SF,26.94
+10,Kevin Durant,Phoenix Suns,SF,26.76
 11,Nikola Vucevic,Chicago Bulls,C,26.54
 12,Cade Cunningham,Detroit Pistons,PG,25.91
 13,Damian Lillard,Milwaukee Bucks,PG,25.60
@@ -19,9 +19,9 @@ Rank,Player,Team,Pos,Value
 18,Jalen Brunson,New York Knicks,PG,24.43
 19,Evan Mobley,Cleveland Cavaliers,C,24.24
 20,LaMelo Ball,Charlotte Hornets,PG,24.19
-21,Tyrese Maxey,Philadelphia 76ers,PG,24.03
-22,Scottie Barnes,Toronto Raptors,SF,23.91
-23,Devin Booker,Phoenix Suns,SG,23.90
+21,Devin Booker,Phoenix Suns,SG,24.14
+22,Tyrese Maxey,Philadelphia 76ers,PG,24.03
+23,Scottie Barnes,Toronto Raptors,SF,23.91
 24,De'Aaron Fox,Sacramento Kings,PG,23.80
 25,Tyler Herro,Miami Heat,SG,23.58
 26,Pascal Siakam,Indiana Pacers,PF,23.35
@@ -35,9 +35,9 @@ Rank,Player,Team,Pos,Value
 34,Zach LaVine,Chicago Bulls,PG,22.43
 35,Jaren Jackson Jr.,Memphis Grizzlies,PF,22.33
 36,Walker Kessler,Utah Jazz,C,22.28
-37,Stephen Curry,Golden State Warriors,PG,22.24
-38,Jalen Williams,Oklahoma City Thunder,SG,22.13
-39,Bam Adebayo,Miami Heat,C,22.02
+37,Jalen Williams,Oklahoma City Thunder,SG,22.13
+38,Bam Adebayo,Miami Heat,C,22.02
+39,Stephen Curry,Golden State Warriors,PG,21.95
 40,Darius Garland,Cleveland Cavaliers,PG,21.76
 41,Donovan Mitchell,Cleveland Cavaliers,SG,21.63
 42,Jaylen Brown,Boston Celtics,SG,21.36
@@ -79,10 +79,10 @@ Rank,Player,Team,Pos,Value
 78,Fred VanVleet,Houston Rockets,PG,16.68
 79,Mikal Bridges,New York Knicks,SG,16.56
 80,Bobby Portis,Milwaukee Bucks,PF,16.50
-81,Collin Sexton,Utah Jazz,PG,16.34
-82,Andrew Wiggins,Golden State Warriors,SF,16.32
-83,Clint Capela,Atlanta Hawks,C,16.24
-84,Bradley Beal,Phoenix Suns,SG,16.24
+81,Andrew Wiggins,Golden State Warriors,SF,16.38
+82,Collin Sexton,Utah Jazz,PG,16.34
+83,Bradley Beal,Phoenix Suns,SG,16.29
+84,Clint Capela,Atlanta Hawks,C,16.24
 85,Kelly Oubre Jr.,Philadelphia 76ers,SF,16.05
 86,Bennedict Mathurin,Indiana Pacers,SG,15.91
 87,De'Andre Hunter,Atlanta Hawks,PF,15.88
@@ -96,6 +96,6 @@ Rank,Player,Team,Pos,Value
 95,Ayo Dosunmu,Chicago Bulls,PG,14.95
 96,Keegan Murray,Sacramento Kings,SF,14.93
 97,Jalen Suggs,Orlando Magic,SG,14.91
-98,Tyus Jones,Phoenix Suns,PG,14.82
-99,Draymond Green,Golden State Warriors,PF,14.68
+98,Draymond Green,Golden State Warriors,PF,14.68
+99,Tyus Jones,Phoenix Suns,PG,14.67
 100,Keyonte George,Utah Jazz,SG,14.50

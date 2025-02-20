@@ -2,7 +2,7 @@ Rank,Player,Team,Pos,Value
 1,Trae Young,Atlanta Hawks,PG,11.51
 2,Nikola Jokic,Denver Nuggets,C,10.24
 3,Cade Cunningham,Detroit Pistons,PG,9.40
-4,LeBron James,Los Angeles Lakers,SF,8.98
+4,LeBron James,Los Angeles Lakers,SF,9.02
 5,James Harden,Los Angeles Clippers,SG,8.59
 6,Tyrese Haliburton,Indiana Pacers,PG,8.50
 7,Chris Paul,San Antonio Spurs,PG,8.08
@@ -15,9 +15,9 @@ Rank,Player,Team,Pos,Value
 14,Scottie Barnes,Toronto Raptors,SF,6.33
 15,De'Aaron Fox,San Antonio Spurs,PG,6.30
 16,Domantas Sabonis,Sacramento Kings,PF,6.23
-17,Austin Reaves,Los Angeles Lakers,PG,6.19
-18,Tyrese Maxey,Philadelphia 76ers,PG,6.11
-19,Jamal Murray,Denver Nuggets,SG,6.10
+17,Tyrese Maxey,Philadelphia 76ers,PG,6.11
+18,Austin Reaves,Los Angeles Lakers,PG,6.10
+18,Jamal Murray,Denver Nuggets,SG,6.10
 20,Stephen Curry,Golden State Warriors,PG,6.07
 21,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,6.00
 22,Giannis Antetokounmpo,Milwaukee Bucks,SF,5.98
@@ -58,44 +58,44 @@ Rank,Player,Team,Pos,Value
 57,Collin Sexton,Utah Jazz,PG,4.11
 58,Carlton Carrington,Washington Wizards,PG,3.98
 59,Dyson Daniels,Atlanta Hawks,SG,3.98
-60,Miles Bridges,Charlotte Hornets,SF,3.76
-61,DeMar DeRozan,Sacramento Kings,SG,3.74
-62,CJ McCollum,New Orleans Pelicans,SG,3.73
-63,Spencer Dinwiddie,Dallas Mavericks,PG,3.70
-64,Jrue Holiday,Boston Celtics,PG,3.68
+60,DeMar DeRozan,Sacramento Kings,SG,3.74
+61,CJ McCollum,New Orleans Pelicans,SG,3.73
+62,Spencer Dinwiddie,Dallas Mavericks,PG,3.70
+63,Jrue Holiday,Boston Celtics,PG,3.68
+64,Miles Bridges,Charlotte Hornets,SF,3.67
 65,Victor Wembanyama,San Antonio Spurs,PF,3.65
 66,Caris LeVert,Atlanta Hawks,SG,3.63
 67,Trey Murphy III,New Orleans Pelicans,SF,3.62
 68,Donte DiVincenzo,Minnesota Timberwolves,SG,3.60
 69,Jamal Shead,Toronto Raptors,SG,3.55
 70,Stephon Castle,San Antonio Spurs,PG,3.54
-71,Vasilije Micic,Phoenix Suns,PG,3.53
-72,Bilal Coulibaly,Washington Wizards,SG,3.52
-73,Payton Pritchard,Boston Celtics,PG,3.52
-74,Brandin Podziemski,Golden State Warriors,SG,3.50
-75,Nikola Vucevic,Chicago Bulls,C,3.48
-76,Amen Thompson,Houston Rockets,SG,3.44
-77,Anthony Davis,Dallas Mavericks,PF,3.44
-78,Deni Avdija,Portland Trail Blazers,SF,3.42
-79,Pascal Siakam,Indiana Pacers,PF,3.42
-80,Ty Jerome,Cleveland Cavaliers,SG,3.40
-81,Anthony Black,Orlando Magic,PG,3.38
-82,Luke Kennard,Memphis Grizzlies,SG,3.34
-83,Karl-Anthony Towns,New York Knicks,C,3.31
-84,Mikal Bridges,New York Knicks,SG,3.28
-85,Kevin Porter Jr.,Milwaukee Bucks,SG,3.23
-86,Evan Mobley,Cleveland Cavaliers,C,3.00
-87,Jalen Green,Houston Rockets,SG,2.96
-88,Cameron Johnson,Brooklyn Nets,PF,2.92
-89,Devin Vassell,San Antonio Spurs,SG,2.89
-90,Kris Dunn,Los Angeles Clippers,PG,2.87
-90,Terry Rozier,Miami Heat,PG,2.87
-92,Nikola Jovic,Miami Heat,SF,2.86
-93,Jakob Poeltl,Toronto Raptors,C,2.84
-94,Cole Anthony,Orlando Magic,PG,2.75
-95,Jaime Jaquez Jr.,Miami Heat,SG,2.72
-96,Vit Krejci,Atlanta Hawks,SG,2.69
-97,Jake LaRavia,Sacramento Kings,SF,2.67
-98,Duncan Robinson,Miami Heat,SF,2.66
-99,Cameron Payne,New York Knicks,PG,2.65
-100,Santi Aldama,Memphis Grizzlies,PF,2.63
+71,Bilal Coulibaly,Washington Wizards,SG,3.52
+72,Payton Pritchard,Boston Celtics,PG,3.52
+73,Brandin Podziemski,Golden State Warriors,SG,3.50
+74,Nikola Vucevic,Chicago Bulls,C,3.48
+75,Amen Thompson,Houston Rockets,SG,3.44
+76,Anthony Davis,Dallas Mavericks,PF,3.44
+77,Deni Avdija,Portland Trail Blazers,SF,3.42
+78,Pascal Siakam,Indiana Pacers,PF,3.42
+79,Ty Jerome,Cleveland Cavaliers,SG,3.40
+80,Anthony Black,Orlando Magic,PG,3.38
+81,Luke Kennard,Memphis Grizzlies,SG,3.34
+82,Karl-Anthony Towns,New York Knicks,C,3.31
+83,Mikal Bridges,New York Knicks,SG,3.28
+84,Kevin Porter Jr.,Milwaukee Bucks,SG,3.23
+85,Evan Mobley,Cleveland Cavaliers,C,3.00
+86,Jalen Green,Houston Rockets,SG,2.96
+87,Cameron Johnson,Brooklyn Nets,PF,2.92
+88,Devin Vassell,San Antonio Spurs,SG,2.89
+89,Kris Dunn,Los Angeles Clippers,PG,2.87
+89,Terry Rozier,Miami Heat,PG,2.87
+91,Nikola Jovic,Miami Heat,SF,2.86
+92,Jakob Poeltl,Toronto Raptors,C,2.84
+93,Cole Anthony,Orlando Magic,PG,2.75
+94,Jaime Jaquez Jr.,Miami Heat,SG,2.72
+95,Vit Krejci,Atlanta Hawks,SG,2.69
+96,Jake LaRavia,Sacramento Kings,SF,2.67
+97,Duncan Robinson,Miami Heat,SF,2.66
+98,Cameron Payne,New York Knicks,PG,2.65
+99,Santi Aldama,Memphis Grizzlies,PF,2.63
+100,Miles McBride,New York Knicks,PG,2.61

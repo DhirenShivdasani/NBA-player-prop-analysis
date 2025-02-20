@@ -24,10 +24,10 @@ Rank,Player,Team,Pos,Value
 23,Keegan Murray,Sacramento Kings,SF,34.99
 24,Giannis Antetokounmpo,Milwaukee Bucks,SF,34.95
 25,Karl-Anthony Towns,New York Knicks,C,34.90
-26,Austin Reaves,Los Angeles Lakers,PG,34.76
-27,Kelly Oubre Jr.,Philadelphia 76ers,SF,34.71
-28,Scottie Barnes,Toronto Raptors,SF,34.59
-29,LeBron James,Los Angeles Lakers,SF,34.53
+26,Kelly Oubre Jr.,Philadelphia 76ers,SF,34.71
+27,LeBron James,Los Angeles Lakers,SF,34.60
+28,Austin Reaves,Los Angeles Lakers,PG,34.60
+29,Scottie Barnes,Toronto Raptors,SF,34.59
 30,Zach LaVine,Sacramento Kings,PG,34.48
 31,James Harden,Los Angeles Clippers,SG,34.29
 32,Anthony Davis,Dallas Mavericks,PF,34.20
@@ -55,11 +55,11 @@ Rank,Player,Team,Pos,Value
 54,Anfernee Simons,Portland Trail Blazers,SG,32.43
 55,Toumani Camara,Portland Trail Blazers,PF,32.33
 56,Stephen Curry,Golden State Warriors,PG,32.24
-57,Dillon Brooks,Houston Rockets,SG,32.17
-58,Miles Bridges,Charlotte Hornets,SF,32.14
+57,Miles Bridges,Charlotte Hornets,SF,32.17
+58,Dillon Brooks,Houston Rockets,SG,32.17
 59,Lauri Markkanen,Utah Jazz,PF,32.13
-60,Nikola Vucevic,Chicago Bulls,C,32.09
-61,Rui Hachimura,Los Angeles Lakers,PF,31.95
+60,Rui Hachimura,Los Angeles Lakers,PF,32.11
+61,Nikola Vucevic,Chicago Bulls,C,32.09
 62,Tobias Harris,Detroit Pistons,SF,31.92
 63,Amen Thompson,Houston Rockets,SG,31.89
 64,Ivica Zubac,Los Angeles Clippers,C,31.87
@@ -93,8 +93,8 @@ Rank,Player,Team,Pos,Value
 92,Dennis Schroder,Detroit Pistons,PG,28.98
 93,Jarrett Allen,Cleveland Cavaliers,C,28.88
 94,Josh Giddey,Chicago Bulls,SG,28.75
-95,Deni Avdija,Portland Trail Blazers,SF,28.65
-96,Josh Green,Charlotte Hornets,SG,28.58
+95,Josh Green,Charlotte Hornets,SG,28.69
+96,Deni Avdija,Portland Trail Blazers,SF,28.65
 97,De'Andre Hunter,Cleveland Cavaliers,PF,28.55
 98,Collin Sexton,Utah Jazz,PG,28.54
 99,Terry Rozier,Miami Heat,PG,28.51

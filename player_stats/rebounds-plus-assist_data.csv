@@ -2,8 +2,8 @@ Rank,Player,Team,Pos,Value
 1,Nikola Jokic,Denver Nuggets,C,22.84
 2,Domantas Sabonis,Sacramento Kings,PF,20.83
 3,Giannis Antetokounmpo,Milwaukee Bucks,SF,18.31
-4,Karl-Anthony Towns,New York Knicks,C,16.71
-5,LeBron James,Los Angeles Lakers,SF,16.71
+4,LeBron James,Los Angeles Lakers,SF,16.73
+5,Karl-Anthony Towns,New York Knicks,C,16.71
 6,Cade Cunningham,Detroit Pistons,PG,15.74
 7,Anthony Davis,Dallas Mavericks,PF,15.42
 8,Josh Hart,New York Knicks,SG,15.36
@@ -29,9 +29,9 @@ Rank,Player,Team,Pos,Value
 28,Tyrese Haliburton,Indiana Pacers,PG,12.06
 29,Deandre Ayton,Portland Trail Blazers,C,11.75
 30,Julius Randle,Minnesota Timberwolves,PF,11.63
-31,Miles Bridges,Charlotte Hornets,SF,11.50
-31,Amen Thompson,Houston Rockets,SG,11.50
 31,Russell Westbrook,Denver Nuggets,PG,11.50
+31,Amen Thompson,Houston Rockets,SG,11.50
+33,Miles Bridges,Charlotte Hornets,SF,11.36
 34,Draymond Green,Golden State Warriors,PF,11.34
 35,Desmond Bane,Memphis Grizzlies,SG,11.19
 36,De'Aaron Fox,San Antonio Spurs,PG,11.14
@@ -40,10 +40,10 @@ Rank,Player,Team,Pos,Value
 39,Jaylen Brown,Boston Celtics,SG,10.83
 40,Devin Booker,Phoenix Suns,SG,10.71
 41,Pascal Siakam,Indiana Pacers,PF,10.68
-42,Austin Reaves,Los Angeles Lakers,PG,10.64
-43,Stephen Curry,Golden State Warriors,PG,10.61
-44,Bobby Portis,Milwaukee Bucks,PF,10.57
-45,P.J. Washington,Dallas Mavericks,PF,10.53
+42,Stephen Curry,Golden State Warriors,PG,10.61
+43,Bobby Portis,Milwaukee Bucks,PF,10.57
+44,P.J. Washington,Dallas Mavericks,PF,10.53
+45,Austin Reaves,Los Angeles Lakers,PG,10.50
 46,Jalen Williams,Oklahoma City Thunder,SG,10.48
 47,Anthony Edwards,Minnesota Timberwolves,SG,10.33
 48,Jalen Brunson,New York Knicks,PG,10.30
@@ -77,8 +77,8 @@ Rank,Player,Team,Pos,Value
 76,Zach Edey,Memphis Grizzlies,C,8.53
 77,Derrick White,Boston Celtics,PG,8.52
 78,Tyus Jones,Phoenix Suns,PG,8.45
-79,Kelly Oubre Jr.,Philadelphia 76ers,SF,8.29
 79,Daniel Gafford,Dallas Mavericks,PF,8.29
+79,Kelly Oubre Jr.,Philadelphia 76ers,SF,8.29
 81,Scoot Henderson,Portland Trail Blazers,PG,8.26
 82,Jaren Jackson Jr.,Memphis Grizzlies,PF,8.21
 83,Mason Plumlee,Phoenix Suns,PF,8.21

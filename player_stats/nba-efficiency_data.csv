@@ -1,6 +1,6 @@
 Rank,Player,Team,Pos,Value
 1,Nikola Jokic,Denver Nuggets,C,42.13
-2,Giannis Antetokounmpo,Milwaukee Bucks,SF,35.34
+2,Giannis Antetokounmpo,Milwaukee Bucks,SF,35.24
 3,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,32.89
 4,Domantas Sabonis,Sacramento Kings,PF,31.57
 5,Karl-Anthony Towns,New York Knicks,C,30.78
@@ -8,10 +8,10 @@ Rank,Player,Team,Pos,Value
 7,LeBron James,Los Angeles Lakers,SF,29.34
 8,Jayson Tatum,Boston Celtics,SF,28.36
 9,Kevin Durant,Phoenix Suns,SF,26.64
-10,Cade Cunningham,Detroit Pistons,PG,26.49
+10,Cade Cunningham,Detroit Pistons,PG,26.61
 11,Ivica Zubac,Los Angeles Clippers,C,26.13
-12,Damian Lillard,Milwaukee Bucks,PG,25.44
-13,Nikola Vucevic,Chicago Bulls,C,25.25
+12,Damian Lillard,Milwaukee Bucks,PG,25.55
+13,Nikola Vucevic,Chicago Bulls,C,24.95
 14,Evan Mobley,Cleveland Cavaliers,C,24.79
 15,Alperen Sengun,Houston Rockets,C,24.58
 16,Jalen Brunson,New York Knicks,PG,24.52
@@ -22,11 +22,11 @@ Rank,Player,Team,Pos,Value
 21,Bam Adebayo,Miami Heat,C,23.70
 22,James Harden,Los Angeles Clippers,SG,23.46
 23,Tyrese Haliburton,Indiana Pacers,PG,23.45
-24,Stephen Curry,Golden State Warriors,PG,23.45
-25,Trae Young,Atlanta Hawks,PG,23.39
-26,Jarrett Allen,Cleveland Cavaliers,C,23.35
-27,Kyrie Irving,Dallas Mavericks,PG,23.34
-28,Franz Wagner,Orlando Magic,SF,23.07
+24,Trae Young,Atlanta Hawks,PG,23.39
+25,Jarrett Allen,Cleveland Cavaliers,C,23.35
+26,Kyrie Irving,Dallas Mavericks,PG,23.34
+27,Stephen Curry,Golden State Warriors,PG,23.26
+28,Franz Wagner,Orlando Magic,SF,23.23
 29,Tyrese Maxey,Philadelphia 76ers,PG,23.06
 30,Tyler Herro,Miami Heat,SG,23.05
 31,Pascal Siakam,Indiana Pacers,PF,23.00
@@ -35,67 +35,67 @@ Rank,Player,Team,Pos,Value
 34,Jakob Poeltl,Toronto Raptors,C,22.41
 35,Jalen Williams,Oklahoma City Thunder,SG,22.40
 36,Miles Bridges,Charlotte Hornets,SF,22.18
-37,Zach LaVine,Sacramento Kings,PG,22.12
-38,Isaiah Hartenstein,Oklahoma City Thunder,C,21.98
+37,Isaiah Hartenstein,Oklahoma City Thunder,C,21.98
+38,Zach LaVine,Sacramento Kings,PG,21.97
 39,Jaren Jackson Jr.,Memphis Grizzlies,PF,21.86
 40,Desmond Bane,Memphis Grizzlies,SG,21.85
 41,Jamal Murray,Denver Nuggets,SG,21.83
 42,Donovan Mitchell,Cleveland Cavaliers,SG,21.63
-43,Jalen Duren,Detroit Pistons,C,21.43
+43,Jalen Duren,Detroit Pistons,C,21.58
 44,Jaylen Brown,Boston Celtics,SG,21.38
-45,Trey Murphy III,New Orleans Pelicans,SF,21.08
-46,RJ Barrett,Toronto Raptors,SF,20.94
-47,DeMar DeRozan,Sacramento Kings,SG,20.90
+45,DeMar DeRozan,Sacramento Kings,SG,21.03
+46,Trey Murphy III,New Orleans Pelicans,SF,20.96
+47,RJ Barrett,Toronto Raptors,SF,20.94
 48,Amen Thompson,Houston Rockets,SG,20.78
 49,Rudy Gobert,Minnesota Timberwolves,C,20.77
 50,Josh Giddey,Chicago Bulls,SG,20.65
 51,Julius Randle,Minnesota Timberwolves,PF,20.57
 52,Darius Garland,Cleveland Cavaliers,PG,20.57
-53,Michael Porter Jr.,Denver Nuggets,PF,19.70
-54,Norman Powell,Los Angeles Clippers,SG,19.61
-55,Austin Reaves,Los Angeles Lakers,PG,19.61
+53,Austin Reaves,Los Angeles Lakers,PG,19.77
+54,Michael Porter Jr.,Denver Nuggets,PF,19.70
+55,Norman Powell,Los Angeles Clippers,SG,19.61
 56,Onyeka Okongwu,Atlanta Hawks,PF,19.37
 57,Dyson Daniels,Atlanta Hawks,SG,18.57
-58,Cameron Johnson,Brooklyn Nets,PF,18.53
+58,Cameron Johnson,Brooklyn Nets,PF,18.56
 59,Daniel Gafford,Dallas Mavericks,PF,18.49
 60,Derrick White,Boston Celtics,PG,18.48
 61,Christian Braun,Denver Nuggets,SG,18.23
-62,Malik Monk,Sacramento Kings,SG,17.96
-63,CJ McCollum,New Orleans Pelicans,SG,17.84
-64,Jordan Poole,Washington Wizards,SG,17.80
-65,Myles Turner,Indiana Pacers,C,17.75
+62,Myles Turner,Indiana Pacers,C,17.75
+63,Jordan Poole,Washington Wizards,SG,17.75
+64,Malik Monk,Sacramento Kings,SG,17.70
+65,CJ McCollum,New Orleans Pelicans,SG,17.65
 66,Deni Avdija,Portland Trail Blazers,SF,17.56
 67,Bradley Beal,Phoenix Suns,SG,17.41
-68,P.J. Washington,Dallas Mavericks,PF,17.32
-69,Jonas Valanciunas,Sacramento Kings,C,17.24
-70,Coby White,Chicago Bulls,SG,17.19
+68,Coby White,Chicago Bulls,SG,17.37
+69,P.J. Washington,Dallas Mavericks,PF,17.32
+70,Jonas Valanciunas,Sacramento Kings,C,17.11
 71,O.G. Anunoby,New York Knicks,SF,16.98
 72,Bobby Portis,Milwaukee Bucks,PF,16.92
 73,Santi Aldama,Memphis Grizzlies,PF,16.89
 74,Naz Reid,Minnesota Timberwolves,C,16.77
 75,Jalen Green,Houston Rockets,SG,16.70
-76,Tobias Harris,Detroit Pistons,SF,16.58
+76,Tobias Harris,Detroit Pistons,SF,16.59
 77,Mikal Bridges,New York Knicks,SG,16.48
 78,Kelly Oubre Jr.,Philadelphia 76ers,SF,16.42
 79,Anfernee Simons,Portland Trail Blazers,SG,16.40
-80,Andrew Wiggins,Miami Heat,SF,16.31
-81,Chris Paul,San Antonio Spurs,PG,16.28
-82,Nic Claxton,Brooklyn Nets,C,16.14
-83,Fred VanVleet,Houston Rockets,PG,16.13
+80,Nic Claxton,Brooklyn Nets,C,16.40
+81,Andrew Wiggins,Miami Heat,SF,16.31
+82,Chris Paul,San Antonio Spurs,PG,16.28
+83,Fred VanVleet,Houston Rockets,PG,16.15
 84,Russell Westbrook,Denver Nuggets,PG,16.10
 85,Jaden McDaniels,Minnesota Timberwolves,SF,16.07
-86,Draymond Green,Golden State Warriors,PF,15.94
-87,Collin Sexton,Utah Jazz,PG,15.90
-88,Brook Lopez,Milwaukee Bucks,C,15.67
+86,Draymond Green,Golden State Warriors,PF,16.06
+87,Brook Lopez,Milwaukee Bucks,C,15.97
+88,Collin Sexton,Utah Jazz,PG,15.90
 89,De'Andre Hunter,Cleveland Cavaliers,PF,15.65
 90,Payton Pritchard,Boston Celtics,PG,15.62
 91,Nick Richards,Phoenix Suns,C,15.59
 92,Bennedict Mathurin,Indiana Pacers,SG,15.57
-93,Goga Bitadze,Orlando Magic,C,15.55
-94,Keyonte George,Utah Jazz,SG,15.42
-95,Clint Capela,Atlanta Hawks,C,15.31
-96,Keegan Murray,Sacramento Kings,SF,15.18
-97,Zach Edey,Memphis Grizzlies,C,15.04
-98,Rui Hachimura,Los Angeles Lakers,PF,15.02
+93,Keyonte George,Utah Jazz,SG,15.42
+94,Clint Capela,Atlanta Hawks,C,15.31
+95,Goga Bitadze,Orlando Magic,C,15.30
+96,Zach Edey,Memphis Grizzlies,C,15.04
+97,Rui Hachimura,Los Angeles Lakers,PF,15.02
+98,Keegan Murray,Sacramento Kings,SF,15.02
 99,Yves Missi,New Orleans Pelicans,C,14.86
 100,Ayo Dosunmu,Chicago Bulls,PG,14.83

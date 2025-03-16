@@ -30,6 +30,7 @@ Rank,Player,Team,Pos,Value
 29,Julius Randle,Minnesota Timberwolves,PF,11.89
 30,Draymond Green,Golden State Warriors,PF,11.87
 31,Desmond Bane,Memphis Grizzlies,SG,11.79
+32,Miles Bridges,Charlotte Hornets,SF,11.75
 33,Chris Paul,San Antonio Spurs,PG,11.38
 34,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,11.23
 35,De'Aaron Fox,San Antonio Spurs,PG,11.13
@@ -56,6 +57,7 @@ Rank,Player,Team,Pos,Value
 56,Keyonte George,Utah Jazz,SG,9.66
 57,Clint Capela,Atlanta Hawks,C,9.65
 58,Fred VanVleet,Houston Rockets,PG,9.65
+59,Nick Richards,Phoenix Suns,C,9.54
 60,Santi Aldama,Memphis Grizzlies,PF,9.51
 61,Wendell Carter Jr.,Orlando Magic,C,9.45
 62,Tyrese Maxey,Philadelphia 76ers,PG,9.44
@@ -97,5 +99,3 @@ Rank,Player,Team,Pos,Value
 98,Al Horford,Boston Celtics,C,7.94
 99,Kelly Oubre Jr.,Philadelphia 76ers,SF,7.93
 100,D'Angelo Russell,Brooklyn Nets,PG,7.92
-101,Jaren Jackson Jr.,Memphis Grizzlies,PF,7.89
-102,Jalen Green,Houston Rockets,SG,7.82

@@ -3,10 +3,10 @@ Rank,Player,Team,Pos,Value
 2,Giannis Antetokounmpo,Milwaukee Bucks,SF,48.83
 3,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,43.71
 4,Jayson Tatum,Boston Celtics,SF,41.57
-5,Cade Cunningham,Detroit Pistons,PG,41.04
+5,Cade Cunningham,Detroit Pistons,PG,41.07
 6,LeBron James,Los Angeles Lakers,SF,40.75
 7,Karl-Anthony Towns,New York Knicks,C,40.16
-8,Domantas Sabonis,Sacramento Kings,PF,39.14
+8,Domantas Sabonis,Sacramento Kings,PF,39.21
 9,Trae Young,Atlanta Hawks,PG,38.78
 10,Anthony Edwards,Minnesota Timberwolves,SG,37.68
 11,Devin Booker,Phoenix Suns,SG,36.99
@@ -15,9 +15,9 @@ Rank,Player,Team,Pos,Value
 14,Damian Lillard,Milwaukee Bucks,PG,36.61
 15,Jalen Brunson,New York Knicks,PG,36.48
 16,Stephen Curry,Golden State Warriors,PG,34.83
-17,Tyler Herro,Miami Heat,SG,34.70
-18,De'Aaron Fox,San Antonio Spurs,PG,34.66
-19,Franz Wagner,Orlando Magic,SF,34.62
+17,De'Aaron Fox,San Antonio Spurs,PG,34.66
+18,Franz Wagner,Orlando Magic,SF,34.62
+19,Tyler Herro,Miami Heat,SG,34.60
 20,Alperen Sengun,Houston Rockets,C,34.48
 21,Donovan Mitchell,Cleveland Cavaliers,SG,33.48
 22,RJ Barrett,Toronto Raptors,SF,33.16
@@ -26,13 +26,13 @@ Rank,Player,Team,Pos,Value
 25,Nikola Vucevic,Chicago Bulls,C,32.14
 26,Bam Adebayo,Miami Heat,C,31.97
 27,Miles Bridges,Charlotte Hornets,SF,31.84
-28,Jalen Williams,Oklahoma City Thunder,SG,31.75
-29,Ivica Zubac,Los Angeles Clippers,C,31.63
-30,Zach LaVine,Sacramento Kings,PG,31.54
+28,Zach LaVine,Sacramento Kings,PG,31.80
+29,Jalen Williams,Oklahoma City Thunder,SG,31.75
+30,Ivica Zubac,Los Angeles Clippers,C,31.63
 31,Jamal Murray,Denver Nuggets,SG,31.49
 32,Tyrese Haliburton,Indiana Pacers,PG,31.27
 33,Evan Mobley,Cleveland Cavaliers,C,30.91
-34,DeMar DeRozan,Sacramento Kings,SG,30.64
+34,DeMar DeRozan,Sacramento Kings,SG,30.81
 35,Pascal Siakam,Indiana Pacers,PF,30.58
 36,Austin Reaves,Los Angeles Lakers,PG,30.51
 37,Desmond Bane,Memphis Grizzlies,SG,30.50
@@ -48,12 +48,12 @@ Rank,Player,Team,Pos,Value
 47,Jordan Poole,Washington Wizards,SG,27.97
 48,Michael Porter Jr.,Denver Nuggets,PF,27.43
 49,Norman Powell,Los Angeles Clippers,SG,27.30
-50,Malik Monk,Sacramento Kings,SG,26.89
-51,Jakob Poeltl,Toronto Raptors,C,26.82
-52,Anfernee Simons,Portland Trail Blazers,SG,26.77
+50,Jakob Poeltl,Toronto Raptors,C,26.82
+51,Anfernee Simons,Portland Trail Blazers,SG,26.77
+52,Malik Monk,Sacramento Kings,SG,26.52
 53,Cameron Johnson,Brooklyn Nets,PF,26.51
-54,Keyonte George,Utah Jazz,SG,26.20
-55,Amen Thompson,Houston Rockets,SG,26.03
+54,Keyonte George,Utah Jazz,SG,26.19
+55,Amen Thompson,Houston Rockets,SG,26.04
 56,Isaiah Hartenstein,Oklahoma City Thunder,C,25.79
 57,Jarrett Allen,Cleveland Cavaliers,C,25.56
 58,Derrick White,Boston Celtics,PG,25.54
@@ -62,7 +62,7 @@ Rank,Player,Team,Pos,Value
 61,Andrew Wiggins,Miami Heat,SF,25.21
 62,O.G. Anunoby,New York Knicks,SF,25.13
 63,Walker Kessler,Utah Jazz,C,24.91
-64,Jalen Duren,Detroit Pistons,C,24.88
+64,Jalen Duren,Detroit Pistons,C,24.83
 65,Mikal Bridges,New York Knicks,SG,24.79
 66,P.J. Washington,Dallas Mavericks,PF,24.75
 67,Russell Westbrook,Denver Nuggets,PG,24.50
@@ -82,18 +82,18 @@ Rank,Player,Team,Pos,Value
 81,Tobias Harris,Detroit Pistons,SF,22.04
 82,Stephon Castle,San Antonio Spurs,PG,21.97
 83,Alex Sarr,Washington Wizards,C,21.79
-84,Quentin Grimes,Philadelphia 76ers,SG,21.49
-85,Dennis Schroder,Detroit Pistons,PG,21.38
+84,Quentin Grimes,Philadelphia 76ers,SG,21.78
+85,Dennis Schroder,Detroit Pistons,PG,21.22
 86,Payton Pritchard,Boston Celtics,PG,21.17
 87,Naji Marshall,Dallas Mavericks,PF,20.98
 88,Draymond Green,Golden State Warriors,PF,20.83
 89,Scoot Henderson,Portland Trail Blazers,PG,20.76
 90,Bilal Coulibaly,Washington Wizards,SG,20.68
-91,Malik Beasley,Detroit Pistons,SG,20.67
+91,Malik Beasley,Detroit Pistons,SG,20.62
 92,Keegan Murray,Sacramento Kings,SF,20.61
 93,D'Angelo Russell,Brooklyn Nets,PG,20.53
 94,Jabari Smith Jr.,Houston Rockets,PF,20.28
-95,Jonas Valanciunas,Sacramento Kings,C,20.23
+95,Jonas Valanciunas,Sacramento Kings,C,20.27
 96,Nic Claxton,Brooklyn Nets,C,20.18
 97,Jaden McDaniels,Minnesota Timberwolves,SF,20.13
 98,Brook Lopez,Milwaukee Bucks,C,20.09

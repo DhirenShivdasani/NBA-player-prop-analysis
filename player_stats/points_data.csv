@@ -12,8 +12,8 @@ Rank,Player,Team,Pos,Value
 11,Stephen Curry,Golden State Warriors,PG,24.72
 12,Karl-Anthony Towns,New York Knicks,C,24.43
 13,LeBron James,Los Angeles Lakers,SF,24.43
-14,Trae Young,Atlanta Hawks,PG,24.27
-15,Tyler Herro,Miami Heat,SG,24.08
+14,Trae Young,Atlanta Hawks,PG,24.33
+15,Tyler Herro,Miami Heat,SG,24.15
 16,Franz Wagner,Orlando Magic,SF,23.97
 17,Donovan Mitchell,Cleveland Cavaliers,SG,23.96
 18,De'Aaron Fox,San Antonio Spurs,PG,23.53
@@ -21,7 +21,7 @@ Rank,Player,Team,Pos,Value
 20,James Harden,Los Angeles Clippers,SG,22.81
 21,DeMar DeRozan,Sacramento Kings,SG,22.35
 22,Jaylen Brown,Boston Celtics,SG,22.19
-23,Jaren Jackson Jr.,Memphis Grizzlies,PF,22.12
+23,Jaren Jackson Jr.,Memphis Grizzlies,PF,22.14
 24,Norman Powell,Los Angeles Clippers,SG,21.77
 25,Jalen Williams,Oklahoma City Thunder,SG,21.54
 26,Jamal Murray,Denver Nuggets,SG,21.43
@@ -33,7 +33,7 @@ Rank,Player,Team,Pos,Value
 32,Miles Bridges,Charlotte Hornets,SF,20.31
 33,Pascal Siakam,Indiana Pacers,PF,20.23
 34,Austin Reaves,Los Angeles Lakers,PG,20.21
-35,Desmond Bane,Memphis Grizzlies,SG,19.39
+35,Desmond Bane,Memphis Grizzlies,SG,19.42
 36,Scottie Barnes,Toronto Raptors,SF,19.26
 37,Anfernee Simons,Portland Trail Blazers,SG,19.26
 38,Alperen Sengun,Houston Rockets,C,19.09
@@ -45,9 +45,9 @@ Rank,Player,Team,Pos,Value
 44,Nikola Vucevic,Chicago Bulls,C,18.45
 45,Collin Sexton,Utah Jazz,PG,18.40
 46,Michael Porter Jr.,Denver Nuggets,PF,18.16
-47,Bam Adebayo,Miami Heat,C,18.04
-48,O.G. Anunoby,New York Knicks,SF,18.00
-48,Andrew Wiggins,Miami Heat,SF,18.00
+47,Andrew Wiggins,Miami Heat,SF,18.03
+48,Bam Adebayo,Miami Heat,C,18.03
+49,O.G. Anunoby,New York Knicks,SF,18.00
 50,Mikal Bridges,New York Knicks,SG,17.61
 51,Malik Monk,Sacramento Kings,SG,17.18
 52,De'Andre Hunter,Cleveland Cavaliers,PF,17.00
@@ -63,22 +63,22 @@ Rank,Player,Team,Pos,Value
 62,Kelly Oubre Jr.,Philadelphia 76ers,SF,15.10
 63,Kyle Kuzma,Milwaukee Bucks,PF,14.83
 64,Josh Giddey,Chicago Bulls,SG,14.75
-65,P.J. Washington,Dallas Mavericks,PF,14.71
-66,Stephon Castle,San Antonio Spurs,PG,14.63
-67,Quentin Grimes,Philadelphia 76ers,SG,14.56
+65,Stephon Castle,San Antonio Spurs,PG,14.63
+66,Quentin Grimes,Philadelphia 76ers,SG,14.56
+67,P.J. Washington,Dallas Mavericks,PF,14.46
 68,Payton Pritchard,Boston Celtics,PG,14.30
 69,Naz Reid,Minnesota Timberwolves,C,14.23
-70,Klay Thompson,Dallas Mavericks,SG,14.08
+70,Klay Thompson,Dallas Mavericks,SG,14.14
 71,Fred VanVleet,Houston Rockets,PG,14.07
 72,Amen Thompson,Houston Rockets,SG,14.06
 73,Dillon Brooks,Houston Rockets,SG,14.04
-74,Dyson Daniels,Atlanta Hawks,SG,14.03
+74,Dyson Daniels,Atlanta Hawks,SG,13.99
 75,Tobias Harris,Detroit Pistons,SF,13.73
 76,Josh Hart,New York Knicks,SG,13.65
-77,Jarrett Allen,Cleveland Cavaliers,C,13.45
-78,Onyeka Okongwu,Atlanta Hawks,PF,13.32
+77,Onyeka Okongwu,Atlanta Hawks,PF,13.51
+78,Jarrett Allen,Cleveland Cavaliers,C,13.45
 79,Russell Westbrook,Denver Nuggets,PG,13.25
-80,Naji Marshall,Dallas Mavericks,PF,13.19
+80,Naji Marshall,Dallas Mavericks,PF,13.18
 81,Rui Hachimura,Los Angeles Lakers,PF,13.14
 82,Dennis Schroder,Detroit Pistons,PG,13.07
 83,Brook Lopez,Milwaukee Bucks,C,13.01
@@ -87,14 +87,14 @@ Rank,Player,Team,Pos,Value
 86,Scoot Henderson,Portland Trail Blazers,PG,12.68
 87,D'Angelo Russell,Brooklyn Nets,PG,12.62
 88,Ty Jerome,Cleveland Cavaliers,SG,12.54
-89,Santi Aldama,Memphis Grizzlies,PF,12.50
-90,Zaccharie Risacher,Atlanta Hawks,SF,12.49
+89,Santi Aldama,Memphis Grizzlies,PF,12.48
+90,Zaccharie Risacher,Atlanta Hawks,SF,12.36
 91,Keegan Murray,Sacramento Kings,SF,12.35
 92,Harrison Barnes,San Antonio Spurs,SF,12.33
 93,Bilal Coulibaly,Washington Wizards,SG,12.32
-94,Daniel Gafford,Dallas Mavericks,PF,12.24
-95,Jaden McDaniels,Minnesota Timberwolves,SF,12.20
-96,Caris LeVert,Atlanta Hawks,SG,12.05
+94,Jaden McDaniels,Minnesota Timberwolves,SF,12.20
+95,Daniel Gafford,Dallas Mavericks,PF,12.12
+96,Caris LeVert,Atlanta Hawks,SG,12.09
 97,Rudy Gobert,Minnesota Timberwolves,C,12.03
 98,Aaron Wiggins,Oklahoma City Thunder,SG,11.87
 99,Jalen Duren,Detroit Pistons,C,11.77

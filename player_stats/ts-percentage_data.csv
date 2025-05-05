@@ -1,5 +1,5 @@
 Rank,Player,Team,Pos,Value
-1,Jarrett Allen,Cleveland Cavaliers,C,72.9%
+1,Jarrett Allen,Cleveland Cavaliers,C,73.0%
 2,Jalen Duren,Detroit Pistons,C,70.4%
 3,Rudy Gobert,Minnesota Timberwolves,C,68.1%
 4,Keon Ellis,Sacramento Kings,SG,66.7%
@@ -8,14 +8,14 @@ Rank,Player,Team,Pos,Value
 7,Christian Braun,Denver Nuggets,SG,65.5%
 8,Domantas Sabonis,Sacramento Kings,PF,65.2%
 9,Mark Williams,Charlotte Hornets,C,64.7%
-10,Ty Jerome,Cleveland Cavaliers,SG,64.5%
-11,Obi Toppin,Indiana Pacers,PF,64.4%
-12,Aaron Gordon,Denver Nuggets,PF,64.3%
-13,Kevin Durant,Phoenix Suns,SF,64.2%
-14,Ivica Zubac,Los Angeles Clippers,C,64.2%
-15,Jakob Poeltl,Toronto Raptors,C,64.1%
+10,Obi Toppin,Indiana Pacers,PF,64.4%
+11,Aaron Gordon,Denver Nuggets,PF,64.3%
+12,Kevin Durant,Phoenix Suns,SF,64.2%
+13,Ivica Zubac,Los Angeles Clippers,C,64.2%
+14,Jakob Poeltl,Toronto Raptors,C,64.1%
+15,Ty Jerome,Cleveland Cavaliers,SG,64.0%
 16,Zach LaVine,Sacramento Kings,PG,63.8%
-17,Evan Mobley,Cleveland Cavaliers,C,63.6%
+17,Evan Mobley,Cleveland Cavaliers,C,63.8%
 18,Onyeka Okongwu,Atlanta Hawks,PF,63.5%
 19,Payton Pritchard,Boston Celtics,PG,63.5%
 20,Cameron Johnson,Brooklyn Nets,PF,63.2%
@@ -24,8 +24,8 @@ Rank,Player,Team,Pos,Value
 23,Karl-Anthony Towns,New York Knicks,C,62.8%
 24,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,62.8%
 25,Giannis Antetokounmpo,Milwaukee Bucks,SF,62.5%
-26,De'Andre Hunter,Cleveland Cavaliers,PF,62.5%
-27,Jimmy Butler III,Golden State Warriors,PF,62.4%
+26,Jimmy Butler III,Golden State Warriors,PF,62.5%
+27,De'Andre Hunter,Cleveland Cavaliers,PF,62.5%
 28,Zach Edey,Memphis Grizzlies,C,62.4%
 29,Rui Hachimura,Los Angeles Lakers,PF,62.1%
 30,Stephen Curry,Golden State Warriors,PG,62.0%
@@ -34,14 +34,14 @@ Rank,Player,Team,Pos,Value
 33,Damian Lillard,Milwaukee Bucks,PG,61.6%
 34,Guerschon Yabusele,Philadelphia 76ers,PF,61.6%
 35,Michael Porter Jr.,Denver Nuggets,PF,61.5%
-36,Amir Coffey,Los Angeles Clippers,SG,61.4%
-37,Myles Turner,Indiana Pacers,C,61.4%
+36,Myles Turner,Indiana Pacers,C,61.4%
+37,Amir Coffey,Los Angeles Clippers,SG,61.4%
 38,Norman Powell,Los Angeles Clippers,SG,61.2%
 39,Josh Hart,New York Knicks,SG,61.1%
 40,Nikola Vucevic,Chicago Bulls,C,61.1%
-41,Brice Sensabaugh,Utah Jazz,SF,61.1%
-42,Austin Reaves,Los Angeles Lakers,PG,61.1%
-43,Tyrese Haliburton,Indiana Pacers,PG,61.0%
+41,Tyrese Haliburton,Indiana Pacers,PG,61.1%
+42,Brice Sensabaugh,Utah Jazz,SF,61.1%
+43,Austin Reaves,Los Angeles Lakers,PG,61.1%
 44,Derrick White,Boston Celtics,PG,60.8%
 45,Georges Niang,Atlanta Hawks,SF,60.7%
 46,Taurean Prince,Milwaukee Bucks,SF,60.6%
@@ -56,16 +56,16 @@ Rank,Player,Team,Pos,Value
 55,Kel'el Ware,Miami Heat,C,60.1%
 56,Derrick Jones Jr.,Los Angeles Clippers,SF,60.1%
 57,Ochai Agbaji,Toronto Raptors,SG,60.1%
-58,Pascal Siakam,Indiana Pacers,PF,60.1%
-59,Zion Williamson,New Orleans Pelicans,PF,60.0%
+58,Zion Williamson,New Orleans Pelicans,PF,60.0%
+59,Pascal Siakam,Indiana Pacers,PF,60.0%
 60,Jalen Brunson,New York Knicks,PG,59.8%
 61,Bradley Beal,Phoenix Suns,SG,59.8%
 62,Trey Murphy III,New Orleans Pelicans,SF,59.8%
 63,Coby White,Chicago Bulls,SG,59.7%
-64,Kawhi Leonard,Los Angeles Clippers,SF,59.6%
-65,Quentin Grimes,Philadelphia 76ers,SG,59.5%
-66,Duncan Robinson,Miami Heat,SF,59.5%
-67,Amen Thompson,Houston Rockets,SG,59.5%
+64,Amen Thompson,Houston Rockets,SG,59.6%
+65,Kawhi Leonard,Los Angeles Clippers,SF,59.6%
+66,Quentin Grimes,Philadelphia 76ers,SG,59.5%
+67,Duncan Robinson,Miami Heat,SF,59.5%
 68,Julius Randle,Minnesota Timberwolves,PF,59.4%
 69,Kyle Filipowski,Utah Jazz,C,59.4%
 70,Kyrie Irving,Dallas Mavericks,PG,59.4%
@@ -96,6 +96,6 @@ Rank,Player,Team,Pos,Value
 95,Chris Paul,San Antonio Spurs,PG,58.1%
 96,James Harden,Los Angeles Clippers,SG,58.1%
 97,Scotty Pippen Jr.,Memphis Grizzlies,PG,57.9%
-98,Bennedict Mathurin,Indiana Pacers,SG,57.8%
-99,Luguentz Dort,Oklahoma City Thunder,SG,57.8%
-100,Donovan Mitchell,Cleveland Cavaliers,SG,57.7%
+98,Luguentz Dort,Oklahoma City Thunder,SG,57.8%
+99,Bennedict Mathurin,Indiana Pacers,SG,57.8%
+100,Julian Champagnie,San Antonio Spurs,PF,57.7%

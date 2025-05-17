@@ -1,7 +1,7 @@
 Rank,Player,Team,Pos,Value
 1,Domantas Sabonis,Sacramento Kings,PF,13.87
 2,Nikola Jokic,Denver Nuggets,C,12.78
-3,Karl-Anthony Towns,New York Knicks,C,12.58
+3,Karl-Anthony Towns,New York Knicks,C,12.57
 4,Ivica Zubac,Los Angeles Clippers,C,12.43
 5,Giannis Antetokounmpo,Milwaukee Bucks,SF,12.25
 6,Walker Kessler,Utah Jazz,C,12.19
@@ -12,7 +12,7 @@ Rank,Player,Team,Pos,Value
 11,Nikola Vucevic,Chicago Bulls,C,10.09
 12,Bam Adebayo,Miami Heat,C,9.71
 13,Jarrett Allen,Cleveland Cavaliers,C,9.60
-14,Josh Hart,New York Knicks,SG,9.41
+14,Josh Hart,New York Knicks,SG,9.43
 15,Evan Mobley,Cleveland Cavaliers,C,9.16
 16,Onyeka Okongwu,Atlanta Hawks,PF,8.96
 17,Jayson Tatum,Boston Celtics,SF,8.94
@@ -42,10 +42,10 @@ Rank,Player,Team,Pos,Value
 41,Goga Bitadze,Orlando Magic,C,6.31
 42,RJ Barrett,Toronto Raptors,SF,6.31
 43,Cade Cunningham,Detroit Pistons,PG,6.25
-44,Al Horford,Boston Celtics,C,6.19
-45,Moussa Diabate,Charlotte Hornets,SF,6.17
-46,Mason Plumlee,Phoenix Suns,PF,6.15
-47,Kelly Oubre Jr.,Philadelphia 76ers,SF,6.13
+44,Moussa Diabate,Charlotte Hornets,SF,6.17
+45,Mason Plumlee,Phoenix Suns,PF,6.15
+46,Kelly Oubre Jr.,Philadelphia 76ers,SF,6.13
+47,Al Horford,Boston Celtics,C,6.13
 48,Tari Eason,Houston Rockets,SF,6.13
 49,Kyle Filipowski,Utah Jazz,C,6.11
 50,Desmond Bane,Memphis Grizzlies,SG,6.08
@@ -72,10 +72,10 @@ Rank,Player,Team,Pos,Value
 71,Christian Braun,Denver Nuggets,SG,5.39
 72,Aaron Gordon,Denver Nuggets,PF,5.34
 73,Jalen Williams,Oklahoma City Thunder,SG,5.34
-74,Precious Achiuwa,New York Knicks,PF,5.26
+74,Precious Achiuwa,New York Knicks,PF,5.23
 75,Ausar Thompson,Detroit Pistons,SG,5.14
-76,Luke Kornet,Boston Celtics,C,5.13
 76,Tyler Herro,Miami Heat,SG,5.13
+77,Luke Kornet,Boston Celtics,C,5.13
 78,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,5.11
 79,Brandon Clarke,Memphis Grizzlies,PF,5.09
 80,Brandin Podziemski,Golden State Warriors,SG,5.05
@@ -84,7 +84,7 @@ Rank,Player,Team,Pos,Value
 83,Rui Hachimura,Los Angeles Lakers,PF,4.97
 84,Jonathan Mogbo,Toronto Raptors,PF,4.94
 85,Brook Lopez,Milwaukee Bucks,C,4.86
-86,O.G. Anunoby,New York Knicks,SF,4.81
+85,O.G. Anunoby,New York Knicks,SF,4.86
 87,De'Aaron Fox,San Antonio Spurs,PG,4.81
 88,Keldon Johnson,San Antonio Spurs,PF,4.79
 89,Jeremiah Robinson-Earl,New Orleans Pelicans,PF,4.77
@@ -96,6 +96,6 @@ Rank,Player,Team,Pos,Value
 95,Jalen Green,Houston Rockets,SG,4.65
 96,DeAndre Jordan,Denver Nuggets,C,4.65
 97,Jaxson Hayes,Los Angeles Lakers,C,4.62
-98,Derrick White,Boston Celtics,PG,4.60
-99,Trey Lyles,Sacramento Kings,PF,4.60
-100,Damian Lillard,Milwaukee Bucks,PG,4.58
+98,Trey Lyles,Sacramento Kings,PF,4.60
+99,Damian Lillard,Milwaukee Bucks,PG,4.58
+100,Austin Reaves,Los Angeles Lakers,PG,4.56

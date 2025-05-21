@@ -12,21 +12,21 @@ Rank,Player,Team,Pos,Value
 11,Jayson Tatum,Boston Celtics,SF,14.86
 12,Trae Young,Atlanta Hawks,PG,14.62
 13,James Harden,Los Angeles Clippers,SG,14.48
-14,Isaiah Hartenstein,Oklahoma City Thunder,C,14.07
-15,Bam Adebayo,Miami Heat,C,14.02
+14,Bam Adebayo,Miami Heat,C,14.02
+15,Isaiah Hartenstein,Oklahoma City Thunder,C,13.94
 16,Walker Kessler,Utah Jazz,C,13.86
 17,Nikola Vucevic,Chicago Bulls,C,13.57
 18,Scottie Barnes,Toronto Raptors,SF,13.54
 19,Jalen Duren,Detroit Pistons,C,13.11
 20,Tyrese Haliburton,Indiana Pacers,PG,13.00
-21,Rudy Gobert,Minnesota Timberwolves,C,12.33
+21,Rudy Gobert,Minnesota Timberwolves,C,12.23
 22,Evan Mobley,Cleveland Cavaliers,C,12.19
 23,Amen Thompson,Houston Rockets,SG,11.83
-24,Julius Randle,Minnesota Timberwolves,PF,11.75
-25,RJ Barrett,Toronto Raptors,SF,11.72
+24,RJ Barrett,Toronto Raptors,SF,11.72
+25,Julius Randle,Minnesota Timberwolves,PF,11.71
 26,Damian Lillard,Milwaukee Bucks,PG,11.48
 27,Jarrett Allen,Cleveland Cavaliers,C,11.47
-28,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,11.43
+28,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,11.46
 29,Draymond Green,Golden State Warriors,PF,11.42
 30,Miles Bridges,Charlotte Hornets,SF,11.39
 31,Desmond Bane,Memphis Grizzlies,SG,11.35
@@ -36,8 +36,8 @@ Rank,Player,Team,Pos,Value
 35,Devin Booker,Phoenix Suns,SG,11.12
 36,Jimmy Butler III,Golden State Warriors,PF,11.00
 37,Chris Paul,San Antonio Spurs,PG,10.96
-38,Anthony Edwards,Minnesota Timberwolves,SG,10.65
-39,Jalen Williams,Oklahoma City Thunder,SG,10.52
+38,Anthony Edwards,Minnesota Timberwolves,SG,10.67
+39,Jalen Williams,Oklahoma City Thunder,SG,10.55
 40,Franz Wagner,Orlando Magic,SF,10.52
 41,Tyler Herro,Miami Heat,SG,10.51
 42,Jaylen Brown,Boston Celtics,SG,10.47
@@ -86,10 +86,10 @@ Rank,Player,Team,Pos,Value
 85,Jalen Green,Houston Rockets,SG,8.03
 86,Toumani Camara,Portland Trail Blazers,PF,8.00
 87,Myles Turner,Indiana Pacers,C,7.99
-88,Mason Plumlee,Phoenix Suns,PF,7.96
-89,Christian Braun,Denver Nuggets,SG,7.95
-90,Kelly Oubre Jr.,Philadelphia 76ers,SF,7.93
-90,Naz Reid,Minnesota Timberwolves,C,7.93
+88,Naz Reid,Minnesota Timberwolves,C,7.98
+89,Mason Plumlee,Phoenix Suns,PF,7.96
+90,Christian Braun,Denver Nuggets,SG,7.95
+91,Kelly Oubre Jr.,Philadelphia 76ers,SF,7.93
 92,D'Angelo Russell,Brooklyn Nets,PG,7.91
 93,Dennis Schroder,Detroit Pistons,PG,7.89
 94,Max Strus,Cleveland Cavaliers,PG,7.81
@@ -98,4 +98,4 @@ Rank,Player,Team,Pos,Value
 97,Guerschon Yabusele,Philadelphia 76ers,PF,7.76
 98,Scotty Pippen Jr.,Memphis Grizzlies,PG,7.72
 99,Tyus Jones,Phoenix Suns,PG,7.72
-100,Jaden McDaniels,Minnesota Timberwolves,SF,7.68
+100,Jaden McDaniels,Minnesota Timberwolves,SF,7.70

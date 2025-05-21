@@ -1,7 +1,7 @@
 Rank,Player,Team,Pos,Value
 1,Nikola Jokic,Denver Nuggets,C,40.89
 2,Giannis Antetokounmpo,Milwaukee Bucks,SF,36.25
-3,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,32.28
+3,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,32.21
 4,Domantas Sabonis,Sacramento Kings,PF,30.76
 5,Karl-Anthony Towns,New York Knicks,C,29.38
 6,LeBron James,Los Angeles Lakers,SF,28.55
@@ -10,9 +10,9 @@ Rank,Player,Team,Pos,Value
 9,Ivica Zubac,Los Angeles Clippers,C,26.69
 10,Kevin Durant,Phoenix Suns,SF,26.31
 11,Nikola Vucevic,Chicago Bulls,C,24.86
-12,Anthony Edwards,Minnesota Timberwolves,SG,24.48
-13,Alperen Sengun,Houston Rockets,C,24.48
-14,James Harden,Los Angeles Clippers,SG,24.48
+12,Alperen Sengun,Houston Rockets,C,24.48
+13,James Harden,Los Angeles Clippers,SG,24.48
+14,Anthony Edwards,Minnesota Timberwolves,SG,24.40
 15,Evan Mobley,Cleveland Cavaliers,C,24.38
 16,Damian Lillard,Milwaukee Bucks,PG,24.37
 17,Tyrese Haliburton,Indiana Pacers,PG,24.12
@@ -28,7 +28,7 @@ Rank,Player,Team,Pos,Value
 27,Franz Wagner,Orlando Magic,SF,22.70
 28,Jimmy Butler III,Golden State Warriors,PF,22.45
 29,Jarrett Allen,Cleveland Cavaliers,C,22.42
-30,Jalen Williams,Oklahoma City Thunder,SG,22.22
+30,Jalen Williams,Oklahoma City Thunder,SG,22.27
 31,Scottie Barnes,Toronto Raptors,SF,22.17
 32,Josh Giddey,Chicago Bulls,SG,22.06
 33,Pascal Siakam,Indiana Pacers,PF,22.05
@@ -36,14 +36,14 @@ Rank,Player,Team,Pos,Value
 35,Jalen Duren,Detroit Pistons,C,21.82
 36,Jamal Murray,Denver Nuggets,SG,21.63
 37,Desmond Bane,Memphis Grizzlies,SG,21.45
-38,Rudy Gobert,Minnesota Timberwolves,C,21.33
-39,Isaiah Hartenstein,Oklahoma City Thunder,C,21.30
-40,Julius Randle,Minnesota Timberwolves,PF,21.05
+38,Isaiah Hartenstein,Oklahoma City Thunder,C,21.19
+39,Julius Randle,Minnesota Timberwolves,PF,21.14
+40,Rudy Gobert,Minnesota Timberwolves,C,21.11
 41,Zach LaVine,Sacramento Kings,PG,21.04
 42,Amen Thompson,Houston Rockets,SG,20.95
 43,Miles Bridges,Charlotte Hornets,SF,20.77
-44,DeMar DeRozan,Sacramento Kings,SG,20.74
 44,Austin Reaves,Los Angeles Lakers,PG,20.74
+44,DeMar DeRozan,Sacramento Kings,SG,20.74
 46,Onyeka Okongwu,Atlanta Hawks,PF,20.68
 47,Jaylen Brown,Boston Celtics,SG,20.54
 48,Jaren Jackson Jr.,Memphis Grizzlies,PF,20.51
@@ -75,9 +75,9 @@ Rank,Player,Team,Pos,Value
 74,Fred VanVleet,Houston Rockets,PG,15.88
 75,Jonas Valanciunas,Sacramento Kings,C,15.88
 76,Zach Edey,Memphis Grizzlies,C,15.86
-77,Jaden McDaniels,Minnesota Timberwolves,SF,15.74
-78,Naz Reid,Minnesota Timberwolves,C,15.72
-79,Shaedon Sharpe,Portland Trail Blazers,SG,15.68
+77,Jaden McDaniels,Minnesota Timberwolves,SF,15.71
+78,Shaedon Sharpe,Portland Trail Blazers,SG,15.68
+79,Naz Reid,Minnesota Timberwolves,C,15.59
 80,Chris Paul,San Antonio Spurs,PG,15.59
 81,Brook Lopez,Milwaukee Bucks,C,15.55
 82,Devin Vassell,San Antonio Spurs,SG,15.40

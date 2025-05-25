@@ -12,7 +12,7 @@ Rank,Player,Team,Pos,Value
 11,Damian Lillard,Milwaukee Bucks,PG,6.90
 12,Darius Garland,Cleveland Cavaliers,PG,6.65
 13,Giannis Antetokounmpo,Milwaukee Bucks,SF,6.52
-14,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,6.39
+14,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,6.38
 15,De'Aaron Fox,San Antonio Spurs,PG,6.32
 16,Isaiah Collier,Utah Jazz,PG,6.28
 17,Domantas Sabonis,Sacramento Kings,PF,6.03
@@ -33,7 +33,7 @@ Rank,Player,Team,Pos,Value
 32,Tyus Jones,Phoenix Suns,PG,5.30
 33,Desmond Bane,Memphis Grizzlies,SG,5.27
 34,Dennis Schroder,Detroit Pistons,PG,5.26
-35,Jalen Williams,Oklahoma City Thunder,SG,5.18
+35,Jalen Williams,Oklahoma City Thunder,SG,5.14
 36,D'Angelo Russell,Brooklyn Nets,PG,5.12
 37,Andrew Nembhard,Indiana Pacers,PG,5.09
 38,Scoot Henderson,Portland Trail Blazers,PG,5.08
@@ -41,9 +41,9 @@ Rank,Player,Team,Pos,Value
 40,Alperen Sengun,Houston Rockets,C,4.93
 41,Donovan Mitchell,Cleveland Cavaliers,SG,4.86
 42,Anfernee Simons,Portland Trail Blazers,SG,4.80
-43,Julius Randle,Minnesota Timberwolves,PF,4.79
-44,Franz Wagner,Orlando Magic,SF,4.77
-45,Anthony Edwards,Minnesota Timberwolves,SG,4.69
+43,Franz Wagner,Orlando Magic,SF,4.77
+44,Julius Randle,Minnesota Timberwolves,PF,4.77
+45,Anthony Edwards,Minnesota Timberwolves,SG,4.71
 46,Derrick White,Boston Celtics,PG,4.60
 47,Coby White,Chicago Bulls,SG,4.47
 48,Jordan Poole,Washington Wizards,SG,4.46
@@ -52,7 +52,7 @@ Rank,Player,Team,Pos,Value
 51,DeMar DeRozan,Sacramento Kings,SG,4.41
 51,Dyson Daniels,Atlanta Hawks,SG,4.41
 53,T.J. McConnell,Indiana Pacers,PG,4.41
-54,Mike Conley,Minnesota Timberwolves,PG,4.37
+54,Mike Conley,Minnesota Timberwolves,PG,4.35
 55,Scotty Pippen Jr.,Memphis Grizzlies,PG,4.33
 56,Bam Adebayo,Miami Heat,C,4.31
 57,Spencer Dinwiddie,Dallas Mavericks,PG,4.31
@@ -67,9 +67,9 @@ Rank,Player,Team,Pos,Value
 66,Amen Thompson,Houston Rockets,SG,3.79
 67,Jared Butler,Philadelphia 76ers,PG,3.67
 68,Mikal Bridges,New York Knicks,SG,3.61
-69,Donte DiVincenzo,Minnesota Timberwolves,SG,3.58
-70,Isaiah Hartenstein,Oklahoma City Thunder,C,3.58
-71,Kevin Porter Jr.,Milwaukee Bucks,SG,3.55
+69,Donte DiVincenzo,Minnesota Timberwolves,SG,3.57
+70,Kevin Porter Jr.,Milwaukee Bucks,SG,3.55
+71,Isaiah Hartenstein,Oklahoma City Thunder,C,3.53
 72,Nikola Vucevic,Chicago Bulls,C,3.47
 73,Ty Jerome,Cleveland Cavaliers,SG,3.41
 74,Caris LeVert,Atlanta Hawks,SG,3.39
@@ -95,7 +95,7 @@ Rank,Player,Team,Pos,Value
 94,Andrew Wiggins,Miami Heat,SF,2.70
 95,Ivica Zubac,Los Angeles Clippers,C,2.64
 96,Bogdan Bogdanovic,Los Angeles Clippers,SG,2.64
-97,Nickeil Alexander-Walker,Minnesota Timberwolves,SG,2.63
+97,Nickeil Alexander-Walker,Minnesota Timberwolves,SG,2.62
 98,Terry Rozier,Miami Heat,PG,2.61
 99,Miles McBride,New York Knicks,PG,2.59
 100,Christian Braun,Denver Nuggets,SG,2.57

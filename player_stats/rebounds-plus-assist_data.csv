@@ -14,7 +14,7 @@ Rank,Player,Team,Pos,Value
 13,James Harden,Los Angeles Clippers,SG,14.48
 14,Bam Adebayo,Miami Heat,C,14.02
 15,Walker Kessler,Utah Jazz,C,13.86
-16,Isaiah Hartenstein,Oklahoma City Thunder,C,13.78
+16,Isaiah Hartenstein,Oklahoma City Thunder,C,13.70
 17,Nikola Vucevic,Chicago Bulls,C,13.57
 18,Scottie Barnes,Toronto Raptors,SF,13.54
 19,Jalen Duren,Detroit Pistons,C,13.11
@@ -23,11 +23,11 @@ Rank,Player,Team,Pos,Value
 22,Rudy Gobert,Minnesota Timberwolves,C,12.16
 23,Amen Thompson,Houston Rockets,SG,11.83
 24,RJ Barrett,Toronto Raptors,SF,11.72
-25,Julius Randle,Minnesota Timberwolves,PF,11.63
-26,Damian Lillard,Milwaukee Bucks,PG,11.48
-27,Jarrett Allen,Cleveland Cavaliers,C,11.47
-28,Draymond Green,Golden State Warriors,PF,11.42
-29,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,11.42
+25,Julius Randle,Minnesota Timberwolves,PF,11.61
+26,Shai Gilgeous-Alexander,Oklahoma City Thunder,PG,11.50
+27,Damian Lillard,Milwaukee Bucks,PG,11.48
+28,Jarrett Allen,Cleveland Cavaliers,C,11.47
+29,Draymond Green,Golden State Warriors,PF,11.42
 30,Miles Bridges,Charlotte Hornets,SF,11.39
 31,Desmond Bane,Memphis Grizzlies,SG,11.35
 32,Onyeka Okongwu,Atlanta Hawks,PF,11.22
@@ -36,8 +36,8 @@ Rank,Player,Team,Pos,Value
 35,Devin Booker,Phoenix Suns,SG,11.12
 36,Jimmy Butler III,Golden State Warriors,PF,11.00
 37,Chris Paul,San Antonio Spurs,PG,10.96
-38,Anthony Edwards,Minnesota Timberwolves,SG,10.76
-39,Jalen Williams,Oklahoma City Thunder,SG,10.55
+38,Anthony Edwards,Minnesota Timberwolves,SG,10.75
+39,Jalen Williams,Oklahoma City Thunder,SG,10.52
 40,Franz Wagner,Orlando Magic,SF,10.52
 41,Tyler Herro,Miami Heat,SG,10.51
 42,Jaylen Brown,Boston Celtics,SG,10.47
@@ -84,8 +84,8 @@ Rank,Player,Team,Pos,Value
 83,Scoot Henderson,Portland Trail Blazers,PG,8.08
 84,Kyle Filipowski,Utah Jazz,C,8.06
 85,Jalen Green,Houston Rockets,SG,8.03
-86,Toumani Camara,Portland Trail Blazers,PF,8.00
 86,Naz Reid,Minnesota Timberwolves,C,8.00
+86,Toumani Camara,Portland Trail Blazers,PF,8.00
 88,Mason Plumlee,Phoenix Suns,PF,7.96
 89,Christian Braun,Denver Nuggets,SG,7.95
 90,Kelly Oubre Jr.,Philadelphia 76ers,SF,7.93
